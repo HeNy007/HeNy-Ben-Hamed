@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="", Aliwix Tv Team | www.aliwix-tv.com
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1,BEIN SPORT 1 HD
 http://aliwix-t.online:80/live/aliwixhd1/bein/845.ts
 #EXTINF:-1,BEIN SPORT 2 HD
