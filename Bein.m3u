@@ -2,11 +2,9 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="", Aliwix Tv Team | www.aliwix-tv.com
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1,Bein Sports HD
-http://aliwix-t.online:80/get.php?username=aliwixhd1&password=bein&type=m3u&output=hls
+https://raw.githubusercontent.com/HeNy007/HeNy-Ben-Hamed/BEIN-HD/beinhd.m3u
 #EXTINF:-1,Bein Sports SD
-http://aliwix-t.online:80/get.php?username=aliwixsd&password=aliwix&type=simple&output=hls#EXTINF:-1,Bein Sports +1
+https://raw.githubusercontent.com/HeNy007/HeNy-Ben-Hamed/BEIN-SD/beinsd.m3u
+#EXTINF:-1,Bein Sports +1
 http://zee18.online/streamurl/playlist/bein.m3u 
-#EXTINF:-1,Bein Sports +2
-http://www.ostora-tv.com/ex_m3u8.php?id=19
-#EXTINF:-1,Bein Sports +3
-http://www.ostora-tv.com/ex_m3u8.php?id=23
+
