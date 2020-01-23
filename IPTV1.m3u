@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",WELCOME TO ALIWIX TV ** www.aliwix-tv.com**
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1,Majestic Cinema
 #EXTVLCOPT:http-user-agent=koora.max/1.1
 http://173.249.14.200:25461/Kooramaxapkrestream/020383737288273737388/28
