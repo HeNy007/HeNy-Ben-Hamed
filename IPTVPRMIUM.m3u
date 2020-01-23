@@ -2,7 +2,12 @@
 #EXTINF:-1,Majestic Cinema
 #EXTVLCOPT:http-user-agent=koora.max/1.1
 http://173.249.14.200:25461/Kooramaxapkrestream/020383737288273737388/28
-
 #EXTINF:-1,Majestic Action
 #EXTVLCOPT:http-user-agent=koora.max/1.1
 http://173.249.14.200:25461/Kooramaxapkrestream/020383737288273737388/29
+#EXTINF:-1,Netflix 1
+#EXTVLCOPT:http-user-agent=koora.max/1.1
+http://173.249.14.200:25461//kooramaxrestream/0202937373830394i38/26
+#EXTINF:-1,Netflix 2
+#EXTVLCOPT:http-user-agent=koora.max/1.1
+http://173.249.14.200:25461/Kooramaxapkrestream//kooramaxrestream/0202937373830394i38/27
