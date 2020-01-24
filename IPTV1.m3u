@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",WELCOME TO ALIWIX TV ** www.aliwix-tv.com**
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1,Majestic Cinema
-#EXTVLCOPT:http-user-agent=koora.max/1.1
-http://173.249.14.200:25461/Kooramaxapkrestream/020383737288273737388/28
-#EXTINF:-1,Majestic Action
-#EXTVLCOPT:http-user-agent=koora.max/1.1
-http://173.249.14.200:25461/Kooramaxapkrestream/020383737288273737388/29
-#EXTINF:-1,Beoutq Cinema
-#EXTVLCOPT:http-user-agent=koora.max/1.1
-http://173.249.14.200:25461/kooramaxrestream/0202937373830394i38/26
-#EXTINF:-1,Beoutq Movies
-#EXTVLCOPT:http-user-agent=koora.max/1.1
-http://173.249.14.200:25461/kooramaxrestream/0202937373830394i38/27
 #EXTINF:-1,oXn Movies Som3a
 http://mac-iptv.com:7777/LcxvyfdvdwefgewUNA1Z/YK0edKdcdfweI1rs/64430
 #EXTINF:-1,oXn Movies Puer
