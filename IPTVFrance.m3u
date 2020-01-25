@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:0,■■■FRANCE-TNT■■■■■■■■■
+http://icecast.skyrock.net/s/natio_mp3_64k?tvr_name=yourplayer&amp;tvr_section1=64
+# =================================================
+#EXTINF:0 ,TF1 HD
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:0 ,FRANCE 2
+http://84.22.33.254/unicast.france2/index.m3u8
+#EXTINF:0 ,FRANCE 3
+https://stream.ecable.tv/france3/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,CANAL+ (clair)
+http://hls-m001.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/ios-v3-hd-clair/canalplusclair-hd-audio_20000=96000-video=1500000.m3u8
+#EXTINF:0 ,FRANCE 5 
+https://stream.ecable.tv/france5/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,M6
+https://stream.ecable.tv/m6/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,ARTE
+http://panel.procaja.me/live/sup.php?z=111&u=803819108153395&s=511114015888888&id=320&t=live&f=ts
+#EXTINF:0 ,C8
+http://154.54.220.228:8810/play/a00q
+#EXTINF:0 ,W9
+http://154.54.220.228:8810/play/a00e
+#EXTINF:0 ,TMC HD
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0 ,TFX HD
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 ,LCP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:0 ,FRANCE 4
+https://stream.ecable.tv/france4/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,BFM TV
+https://bcovlive-a.akamaihd.net/ad0bc848023a4ff28030dc2b02a718ad/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:0 ,CNEWS
+https://hss-m007-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hddvr-clair.isml/manifest?token={0}
+#EXTINF:0 ,CSTAR
+http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+#EXTINF:0 ,Gulli
+http://154.54.220.228:8810/play/a00s
+#EXTINF:0 ,FRANCE O
+https://stream.ecable.tv/franceo/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,TF1 Séries Films HD
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:0 ,L'Equipe 21
+http://154.54.220.228:8810/play/a00k
+#EXTINF:0 ,6ter
+http://154.54.220.228:8810/play/a00f
+#EXTINF:0 ,RMC Story
+http://154.54.220.228:8810/play/a00l
+#EXTINF:0 ,RMC Découverte
+http://154.54.220.228:8810/play/a00m
+#EXTINF:0 ,Cherie 25
+http://154.54.220.228:8810/play/a00n
+#EXTINF:0 ,LCI HD
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:0 ,FRANCE INFO
+http://154.54.220.228:8810/play/a005
+
+######################################################
+#EXTINF:0,■■■FRANCE-TV■■■■■■■■■
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:0 ,D5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_b1928000.m3u8
+#EXTINF:0 ,MY COMEDY 
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w438568446_b1928000.m3u8
+######################################################
+#EXTINF:0 ,Disney Cinema
+http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Canal J
+http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Télétoon
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+# ================
+#EXTINF:-1,GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1,GONG Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+######################################################
+#EXTINF:0 ,TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 ,TV5 MONDE RDS
+http://edge81.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
+#EXTINF:0 ,TV5 Monde Europe
+http://84.22.33.254/unicast.tv5monde/mpegts
+#EXTINF:0 ,TV5 Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:0 ,TV5 Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:0 ,TV5 Monde Asie
+http://210.210.155.35/qwr9ew/s/s24/index.m3u8
+#EXTINF:0 ,TV5 Monde Brasil
+http://mj1b2xsspj.singularcdn.net.br/encompass/TV5Monde/master_Layer4.m3u8
+#EXTINF:0 ,TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+######################################################
+#EXTINF:0 ,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 ,BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:0 ,EURONEWS FRANCE
+http://188.35.9.5:10020/stolen/510i/hot.dll
+#EXTINF:0 ,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221146/F24_FR_HI_HLS/master_2000.m3u8
+#EXTINF:0 ,RT FRANCE
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
+#EXTINF:-1 ,CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 ,RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+######################################################
+#EXTINF:0 ,ALSACE 20 
+http://live.alsace20.fr/live/alsace20/alsace20/playlist.m3u8
+#EXTINF:-1,La Chaine Normande 
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 ,viàVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1,Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1,Grand Littoral TV
+http://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_b1464000.m3u8
+#EXTINF:-1 ,TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 ,TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
