@@ -1,54 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",WELCOME TO ALIWIX TV ** www.aliwix-tv.com**
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1,NETFLIX THRILLER FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1142.m3u8
-#EXTINF:-1,NETFLIX SERIES FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1141.m3u8
-#EXTINF:-1,NETFLIX Series 3
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1147.m3u8
-#EXTINF:-1,NETFLIX Series 2
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1146.m3u8
-#EXTINF:-1,NETFLIX Series 1
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1145.m3u8
-#EXTINF:-1,NETFLIX Series 0
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1144.m3u8
-#EXTINF:-1,NETFLIX Series
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1143.m3u8
-#EXTINF:-1,Netflix SCF FI
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1156.m3u8
-#EXTINF:-1,NETFLIX MOVIES FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1140.m3u8
-#EXTINF:-1,NETFLIX KIDS FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1139.m3u8
-#EXTINF:-1,Netflix Kids
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1155.m3u8
-#EXTINF:-1,NETFLIX HORROR FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1138.m3u8
-#EXTINF:-1,Netflix Horror
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1153.m3u8
-#EXTINF:-1,NETFLIX DRAMA FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1137.m3u8
-#EXTINF:-1,NETFLIX COMEDY FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1136.m3u8
-#EXTINF:-1,Netflix Comedy
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1154.m3u8
-#EXTINF:-1,NETFLIX Christmas
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1158.m3u8
-#EXTINF:-1,NETFLIX BOX OFFICE FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1134.m3u8
-#EXTINF:-1,NETFLIX BOX OFFICE
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1157.m3u8
-#EXTINF:-1,NETFLIX BOLLYOOD FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1133.m3u8
-#EXTINF:-1,NETFLIX ARABIC
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1131.m3u8
-#EXTINF:-1,NETFLIX ACTION FHD
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1132.m3u8
-#EXTINF:-1,NETFLIX  Discovery
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1130.m3u8
-#EXTINF:-1,NETFLIX  ACTION
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/1152.m3u8
 #EXTINF:-1,N SCF FI
 http://aliwix-t.online:80/live/aliwix-netflix/aliwix/995.m3u8
 #EXTINF:-1,N KIDS
@@ -57,7 +9,5 @@ http://aliwix-t.online:80/live/aliwix-netflix/aliwix/994.m3u8
 http://aliwix-t.online:80/live/aliwix-netflix/aliwix/992.m3u8
 #EXTINF:-1,N COMEDY
 http://aliwix-t.online:80/live/aliwix-netflix/aliwix/993.m3u8
-#EXTINF:-1,N BOX OFFICE
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/996.m3u8
 #EXTINF:-1,N ACTION
 http://aliwix-t.online:80/live/aliwix-netflix/aliwix/991.m3u8
