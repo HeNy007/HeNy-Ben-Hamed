@@ -1,16 +1,100 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",WELCOME TO ALIWIX TV ** www.aliwix-tv.com**
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1,N SCF FI
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/995.m3u8
-#EXTINF:-1,N KIDS
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/994.m3u8
-#EXTINF:-1,N HORROR
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/992.m3u8
-#EXTINF:-1,N COMEDY
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/993.m3u8
-#EXTINF:-1,N ACTION
-http://aliwix-t.online:80/live/aliwix-netflix/aliwix/991.m3u8
+#EXTINF:-1,AR| NETFLIX مسلسلات 1
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118659
+#EXTINF:-1,AR| NETFLIX مسلسلات 2
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118660
+#EXTINF:-1,AR| NETFLIX مسلسلات 3
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118661
+#EXTINF:-1,AR| NETFLIX مسلسلات 4
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118662
+#EXTINF:-1,AR| NETFLIX مسلسلات 5
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/131531
+#EXTINF:-1,AR| NETFLIX مسلسلات 6
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/128372
+#EXTINF:-1,AR| NETFLIX مسلسلات 7
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/131532
+#EXTINF:-1,AR| NETFLIX مسلسلات 8
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/131534
+#EXTINF:-1,AR| NETFLIX مسلسلات 9
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/131573
+#EXTINF:-1,AR| NETFLIX مسلسلات 10
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/133101
+#EXTINF:-1,AR| NETFLIX مسلسلات 11
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/133102
+#EXTINF:-1,AR| NETFLIX مسلسلات 12
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/133103
+#EXTINF:-1,AR|  NETFLIX مسلسلات 13
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/133104
+#EXTINF:-1,AR| NETFLIX مسلسلات 14
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/134974
+#EXTINF:-1,AR| NETFLIX مسلسلات 15
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/134975
+#EXTINF:-1,AR| NETFLIX مسلسلات 16
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/134976
+#EXTINF:-1,AR| NETFLIX مسلسلات 17
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/134977
+#EXTINF:-1,AR| NETFLIX عربي
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118657
+#EXTINF:-1,AR| NETFLIX مسرحيات
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118658
+#EXTINF:-1,AR| NETFLIX ACTION
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118664
+#EXTINF:-1,AR| NETFLIX  Discovery
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118663
+#EXTINF:-1,AR| NETFLIX BOLLYOOD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118665
+#EXTINF:-1,AR| NETFLIX BOX OFFICE
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118666
+#EXTINF:-1,AR| NETFLIX CLASSICS
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118667
+#EXTINF:-1,AR| NETFLIX COMEDY
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118668
+#EXTINF:-1,AR| NETFLIX DRAMA
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118669
+#EXTINF:-1,AR| NETFLIX HORROR
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118670
+#EXTINF:-1,AR| NETFLIX KIDS
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118671
+#EXTINF:-1,AR| NETFLIX MOVIES
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118672
+#EXTINF:-1,AR| NETFLIX SERIES
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118673
+#EXTINF:-1,AR| NETFLIX THRILLER
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/118674
+#EXTINF:-1,AR| TOM AND JERRY
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/131533
+#EXTINF:-1,AR| MR BEAN KIDS 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/135871
+#EXTINF:-1,AR| SASOKI KIDS 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/135963
+#EXTINF:-1,AR| OMAR & HANA KIDS 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/145924
+#EXTINF:-1,AR| GHAWAAR 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111233
+#EXTINF:-1,AR| GHAWAAR 2 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/136722
+#EXTINF:-1,AR| GHAWAAR 3 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/136723
+#EXTINF:-1,AR| FAYROUZ CHANNEL 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111234
+#EXTINF:-1,AR| KAZEM EL SAHER CHANNEL 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111235
+#EXTINF:-1,AR| MUSIC 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111238
+#EXTINF:-1,AR| MUSIC 2 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/134978
+#EXTINF:-1,AR| QURAN 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111232
+#EXTINF:-1,AR| ISLAM CHANNEL
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/145944
+#EXTINF:-1,AR| TARAB 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111237
+#EXTINF:-1,AR| WASSOUF CHANNEL 1 HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/111236
+#EXTINF:-1,AR| RAGEB ALAME HD
+http://line.protv.cc:8000/VFS56PecA4/Z119vkc4Am/126282
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",Fox Family
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX Movies HD 
