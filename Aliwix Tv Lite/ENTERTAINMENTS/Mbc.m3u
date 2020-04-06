@@ -26,7 +26,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="UAE",MBC 5
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+http://185.59.222.90:8080/VFS56PecA4/Z119vkc4Am/90929?token=TkBaBUdbFV8QVFQKVw0CBlVcVQ4FU1cAVQMCVAEHAVQFAQtRAgVUBAUSShoVQEFRUFQ8XwIUCVhVDFRcHhFEElAQbQ1QEQ1HAwJfD1MCERgTTQpbAxQJUFANUFQBBQJRA04QFF1XFV8QA1QLUAIKFh0bBk4SU0EPBFk5AVdFWAJQQAgKQV9bSRBfCGcCUV5VX11BDEQGEU1HXBUVEAkTNUAMWxddUhcxV1wDWwlZE3hlfD8ZVXETIhBGEgpfVkMSFTJdC1gRG0dQWRJKB0BWFgsbUQVSABFNR1YJEFxHQxgXWBAwehEbR1dIEl0IR1pbXxtZFBJFEU1HXBU6QFZCFUcHUwlRQRVfEABEFERZUkxuWgxYCFNQFQxaCBYQCRNTF04QCVtdXhFdQjlID1ARDhMKWgBeDwBDGA==
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (SD)
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
@@ -51,3 +51,9 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (HD)
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://gulf365.co/content/uploads/2019/09/05/4399419d28.jpg" group-title="UAE",MBC IRAQ HD
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/23/d0/46/23d0463fcd6eac248b698cbeea40d9da.png" group-title="UAE",MBC MASR
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8?sd=10&rebase=on
