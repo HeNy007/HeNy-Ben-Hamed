@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="", ☠ WELCOME TO ALIWIX TV LITE ☠
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="UAE",MBC 2 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="UAE",MBC 2 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",MBC 3 (SD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",MBC 3 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="UAE",MBC 5
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sbmrwcC.png" group-title="UAE",MBC Bollywood HD
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sbmrwcC.png" group-title="UAE",MBC Bollywood SD
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="UAE",MBC Drama (SD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="UAE",MBC Drama (HD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
