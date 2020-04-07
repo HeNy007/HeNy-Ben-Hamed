@@ -13,8 +13,9 @@ http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia1.png" group-title="Tunisia ",[color blue]Wataniya1[/color]
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia1.png" group-title="Tunisia ",[color yellow]Wataniya1[/color]
 http://195.154.136.160:8080/hls/t1.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia1.png" group-title="Tunisia ",Wataniya1-1-bkp
