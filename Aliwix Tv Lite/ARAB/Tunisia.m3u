@@ -1,7 +1,7 @@
 #EXTINF:-1, tvg-logo="https://onlinetvappvideo.files.wordpress.com/2019/12/1575365699387-602738999.png",تطبيق [color red]ONLINE TV V5[/color] لمشاهدة القنوات و الأفلام
 https://onlinetvappvideo.files.wordpress.com/2019/08/540_30_5.02_aug312019.mp4
 
-#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
+#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",[color yellow]Nessma[/color]
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
@@ -10,19 +10,19 @@ http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia1.png" group-title="Tunisia ",Wataniya1 1
-http://marsok-001-site1.etempurl.com/tele/telex.php?ch=10045.m3u8
+http://195.154.136.160:8080/hls/t1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia1.png" group-title="Tunisia ",Wataniya1-1-bkp
 http://54.36.122.126/tunisie1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tv_tunisia2.png" group-title="Tunisia ",Wataniya 2
-http://marsok-001-site1.etempurl.com/tele/telex.php?ch=10046.m3u8
+http://195.154.136.160:8080/hls/t2.m3u8
 #EXTINF:-1, tvg-logo="https://www.realites.com.tn/wp-content/uploads/2018/02/wataniya-2.png" group-title="Tunisia ",Wataniya2 HD
 http://marsok-001-site1.etempurl.com/planet/planet.php?ch=t2|Referer=iptv-planet.com
-#EXTINF:-1, tvg-id="" tvg-name="Nessma TV" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/nessma_tv_tn.png" group-title="Tunisia ",Nessma TV
-http://marsok-001-site1.etempurl.com/tele/telex.php?ch=10047.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/nessma_tv_tn.png" group-title="Tunisia ",Attesia TV
+ttp://195.154.77.84:8080/hls/attesiatv.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/elhiwar_ettounsi_tv_tn.png" group-title="Tunisia ",Elhiwar Ettounsi TVbkp
-http://marsok-001-site1.etempurl.com/tele/telex.php?ch=10048.m3u8
+http://195.154.136.160:8080/hls/at.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/al_janoubiya_tv_tn.png" group-title="Tunisia ",Al Janoubiya
-http://92.222.93.75:1935/live/samir/index.m3u8
+http://92.222.93.75:1935/live/samir/playlist.m3u8?v=1409082316 
 #EXTINF:-1, tvg-id="" tvg-name="Tunisna TV" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/tunisna_tv.png" group-title="Tunisia ",Tunisna TV
 http://marsok-001-site1.etempurl.com/tele/telex.php?ch=10053.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="M Tunisia" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/m_tunisia_tn.png" group-title="Tunisia ",M Tunisia
