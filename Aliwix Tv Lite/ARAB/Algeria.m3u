@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="Canal Algerie ARB" tvg-name="Canal Algerie ARB" tvg-language="English" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="",Canal Algérie
+http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/EnnaharTV.png" group-title="algeria",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Echourouk_TV_HD_logo.jpg/240px-Echourouk_TV_HD_logo.jpg" group-title="algeria",Echorouk TV
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/CH4lq6JWEAA75vs.png" group-title="algeria",Echorouk News
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/news.php
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Echorouk_plus_logo.jpg" group-title="algeria",Echorouk-plus
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukBenna/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/benna.php
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://www13.0zz0.com/2015/04/17/18/375969773.jpg" group-title="algeria",algeria 3
+http://marsok-001-site1.etempurl.com/tele/tele.php?ch=10226.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/1200px-Samira_TV_logo.svg.png" group-title="algeria",samira
+http://marsok-001-site1.etempurl.com/tele/tele.php?ch=10229.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png" group-title="algeria",EL DJAZAIRIA
+http://marsok-001-site1.etempurl.com/tele/tele.php?ch=10230.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://bourse-dz.com/wp-content/uploads/2018/01/entv.jpg" group-title="algeria",Tamazight
+http://marsok-001-site1.etempurl.com/tele/tele.php?ch=10241.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Al_Magharibia.png/280px-Al_Magharibia.png" group-title="algeria",Magharibia 1 bkp
+http://marsok-001-site1.etempurl.com/ma/almagharbia.php
