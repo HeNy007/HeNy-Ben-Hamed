@@ -1,1 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="", ☠☠ WELCOME TO ALIWIX TV ☠☠
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://filmschoolrejects.com/wp-content/uploads/2018/01/hbo-logo.jpg" group-title="HBO",HBO
+https://www.streamer2mytv.com/cache/HBO/master.m3u8 
 
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="HBO",HBO2
+https://www.streamer2mytv.com/cache/HBO-2/master.m3u8
+
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/PIUxgrY0KQQbS8uOPtrcui3yDkbokJCRA6ci-8nIunTsKmoOjERoidA9JHMZMhfcCr11-SNOvdRdXsnfaPG4yodSMmmWW-l69OLVcFlpqBwx" group-title="HBO",HBO3
+https://www.streamer2mytv.com/cache/HBO-3/master.m3u8
