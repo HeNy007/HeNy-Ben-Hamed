@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/Logo_Header.png" group-title="فلسطين",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.pbc.ps/sites/all/themes/pbctheme/img/rrr.png" group-title="فلسطين",Palestinian Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo.png" group-title="فلسطين",Al Aqsa
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo.png" group-title="فلسطين",Al Quds
+http://82.212.74.99:8000/live/hls/8170.m3u8
+#EXTINF:-1 tvg-logo="https://www.alfalstiniah.tv/live/images/logo_slogan.png" group-title="فلسطين",Audeh
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:-1 tvg-logo="http://nw-24.com/wp-content/uploads/Ajyal-TV.nw-24.com_.jpg" group-title="فلسطين",Ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" group-title="فلسطين",Falastini TV
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.amad.ps/resize?photo=upload/ar/images/13_1495915121_7119.png" group-title="فلسطين",Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://musawachannel.com/sites/all/themes/musawa/images/logo.png" group-title="فلسطين",Musawa
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 tvg-logo="https://nbc.najah.edu/static/images/nbc_logo.png" group-title="فلسطين",Najah Broadcasting Channel
+http://htvpalsat.mada.ps:8888/najah/index.m3u8
+#EXTINF:-1 tvg-logo="http://paltoday.tv/style/assets/images/logo.png" group-title="فلسطين",Palestine Today
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://www.amad.ps/resize?photo=upload/ar/images/13_1495915121_7119.png" group-title="فلسطين",Marah FM
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="فلسطين",Wattan
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
