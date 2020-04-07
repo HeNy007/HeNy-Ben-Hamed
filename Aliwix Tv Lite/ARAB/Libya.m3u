@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.218tv.net/wp-content/uploads/2017/10/main-logo.png" group-title="ليبيا‎",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://en.218tv.net/wp-content/uploads/2018/10/218news-logo-.png" group-title="ليبيا‎",Libya 218 News
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://libyaschannel.com/wp-content/uploads/2016/07/logo.png" group-title="ليبيا‎",Libya's Channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+
+#EXTINF:-1 tvg-logo="https://tanasuh.tv/wp-content/uploads/2018/01/Website-LOGO-01.png" group-title="ليبيا‎",Al Tanasuh Libya
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/images/libyaalhadath.jpg" group-title="ليبيا‎",Al Hadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+#EXTINF:-1 tvg-logo="http://www.libyaelwatan.net/wp-content/uploads/2019/11/logo-site.png" group-title="ليبيا‎",El Watan 
+http://streaming.i-sat.tv:8081/live/libyawatan_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Libya-Future-TV-webtvonlive-com.jpg" group-title="ليبيا‎",Libya Future
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216893369940676608/3uNY8_Bh_400x400.jpg" group-title="ليبيا‎",Libya Alaan
+http://82.212.74.5:8000/live/7727.m3u8
+#EXTINF:-1 tvg-logo="http://jascotvstreaming.com/uploads/topics/15575593798401.jpg group-title="ليبيا‎",Libyan
+http://82.212.74.2:8000/live/7321.m3u8
