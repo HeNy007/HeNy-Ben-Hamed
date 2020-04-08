@@ -12,3 +12,13 @@ https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.paselino.de/wp-content/uploads/2017/01/02_bl_logo_4c_com_partnersky_1c_dt_qf.jpg" group-title="Football",Sky Bundesliga
+http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-2-logo-700x467.png" group-title="Football",Sky 2 Bundesliga Livestream
+http://78.35.117.2:10003/hdmi
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" group-title="Football",Sky Sports EPL
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="Football",Sky Sports Main Event
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
