@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1,•●★-----|KIDS SAT|-----★●•"
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="USA",duck hd
+http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=duck
+#EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="USA",duck 
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",mbc 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",mbc 3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/20536_babytv.jpg",BABY CHANNEL
+http://185.132.179.49:8000/live/fhd2231nb4/f1aCdtLb9L/625.ts
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/74511_mickeytv.jpg",mickey
+http://78.193.122.129:9981/play/a05a
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/16251_cartoonnetworkpakistani.jpg",CN Arabica SD
+http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/16251_cartoonnetworkpakistani.jpg",CN Arabica HD
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/86603_disneyinternational.jpg",Disney channel
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/47631_boomrang.jpg",BOOMERANG
+http://95.170.215.118/hls/m3u8/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/45409_gillifr.jpg",Gillu AR
+http://95.170.215.118/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DAI6ui.png",Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg",Majid HD
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg",Majid SD
+http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm5PJgl.png" group-title="JORDAN",Toyor Al Janah
+http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sa64XXJ.png" group-title="JORDAN",Toyor Baby
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4X5Jej.png" group-title="PALESTINE",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/99535_jeemtv.jpg",JEEM TV
+http://95.170.215.120:80/hls/m3u8/jeem.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="UAE",spacetoon HD
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="UAE",spacetoon SD
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,ktv atfal
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
