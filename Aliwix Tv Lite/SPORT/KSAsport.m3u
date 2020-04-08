@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://arriyadiyah.com/v2/assets/img/new-logo2.png" group-title="رياضات",KSA Sports
+http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:-1 tvg-logo="https://arriyadiyah.com/v2/assets/img/new-logo2.png" group-title="رياضات",KSA Sports 2
+http://95.170.215.107/hls/m3u8/KSA-Sport2-Bakup.m3u8
