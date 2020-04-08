@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="Learning",Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="Learning",BBC Earth
+https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
+http://61.58.60.230:9319/live/221.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="Learning",Discovery Asia
+http://111.13.111.192/125.227.198.89:8028
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="Learning",Discovery History
+http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Learning",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="http://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Learning",English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="Learning",History Europe
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning",National Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="Learning",National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
