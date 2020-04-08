@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 ch-id="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Horse Racing",Dubai Racing 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ch-id="13.ts" tvg-logo="http://static.iptv-epg.com/ae/DubaiRacing2.ae.png" group-title="Horse Racing",Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/RacingCom.au.png" group-title="Horse Racing",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/SKYRacing.au.png" group-title="Horse Racing",Sky 1 Racing(Aus VPN)
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/SKYRacing.au.png" group-title="Horse Racing",Sky 2 Racing(Aus VPN)
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/SKYTbredCent.au.png" group-title="Horse Racing",Throughbred Central(Aus VPN)
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="Horse Racing",Racing UK
+http://160.119.77.50/iptv/uk-racing.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sdata.attheraces.com/live-resources/1.51.2/img/branding/sky-sports-racing.png" group-title="Horse Racing",Sky Sports Racing
+http://160.119.77.50/iptv/uk-attheraces.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://a3.att.hudong.com/58/81/50200009239445156008813088832_s.jpg" group-title="Horse Racing",澳門衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/tr/TJKTV.tr.png" group-title="Horse Racing",TJK
+https://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="Horse Racing",有線603台
+http://hzyhjg.cc/cs/gat/yx603.php
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="Horse Racing",有線18台
+rtmp://59.124.75.156/sat/hk041
+#EXTINF:-1 tvg-logo="http://www.utvhk.com/themes/utv/img/general_module/logo.png" group-title="Horse Racing",UTV 賽馬直擊
+https://icable.cdn.utvhk.com/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hk/NowSportsPrime.hk.png" group-title="Horse Racing",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
+#EXTINF:-1 tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Horse Racing",Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
