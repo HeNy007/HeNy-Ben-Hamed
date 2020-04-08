@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="Motor Sports",Sky Sports F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="Motor Sports",Discovery Turbo
+http://160.119.77.50/iptv/uk-discoveryturbo.stream/playlist.m3u8
