@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TSN 1 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TSN 2 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TSN 3 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TSN 4 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TSN 5 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://1.bp.blogspot.com/-IWOVwrhzPR0/VkV93BlEnwI/AAAAAAAAAEA/U0baGaKR4bY/s1600/tsn_logo.jpg" group-title="Sport", CA| TVA SPORTS
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET 360
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET EAST
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET ONE
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET ONTARIO
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET PACIFIC
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET WEST
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ca" tvg-logo="" tvg-country="fr" tvg-url="https://image.winudf.com/v2/image1/Y29tLnJvZ2Vycy5zcG9ydHNuZXQuc3BvcnRzbmV0X2ljb25fMTU1MzYxNTEzMF8wODM/icon.png?w=170&fakeurl=1" group-title="Sport", CA| SPORTSNET WORLD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/20498

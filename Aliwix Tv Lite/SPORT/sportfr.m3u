@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/39203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", 
+#EXTINF:-1,|FR| EUROSPORT 1
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15172
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9281
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9549
+#EXTINF:-1,|FR| EUROSPORT 1 FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51105
+#EXTINF:-1,|FR| EUROSPORT 2
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9279
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9280
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9548
+#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51106
+#EXTINF:-1,|FR| INFOSPORT
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9265
+#EXTINF:-1,|FR| INFOSPORT HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15156
+#EXTINF:-1,|FR| INFOSPORT FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9534
+#EXTINF:-1,|FR| FOOT+ 24/24
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/32819
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51104
+#EXTINF:-1,|FR| LEQUIPE 21
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9264
+#EXTINF:-1,|FR| LEQUIPE 21 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15155
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9533
+#EXTINF:-1,|FR| MOTORSPORT TV
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15147
+#EXTINF:-1,|FR| MOTORSPORT TV FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9526
+#EXTINF:-1,|FR| GOLF+
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9270
+#EXTINF:-1,|FR| GOLF+ HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15161
+#EXTINF:-1,|FR| GOLF+ FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9540
+#EXTINF:-1,|FR| GOLF CHANNEL
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9378
+#EXTINF:-1,|FR| GOLF CHANNEL HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15162
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9539
+#EXTINF:-1,|FR| EQUIDIA LIVE
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9282
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15173
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9550
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15227
+#EXTINF:-1,|FR| AB MOTEUR
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9359
+#EXTINF:-1,|FR| AUTOMOTO LA CHAINE FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/62915
+#EXTINF:-1,|FR| EXTREME SPORTS FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/62916

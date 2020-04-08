@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ee/Logo_RMC_Sport_News_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT INFO
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT 1 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT 2 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT 3 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT 4 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 4 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148444
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 5 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 6 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 7 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 8 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 9 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 10 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 11 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 12 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 13 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 14 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 15 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT LIVE 16 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT ACCESS 1
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT ACCESS 2
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" tvg-country="Fr" tvg-url="" group-title="Sport", FRN| RMC SPORT ACCESS 3
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148459
