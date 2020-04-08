@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sports",Eurosport 1
+https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="Sports",Eurosport 2
+https://cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8
