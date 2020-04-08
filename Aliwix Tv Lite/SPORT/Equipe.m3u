@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.liveonlinetv247.com/images/lfctv.png" group-title="Football",Liverpool TV
+http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="Football",Chelsea TV
+http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png" group-title="Football",Man U TV
+http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football",Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
