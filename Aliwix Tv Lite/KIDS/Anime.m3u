@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",•●★-----|ALIWIX TV ANIME|-----★●•
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 1)
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 2)
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 1)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 2)
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 3)
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 1)
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 2)
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 1)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 2)
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 3)
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxhUqVpo00XIJ5iox8ofbqm0O-Kro5qfREEG6Krw10_zw7gGD9" group-title="KIDS CHANNEL",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 1)
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Animax (Link 2)
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 1)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 2)
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ibb.co/p3hpCyF/kids.png" group-title="KIDS",Aniplus Indo (Link 3)
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS CHANNEL",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS CHANNEL",Aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/dztnc_Wsuy8/maxresdefault.jpg" group-title="KIDS CHANNEL",ANIMAX
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-raOfRgsXZT7oOYxFllG15-ZcoEDCeQ_eM052aROHzDwh9qZU"group-title="KIDS CHANNEL",Kurokoai Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqNAuYEtH1bocPiCtvcnDzIS67pQOtj1F-RvOPP79-63tXMIV" group-title="KIDS CHANNEL", DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcWFjgqQPgMf9QmzkJnXJBuIMpDWfQMTMaJV7mwuMLlRlrIQLt" group-title="KIDS CHANNEL", DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6RKVYziFVrkjzX8vCmm9RUpT_hxm7tNRcZVx2e5t6tpx4nR8m" group-title="KIDS CHANNEL",Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="KIDS CHANNEL",Captain Stubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-0QbwU_pnZvfXmzjGziziVYqEtgzq0uLW40LFpPp5c_CP8W2" group-title="KIDS CHANNEL",DETECTIFE CONAN 1 TV
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRcpxjgYQy8hCdcTtrhjKekl9A3XlXlVZJ7EqeorXVJ1wTv1S7" group-title="KIDS CHANNEL",DETECTIFE CONAN 2 TV
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMaVEQyf4zZJdkOj2ft61g438KXqcI_Nv8Cmmk37I9K-azdHIg" group-title="KIDS CHANNEL",DETECTIFE CONAN 3 TV
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK9L796tvhaFUJz1jr9_HatWJyluE_DQh6cH8cMRkuzT0_g5wN" group-title="KIDS CHANNEL",DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjauqNv1_JTtt62fuMHpMkeYLqqS3eRWOeHVvL4T9PWAOa7wQQ" group-title="KIDS CHANNEL",DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0OEtUnN-gRkqMJpmh-ZT7mmwxl6gqjD97yB9GZaa02jTrBXpC" group-title="KIDS CHANNEL",HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD98VKg11wqpshxiFOSCVZ4h6IvW7H_1-qT5sdcit8JrFSh4Ek" group-title="KIDS CHANNEL",INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCO6Co25pno__W5dyn5AxGnHyPWiUrst4E6P1w01e5kloBAbMR" group-title="KIDS CHANNEL", TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="KIDS CHANNEL", ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="KIDS CHANNEL", ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
