@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport", Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain Sport 2 ARB" tvg-name="Bahrain Sport 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Jordan Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Jordan Sport TV
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-country="KW" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Nile Sports
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Sport",ON Sport
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/09/frequence-El-Heddaf-TV.jpg?ssl=1" group-title="Sport",  AR| EL HEDDAF TV
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/12/dmc-sport-frequence-nilesat.jpg?fit=318%2C159&ssl=1" group-title="Sport",  AR| DMC SPORTS
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/7749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/12/dmc-sport-frequence-nilesat.jpg?fit=318%2C159&ssl=1" group-title="Sport",  AR| DMC SPORT FHD 4K
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://www.watania.net/storage/698x433/uploads/uploadCenter/2019/09/1567675500WeyXJ.jpg" group-title="Sport",  AR| IRAQIA SPORT
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/8116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://1.bp.blogspot.com/-rE69X3E8wH4/XYVItgfjLYI/AAAAAAAAGQY/biAdAib3T8MBr7SD9s518qDsT_mvqLqNACLcBGAsYHQ/s200/oman%2Bsport%2Btv.jpg" group-title="Sport",  AR| OMAN SPORT HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/112103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://3.bp.blogspot.com/-hRscXhoZCXs/VsEHzoCX13I/AAAAAAAAAXk/XGjN-hVn7PA/s1600/24sport.jpg" group-title="Sport",  AR| SAUDI 24 SPORT
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/8184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="https://pbs.twimg.com/profile_images/1065569299966902272/S0Jb1Z8y_400x400.jpg" group-title="Sport",  AR| SUDAN SPORT
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/23615
