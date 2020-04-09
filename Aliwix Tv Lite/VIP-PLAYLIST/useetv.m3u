@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Yusee", Trans7
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1099233607_b1344100_sleng.m3u8?enc=qPnEOTA-tJmVTmC6b1KDcg&exp=1585032840
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="Yusee", Trans TV
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1250683334_b1344100_sleng.m3u8?enc=zbJhT6abmByr8_3_25Jzbw&exp=1585035932
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="Yusee", ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1163537574_b894100_sleng.m3u8?enc=HFxOjfT9OP01laaFdPjLfQ&exp=1585035975
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Yusee", NET
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w791843038_b1344100_sleng.m3u8?enc=1FtW7OZIHAQxXuw_8eJKqg&exp=1585035978
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Yusee", RTV
+https://cdnmdc2.useetv.com/joss/14/rtv/chunklist_w421463198_b684100_sleng.m3u8?enc=WtQnJikR0SxqwmyeyERiwQ&exp=1585035981
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="Yusee", TV ONE
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1412137742_b894100_sleng.m3u8?enc=p1duDgbiJvSy3-xVcLjnHg&exp=1585036030
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Yusee", Kompas TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1257124681_b894100_sleng.m3u8?enc=10U8IX_uaYRyrOZSCmKAkA&exp=1585036077
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Yusee", Berita Satu
+https://cdnbdsa1.useetv.com/joss/14/beritasatu/chunklist_w2028330381_b684100_sleng.m3u8?enc=P8ZrcUcwKA9knuCIvfexHg&exp=1585036082
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="Yusee", Metro TV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1818374841_b1344100_sleng.m3u8?enc=zcPnXDhnwGBmierHpMwulg&exp=1585036112
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Yusee", Usee Sport
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w242541523_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Yusee", Usee Sport 2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w2014389493_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Yusee", Champions TV 1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w330621665_b1344100_sleng.m3u8?enc=QI2dLfo8zX5MG3IvbnBH2A&exp=1585035816
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Yusee", Champions TV 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1116465945_b1344100_sleng.m3u8?enc=8oSV5x_kfhXlv4T3dE1Exg&exp=1585035817
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Yusee", Golf Channel
+https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w1132599279_b1344100_sleng.m3u8?enc=N8op0A7ST5A-B6K6lyJ62w&exp=1585035871
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Yusee", Bein Sports 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w669242523_b1344100_sleng.m3u8?enc=VLiL-w0-mE1iJzNH5-F5iA&exp=1585035864
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Yusee", Bein Sports 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1869773985_b1344100_sleng.m3u8?enc=Go5HJgcYYy7XiFMl35xpaA&exp=1585035865
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="Yusee", Indosiar
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w688558448_b894100_sleng.m3u8?enc=gM1mT0mEsqMac4w3yQjZPA&exp=1585036143
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Yusee", SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1586791330_b1344100_sleng.m3u8?enc=1myAHl3Z_WwyHFavzBYGFA&exp=1585036153
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="Yusee", JTV
+https://cdnbdsa1.useetv.com/joss/14/jtv/chunklist_w1906413686_b684100_sleng.m3u8?enc=KjKULlb3Y8wyf7BeCaDbZw&exp=1585033511
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="Yusee", Usee Prime
+https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w229022941_b894100_sleng.m3u8?enc=PlDNyYTAjLg1Y4P1piPoLg&exp=1585036208
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="Yusee", Citra Drama
+https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w1217717099_b684100_sleng.m3u8?enc=3H1SDL0oFhD8sWjTIQTnnQ&exp=1585036347
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="Yusee", Citra Dangdut
+https://cdnbal1.useetv.com/joss/14/citradangdut/chunklist_w730844202_b684100_sleng.m3u8?enc=1a0V-KUsccMiQKoEQ0AOEg&exp=1585036331
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Yusee", Dunia Lain
+https://cdnbpp1.useetv.com/joss/14/dunialain/chunklist_w2078303418_b684100_sleng.m3u8?enc=PYBi91-tLvHdkHetRGqAvw&exp=1585034771
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Yusee", Horee
+https://cdnbdsa1.useetv.com/joss/14/horee/chunklist_w679258714_b684100_sleng.m3u8?enc=21AB8yS3-if5O4L6FGFPag&exp=1585034810
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_small1.png?v=2.0.0.13" group-title="Yusee", T Music
+https://cdnmdc2.useetv.com/joss/14/tmusic/chunklist_w415791887_b684100_sleng.m3u8?enc=z-AS86sxwZL5SjjL3ij1Jg&exp=1585034877
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Yusee", Cartoon Network
+https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1726484754_b684100_sleng.m3u8?enc=koLXxtmZqL-bzpd6ZsFxVQ&exp=1585034918
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="Yusee", KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w428965795_b1344100_sleng.m3u8?enc=A20dSmaMxXB7UJepNoR4Uw&exp=1585034956
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Yusee", ANIMAX
+https://cdnkbl2.useetv.com/joss/14/animax/chunklist_w1309537625_b684100_sleng.m3u8?enc=MxXoXBzW9vqIAVBzDiAtvg&exp=1585034987
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Yusee", Ruang Trampil
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w1166978712_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Yusee", Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1655571515_b1344100_sleng.m3u8?enc=aHjSsK2zUt2zCnO6KH3zLA&exp=1585035051
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Yusee", Warner TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w622054963_b1344100_sleng.m3u8?enc=QowQrS-n4V58sKUYbUZEyA&exp=1584687332
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Yusee", Chinese Drama
+https://cdnmdc2.useetv.com/joss/14/chinesedrama/chunklist_w1248984120_b684100_sleng.m3u8?enc=qMsHBN8ymqAcoVB589Zfuw&exp=1585035408
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Yusee", Zee Bioskop
+https://cdnmdc1.useetv.com/joss/14/zbioskop/chunklist_w2039768012_b684100_sleng.m3u8?enc=RzLVhXNPSEYElA8kkzqlGQ&exp=1585035186
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Yusee", Thrill
+https://cdnbpp1.useetv.com/joss/14/thrill/chunklist_w94032981_b684100_sleng.m3u8?enc=2QMsbW6KFEKujv88KrU35g&exp=1585035233
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Yusee", Nick
+https://cdnkbl1.useetv.com/joss/14/nickelodeon/chunklist_w690447958_b684100_sleng.m3u8?enc=Xcv1ASQDCLqpf83AxudCQA&exp=1585035274
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Yusee", Flik
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1430105527_b1344100_sleng.m3u8?enc=ok-L-uSiveC_4AzyFZqNBw&exp=1585035316
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Yusee", Galaxy
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1091552197_b894100_sleng.m3u8?enc=0i4DIyu2kRXyUQU8ROsPkw&exp=1585035366
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Yusee", Blue Ant Entertainment
+https://cdnkbl1.useetv.com/joss/14/blueant/chunklist_w1269247335_b684100_sleng.m3u8?enc=QeqQWaY5gCQNoofOMbIShA&exp=1585035431
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Yusee", Blue Ant Extreme
+https://cdnmdc2.useetv.com/joss/14/blueantextreme/chunklist_w1334066180_b684100_sleng.m3u8?enc=VZ4OHd5loiElCv0xkpLGdQ&exp=1585035470
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Yusee", Bioskop Indonesia
+https://cdnbdsa1.useetv.com/joss/14/bioskopindonesia/chunklist_w176710715_b684100_sleng.m3u8?enc=vUZ-VJ0qXZrH4e1OnAhqLA&exp=1585035499
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Yusee", TVN Movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w569817160_b1344100_sleng.m3u8?enc=od8PYBgTn297AfYBAiSDFA&exp=1585035580
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Yusee", Celestial Movies
+https://cdnbdsa1.useetv.com/joss/14/celestialmovie/chunklist_w2109839482_b684100_sleng.m3u8?enc=Yu53TFp6UWcmIKcA2A2P2w&exp=1585035585
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Yusee", Cinema World
+https://cdnkbl2.useetv.com/joss/14/cinemaworld/chunklist_w1453954900_b684100_sleng.m3u8?enc=0NYz0xlni0N7sduE31HS3A&exp=1585035672
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Yusee", AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w254511711_b1344100_sleng.m3u8?enc=2ieeMdvbtjSb4xGvzHV-Tg&exp=1585035687
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Yusee", Nat Geo Wild
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w946001223_b1344100_sleng.m3u8?enc=BlfKdKtbz4-yISW3INgxJQ&exp=1585036230
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Yusee", Nat Geo Channel
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1800619674_b1344100_sleng.m3u8
