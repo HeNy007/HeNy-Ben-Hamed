@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1,DRAGON Cinema
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/763|User-Agent=best2020
+#EXTINF:-1,DRAGON Cinema 2
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/764|User-Agent=best2020
+#EXTINF:-1,DRAGON Action
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/765|User-Agent=best2020
+#EXTINF:-1,DRAGON Aflam 1
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/767|User-Agent=best2020
+#EXTINF:-1,DRaGoN Aflam 2
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/768|User-Agent=best2020
+#EXTINF:-1,DRAGON Comdey
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/769|User-Agent=best2020
+#EXTINF:-1,DraGoN Comedy 2
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/770|User-Agent=best2020
+#EXTINF:-1,DRAGON Horror 1
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/771|User-Agent=best2020
+#EXTINF:-1,DRAGON Crime
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/772|User-Agent=best2020
+#EXTINF:-1,DraGoN Fantasy
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/773|User-Agent=best2020
+#EXTINF:-1,DraGon Movies
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/774|User-Agent=best2020
+#EXTINF:-1,DraGon Series 1
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/775|User-Agent=best2020

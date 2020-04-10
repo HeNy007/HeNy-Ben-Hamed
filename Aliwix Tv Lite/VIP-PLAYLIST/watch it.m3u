@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT HORROR
+http://ferraricdn.referrari.com:80/live/98911_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT AR MOVIES
+http://ferraricdn.referrari.com:80/live/98912_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT WWE
+http://ferraricdn.referrari.com:80/live/98914_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT SCI-FI
+http://ferraricdn.referrari.com:80/live/98909_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT KIDS
+http://ferraricdn.referrari.com:80/live/98913_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
