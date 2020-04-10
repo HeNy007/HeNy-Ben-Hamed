@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1,TR:  BEIN SPORTS 4K
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53924|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT MAX-1 HD (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53925|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT MAX-2 HD (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53926|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT-1 HD  (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53927|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT-2 HD  (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53928|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT-3 HD  (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53929|User-Agent=VLC player
+#EXTINF:-1,TR: BEiN SPORT-4 HD  (PLAY)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53930|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS MAX 2 720P
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53931|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS MAX 1 HD (1LIG)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53932|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS MAX 2 HD (1LIG)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53933|User-Agent=VLC player
+#EXTINF:-1,TR:  BEINSPORTS MAX 1 720P
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53934|User-Agent=VLC player
+#EXTINF:-1,TR: beIN SPORT 1 720P (ligtv1)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53935|User-Agent=VLC player
+#EXTINF:-1,TR: beIN SPORT 2 720P (ligtv2)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53936|User-Agent=VLC player
+#EXTINF:-1,TR: beIN SPORT 3 720P (ligtv3)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53937|User-Agent=VLC player
+#EXTINF:-1,TR: beIN SPORT 4  720P (ligtv4)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53938|User-Agent=VLC player
+#EXTINF:-1,TR: BeIN SPORTS HD 1 UHD 50 FPS
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53939|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS 1 HD 1080P (ligtv1)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53940|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS 2 HD 1080P (ligtv2)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53941|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS 3 HD 1080P (ligtv3)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53942|User-Agent=VLC player
+#EXTINF:-1,TR: BEINSPORTS 4 HD  1080P (ligtv4)
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53943|User-Agent=VLC player
+#EXTINF:-1,TR: beIN Sports Haber HD
+http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53944|User-Agent=VLC player
