@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/13734_bein1.jpg" group-title="Sport", |FR| BEIN SPORT 1
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/13734_bein1.jpg" group-title="Sport", |FR| BEIN SPORT 1 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/13734_bein1.jpg" group-title="Sport", |FR| BEIN SPORT 1 HD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/13734_bein1.jpg" group-title="Sport", |FR| BEIN SPORT 1 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/13734_bein1.jpg" group-title="Sport", |FR| BEIN SPORT 1 FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 2
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 2 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 2 HD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 2 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 2 FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 3
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR|  BEIN SPORT 3 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 3 HD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 3 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="http://swiftstreamz.com//SwiftPanel/images/80440_bein2.jpg" group-title="Sport", |FR| BEIN SPORT 3 FHD BKP
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-4.png" group-title="Sport", |FR| BEIN SPORT MAX 4 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c869cdecb9a6c36.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-5.png" group-title="Sport", |FR| BEIN SPORT MAX 5 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F62ebc7a06f14c677.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-6.png" group-title="Sport", |FR| BEIN SPORT MAX 6 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe230707a846c7534.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-7.png" group-title="Sport", |FR| BEIN SPORT MAX 7 HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F36767adfe63d9618.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-8.png" group-title="Sport", |FR| BEIN SPORT MAX 8 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F336f2d894ae76f43.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-9.png" group-title="Sport", |FR| BEIN SPORT MAX 9 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff240cef75d7dde40.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-10.png" group-title="Sport", |FR| BEIN SPORT MAX 10 FHD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15211
