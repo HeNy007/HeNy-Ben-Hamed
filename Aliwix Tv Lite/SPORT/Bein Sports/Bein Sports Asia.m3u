@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1,beIN Sports 1 HD
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w2075175076_b1344100_sleng.m3u8
+#EXTINF:-1,beIN Sports 2 HD 
+https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w178238501_b494100_sleng.m3u8
