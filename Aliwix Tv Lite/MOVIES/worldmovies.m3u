@@ -542,3 +542,212 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/z5io5E8.jpg" tvg-country="TW" tvg-url="" group-title="Movies",靖天映畫
 http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium1", BEDA PRINSIP 
+https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+#EXTINF:0 group-title="FilmPremium1",FLIK
+https://vcdnjt.useetv.com/joss/15/flik/.m3u8
+#EXTINF:0 group-title="FilmPremium1",Bioskop Indonesia
+https://vcdnjt.useetv.com/joss/14/bioskopindonesia/.m3u8
+#EXTINF:0 group-title="FilmPremium1",IMC
+https://vcdnjt.useetv.com/joss/14/imc/.m3u8
+#EXTINF:0 group-title="FilmPremium1",Galaxy
+https://vcdnjt.useetv.com/joss/15/galaxy/.m3u8
+#EXTINF:0 group-title="FilmPremium1",Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/.m3u8
+
+#EXTINF:0 group-title="FilmPremium2",TVN
+https://vod.awanputih.info/djastv/tvn.m3u8
+#EXTINF:0 group-title="FilmPremium2",Citra Bioskop
+https://vod.awanputih.info/djastv/cbioskop.m3u8
+#EXTINF:0 group-title="FilmPremium2",Citra Drama
+https://vod.awanputih.info/djastv/cdrama.m3u8
+#EXTINF:0 group-title="FilmPremium2",Citra Entartaiment
+https://vod.awanputih.info/djastv/cintertain.m3u8
+#EXTINF:0 group-title="FilmPremium2",Zee Bioskop
+https://vod.awanputih.info/djastv/zeebioskop.m3u8
+#EXTINF:0 group-title="FilmPremium2",Zing
+https://vod.awanputih.info/djastv/zing.m3u8
+#EXTINF:0 group-title="FilmPremium2",Arirang
+https://vod.awanputih.info/djastv/arirang.m3u8
+#EXTINF:0 group-title="FilmPremium2",Davinci
+https://vod.awanputih.info/djastv/davinci.m3u8
+#EXTINF:0 group-title="FilmPremium2",Zoomoo
+https://vod.awanputih.info/djastv/zoomoo.m3u8
+#EXTINF:0 group-title="FilmPremium2",Horee
+https://vod.awanputih.info/djastv/hore.m3u8
+#EXTINF:0 group-title="FilmPremium2",Smithsonian
+https://vod.awanputih.info/djastv/smithsonian.m3u8
+#EXTINF:0 group-title="FilmPremium2",Love Nature
+https://vod.awanputih.info/djastv/lovenature.m3u8
+
+#EXTINF:0 group-title="FilmPremium3",Fox Movies
+http://djasritv.my.id:2021/jangan/di_sniff_ya/17
+#EXTINF:0 group-title="FilmPremium3",Fox Action Movies
+http://djasritv.my.id:2021/jangan/di_sniff_ya/8
+#EXTINF:0 group-title="FilmPremium3",Fox Family Movies
+http://djasritv.my.id:2021/jangan/di_sniff_ya/7
+#EXTINF:0 group-title="FilmPremium3",Fox Crimes
+http://djasritv.my.id:2021/jangan/di_sniff_ya/9
+#EXTINF:0 group-title="FilmPremium3",SCM
+http://djasritv.my.id:2021/jangan/di_sniff_ya/1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/AXN_2015_logo.png" group-title="FilmPremium3",AXN
+http://210.210.155.66:80/h/h141/01.m3u8
+#EXTINF:0 tvg-id="Kix.uk" group-title="FilmPremium3",KiX
+http://45.126.83.51:80/session/e039ada0-6370-11ea-ba40-84319a7d2028/uq2663/h/h07/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium3",Cinema World
+http://210.210.155.35:80/session/9ad25a18-6362-11ea-91ac-9778b4c814af/uq2663/h/h04/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium3",K Drama
+http://210.210.155.35:80/session/47c1b7be-6372-11ea-9b5b-b7729f8144ed/qwr9ew/s/s42/01.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="FilmPremium3",HITS
+http://210.210.155.66:80/h/h37/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmPremium3",Thrill
+http://210.210.155.35:80/session/89d2abaa-6371-11ea-805d-b0b788354111/qwr9ew/s/s34/01.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="FilmPremium3",Sony Six
+http://210.210.155.66:80/h/h143/01.m3u8
+#EXTINF:-1 group-title="FilmPremium3",RAI PREMIUM 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8 
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",HBO FAMILY (BACKUP)
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",HBO SIGNATURE (BACKUP)
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass 
+#EXTINF:-1 group-title="FilmPremium4",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass 
+#EXTINF:-1 group-title="FilmPremium4",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",CINEMAX (BACKUP)
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",FOX FILM MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",STAR MOVIES
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8 
+#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium4",AXN (BACKUP)
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 group-title="FilmPremium4", RAI MOVIE HD 
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="FilmPremium4",CINNEMAX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+#EXTINF:-1 group-title="FilmPremium4",FOX FILM MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass 
+#EXTINF:-1 group-title="FilmPremium4",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass 
+#EXTINF:-1 group-title="FilmPremium4",FOX MOV
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass 
+#EXTINF:-1 group-title="FilmPremium4",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass 
+
+#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmLuar", BEDA PRINSIP 
+https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="FilmLuar",FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="FilmLuar",Fox
+https://plbl.m9.lfstrm.tv/fox/normal/1/index.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="FilmLuar",Fox Life
+https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
+#EXTINF:-1 group-title="FilmLuar",ZEE Aflam
+http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmLuar",Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FilmLuar",Gakku
+https://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/FOXMovies.id.png" group-title="FilmLuar",Fox Movies
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="FilmLuar",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="FilmLuar",Fox Crime
+http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gravitasmovies.com/img/logo.2c3446e0.png" group-title="FilmLuar",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.maverickentertainment.cc/images/logo-2019.png" group-title="FilmLuar",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="FilmLuar",Red by HBO
+https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.squarespace-cdn.com/content/5d4360edae8ff80001247e11/1564758103725-BJSDTUS8WBBFW41UWAFW/hiyah_website+logo.png" group-title="FilmLuar",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="FilmLuar",Filmbox
+https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="FilmLuar",Filmbox Arthouse
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="FilmLuar",Filmbox Extra
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="FilmLuar",Filmbox Plus
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="FilmLuar",&Flix
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="FilmLuar",&Prive
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/co/AMC.co.png" group-title="FilmLuar",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="FilmLuar",Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="FilmLuar",Cinemax
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="FilmLuar",Cinema World
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="FilmLuar",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="FilmLuar",Flim Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nLimNFX.png" group-title="FilmLuar",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BDtkjpS.png" group-title="FilmLuar",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ypQRBrH.png" group-title="FilmLuar",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cQZdGc0.png" group-title="FilmLuar",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="FilmLuar",Filmrise Sci-Fi
+https://dai1.xumo.com/7a884267de5c44a9/9999437/648x432_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="FilmLuar",Flim Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="FilmLuar",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-logo="http://mafashortfilm.uk/public/images/mafal.png" group-title="FilmLuar",Mafa Short Flim
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="FilmLuar",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="FilmLuar",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
+#EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="FilmLuar",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="FilmLuar",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="http://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="FilmLuar",Mylife4U
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="FilmLuar",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="FilmLuar",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SciFi.hr.png" group-title="FilmLuar",Scifi
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Action.png" group-title="FilmLuar",Reel Px Action
+https://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bastionegroup.com/wp-content/uploads/2019/07/Reel-Px-Family-Website-Logo.png" group-title="FilmLuar",Reel Px Family
+https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Comedy.png" group-title="FilmLuar",Reel Px Comedy
+https://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/05/UPDATED-Reel-Px-Unlimited-Website-Logo-1.png" group-title="FilmLuar",Reel Px Unlimited
+https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Vintage.png" group-title="FilmLuar",Reel Px Vintage
+https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/SonyPix.in.png" group-title="FilmLuar",Sony Pix
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="FilmLuar",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="FilmLuar",Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="FilmLuar",Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png group-title="FilmLuar",Red By HBO
+http://iptvfree.gq/live/redbyhbo.m3u8
