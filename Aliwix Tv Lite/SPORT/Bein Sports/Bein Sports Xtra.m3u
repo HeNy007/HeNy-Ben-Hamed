@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+
+
+#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/index.m3u8
