@@ -2,45 +2,97 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 FHD H265
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/401
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/6501
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 FHD YEDEK
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/5717
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/402
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 HQ
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/400
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 SD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/399
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/398
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 FHD YEDEK
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/6095
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/397
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 SD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/396
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 3 FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/395
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 3 HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/394
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 3 SD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/393
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 4 FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/392
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 4 HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/391
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 4 SD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/387
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 MAX FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/390
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 1 MAX HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/389
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 MAX FHD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/388
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: beIN SPORTS 2 MAX HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/404
-#EXTINF:-1,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] TR: BEIN SPORTS HABER HD
-http://coronaservers.com:8080/Mh9603kSqD/bf9pwAHMSt/386
+#EXTINF:-1,beIN Sports Haber HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34876
+#EXTINF:-1,(TR)  BEINSPORT- 1 HD (OZEL) @
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/24646
+#EXTINF:-1,beIN Sports 1 FHD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34877
+#EXTINF:-1,beIN Sports 1 HD (TTNET)
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34878
+#EXTINF:-1,beIN Sports 1 HD HVEC
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34879
+#EXTINF:-1,beIN Sports 1 FHD (50 Fps) MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34880
+#EXTINF:-1,beIN Sports 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34881
+#EXTINF:-1,beIN Sports 1 SD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34882
+#EXTINF:-1,beIN Sports 2 HD HVEC
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34883
+#EXTINF:-1,beIN Sports 2 FHD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34884
+#EXTINF:-1,beIN Sports 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34885
+#EXTINF:-1,beIN Sports 3 HD HVEC
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34886
+#EXTINF:-1,beIN Sports 3 FHD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34887
+#EXTINF:-1,beIN Sports 3 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34888
+#EXTINF:-1,beIN Sports 4 FHD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34890
+#EXTINF:-1,beIN Sports 4 HD HVEC
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34889
+#EXTINF:-1,beIN Sports 4 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34891
+#EXTINF:-1,beIN Sports Max 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34892
+#EXTINF:-1,beIN Sports Max 1  SD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34893
+#EXTINF:-1,beIN Sports Max 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34894
+#EXTINF:-1,beIN Sports Max 2  SD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/34895
+#EXTINF:-1,(TR)  BEINSPORT- 1 HD (OZEL) @
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/15282
+#EXTINF:-1,|(TR) BEIN SPOR YEDEK 1 @
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/24114
+#EXTINF:-1,BEINSPORT 1 HD  MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/2945
+#EXTINF:-1,BEINSPORT 2 HD   MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/3151
+#EXTINF:-1,BEINSPORT 3 HD  MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/3152
+#EXTINF:-1,BEINSPORT 4 HD   MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/3153
+#EXTINF:-1,BEINSPORT 1 SD  MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/2949
+#EXTINF:-1,BEIN SPOR 2 SD MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11099
+#EXTINF:-1,BEIN SPOR 3 SD MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11098
+#EXTINF:-1,BEIN SPOR 1 HD  MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11100
+#EXTINF:-1,BEIN SPOR 1 MATCH TIME
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11106
+#EXTINF:-1,LIG-BEINSPORT 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4151
+#EXTINF:-1,LIG-BEINSPORT 1 SD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4150
+#EXTINF:-1,LIG-BEINSPORT 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4152
+#EXTINF:-1,LIG-BEINSPORT 3 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4153
+#EXTINF:-1,LIG-BEINSPORT 4 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4154
+#EXTINF:-1,BEINSPORT MAX 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/5220
+#EXTINF:-1,BEINSPORT MAX 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/4322
+#EXTINF:-1,BEIN SPOR 3 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11102
+#EXTINF:-1,BEIN SPOR 4 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11101
+#EXTINF:-1,BEIN SPOR 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11104
+#EXTINF:-1,BEIN SPOR 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11103
+#EXTINF:-1,BEINSPOR 1 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11110
+#EXTINF:-1,BEINSPOR 2 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11109
+#EXTINF:-1,BEINSPOR 3 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11108
+#EXTINF:-1,BEINSPOR 4 HD
+http://iptv.blackkill.org:5487/50845/q8zjzuzylz/11107
