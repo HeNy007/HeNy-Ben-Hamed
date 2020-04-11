@@ -6,8 +6,8 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
 #EXTINF:-1,Bein Sports 1 SD test
 http://206.189.178.94:25461/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/28|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 2 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/30|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
+#EXTINF:-1,Bein Sports 2 SD test
+http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/30|User-Agent= tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
 #EXTINF:-1,Bein Sports 3 SD
 http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/32|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
 #EXTINF:-1,Bein Sports 4 SD
