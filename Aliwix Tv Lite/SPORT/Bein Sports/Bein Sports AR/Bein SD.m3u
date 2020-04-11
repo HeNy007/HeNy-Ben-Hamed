@@ -4,23 +4,19 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
 
 
-#EXTINF:-1,Bein Sports 1 SD test
-http://206.189.178.94:25461/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/28|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 2 SD testf
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/30|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 3 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/32|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 4 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/34|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 5 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/36|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 6 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/38|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 7 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/40|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 8 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/42|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 9 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/44|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-#EXTINF:-1,Bein Sports 10 SD
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/46|User-Agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
+#EXTINF:-1,BeIN Sports1SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1863|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports2SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1864|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports3SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1865|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports4SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1866|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports5SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1867|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports6SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1868|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports7SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1869|User-Agent=Beryantv6955723848
+#EXTINF:-1,BeIN Sports8SD
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1870|User-Agent=Beryantv6955723848
