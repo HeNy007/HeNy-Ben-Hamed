@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+#EXTINF:-1,RSA SuperSport 1
+http://104.218.60.145:83/Elonge/4049153347@/376804|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 2
+http://104.218.60.145:83/Elonge/4049153347@/376805|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 3
+http://104.218.60.145:83/Elonge/4049153347@/376806|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 4
+http://104.218.60.145:83/Elonge/4049153347@/376807|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 5
+http://104.218.60.145:83/Elonge/4049153347@/376808|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 6
+http://104.218.60.145:83/Elonge/4049153347@/376810|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 8
+http://104.218.60.145:83/Elonge/4049153347@/376811|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 9
+http://104.218.60.145:83/Elonge/4049153347@/376812|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 10
+http://104.218.60.145:83/Elonge/4049153347@/376813|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 11
+http://104.218.60.145:83/Elonge/4049153347@/376814|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 12
+http://104.218.60.145:83/Elonge/4049153347@/376815|User-Agent=VLC player
+#EXTINF:-1,RSA Supersport Blitz
+http://104.218.60.145:83/Elonge/4049153347@/376816|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport MáXimo
+http://104.218.60.145:83/Elonge/4049153347@/376817|User-Agent=VLC player
