@@ -1,10 +1,10 @@
 
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ www.aliwix-lite.tk ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite➠www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",•●★-----|Documentary AR|-----★●•
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",•●★-----|Documentary AR|-----★●•
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
@@ -32,3 +32,61 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Animal-Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1 group-title="•●★-----|Documentary2|-----★●•",Al Jazeera Documentary hd
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:-1,Al Jazeera Documentary sd
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,nat_geo_ara
+http://livecdnH2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
+#EXTINF:-1,nat_geo_wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1,nat_geo_people
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
+#EXTINF:-1,Nat-Geo-CZ
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8
+#EXTINF:-1,Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,AD Nat Geo HD
+http://46.60.1.82:8081/live/AD.Nat.Geo/playlist.m3u8
+#EXTINF:-1,Nat Geo People (EN)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,NAT GEO WILD (EN)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTINF:-1,Animal Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1,Nat geo sd
+http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
+http://adtv.ercdn.net/adnatgeo/adnatgeo_360p.m3u8?v=3296041730
+#EXTINF:-1,Nat geo hd
+http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=3296041730
+#EXTINF:-1,NAT GEO PEOPLE AR
+http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO PROPLE HD ARABIC
+http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
+#EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,Discovery showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Nat geo hd
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,Animal planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,ANIMAL LIFE
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,QUEST
+http://109.236.92.216:9090/Quest/mpegts
+ 
