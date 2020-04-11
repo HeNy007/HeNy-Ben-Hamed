@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+
+
+#EXTINF:-1,Bein Sports 1 4K
+http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 2 4K
+http://tv.vodu.me:2052/bein1/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 3 4K
+http://tv.vodu.me:2052/bein1/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 4 4K
+http://tv.vodu.me:2052/bein1/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 5 4K
+http://tv.vodu.me:2052/bein1/5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 6 4K
+http://tv.vodu.me:2052/bein2/6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 7 4K
+http://tv.vodu.me:2052/bein2/7/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
+#EXTINF:-1,Bein Sports 8 4K
+http://tv.vodu.me:2052/bein2/8/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
+#EXTINF:-1,Bein Sports 9 4K
+http://tv.vodu.me:2052/bein2/9/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
