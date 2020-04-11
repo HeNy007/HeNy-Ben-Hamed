@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Documentary|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nZTxP5z.jpg" group-title="RELIGION",Ayaat TV (KSA)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="RELIGION",Iqraa (KSA)
+http://199.167.151.237:1935/live/sp15_25.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat 2 {CH} (Egypt)
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alhorreya.org/wp-content/uploads/2016/04/logo-3.png" group-title="RELIGION",Al Horreya {CH} (US)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/2w2h8gw.jpg" group-title="RELIGION",Al Maaref (Lebanon)
+http://almaareftv.com:1935/live/12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/cf/Almajd_Hadeeth.jpg" group-title="RELIGION",Al Majd Al Hadith (KSA)
+http://199.167.151.237:1935/live/sp15_32.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://www.almstba.tv/video/uploads/thumbs/ea76a7e72-1.jpg" group-title="RELIGION",Al Majd Holy Quran (KSA)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://almajdtv.com/images/ch/elmiah.png" group-title="RELIGION",Al Majd Scientific (KSA)
+http://199.167.151.237:1935/live/sp15_29.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA)
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alrahma.tv/app/Resources/2016/images/logo.png" group-title="RELIGION",Al Rahma TV (Egypt)
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Al-Resalah.jpg" group-title="RELIGION",Al Resalah (Kuwait)
+http://199.167.151.237:1935/live/sp15_28.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="RELIGION",Al Sunnah Al Nabawiyah (KSA)
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="RELIGION",Makkah TV (KSA)
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ted.adventist.org/sites/default/files/FINAL_LOGO_NO_ENGLISH_s.jpg" group-title="RELIGION",Al Waad {CH} (Lebanon)
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
+#EXTINF:-1 tvg-logo="http://tresorsonore.com/espacemembre/upload/download/5ddc652eb40214c083ba1f0eb46aab66_cna2.jpg" group-title="RELIGION",CNA {CH} (Algeria)
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="RELIGION",Nour El Sham (Syria)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/noor-dubai-tv-logo.jpeg" group-title="RELIGION",Nour Dubai (UAE)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NM0QWA0.png" group-title="RELIGION",SAT7kids {CH} (Jordan)
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="RELIGION",Tayba TV (Sudan)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/x6rl0.jpg" group-title="RELIGION",Zitouna TV (Tunisia)
+http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8?cid=18648453&id=gmswf
