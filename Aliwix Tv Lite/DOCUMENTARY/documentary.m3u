@@ -41,3 +41,117 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VS6iOQs.png" group-title="CHILE",Taltal TV Documentales
+http://inliveserver.com:1935/10018/10018/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" group-title="24/7 PLUTO TV",Documentaries
+http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" group-title="24/7 PLUTO TV",Voyager Documentaries
+https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="USA",Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="USA",RT Documentary
+http://ott-cdn.ucom.am/s93/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-1)
+http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-2)
+http://livefr.cgtn.com/1000d/prog_index.m3u8
+#EXTVLCOPT:http-user-agent=a813581.tby/9.6 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
+#EXTINF:-1,National Geographic 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTVLCOPT:http-user-agent=a813581.tby/9.6 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTVLCOPT:http-user-agent=a813581.tby/9.6 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
+#EXTINF:-1,DISCOVERY science
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 tvg-id="AXN.bg" group-title="SCIENCE", BEDA PRINSIP 
+https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="SCIENCE",Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SCIENCE", ANIMAL PLANET HD
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/8zTVXfTh/images-47.jpg" group-title="SCIENCE",DISCOVERY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="SCIENCE",BBC Earth
+https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="SCIENCE",CGTN Documentary
+http://61.58.60.230:9319/live/221.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="SCIENCE",Crime & Investigation
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="SCIENCE",Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="SCIENCE",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="SCIENCE",Discovery Asia
+http://111.13.111.192/125.227.198.89:8028
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="SCIENCE",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="SCIENCE",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="SCIENCE",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="http://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="SCIENCE",English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="SCIENCE",History Europe
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SCIENCE", History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/se/History2.se.png" group-title="SCIENCE",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="SCIENCE",National Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0 group-title="SCIENCE", National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="SCIENCE",National Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 group-title="SCIENCE", NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="SCIENCE",National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0 group-title="SCIENCE", NAT GEO People backup
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+
+#EXTINF:-1 tvg-id="AXN.bg" group-title="KnowledgeTV", BEDA PRINSIP 
+https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+#EXTINF:0 group-title="KnowledgeTV",National Geograpic
+https://vcdnjt.useetv.com/joss/15/natgeo/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",Nat Geo People
+https://vcdnjt.useetv.com/joss/15/natgeopeople/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",Nat Geo Wild
+https://vcdnjt.useetv.com/joss/15/natgeowild/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",Discovery Channel
+https://vcdnjt.useetv.com/joss/15/disco/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",History Channel
+https://vcdnjt.useetv.com/joss/15/history/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",AFN
+https://vcdnjt.useetv.com/joss/15/afc/.m3u8
+#EXTINF:0 group-title="KnowledgeTV",Lifetime
+https://vcdnjt.useetv.com/joss/14/lifetime/.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://i.postimg.cc/XvhHq8N7/ng.png" group-title="KnowledgeTV",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-id="NAT GEO PEOPLE" tvg-logo="https://i.postimg.cc/XvhHq8N7/ng.png" group-title="KnowledgeTV",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-id="WAKU WAKU JAPAN" tvg-logo="https://i.postimg.cc/RV7WntPf/images-48.jpg" group-title="KnowledgeTV",WAKU WAKU JAPAN
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL" tvg-logo="https://i.postimg.cc/mg6Bc2GC/n1zp3v-10012581outdoor1117binary789824.jpg" group-title="KnowledgeTV",OUTDOOR CHANNEL
+https://iptv33.000webhostapp.com/Hooq%20Qutdoor.m3u8
+#EXTINF:-1 tvg-id="NATIONL GEOGRAPHIC" tvg-logo="https://i.postimg.cc/XvhHq8N7/ng.png" group-title="KnowledgeTV",NET GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="NATGEO" tvg-logo="#https://i.postimg.cc/XvhHq8N7/ng.png" group-title="KnowledgeTV", NET GEOGRAPHIC
+#http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-id="TECHSTORM" tvg-logo="https://i.postimg.cc/XvhHq8N7/ng.png" group-title="KnowledgeTV",TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+#EXTINF:-1 tvg-id="SABUNG AYAM" tvg-logo="https://i.postimg.cc/VkJvgNFH/images-4.jpg" group-title="KnowledgeTV",Sabung Ayam
+https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://i.postimg.cc/RFZ5SkWq/an.png" group-title="KnowledgeTV",ANIMAL PLANET
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://i.postimg.cc/8zTVXfTh/images-47.jpg" group-title="KnowledgeTV",DISCOVERY CHANNEL
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="KOREA", CGTN DOCUMENTARY Korea
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
