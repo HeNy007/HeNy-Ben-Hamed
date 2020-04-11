@@ -1,0 +1,34 @@
+
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ www.aliwix-lite.tk ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
+
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",•●★-----|Documentary AR|-----★●•
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:0 tvg-id="avi" group-title=,Nat geo
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Oman الوثائقية
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat_Geo_Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف ؟؟
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Fishing-And-Hunt
+http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
