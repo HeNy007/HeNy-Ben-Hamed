@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Islamic Tv|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1, sunnah
+http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
+#EXTINF:-1, ahul al Quraan
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist_w1571241509_b1364000.m3u8
+#EXTINF:-1, alresalah tv
+http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
+#EXTINF:-1,Ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:-1,Al Iarth Al Nabawi
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1,Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
+#EXTINF:-1,Iqraa Europa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
+#EXTINF:-1,makkah tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:-1,almajd tv
+http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
+#EXTINF:-1,Kuwait TV Ethra Islamic
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+#EXTINF:-1,wesal tv
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1,Nour Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1,Sudan Tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+#EXTINF:-1,Tanasuh TV
+http://m.live.net.sa:1935/m/tanasuhtv/gmswf.m3u8
+#EXTINF:-1,daawah TV
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8?nimblesessionid=171576408
+#EXTINF:-1,alistiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1,aqsa TV
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1,alfateh TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:-1,islam live TV
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
+#EXTINF:-1,peace TV 1
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 2
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 3
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,peace TV 4
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,Quran
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1,سوره الكهف 
+https://proxy-004.ix7.dailymotion.com/sec(9d_o33l26xVh1uXFlXZKmN_ag3wK3GLk1FQIsuJ-LHQFJgjiN0PUxsdquXy4gi_in5UHMVHwt2ernQc8aRO4DP2_8LeS3sMHapDVHi7SVcw)/video/128/112/52211821_mp4_h264_aac.m3u8
+#EXTINF:0,Abdulbasit MJAWWAD
+http://184.173.185.71:9974/
+#EXTINF:0,Abdulbasit WARSH 
+http://184.173.185.71:9956/
+#EXTINF:0,Abdulbasit TARTIL
+http://184.173.185.71:9980
+#EXTINF:0, AlMinshawi l Mojawwad 
+http://184.173.185.71:9826/
+#EXTINF:0,AlMinshawi TARTIL
+http://184.173.185.71:9978/
+#EXTINF:0,Albanna  Mojawwad
+http://184.173.185.71:9810/
+#EXTINF:0,Albanna  TARTIL
+http://184.173.185.71:9808/
+#EXTINF:0, AlHussary Mojawwad
+http://184.173.185.71:9806/
+#EXTINF:0,AlHussary TARTIL 1
+http://184.173.185.71:9804/
+#EXTINF:0,AlHussary TARTIL 2
+http://184.173.185.71:9958/
+#EXTINF:0,Alhuthaifi
+http://184.173.185.71:9844/
+#EXTINF:0,Al ajmi
+http://184.173.185.71:9990
