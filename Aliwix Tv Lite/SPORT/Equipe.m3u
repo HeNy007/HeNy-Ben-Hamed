@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|TV CLUBS|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
 #EXTINF:-1 tvg-logo="https://www.liveonlinetv247.com/images/lfctv.png" group-title="Football",Liverpool TV
 http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="Football",Chelsea TV
@@ -9,7 +12,25 @@ http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
 http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.besoccerapps.com/rbetis/img_web/logo_shield.png" group-title="Football",Real Betis TV
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.iinet.net.au/assets/Posters/live-barcatv.jpg" group-title="Football", ES| BARCA TV
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/107626
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/508685034413228032/zI75ls9L_400x400.png" group-title="Football", Zamalek TV
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/145923
+#EXTINF:-1 tvg-logo="https://gulf365.co/content/uploads/2019/09/20/631100980c.jpg" group-title="Football", Al Ahly TV
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/7827
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Football", IT| MILAN CHANNEL
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/117462
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Inter_TV_2017_logo.jpg" group-title="Football", IT| INTER CHANNEL
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/117463
+#EXTINF:-1 tvg-logo="https://www.rezofoot.com/images/photos_fiches/club_20130217012551.jpg" group-title="Football", IT| LAZIO CHANNEL
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/117464
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png" group-title="Football", IT| TORINO CHANNEL
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/117461
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/52/Logo_RomaTV_2016.svg/1280px-Logo_RomaTV_2016.svg.png" group-title="Football", IT| ROMA CHANNEL
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/117465
+#EXTINF:-1 tvg-logo="https://www.rezofoot.com/images/photos_fiches/club_20130217013813.jpg" group-title="Football", DE| FC BAYERN TV HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/127341
