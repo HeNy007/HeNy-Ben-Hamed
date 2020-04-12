@@ -46,3 +46,9 @@ http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15206
 http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff240cef75d7dde40.2Epng/1200x630/crop-from/top/quality/80/bein-sports-max-10.png" group-title="Sport", |FR| BEIN SPORT MAX 10 FHD
 http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15211
+#EXTINF:-1,AR| BEIN SPORTS14 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25644
+#EXTINF:-1,AR| BEIN SPORTS15 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25643
+#EXTINF:-1,AR| BEIN SPORTS16 HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25642
