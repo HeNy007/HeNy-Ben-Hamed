@@ -1,9 +1,14 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|AR BEIN SPORT HD|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-
+#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] BEIN SPORTS NEWS HD
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9152
+#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] BEIN SPORTS
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9156
 #EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 1 HD
 http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/988
 #EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 2 HD
