@@ -1,29 +1,19 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETFLIX PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/753|User-Agent=best2020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/755|User-Agent=best2020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy +2 FullHD
 http://ferraricdn.referrari.com:80/live/98996_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama  FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/757|User-Agent=best2020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama +2 FullHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama FullHD
 http://ferraricdn.referrari.com:80/live/98997_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/759|User-Agent=best2020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror +2 FullHD
 http://ferraricdn.referrari.com:80/live/98998_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/761|User-Agent=best2020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS +2 FullHD
 http://ferraricdn.referrari.com:80/live/98999_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ARABIC
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/2263|User-Agent=best2020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ROMANCE 
 http://ferraricdn.referrari.com:80/live/99001_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX SCF FI
