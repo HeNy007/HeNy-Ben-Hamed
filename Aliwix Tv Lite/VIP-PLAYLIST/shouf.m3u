@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHOUF PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.shooftech.com/wp-content/uploads/2018/08/Shoof_Logo_New.png" group-title="", Shouf Action
+http://ferrarich.referrari.com:8080/live/99132_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.shooftech.com/wp-content/uploads/2018/08/Shoof_Logo_New.png" group-title="", Shouf Comedy
+http://ferrarich.referrari.com:8080/live/99148_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.shooftech.com/wp-content/uploads/2018/08/Shoof_Logo_New.png" group-title="", Shouf Cinema
+http://ferrarich.referrari.com:8080/live/99151_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.shooftech.com/wp-content/uploads/2018/08/Shoof_Logo_New.png" group-title="", Shouf Cinema 2
+http://ferrarich.referrari.com:8080/live/99152_.m3u8?token=7377772091f94a319da781ea1353df9d
