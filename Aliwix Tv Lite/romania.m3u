@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ROMANIA SPORT|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,RO: Eurosport
+http://rr.thgss.com:25461/1122/123123/8381
+#EXTINF:-1,RO: Eurosport 1 HD RO
+http://rr.thgss.com:25461/1122/123123/8382
+#EXTINF:-1,RO: Eurosport 2
+http://rr.thgss.com:25461/1122/123123/8383
+#EXTINF:-1,RO: DIGI SPORTS 1
+http://rr.thgss.com:25461/1122/123123/8387
+#EXTINF:-1,RO: DIGI SPORTS 2
+http://rr.thgss.com:25461/1122/123123/8386
+#EXTINF:-1,RO: DIGI SPORTS 3
+http://rr.thgss.com:25461/1122/123123/8385
+#EXTINF:-1,RO: DIGI SPORTS 4
+http://rr.thgss.com:25461/1122/123123/8384
+#EXTINF:-1,RO: Digi Sport 4
+http://rr.thgss.com:25461/1122/123123/8378
+#EXTINF:-1,RO: Look Sport HD
+http://rr.thgss.com:25461/1122/123123/8388
+#EXTINF:-1,RO: Telekom Sport 1 HD
+http://rr.thgss.com:25461/1122/123123/8379
+#EXTINF:-1,RO: Telekom Sport 2 HD
+http://rr.thgss.com:25461/1122/123123/8380
+#EXTINF:-1,RO: Telekom Sport 3 HD
+http://rr.thgss.com:25461/1122/123123/8390
+#EXTINF:-1,RO: Telekom Sport 4 HD
+http://rr.thgss.com:25461/1122/123123/8389
