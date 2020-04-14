@@ -2,9 +2,14 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",•●★-----|ALIWIX TV ANIME|-----★●•
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+https://ekladata.com/dGWw0OiLC4456wtbFGaKwdPOzxE.png
+#EXTINF:-1 tvg-logo="https://ekladata.com/dGWw0OiLC4456wtbFGaKwdPOzxE.png" group-title="UAE",HUNTERXHUNTER
+xmtv://aHR0cHM6Ly9naXRodWIuY29tL0hlTnkwMDcvSGVOeS1CZW4tSGFtZWQvcmF3L2FuaW1lL2h1bnRlcnhodW50ZXIubTN1
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids/Animation",Animax Sub Indonesia HD
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/aniplus.png" group-title="Kids/Animation",Aniplus Bahasa Indonesia HD
 http://210.210.155.35/dr9445/h/h02/01.m3u8
