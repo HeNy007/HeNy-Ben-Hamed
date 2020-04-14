@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|AKOAM|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Cinema Arabic 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1510|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1510|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Cinema Arabic 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1511|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1511|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Cinema Arabic 3
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1512|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1512|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Cinema Arabic 4
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1513|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1513|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Cinema Arabic 5
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1514|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1514|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Akoam Arabic
 http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/794|User-Agent=best2020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="", Akoam English
