@@ -1,29 +1,31 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALIWIX VIP|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1, Aliwix Tv Movies
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1785|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1785|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Movies +2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1889|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1889|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Action
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1895|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1895|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Comedy
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1893|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1893|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Drama
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1902|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1902|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Crime
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1901|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1901|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv  Horror
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1896|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1896|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv Animation
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1897|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1897|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv AR Action
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1898|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1898|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv AR Comedy1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1899|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1899|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv AR Comedy2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1900|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1900|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1,Aliwix Tv AR Drama
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1903|User-Agent=Beryantv6955723848
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1903|User-Agent=Beryan-TV-App-2621975041
 
