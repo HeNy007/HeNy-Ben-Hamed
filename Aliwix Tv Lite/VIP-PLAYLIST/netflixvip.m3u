@@ -5,17 +5,18 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy FullHD
-http://ferraricdn.referrari.com:80/live/98996_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama FullHD
-http://ferraricdn.referrari.com:80/live/98997_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror FullHD
-http://ferraricdn.referrari.com:80/live/98998_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS FullHD
-http://ferraricdn.referrari.com:80/live/98999_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ROMANCE 
-http://ferraricdn.referrari.com:80/live/99001_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action
+http://rr.thgss.com:25461/1122/123123/8608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx SCI-FI
+http://rr.thgss.com:25461/1122/123123/8609
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror
+http://rr.thgss.com:25461/1122/123123/8610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Thriller
+http://rr.thgss.com:25461/1122/123123/8611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX Animation
+http://rr.thgss.com:25461/1122/123123/8612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX Family
+http://rr.thgss.com:25461/1122/123123/8613
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX SCF FI
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV6955723848/1551|User-Agent=Beryantv6955723848
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR
@@ -100,4 +101,3 @@ http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159555
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159556
 #EXTINF:-1,AR| NETFLIX مسلسلات 35
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159557
-
