@@ -1,135 +1,66 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SPAIN SPORT|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28431
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 1 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28432
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 2 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28433
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga FHD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28434
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 1 FHD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28435
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 2 FHD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28436
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 3 FHD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28437
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28438
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| La Liga TV
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28439
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Bein Laliga/ beIN Sport
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28440
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28441
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 1 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28442
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 2 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28443
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 3 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28444
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 4 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28445
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 5 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28446
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 6 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28447
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 7 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28448
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 8 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28449
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEONES FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28450
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON1 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28451
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON2 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28452
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON3 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28453
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON4 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28454
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON5 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28455
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON6 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28456
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON7 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28457
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON8 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28458
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 9 HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28459
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. LaLiga 10
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28460
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.Lcampeones
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28467
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON1 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28468
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON2 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28469
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON3 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28470
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON4 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28471
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON5 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28472
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON6 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28473
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.LCAMPEON7 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28474
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| LALIGA TV BAR 1  (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28475
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| LALIGA TV BAR 2
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28476
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| LALIGA TV BAR 3
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28477
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| LALIGA TV BAR 4  (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28478
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Eurosport 1
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28479
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| EUROSPORT1 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28480
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Eurosport 2
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28481
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. Deportes
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28482
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28483
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES1 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28484
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES2 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28485
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES3 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28486
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES4 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28487
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES5 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28488
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES6 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28489
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. DEPORTES7 (SOLO EVENTOS)
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28490
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Barca tv
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28494
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Barca tv FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28495
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| R. Madrid
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28496
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.Moto GP
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28497
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.MOTOGP FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28498
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.Formula 1
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28499
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M.FORMULA1 FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28500
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. Golf
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28501
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| M. GOLF FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28502
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| Gol
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28503
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] |ES| GOL FULL HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/28504
+#EXTINF:-1,bein Sports Espana FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13540
+#EXTINF:-1,La Liga TV BAR HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/669971
+#EXTINF:-1,Movistar La Liga FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/16274
+#EXTINF:-1,Movistar Liga De Campeones FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/620686
+#EXTINF:-1,Movistar Liga De Campeones ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/620685
+#EXTINF:-1,Movistar Deportes FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/16278
+#EXTINF:-1,Movistar Deportes HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7200
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/16277
+#EXTINF:-1,Movistar Deportes 2 ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7239
+#EXTINF:-1,Movistar Futbol FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13551
+#EXTINF:-1,Movistar Futbol HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/8783
+#EXTINF:-1,Movistar Futbol ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7238
+#EXTINF:-1,Movistar MotoGP FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7196
+#EXTINF:-1,Movistar MotoGP HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/16271
+#EXTINF:-1,Movistar MotoGP ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13529
+#EXTINF:-1,Movistar F1 FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7246
+#EXTINF:-1,Movistar F1 HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13549
+#EXTINF:-1,Movistar F1 ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/71971
+#EXTINF:-1,Movistar Golf FHD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7237
+#EXTINF:-1,Movistar Golf HD ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13550
+#EXTINF:-1,Movistar Golf ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/16273
+#EXTINF:-1,Gol TV ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13457
+#EXTINF:-1,Teledeporte ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7178
+#EXTINF:-1,Real Madrid Channel ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7182
+#EXTINF:-1,Barca TV ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/7250
+#EXTINF:-1,Eurosport 1 ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/8746
+#EXTINF:-1,Eurosport 2 ES
+http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13531
