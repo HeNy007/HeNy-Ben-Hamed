@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|WATCH IT|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT HORROR
-http://ferrarich.referrari.com:8080/live/98911_.m3u8?token=7377772091f94a319da781ea1353df9d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT AR MOVIES
-http://ferrarich.referrari.com:8080/live/98912_.m3u8?token=7377772091f94a319da781ea1353df9d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT WWE
-http://ferrarich.referrari.com:8080/live/98914_.m3u8?token=7377772091f94a319da781ea1353df9d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT SCI-FI
-http://ferrarich.referrari.com:8080/live/98909_.m3u8?token=7377772091f94a319da781ea1353df9d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT KIDS
-http://ferrarich.referrari.com:8080/live/98913_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", BeoutQ Action
+http://ferrarich.referrari.com:8080/live/98811_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", BeoutQ Action +2
+http://ferrarich.referrari.com:8080/live/98808_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", BeoutQ Movies
+http://ferrarich.referrari.com:8080/live/98815_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", BeoutQ Movies +2
+http://ferrarich.referrari.com:8080/live/98809_.m3u8?token=7377772091f94a319da781ea1353df9d
