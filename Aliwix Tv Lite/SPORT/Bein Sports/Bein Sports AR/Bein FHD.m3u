@@ -1,26 +1,27 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS FHD|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 1 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1167
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 2 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1168
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 3 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1169
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 4 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1170
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 5 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1171
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 6 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1172
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 7 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1173
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 8 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1174
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 9 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1175
-#EXTINF:0,[B][COLOR orange][B]ALIWIX TV[/B][/COLOR] beIN Sports 10 Full HD
-http://cms.accesss.me:25461/12LangeCJ0805TV2/1048706796/1166
+#EXTINF:-1,BeinSports_1_FHD
+http://rr.thgss.com:25461/1122/123123/257
+#EXTINF:-1,BeinSports_2_FHD
+http://rr.thgss.com:25461/1122/123123/261
+#EXTINF:-1,BeinSports_3_FHD
+http://rr.thgss.com:25461/1122/123123/265
+#EXTINF:-1,BeinSports_4_FHD
+http://rr.thgss.com:25461/1122/123123/269
+#EXTINF:-1,BeinSports_5_FHD
+http://rr.thgss.com:25461/1122/123123/273
+#EXTINF:-1,BeinSports_6_FHD
+http://rr.thgss.com:25461/1122/123123/277
+#EXTINF:-1,BeinSports_7_FHD
+http://rr.thgss.com:25461/1122/123123/281
+#EXTINF:-1,BeinSports_8_FHD
+http://rr.thgss.com:25461/1122/123123/285
+#EXTINF:-1,BeinSports_9_FHD
+http://rr.thgss.com:25461/1122/123123/289
+#EXTINF:-1,BeinSports_10_FHD
+http://rr.thgss.com:25461/1122/123123/293
