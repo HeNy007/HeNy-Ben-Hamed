@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|AL FAJER|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,AlFajer TV 1
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1350|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV1
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1878|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 1*
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1355|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 2
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1351|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV2
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1879|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 2*
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1356|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 3
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1352|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV3
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1880|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 3*
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1357|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 4
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1353|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV4
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1881|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 4*
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1358|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 5
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1354|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV5
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1882|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1,AlFajer TV 5*
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1359|User-Agent=Beryan-TV-App-2621975041
