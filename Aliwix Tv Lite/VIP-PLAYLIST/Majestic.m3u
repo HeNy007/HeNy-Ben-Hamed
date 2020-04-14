@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MAJESTIC|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Cinema
-http://94.23.215.215:41000/hatmyx/hjghyut/334
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Cinema 2
-http://ferraricdn.referrari.com/live/98824_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Arabic
-http://ferraricdn.referrari.com/live/98822_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action
-http://ferraricdn.referrari.com/live/98821_.m3u8?stream=98821_&session=166f17f4be0f4bc5aecc837fdff43963&location=mw
+http://ferrarich.referrari.com:8080/live/98821_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action 2
+http://ferrarich.referrari.com:8080/live/98825_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Horror 
-http://ferraricdn.referrari.com/live/98824_.m3u8?token=7377772091f94a319da781ea1353df9d&oi=1
+http://ferrarich.referrari.com:8080/live/98824_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Arabic
+http://ferrarich.referrari.com:8080/live/98822_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Kids
+http://ferrarich.referrari.com:8080/live/98823_.m3u8?token=7377772091f94a319da781ea1353df9d
