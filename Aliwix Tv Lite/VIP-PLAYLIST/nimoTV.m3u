@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NIMO TV|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Captain Tsubasa 2019
+https://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_veryhigh.flv?needwm=0
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Conan (lồng tiếng Việt) 360p
+https://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_low.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Conan Tập 390-9xx
+https://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Cậu bé bút chì
+https://ws.flv.nimo.tv/live/su1599512427627rdc1b400f8200f7923309b6186cc142f8_high.flv?needwm=0
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Doremon Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Doremon Tiếng Việt Tập Ngắn
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", DC Collection
+https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Dragon Ball Z Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Live Concert Kpop
+https://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Jame Bong
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Hài Hoài Linh
+https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Hunter X Hunter
+https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Hội Pháp Sư
+https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Nhật Bản
+https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Pokemon
+https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_low.flv?needwm=0
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Pokemon  Lẻ
+https://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af.flv?needwm=0
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Tom & Jerry Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Anime Âu Mỹ Mới Nhất
+https://ws.flv.nimo.tv/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Hồng Kim Bảo
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Johnny Deep
+http://ws.flv.nimo.tv:80/live/su1599512427599r09d42cd4a2b79345f9434829590db6c3.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Mr Bean
+http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Bằng Chứng Thép
+https://tx.flv.nimo.tv/live/su1599512427610r8f4bae585a61a8b25d6229cd32f9a6c4.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Chiếu Rạp Mới Nhất 2019
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Cảnh Sát Thép TVB 2019
+https://ws.flv.nimo.tv/live/su1599512427632re25efbec1541c04e136e495089b42e56_mid.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Diên Hy Công Lược
+https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Game Of Thrones
+http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Học Viện Umbrella
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Người Phán Xử
+https://ws.flv.nimo.tv/live/su1599512427637r398862efd8a6149031381420b1e28625_mid.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Ngược Dòng T.Gian Để Yêu Anh
+https://ws.flv.nimo.tv/live/su1599512427634reaf7235991d2d7709b4f6c608c678567_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", The Black List
+https://ws.flv.nimo.tv/live/su1599512427618rc421cef9846ced5a2d168c70133b07b0_high.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", The Flash
+http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Thiên Sư Bắt Ma
+https://ws.flv.nimo.tv/live/su1599512427582ra35f81b322dd6da7977d87650b1863e0_low.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Thành Long
+http://ws.flv.nimo.tv:80/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Thám Tử Sherlock Home
+http://tx.flv.nimo.tv:80/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Will Smith
+http://ws.flv.nimo.tv:80/live/su1599512427592rd3cda4b1f71d6ff9c85feaa7b1232463.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV", Đại Soái Ca
+https://ws.flv.nimo.tv/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv
+#EXTINF:-1 png-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaLqweCG_61TtawBXBn_ARxXxxjCroNT1_RvDbABVJjimGaDIf&usqp=CAU" group-title="NIMO-TV",Siêu Anh Hùng Marvel
+http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
