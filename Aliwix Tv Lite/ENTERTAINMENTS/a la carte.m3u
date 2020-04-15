@@ -1,19 +1,24 @@
 #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|A LA CARTE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
 #EXTINF:-1,|FR| A LA CARTE 1
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9201
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9201
 #EXTINF:-1,|FR| A LA CARTE 3
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9200
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9200
 #EXTINF:-1,|FR| A LA CARTE 4
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9199
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9199
 #EXTINF:-1,|FR| A LA CARTE 5
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9203
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9203
 #EXTINF:-1,|FR| A LA CARTE 6
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9202
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9202
 #EXTINF:-1,|FR| A LA CARTE 7
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9362
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9362
 #EXTINF:-1,|FR| A LA CARTE 8
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9361
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9361
 #EXTINF:-1,|FR| A LA CARTE 9
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9360
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9360
 #EXTINF:-1,|FR| A LA CARTE 10
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9363
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9363
