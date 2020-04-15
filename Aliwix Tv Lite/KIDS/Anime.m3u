@@ -10,9 +10,29 @@ https://github.com/HeNy007/HeNy-Ben-Hamed/raw/anime/hunterxhunter.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids/Animation",Animax Sub Indonesia HD
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://i.postimg.cc/mhx7ZSp6/Animax-logo.jpg" group-title="KidsTV",ANIMAX 
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://i.postimg.cc/mhx7ZSp6/Animax-logo.jpg" group-title="KidsTV",ANIMAX BACKUP 1
+https://vcdnjt.useetv.com/joss/14/animax/.m3u8
+#EXTINF:-1 group-title="KidsTV",Animax BACKUP 2
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Kids Animation
+https://stitcher.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg" tvg-country="USA" tvg-language="English" group-title="Pluto", Anime All Day
+https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/aniplus.png" group-title="Kids/Animation",Aniplus Bahasa Indonesia HD
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:0 group-title="KidsTV",Aniplus
+https://vcdnjt.useetv.com/joss/14/aniplus/.m3u8
+#EXTINF:-1 group-title="KidsTV",ToonMax
 
 
 #EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Pokemon
