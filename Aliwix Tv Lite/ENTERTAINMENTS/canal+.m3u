@@ -1,33 +1,38 @@
 #EXTM3U
-#EXTINF:-1,|FR| CANAL SD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/32155
-#EXTINF:-1,|FR| CANAL HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9324
-#EXTINF:-1,|FR| CANAL FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9579
-#EXTINF:-1,|FR| CANAL FHD H265
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51165
-#EXTINF:-1,|FR| CANAL CINEMA
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9332
-#EXTINF:-1,|FR| CANAL CINEMA HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15195
-#EXTINF:-1,|FR| CANAL CINEMA FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9582
-#EXTINF:-1,|FR| CANAL DECALE
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9331
-#EXTINF:-1,|FR| CANAL DECALE  HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15194
-#EXTINF:-1,|FR| CANAL DECALE FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9581
-#EXTINF:-1,|FR| CANAL FAMILY
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9330
-#EXTINF:-1,|FR| CANAL FAMILY HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15193
-#EXTINF:-1,|FR| CANAL FAMILY FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9580
-#EXTINF:-1,|FR| CANAL SERIE
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9328
-#EXTINF:-1,|FR| CANAL SERIE HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15192
-#EXTINF:-1,|FR| CANAL SERIE FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9578
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CANAL PLUS|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL SD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/32155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL HD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL FHD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL FHD H265
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/51165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL CINEMA
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL CINEMA HD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL CINEMA FHD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL DECALE
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL DECALE  HD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL DECALE FHD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL FAMILY
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL FAMILY HD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL FAMILY FHD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL SERIE
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL SERIE HD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="", |FR| CANAL SERIE FHD
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9578
