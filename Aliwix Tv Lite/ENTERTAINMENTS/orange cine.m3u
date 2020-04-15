@@ -4,21 +4,15 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ORANGE CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE 1
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE 2
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15246
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE 3
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15245
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE 4
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE 5
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15243
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE ACTION HD
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15239
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE AVENTURE
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15238
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE AVENTURE HD
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/15237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", |FR| ORANGE CINE HORREUR
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9242
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS CHOC HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148377
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS CITY HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148375
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS GEANT HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148379
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS MAX HD
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148373
