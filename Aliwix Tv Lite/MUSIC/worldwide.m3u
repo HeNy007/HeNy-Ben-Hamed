@@ -1,0 +1,448 @@
+#EXTM3U
+#EXTINF:-1,TMA-Television Musicale Antillaise (muziek-Antillen)
+http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:-1,Radio San Borja (muziek- Peru)
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist.m3u8
+
+#EXTINF:-1,Portal Foxmix (muziek-Chili)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,TelemÃºsica (muziek-USA)
+http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
+
+#EXTINF:-1,CMC California (720p)
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+
+#EXTINF:-1,Country Network (USA)
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1,IndieWave (USA)
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1,Lasuper TV (muziek-Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1,Radio 88 Stereo (muziek-Costa Rica)
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+
+#EXTINF:-1,Radio San Borja (muziek-Peru)
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1,TeleSUR (muziek-Costa Rica)
+http://k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8
+
+#EXTINF:-1,TV Cosmos (muziek-Peru)
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+
+#EXTINF:-1,TVO (muziek-Venezuela)
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1,U TV (muziek-RoemeniÃ«)
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+
+#EXTINF:-1,Cine Voice (muziek-India)
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
+#EXTINF:-1,Jhanjar Music (muziek-India)
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1,Kayhan TV (muziek-Afghanistan)
+http://208.93.117.113/live/Stream1/chunklist.m3u8
+
+#EXTINF:-1,MusicBox UA (576p))
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+#EXTINF:-1,PBN Music (muziek-India)
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
+#EXTINF:-1,Kosovo OPOJA (muziek-Kosovo)
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1,Radio M-1 Visual Radio (muziek-Litouwen)
+http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+
+#EXTINF:-1,First Music Channel (muziek-Wit-Rusland)
+http://rtmp.one.by:1200
+
+#EXTINF:-1,First Music Channel HD (muziek- Wit-Rusland)
+http://rtmp.one.by:1300
+
+#EXTINF:-1,RU TV (muziek-Rusland)
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1,Strana FM TV (muziek-Rusland)
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1,Ocko Star (muziek-TsjechÃ«)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8
+
+#EXTINF:-1,Ocko TV (muziek-TsjechÃ«)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
+
+#EXTINF:-1,1Music.hu (Hongarije)
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1,HD ONE RU Music (1080p)
+http://rtmp.one.by:2300
+
+#EXTINF:-1,Hit Music HU (576p)
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1,Jata TV (muziek-Bulgarije)
+http://109.175.31.2:8525
+
+#EXTINF:-1,Music Box (Slowakije)
+http://213.81.153.221:8080/nasa
+
+#EXTINF:-1,Music Box GE (GeorgiÃ«-muziek)
+http://94.43.239.178:8080/CHANNEL470/BITRATE1/playlist.m3u8
+
+#EXTINF:-1,Ocko (Tsjechie)
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko expres (TsjechiÃ«)
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko Gold (TsjechiÃ«)
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,One.by 2200 (720p)
+http://rtmp.one.by:2200
+
+#EXTINF:-1,ctpaha FM TV (Russisch)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1,Norderney 192 TV
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+
+#EXTINF:-1,538 webcam
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q4.m3u8
+
+#EXTINF:-1,FunRadio Belgie (visual radio)
+https://edge3.vedge.infomaniak.com/livecast/smil:funradiovisionhd.smil/chunklist_w1123939621_b1800720.m3u8?spark=d11215b9-de8d-4f79-a7ee-e888c9ede85a
+
+#EXTINF:-1,Intergalactic FM-CBS TV (muziek-Den-Haag)
+https://intergalactic.tv/live/cbstv/playlist.m3u8
+
+#EXTINF:-1,Klipkar TV HQ
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/index.m3u8
+
+#EXTINF:-1,QMusic NL
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1,Radio 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+
+#EXTINF:-1,Radio Contact (Belgie/Wallonie)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Radio Continu nl
+http://streaming1.stream.delivery/radiocontinu/live/chunklist_w716966438.m3u8
+
+#EXTINF:-1,DJing Animation (muziek)
+https://www.djing.com/tv/a-28843-04.m3u8
+
+#EXTINF:-1,DJing Dancefloor music (muziek)
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,DJing Electro rock (muziek)
+https://www.djing.com/tv/s-28049-03-electro-rock.m3u8
+
+#EXTINF:-1,DJing French touch (muziek)
+https://www.djing.com/tv/session_french-touch.m3u8
+
+#EXTINF:-1,DJing Hits (muziek)
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1,DJing Hot hot hot (muziek)
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1,DJing Summer vibes (muziek)
+https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8
+
+#EXTINF:-1,DJing Underground (muziek)
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1,Bibel TV Musik  (reli-Duitsland)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/chunklist.m3u8
+
+#EXTINF:-1,Hitarena NRW TV-Visual Radio (Duitsland)
+http://148.251.76.72:8081/hitnrw/streamout.sdp/playlist.m3u8
+
+#EXTINF:-1,Kronehit (Oostenrijk)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,MagentaMusik 360 (Duitsland-muziek)
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+
+#EXTINF:-1,musig24 HD (muziek-Duitsland)
+https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w1674047287.m3u8
+
+#EXTINF:-1,nice DEF TV (muziek-Duitsland)
+https://rrr.sz.xlcdn.com/?account=nice-broadcast-media-gmbh&file=1800-h264-nice-DEF-TV-Video&type=live&service=wowza&output=playlist.m3u8
+
+#EXTINF:-1,Radio21 (muziek-Duitsland)
+http://player-api.new.livestream.com/accounts/22300508/events/6675945/live.secure.m3u8
+
+#EXTINF:-1,Rockland Radio (muziek-Duitsland)
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.secure.m3u8
+
+#EXTINF:-1,Sonus FM TV -Visual Radio (Duitsland)
+http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
+
+#EXTINF:-1,SWR Dasding-Visual Radio (Duitsland)
+https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master_3776.m3u8
+
+#EXTINF:-1,UNSERDING-Visual Radio (Duitsland)
+https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+
+#EXTINF:-1,60 North-Visual Radio (UK)
+https://eu-de-edge-01.zetcast.net/ShetlandWebcams/Studio1ABR/playlist.m3u8
+
+#EXTINF:-1,Box Upfront (muziek-UK)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
+
+#EXTINF:-1,Magic TV (muziek-UK)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+
+#EXTINF:-1,Keep It Country TV (muziek-Engeland)
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live.m3u8
+
+
+#EXTINF:-1,Mezzo TV (muziek-Frankrijk)
+http://ott-cdn.ucom.am/s35/04.m3u8
+
+#EXTINF:-1,MTV Music (Frankrijk)
+http://universeiptv.com:8000/live/wcmRHzUxdj/zWdtl2LCCM/881.ts
+
+#EXTINF:-1,Nancy WebTV (Frankrijk)
+http://nancy-webtv.vedge.infomaniak.com/livecast/nancy-webtv/playlist.m3u8
+
+#EXTINF:-1,FM Italia TV (muziek-ItaliÃ«)
+http://flash8.streaming.xdevel.com:80/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:-1,OTTO FM-anni 80 (ItaliÃ«)
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+
+#EXTINF:-1,Radio Freccia HD (ItaliÃ«)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+
+#EXTINF:-1,Radio Iglesias (muziek-ItaliÃ«)
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+
+#EXTINF:-1,Radio Italia TV (muziek-ItaliÃ«)
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1,Radio Linea TV (muziek-ItaliÃ«)
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@653084/master.m3u8
+
+#EXTINF:-1,Radio Mambo TV (muziek- ItaliÃ«)
+https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
+
+#EXTINF:-1,Radio Monte Carlo (muziek-Monaco)
+http://wow01.105.net/live/rmc1/chunklist_w776440177.m3u8
+
+#EXTINF:-1,Rock TV (ItaliÃ«)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+
+#EXTINF:-1,Visual Radio (muziek-ItaliÃ«)
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+
+#EXTINF:-1,Ibiza Global TV (muziek-spanje)
+http://server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8
+
+#EXTINF:-1,Melody Channel (muziek-Spaans)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1,KRAL 90 LAR TV (Turkije)
+http://cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8
+
+#EXTINF:-1,KRAL HD (Turkije)
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP (Turkije)
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP AKUSTIK (Turkije)
+http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP ASK (Turkije)
+http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP DANS (Turkije)
+http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP KONSER TV (Turkije)
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+
+#EXTINF:-1,KRAL POP PERFORMANS (Turkije)
+http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+
+#EXTINF:-1,beatz TV (muziek-Zwitserland)
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+
+#EXTINF:-1,DJING
+http://www.djing.com/tv/27911-05.m3u8
+
+#EXTINF:-1,DJING (Frankrijk)
+http://www.djing.com/tv/05.m3u8
+
+#EXTINF:-1,DJING Animation
+http://www.djing.com/tv/a-27911-05.m3u8
+
+#EXTINF:-1,DJING Classic
+http://www.djing.com/tv/i-27911-05.m3u8
+
+#EXTINF:-1,DJING Dance Floor
+http://www.djing.com/tv/d-27911-05.m3u8
+
+#EXTINF:-1,Djing E-Music HD (540p)
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1,DJING Electro Rock
+http://www.djing.com/tv/s-27911-05-electro-rock.m3u8
+
+#EXTINF:-1,DJING French Touch
+http://www.djing.com/tv/s-27911-05-french-touch.m3u8
+
+#EXTINF:-1,DJING Hedonist
+http://www.djing.com/tv/s-27911-05-hedonist.m3u8
+
+#EXTINF:-1,DJING Hot (Frankrijk)
+http://www.djing.com/tv/h-05-fta.m3u8
+
+#EXTINF:-1,DJING Karaoke
+http://www.djing.com/tv/k-27911-05.m3u8
+
+#EXTINF:-1,DJING Summer Vibes
+http://www.djing.com/tv/s-27911-05-summer-vibes.m3u8
+
+#EXTINF:-1,DJING Underground
+http://www.djing.com/tv/u-27911-05.m3u8
+
+#EXTINF:-1,Fox TV (Griekenland)
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1,GoTV (Oostenrijk)
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+
+#EXTINF:-1,Kool London (Beeld radio)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+#EXTINF:-1,My Jam TV (muziek algemeen IPTV)
+http://kid6.tech/playlist.m3u8
+
+#EXTINF:-1,NG Radio TV (Griekenland)
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+
+#EXTINF:-1,Radio Contact TV
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1,Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,Radio Number One Tv (ItaliÃ«)
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1,TVM3 (Zwitserland)
+http://84.16.66.109:1935/livecast/tvm3/master.m3u8
+
+#EXTINF:-1,V2BEAT TV (muziek)
+http://stream.vibee.tv/livevibeetv.m3u8
+
+#EXTINF:-1,Capital TV (ItaliÃ«)
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1,Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1,Radio Zeta (muziek)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
+
+#EXTINF:-1,Dream TV (muziek)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,Radio Pilatus webcam (Zwitserland)
+https://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
+
+#EXTINF:-1,Chanson TV (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+#EXTINF:-1,Deluxe Music (360p)
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+
+#EXTINF:-1,DreamTV (576p)
+http://185.152.65.170/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,Fresh TV Music
+http://live.planeta-online.tv:1935/public/smil:channel_4.smil/playlist.m3u8
+
+#EXTINF:-1,Gong (480p)
+http://ec.playmedia.fr:1935/gong-base/live/master.m3u8
+
+#EXTINF:-1,M2
+http://live.m2.tv/hls/stream.m3u8
+
+#EXTINF:-1,m2o tv (360p)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1,MUSIC box
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:-1,MUSICTOP HD (720p)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,NRJ TV (1080p)
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1,Ocko Express
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
+
+#EXTINF:-1,OTTO 8 FM
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+
+#EXTINF:-1,PortalFoxMix Tv (360p)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,portalfoxmix
+http://149.56.17.92:1935/portalfoxmix/portalfoxmix/master.m3u8
+
+#EXTINF:-1,Quiero Musica
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1,Radio Bruno TV (400p)
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1,Radio Taormina TV
+http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1,Radio TV Good Sound  (Beeld radio)
+http://148.251.76.72:8081/goodsound/goodsound.sdp/chunks.m3u8
+
+#EXTINF:-1,Radio TV Hitarena NRW  (Beeld radio)
+http://148.251.76.72:8081/hitnrw/streamout.sdp/chunks.m3u8
+
+#EXTINF:-1,Retro Music Television (CZ)
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
+#EXTINF:-1,Senzi
+http://109.74.144.130/live/senzihity/playlist.m3u8
+
+#EXTINF:-1,Si TV (426p)
+http://st2.worldkast.com/8030/8030/chunklist_w209618744.m3u8
+
+#EXTINF:-1,Standby TV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+
+#EXTINF:-1,Telemax (720p)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,Vibee TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
