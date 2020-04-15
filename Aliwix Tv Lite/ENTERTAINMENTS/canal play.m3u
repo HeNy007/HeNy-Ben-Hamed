@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1,|FR| CANAL PLAY 1
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9322
-#EXTINF:-1,|FR| CANAL PLAY 2
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9321
-#EXTINF:-1,|FR| CANAL PLAY 3
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9320
-#EXTINF:-1,|FR| CANAL PLAY 4
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9319
-#EXTINF:-1,|FR| CANAL PLAY 5
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9318
-#EXTINF:-1,|FR| CANAL PLAY 6
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9317
-#EXTINF:-1,|FR| CANAL PLAY 7
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9316
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CANAL PLAY|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 1
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 2
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 3
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 4
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 5
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 6
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 7
+http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9316
