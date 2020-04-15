@@ -4,21 +4,33 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|A LA CARTE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,|FR| A LA CARTE 1
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9201
-#EXTINF:-1,|FR| A LA CARTE 3
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9200
-#EXTINF:-1,|FR| A LA CARTE 4
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9199
-#EXTINF:-1,|FR| A LA CARTE 5
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9203
-#EXTINF:-1,|FR| A LA CARTE 6
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9202
-#EXTINF:-1,|FR| A LA CARTE 7
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9362
-#EXTINF:-1,|FR| A LA CARTE 8
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9361
-#EXTINF:-1,|FR| A LA CARTE 9
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9360
-#EXTINF:-1,|FR| A LA CARTE 10
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9363
+#EXTINF:-1,FRN| A LA CARTE 1
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148381
+#EXTINF:-1,FRN| A LA CARTE 2
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148382
+#EXTINF:-1,FRN| A LA CARTE 3
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148383
+#EXTINF:-1,FRN| A LA CARTE 4
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148384
+#EXTINF:-1,FRN| A LA CARTE 5
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148385
+#EXTINF:-1,FRN| A LA CARTE 6
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148386
+#EXTINF:-1,FRN| A LA CARTE 7
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148387
+#EXTINF:-1,FRN| A LA CARTE 8
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148388
+#EXTINF:-1,FRN| A LA CARTE 9
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148389
+#EXTINF:-1,FRN| A LA CARTE 10
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148390
+#EXTINF:-1,FRN| A LA CARTE 11
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148391
+#EXTINF:-1,FRN| A LA CARTE 12
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148392
+#EXTINF:-1,FRN| A LA CARTE 13
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148393
+#EXTINF:-1,FRN| A LA CARTE 14
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148394
+#EXTINF:-1,FRN| A LA CARTE 15
+http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148395
