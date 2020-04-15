@@ -27,6 +27,24 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1522|User-Agent=
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1524|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="", SHAHID MOSLSALT
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1550|User-Agent=Beryan-TV-App-2621975041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  +2 FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy +2 FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama  FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama +2 FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS +2 FullHD
+http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/762
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 1
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156520
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 2
