@@ -7,21 +7,21 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO
 http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO2
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 2
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 3
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO3
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 4
 http://persik.by/stream/2944/263250/643.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO4
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 5
 http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO5
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 6
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO6
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 7
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO7
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 8
 )http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 9
 http://persik.by/stream/2944/263250/643.m3u8
 #EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="FilmLuar",Red by HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
