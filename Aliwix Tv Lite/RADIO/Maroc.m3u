@@ -1,0 +1,66 @@
+  #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:- 1tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Raio Maroc|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio watanya
+http://cdnamd-vod-hls-globecast.akamaized.net/vod/SRVPOCVODNAS01/snrt_radio_fond_01/_/snrt_hls/snrt_radio_fond_01-avc1_1000000=3.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio watanya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio watanya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio amazigh
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio mohammed sadis
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio chaine inter
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio_tetouan
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio el hoceima
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio agadir
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio dakhla
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_dakhla/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio tanger
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio fes
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio marrakech
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio casa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio oujda
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio meknes
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",medi 1
+http://streaming08.mit.ovea.com/medi1
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",med radio
+http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Casablanca
+http://rpc.ice.infomaniak.ch/rpc-casa
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",aswat fm
+http://broadcast.ice.infomaniak.ch/aswat-high
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",chada fm
+http://broadcast.infomaniak.net/chadafm-high
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Marrakech
+http://rpc.ice.infomaniak.ch/rpc-kesh
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",radio mars
+http://radiomars.ice.infomaniak.ch/radiomars-128
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Medina FM
+http://icepe9.infomaniak.ch/medinafm-64
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Radio Yabiladi
+http://37.187.146.76:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Sawte Ouarzazate
+http://78.129.187.57:19916/;
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Radio Atbir
+http://stream.zenolive.com/bqdbb6hd0neuv
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",MFM Radio
+http://newpub-stream01.itols.com:9001/casa.ogg
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Radio Soleil
+http://radiosoleil.ice.infomaniak.ch/radiosoleil-128
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71GTKuEDbJL.png",Radio izlanzik
+http://server.izlanzik.org:8000/stream/3/
