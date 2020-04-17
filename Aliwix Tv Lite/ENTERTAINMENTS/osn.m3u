@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|OSN|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
 #EXTINF:-1,OSN| YA HALA CINEMA HD
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/58030
 #EXTINF:-1,OSN| YA HALA HD
@@ -77,3 +82,9 @@ http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/58048
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/58042
 #EXTINF:-1,OSN| MUSIC NOW HD
 http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/58040
+#EXTINF:-1,|.OSN.| BOX Office 01
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/67281
+#EXTINF:-1,|.OSN.| BOX Office 02
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/67282
+#EXTINF:-1,|.OSN.| BOX Office 03
+http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/67283
