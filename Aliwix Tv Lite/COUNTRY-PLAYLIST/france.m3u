@@ -2,11 +2,11 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FranceO.fr.png" group-title="Français",France Ô
-http://51.15.3.161:8080/france0/index.m3u8?token=test
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9b5177fec5bd1ef1e92106030b5863251260e72a544216904b8c72bb29d7d6a6485f5b63ee71b817de55a1d800fc80aa6e6e0d30d3a8972d93cd1346a4a30b6dee060db4687508f34a49a6b802e87aa2af196d52ce95988e6f9245a66def540eabf4dda3f195ae7217e2dcf662f2d090dc91770a1a19b9d68a0a370177087da198b3096847ffdee08e20b6aa2af6693846b9cd5f80b1d41c
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Français",France 2
-http://51.15.3.161:8080/france2/index.m3u8?token=test
+http://84.22.33.254/unicast.france2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" group-title="Français",France 3
-http://51.15.3.161:8080/france3/index.m3u8?token=test
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe727a6d3c1dfc1da6a8853679f5e5d5ecec2cb5fdfa98e6310cb6575b9aa1ed0476e13e03782f73c67d02d9c19dad424a8cf19dcd7cf1f5a20ed1fdb4f3a718d6ee58a8b77b78d89c77eb8e20a9c0b529024a4bd99109478f5df11d1bf1eadf4cb2eae392e9f3d1a24bf4af0614f944391c0f451348bba41c2600af76501d19ce714101c75869ed3899f011e8695f75882db64435ebbfe4f2
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France4.fr.png" group-title="Français",France 4
 http://51.15.3.161:8080/france4/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France5.fr.png" group-title="Français",France 5
@@ -17,8 +17,9 @@ http://51.15.3.161:8080/boing/index.m3u8?token=test
 https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="Français",Gulli
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",M6
-http://51.15.3.161:8080/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/M6.fr.png" group-title="Français",c8
+https://github.com/HeNy007/HeNy-Ben-Hamed/raw/master/Aliwix%20Tv%20Lite/M3U8/c8.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Français",Piwi
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Français",Téva
@@ -82,7 +83,7 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Français",Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/W9.fr.png" group-title="Français",W9
-http://51.15.3.161:8080/W9/index.m3u8?token=test
+http://154.54.220.228:8810/play/a00e
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Français",EMCI TV Paris
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
