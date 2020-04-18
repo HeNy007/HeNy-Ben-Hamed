@@ -4,31 +4,11 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS TR|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,TR| BEIN SPORT 1 FHD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/13490
-#EXTINF:-1,TR| BEIN SPORT 1 HD HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101745
-#EXTINF:-1,TR| BEIN SPORT 2 HD HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101746
-#EXTINF:-1,TR| BEIN SPORT 2 HD+
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101720
-#EXTINF:-1,TR| BEIN SPORT 3 FHD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/13486
-#EXTINF:-1,TR| BEIN SPORT 3 HD HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101747
-#EXTINF:-1,TR| BEIN SPORT 4 FHD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/13484
-#EXTINF:-1,TR| BEIN SPORT 4 HD HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101748
-#EXTINF:-1,TR| BEIN SPORT 1 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/33721
-#EXTINF:-1,TR| BEIN SPORT 2 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/101730
-#EXTINF:-1,TR| BEIN SPORT 3 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/33719
-#EXTINF:-1,TR| BEIN SPORT 4 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/33718
-#EXTINF:-1,TR| BEIN SPORT MAX 1 FHD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/13482
-#EXTINF:-1,TR| BEIN SPORT MAX 2 FHD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/13481
+#EXTINF:-1,TR: BEINSPORT HD 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11249
+#EXTINF:-1,TR: BEINSPORT HD 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11250
+#EXTINF:-1,TR: BEINSPORT HD 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11251
+#EXTINF:-1,TR: BEINSPORT HD 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11252
