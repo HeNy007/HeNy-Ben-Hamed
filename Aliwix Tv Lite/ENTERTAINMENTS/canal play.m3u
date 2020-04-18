@@ -5,17 +5,21 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 1
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9322
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 2
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9321
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 3
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 4
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9319
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 5
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9318
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 6
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9317
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity.png" group-title="", |FR| CANAL PLAY 7
-http://tvone.millenium-ott.com:25443/NDAB3sy9xMKlf/Q41HceEvgb/9316
+#EXTINF:-1,FR: CANAL PLAY 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1560
+#EXTINF:-1,FR: CANAL PLAY 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1561
+#EXTINF:-1,FR: CANAL PLAY 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1562
+#EXTINF:-1,FR: CANAL PLAY 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1563
+#EXTINF:-1,FR: CANAL PLAY 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1564
+#EXTINF:-1,FR: CANAL PLAY 6
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1556
+#EXTINF:-1,FR: CANAL PLAY 7
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1557
+#EXTINF:-1,FR: CANAL PLAY 8
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1558
+#EXTINF:-1,FR: CANAL PLAY 9
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1559
