@@ -15,7 +15,7 @@ http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 http://web13.iptv-planet.com:8080/hls/t1.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/70940_73508_tunsianat2.jpg" group-title="Tunisia ",Tun Nat 2
 http://web13.iptv-planet.com:8080/hls/t2.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
-#EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/29132_92753_tunsiantv.jpg" group-title="Tunisia ",Elhiwar Ettounsi TV
+#EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV
 http://web13.iptv-planet.com:8080/hls/at.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
 #EXTINF:-1, tvg-id="" tvg-logo="https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2018/08/hand.jpg" , Hannibal
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11804
@@ -31,7 +31,7 @@ http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11808
 #EXTINF:-1, tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQHHOHXBXA-S104r9P4RrkBxZn9P0H3myV3vSSKAqzD2ShPZIP&usqp=CAU" , Tunisna
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11809
-#EXTINF:-1, tvg-id="" tvg-name="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" , Al Insen TV
+#EXTINF:-1, tvg-id="" tvg-logo="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" , Al Insen TV
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11810
 #EXTINF:-1, tvg-id="" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/06/janoubia-tv-418x261.png", Al Janoubia Tv
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11811
