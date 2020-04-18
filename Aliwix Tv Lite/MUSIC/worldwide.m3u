@@ -11,6 +11,226 @@ https://github.com/HeNy007/HeNy-Ben-Hamed/raw/master/Aliwix%20Tv%20Lite/M3U8/gen
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="France" tvg-logo="https://cmsphoto.ww-cdn.com/superstatic/36765/art/grande/6553396-9884047.jpg?v=1398160201" tvg-country="EU" tvg-url="" group-title="Music",Generation Hip Hop LOW
 https://github.com/HeNy007/HeNy-Ben-Hamed/raw/master/Aliwix%20Tv%20Lite/M3U8/generationTv-LOW.m3u8
 
+#EXTINF:0 ,DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0 ,DJing Classics
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0 ,DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 ,DJing Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0 ,DJing French Touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0 ,DJing Hedonist
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:0 ,DJing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0 ,DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:0 ,DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0 ,DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0 ,DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0 ,DJing Underground
+https://www.djing.com/tv/underground.m3u8
+# =======
+#EXTINF:0 ,Radio Contact (BE)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:0 ,DBM (CH)
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+####################################################
+#EXTINF:0 ,1 MUSIC (HU)  
+http://1music.hu/1music.m3u8
+#EXTINF:0 ,Hit MUSIC Channel (HU)  
+http://hitmusic.hu/hitmusic.m3u8
+# =======
+#EXTINF:0 ,CITY TV (BG)  
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:0 ,MM-TV (BG)  
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+# =======
+#EXTINF:0 ,91 NRG (GR)  
+https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8
+####################################################
+#EXTINF:0 ,CMC 
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8 
+#EXTINF:0 ,CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+# ===========
+#EXTINF:0 ,The Box
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:0 ,Box Hits
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:0 ,Box Upfront
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/
+#EXTINF:0 ,Kiss UK
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:0  ,Magic UK
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:0 ,Kerrang!
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:0 ,4musiс
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com//csm/extlive/boxplus01,4music-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+# ===========
+#EXTINF:0 ,Indie Wave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+####################################################
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,UNSERDING (DE)
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,KRONEHIT (AU)  
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+####################################################
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,OCKO (CZ)   
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,OCKO Expres (CZ)      
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,OCKO Gold (CZ)     
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,OCKO Black (CZ)     
+https://nova-live.ssl.cdn.cra.cz/channels/ocko_black/playlist/cze/live_hq.m3u8
+####################################################
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,FRESH HD
+http://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Chau TV (LT)
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Music Box Russia
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Music Box UA
+https://musicbox-hls4.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+# ===========
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,1.mus
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,1.mus HD
+http://rtmp.one.by:1300
+####################################################
+#EXTINF:0 tvg-logo="http://static.iptv-epg.com/in/VH1.in.png" ,VH1 Italia
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Standby TV  
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,m20 TV  
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-logo="https://ulango.tv/uploads/channels/673471/logo_company%20tv.png"  ,Company TV 
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" ,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0 tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" ,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+# =========
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,RTL 102.5 TV
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Radio Zeta TV
+https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Radio Freccia TV
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,RTL 102.5 TV Napulè
+https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/chunklist_b1196000.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,RTL 102.5 TV Best
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/chunklist_b1196000.m3u8
+####################################################
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,NORTEvisión
+http://amaru.dyndns.org:8835/0.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Portalfoxmix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Top Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+# =========
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,HqM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Relax
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Kids
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Jazz
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Folk
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,HqM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,HqM Arabic
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+####################################################
+#EXTINF:0,Retro Music (CZ) 
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0,Vintage Music TV
+https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-vintagemusictv.m3u8?chname=kapanglivetv-playout-vintagemusictv&pub=69038e81-0143-4fef-be11-a73feb5d0344&ctype=0&acsurl=viewtv-acs-lb
+####################################################
+#EXTINF:0 ,Klipkar TV
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
+#EXTINF:0,Klik TV
+http://92.62.234.206/klik.m3u
+#EXTINF:0,GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+####################################################
+#EXTINF:0 ,KRAL HD
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0  ,KRAL POP TV HD
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0  ,POWER TURK HD
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+# ==============
+#EXTINF:0  ,NR1 TURK 
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8 
+#EXTINF:0  ,NR1 DAMAR 
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8 
+#EXTINF:0   ,NR1 ASK 
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8 
+####################################################
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,YU Planet
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Top Sound
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,B1 BOSNIA
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png  ,TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Sky Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Star Folk
+http://live.muzickatv.mk/hls/Starmusic.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,ALBUK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Euro AL TV
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Roma TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png" ,Balkanika LQ
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:0 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png"  ,Balkanika HD
+http://84.22.33.254/unicast.ballkanika/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/26X2Jih.jpg" tvg-country="HU" tvg-url="" group-title="Music",1 Music Channel
 http://92.249.129.152/stream/1music.m3u8
