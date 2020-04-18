@@ -4,33 +4,23 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|A LA CARTE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,FRN| A LA CARTE 1
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148381
-#EXTINF:-1,FRN| A LA CARTE 2
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148382
-#EXTINF:-1,FRN| A LA CARTE 3
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148383
-#EXTINF:-1,FRN| A LA CARTE 4
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148384
-#EXTINF:-1,FRN| A LA CARTE 5
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148385
-#EXTINF:-1,FRN| A LA CARTE 6
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148386
-#EXTINF:-1,FRN| A LA CARTE 7
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148387
-#EXTINF:-1,FRN| A LA CARTE 8
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148388
-#EXTINF:-1,FRN| A LA CARTE 9
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148389
-#EXTINF:-1,FRN| A LA CARTE 10
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148390
-#EXTINF:-1,FRN| A LA CARTE 11
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148391
-#EXTINF:-1,FRN| A LA CARTE 12
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148392
-#EXTINF:-1,FRN| A LA CARTE 13
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148393
-#EXTINF:-1,FRN| A LA CARTE 14
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148394
-#EXTINF:-1,FRN| A LA CARTE 15
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148395
+#EXTINF:-1,FR: A LA CARTE 1
+http://tv.castawaytv.club:83/51839784/71484553/376392
+#EXTINF:-1,FR: A LA CARTE 10
+http://tv.castawaytv.club:83/51839784/71484553/376281
+#EXTINF:-1,FR: A LA CARTE 5
+http://tv.castawaytv.club:83/51839784/71484553/376390
+#EXTINF:-1,FR: A La Carte 6
+http://tv.castawaytv.club:83/51839784/71484553/256807
+#EXTINF:-1,FR: A la Carte 6
+http://tv.castawaytv.club:83/51839784/71484553/376391
+#EXTINF:-1,FR: A LA CARTE 7
+http://tv.castawaytv.club:83/51839784/71484553/376282
+#EXTINF:-1,FR: A LA CARTE 8
+http://tv.castawaytv.club:83/51839784/71484553/376283
+#EXTINF:-1,FR: A LA CARTE 9
+http://tv.castawaytv.club:83/51839784/71484553/376284
+#EXTINF:-1,FR: A.LA.CARTE.3
+http://tv.castawaytv.club:83/51839784/71484553/376393
+#EXTINF:-1,FR: A.LA.CARTE.4
+http://tv.castawaytv.club:83/51839784/71484553/376394
