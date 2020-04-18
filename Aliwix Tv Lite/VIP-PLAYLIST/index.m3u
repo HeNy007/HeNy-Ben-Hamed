@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Falcon Eye Tv|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ Kodi .......🔥[/color]
+http://urlcut.ru/Aliwix-Kodi.m3u
+
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ VIP 1 ........ 🔥 [/color]
+http://urlcut.ru/aliwixvip.m3u
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ Arabic ........ 🔥 [/color]
+https://github.com/kilirushi/m3u/raw/master/arabic.m3u
+
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ France ........ 🔥[/color]
+https://github.com/kilirushi/m3u/raw/master/fr.m3u
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green]  ........ Germany ........ 🔥[/color]
+https://github.com/kilirushi/m3u/raw/master/de.m3u
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ Italy ........ 🔥 [/color]
+https://github.com/kilirushi/m3u/raw/master/it.m3u
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ Polonia ........🔥[/color]
+https://github.com/kilirushi/m3u/raw/master/pl.m3u
+
+#EXTINF:-1 tvg-logo="https://www.onlygfx.com/wp-content/uploads/2017/12/vip-stamp-2.png" , [color green] ........ Turkey ........ 🔥[/color]
+https://github.com/kilirushi/m3u/raw/master/tr.m3u
