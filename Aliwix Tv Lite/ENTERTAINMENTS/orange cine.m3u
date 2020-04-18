@@ -5,14 +5,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS CHOC HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148377
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS CITY HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148375
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS GEANT HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148379
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/1200px-Orange_cin%C3%A9_max.svg.png" group-title="", FRN| OCS MAX HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148373
+#EXTINF:-1,FR: Orange Cine 1
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2106
+#EXTINF:-1,FR: Orange Cine 2
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2105
+#EXTINF:-1,FR: Orange Cine 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2109
+#EXTINF:-1,FR: Orange Cine 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2110
+#EXTINF:-1,FR: Orange Cine 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2111
