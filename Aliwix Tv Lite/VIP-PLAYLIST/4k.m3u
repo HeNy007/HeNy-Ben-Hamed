@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|4K SAT PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,4K SAT KIDS
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2531
+#EXTINF:-1,4K SAT ZAMAN
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2532
+#EXTINF:-1,4K SAT HORROR
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2533
+#EXTINF:-1,4K SAT ACTION 1
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2534
+#EXTINF:-1,4K SAT AFLAM 1
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2535
+#EXTINF:-1,4K SAT AFLAM 2
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2536
+#EXTINF:-1,4K SAT AFLAM 3
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2537
+#EXTINF:-1,4K SAT AFLAM 4
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2538
+#EXTINF:-1,4K SAT CINEMA 1
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2539
+#EXTINF:-1,4K SAT CINEMA 2
+http://iptv.allkaicerteam.com:8080/apk1/H5xs3NEz4S/2540
