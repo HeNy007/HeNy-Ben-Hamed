@@ -3,40 +3,55 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1,AR| BEIN MOVIES1 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25639
-#EXTINF:-1,AR| BEIN MOVIES2 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25638
-#EXTINF:-1,AR| BEIN MOVIES3 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25637
-#EXTINF:-1,AR| BEIN MOVIES4 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25636
-#EXTINF:-1,AR| BEIN SERIES1 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25635
-#EXTINF:-1,AR| BEIN SERIES2 HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25634
-#EXTINF:-1,AR| BEIN BARAEM HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70050
-#EXTINF:-1,AR| BEIN BOOMERANG HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70047
-#EXTINF:-1,AR| BEIN CARTOON NETWORK HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70049
-#EXTINF:-1,AR| BEIN DRAMA HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25633
-#EXTINF:-1,AR| BEIN FATAFEAT HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25623
-#EXTINF:-1,BEIN FOX FAMILY MOVIES HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70054
-#EXTINF:-1,AR| BEIN GOURMET HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25622
-#EXTINF:-1,BEIN JEEM HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70048
-#EXTINF:-1,AR| BEIN NAT GEO HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25625
-#EXTINF:-1,AR| BEIN NAT PEOPLE HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25626
-#EXTINF:-1,AR| BEIN NAT WILD HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/25624
-#EXTINF:-1,BEIN TRAVEL HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/70051
+#EXTINF:-1,beIN Movies HD1 Premiere
+http://rr.thgss.com:25461/1122/123123/6794
+#EXTINF:-1,beIN Movies HD2 Action
+http://rr.thgss.com:25461/1122/123123/6795
+#EXTINF:-1,beIN Movies HD3 Drama
+http://rr.thgss.com:25461/1122/123123/6796
+#EXTINF:-1,beIN Movies HD4 Family
+http://rr.thgss.com:25461/1122/123123/6797
+#EXTINF:-1,beIN Series HD1
+http://rr.thgss.com:25461/1122/123123/6793
+#EXTINF:-1,beIN Series HD2
+http://rr.thgss.com:25461/1122/123123/6781
+#EXTINF:-1,beIN Drama HD1
+http://rr.thgss.com:25461/1122/123123/6798
+#EXTINF:-1,beIN AMC HD
+http://rr.thgss.com:25461/1122/123123/6782
+#EXTINF:-1,beIN DMAX HD
+http://rr.thgss.com:25461/1122/123123/6783
+#EXTINF:-1,beIN DTX HD
+http://rr.thgss.com:25461/1122/123123/6784
+#EXTINF:-1,beIN Gourmet HD
+http://rr.thgss.com:25461/1122/123123/6785
+#EXTINF:-1,beIN Fatafeat HD
+http://rr.thgss.com:25461/1122/123123/6786
+#EXTINF:-1,beIN DreamWorks HD
+http://rr.thgss.com:25461/1122/123123/6787
+#EXTINF:-1,beIN be Junior HD
+http://rr.thgss.com:25461/1122/123123/6788
+#EXTINF:-1,beIN Baraem HD
+http://rr.thgss.com:25461/1122/123123/6789
+#EXTINF:-1,beIN Jeem HD
+http://rr.thgss.com:25461/1122/123123/6790
+#EXTINF:-1,beIN Boomerang HD
+http://rr.thgss.com:25461/1122/123123/6791
+#EXTINF:-1,beIN Baby TV
+http://rr.thgss.com:25461/1122/123123/6792
+#EXTINF:-1,beIN Food Network HD
+http://rr.thgss.com:25461/1122/123123/6799
+#EXTINF:-1,beIN BBC Earth HD
+http://rr.thgss.com:25461/1122/123123/6800
+#EXTINF:-1,beIN OutDoor HD
+http://rr.thgss.com:25461/1122/123123/6801
+#EXTINF:-1,beIN Animal Planet HD
+http://rr.thgss.com:25461/1122/123123/6802
+#EXTINF:-1,beIN Nat Geo HD
+http://rr.thgss.com:25461/1122/123123/6803
+#EXTINF:-1,beIN Star World HD
+http://rr.thgss.com:25461/1122/123123/6804
+#EXTINF:-1,beIN Star Movies HD
+http://rr.thgss.com:25461/1122/123123/6805
+#EXTINF:-1,beIN Discovery Kids HD
+http://rr.thgss.com:25461/1122/123123/6806
