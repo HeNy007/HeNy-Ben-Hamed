@@ -2,30 +2,48 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
-#EXTINF:-1,ON Tv Arabic
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1708|User-Agent=best2020
-#EXTINF:-1,ON Tv Asia
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1709|User-Agent=best2020
-#EXTINF:-1,ON Tv Bollywood
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1710|User-Agent=best2020
-#EXTINF:-1,ON Tv BoxOffice
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1711|User-Agent=best2020
-#EXTINF:-1,ON Tv Comedy
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1712|User-Agent=best2020
-#EXTINF:-1,ON Tv Horror
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1713|User-Agent=best2020
-#EXTINF:-1,ON Tv Movies
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1714|User-Agent=best2020
-#EXTINF:-1,ON Funny
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1715|User-Agent=best2020
-#EXTINF:-1,ON Masrhyat
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1716|User-Agent=best2020
-#EXTINF:-1,ON SCIFI
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1717|User-Agent=best2020
-#EXTINF:-1,ON Series
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1718|User-Agent=best2020
+#EXTINF:-1,on Tv arabic
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1708
+#EXTINF:-1,on Tv asia
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1709
+#EXTINF:-1,on Tv bollywood
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1710
+#EXTINF:-1,on Tv boxoffice
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1711
+#EXTINF:-1,on Tv comedy
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1712
+#EXTINF:-1,on Tv horror
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1713
+#EXTINF:-1,on Tv movies
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1714
+#EXTINF:-1,on funny
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1715
+#EXTINF:-1,on masrhyat
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1716
+#EXTINF:-1,on SCIFI
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1717
+#EXTINF:-1,on series
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1718
 #EXTINF:-1,ON TURKEY
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/1719|User-Agent=best2020
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/1719
+#EXTINF:-1,On extra
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2317
+#EXTINF:-1,On extra2
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2318
+#EXTINF:-1,On extra 3
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2319
+#EXTINF:-1,On Hekayat
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2320
+#EXTINF:-1,On music
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2321
+#EXTINF:-1,On documentary
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2322
+#EXTINF:-1,On cartoon zaman
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2323
+#EXTINF:-1,On classic
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2324
+#EXTINF:-1,On Animation
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH15/2325
 #EXTINF:-1,ON Documentary
 http://tv.vodu.me:2052/live/10083/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ON Cartoon Zaman
