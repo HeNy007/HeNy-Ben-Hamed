@@ -1,43 +1,44 @@
-#EXTM3U
-#EXTINF:-1,AR| EN TV ALGERIA
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6724
-#EXTINF:-1,AR| CANAL ALGERIE
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6723
-#EXTINF:-1,AR| A3 ALGERIE
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6722
-#EXTINF:-1,AR| ECHOUROUK TV HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6715
-#EXTINF:-1,AR| ECHOUROUK NEWS HD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6716
-#EXTINF:-1,AR| DZAIR NEWS
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6713
-#EXTINF:-1,AR| SAMIRA TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6710
-#EXTINF:-1,AR| EL HEDDAF TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6700
-#EXTINF:-1,AR| EL BILAD
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/21717
-#EXTINF:-1,AR| NUMEDIA TV DZ
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6705
-#EXTINF:-1,AR| AL BILAD TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6712
-#EXTINF:-1,AR| EL DJAZAIRIA TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6708
-#EXTINF:-1,AR| ENNAHAR TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6717
-#EXTINF:-1,AR| DZAIR TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6709
-#EXTINF:-1,AR| BAHIA TV ORAN
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6707
-#EXTINF:-1,AR| BEUR TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6718
-#EXTINF:-1,AR| BERBERE TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6727
-#EXTINF:-1,AR| EL FADJR TV
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6703
-#EXTINF:-1,AR| TV CORAN ALGERIE
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6721
-#EXTINF:-1,AR| ALGERIE TAMAZIGH
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/6720
-#EXTINF:-1,AR| TV5 MAGHREB
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/8167
+#EXTINF:-1,|AR| CANAL ALGERIE
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22255
+#EXTINF:-1,|AR| ENTV 1
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22254
+#EXTINF:-1,|AR| ALGERIE 3 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22253
+#EXTINF:-1,|AR| ALGERIE 4
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22252
+#EXTINF:-1,|AR| ALGERIE 5
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22251
+#EXTINF:-1,|AR| ELDJAZAIRIA
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22250
+#EXTINF:-1,|AR| AL MAGHARIBIA
+http://iptvpro.premium-itv.com:8789/amandine/amandine/25219
+#EXTINF:-1,|AR| DZAIR TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22247
+#EXTINF:-1,|AR| DZAIR NEWS
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22246
+#EXTINF:-1,|AR| ENNAHAR TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22242
+#EXTINF:-1,|AR| Al Anis TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22241
+#EXTINF:-1,|AR| BAHIA TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22239
+#EXTINF:-1,|AR| EL HEDDAF TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22236
+#EXTINF:-1,|AR| ECHOUROUK TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22235
+#EXTINF:-1,|AR| ECHOUROUK NEWS
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22234
+#EXTINF:-1,|AR| ECHOUROUK BENNA
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22233
+#EXTINF:-1,|AR| BEUR TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22232
+#EXTINF:-1,|AR| SAMIRA TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22231
+#EXTINF:-1,|AR| NUMEDIA TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22230
+#EXTINF:-1,|AR| EL FADJR 
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22229
+#EXTINF:-1,|AR| BERBERE JEUNESSE
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22227
+#EXTINF:-1,|AR| BERBERE TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22225
