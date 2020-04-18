@@ -5,6 +5,22 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX KIDS FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX MOVIES FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX THRILLER FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ARABIC
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOLLYOOD FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX CLASSICS FHD
+http://88.198.65.79:25461/ottplayer/bP6OTjdW3m/51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror 
 http://ferrarich.referrari.com:8080/live/98998_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX KIDS
@@ -27,91 +43,3 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1522|User-Agent=
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1524|User-Agent=Beryan-TV-App-2621975041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="", SHAHID MOSLSALT
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV2621975041/1550|User-Agent=Beryan-TV-App-2621975041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  +2 FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/754
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy +2 FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama  FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama +2 FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS +2 FullHD
-http://165.227.71.255:25461/BEST-LIVE/KHAZALEH13/762
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 1
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 2
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 3
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156522
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 4
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156523
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 5
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/131531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 6
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/128372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 7
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/131532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 8
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/131534
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 9
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/131573
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 10
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/133101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 11
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/133102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 12
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/133103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR|  NETFLIX مسلسلات 13
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/133104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 14
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/134974
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 15
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/134975
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 16
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/134976
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 17
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/134977
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 18
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 19
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 20
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 21
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 22
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156528
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 23
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 24
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 25
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 26
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 27
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/156533
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 28
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159550
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 29
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159551
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 30
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159552
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 31
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159553
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 32
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 33
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159555
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 34
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159556
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", AR| NETFLIX مسلسلات 35
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/159557
