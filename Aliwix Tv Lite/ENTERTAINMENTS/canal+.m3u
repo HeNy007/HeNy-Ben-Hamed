@@ -5,20 +5,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL+ HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148585
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL+ CINEMA HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148586
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL+ DECALE HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148587
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL+ FAMILY HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148588
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL+ SERIES HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148589
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="",FRN| CANAL SPORT HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148590
+#EXTINF:-1,FR: CANAL+  FAMILY HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/327
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/328
+#EXTINF:-1,FR: CANAL+ HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1041
+#EXTINF:-1,FR: CANAL+ CINEMA HD
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1042
+#EXTINF:-1,FR: Canal + Series
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3224
