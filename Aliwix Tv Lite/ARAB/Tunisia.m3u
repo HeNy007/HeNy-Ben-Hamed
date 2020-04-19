@@ -13,8 +13,7 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.radiotunisie.net/images/jawhara-fm.png" , jawhara tv 
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="
-https://lh3.googleusercontent.com/kNdgWU9WjHDeMsAmHTI_smsCS2pmJ0RSWdw-DLwjRmwdOonwFpYzJKnwxSEAe-HpAw" , RAP TN
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/kNdgWU9WjHDeMsAmHTI_smsCS2pmJ0RSWdw-DLwjRmwdOonwFpYzJKnwxSEAe-HpAw" , RAP TN
 xmtv://aHR0cDovLzE4NS4xMzIuMTMyLjU6MjU0NjEvNzMzNTM4NjY1NTIyLzVlMTMzYzRiZDk3MjkvNDg5
 
 
