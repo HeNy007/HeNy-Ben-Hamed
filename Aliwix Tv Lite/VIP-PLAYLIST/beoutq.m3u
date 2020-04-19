@@ -12,3 +12,7 @@ http://ferrarich.referrari.com:8080/live/98808_.m3u8?token=7377772091f94a319da78
 http://ferrarich.referrari.com:8080/live/98815_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", BeoutQ Movies +2
 http://ferrarich.referrari.com:8080/live/98809_.m3u8?token=7377772091f94a319da781ea1353df9d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", beoutQ Movies Kids
+http://iptv.goldysat.com:8880/27225368/235418754/66253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="", Beoutq Movies
+http://iptv.goldysat.com:8880/27225368/235418754/66254
