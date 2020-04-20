@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|DREAM PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,D ACTION
+http://iptv.goldysat.com:8880/27225368/235418754/66255
+#EXTINF:-1,D CINEMA
+http://iptv.goldysat.com:8880/27225368/235418754/66258
+#EXTINF:-1,DREAM KIDS
+http://iptv.goldysat.com:8880/27225368/235418754/66261
+#EXTINF:-1,DREAM MOVIES
+http://iptv.goldysat.com:8880/27225368/235418754/66262
