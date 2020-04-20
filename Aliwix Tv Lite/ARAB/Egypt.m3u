@@ -74,3 +74,6 @@ http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.watanegypt.tv/design/home/img/logo.png" group-title="مَصر",Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+
+#EXTINF:-1,AR:Maspero Zaman
+http://iptv.goldysat.com:8880/27225368/235418754/17996
