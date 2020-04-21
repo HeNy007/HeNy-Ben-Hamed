@@ -13,11 +13,61 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.radiotunisie.net/images/jawhara-fm.png" , jawhara tv 
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/kNdgWU9WjHDeMsAmHTI_smsCS2pmJ0RSWdw-DLwjRmwdOonwFpYzJKnwxSEAe-HpAw" , RAP TN
-xmtv://aHR0cDovLzE4NS4xMzIuMTMyLjU6MjU0NjEvNzMzNTM4NjY1NTIyLzVlMTMzYzRiZDk3MjkvNDg5
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam TV
 
 
-#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
+http://iptvhit.live/AliwixLite/Aliwix/Lite/1|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Kids
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/3|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Tarab
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/4|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Rap
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/5|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Movies
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/6|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Music
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/7|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Comedy
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/8|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Mezoued
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/9|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Rai
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite/10|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/15845_65499_tunsianat1.jpg" group-title="Tunisia ",Tun Nat 1
