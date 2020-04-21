@@ -3,50 +3,32 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
 #EXTINF:-1,on Tv arabic
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1708
+http://tv.vodu.me:2052/live/10077/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on Tv asia
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1709
+http://tv.vodu.me:2052/live/10078/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on Tv bollywood
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1710
+http://tv.vodu.me:2052/live/10079/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on Tv boxoffice
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1711
-#EXTINF:-1,on Tv comedy
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1712
+http://tv.vodu.me:2052/live/10080/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on Tv horror
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1713
+http://tv.vodu.me:2052/live/10085/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on Tv movies
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1714
+http://tv.vodu.me:2052/live/10088/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on funny
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1715
-#EXTINF:-1,on masrhyat
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1716
+http://tv.vodu.me:2052/live/10084/tracks-v1a1/mono.m3u8
 #EXTINF:-1,on SCIFI
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1717
-#EXTINF:-1,on series
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1718
-#EXTINF:-1,ON TURKEY
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/1719
-#EXTINF:-1,On extra
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2317
-#EXTINF:-1,On extra2
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2318
-#EXTINF:-1,On extra 3
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2319
-#EXTINF:-1,On Hekayat
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2320
-#EXTINF:-1,On music
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2321
-#EXTINF:-1,On documentary
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2322
-#EXTINF:-1,On cartoon zaman
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2323
-#EXTINF:-1,On classic
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2324
+http://tv.vodu.me:2052/live/10090/tracks-v1a1/mono.m3u8
 #EXTINF:-1,On Animation
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2325
+http://tv.vodu.me:2052/live/10076/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ON Documentary
 http://tv.vodu.me:2052/live/10083/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ON Cartoon Zaman
 http://tv.vodu.me:2052/live/10081/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ON Extra 1
 http://tv.vodu.me:2052/live/10100/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ON Anasheed
+http://tv.vodu.me:2052/live/10075/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ON Series
+http://tv.vodu.me:2052/live/10091/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ON Turkey 
+http://tv.vodu.me:2052/live/10092/tracks-v1a1/mono.m3u8
