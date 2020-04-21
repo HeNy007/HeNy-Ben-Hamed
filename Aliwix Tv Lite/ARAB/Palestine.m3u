@@ -5,6 +5,8 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
+#EXTINF:-1 tvg-logo="https://www.arn.ps/uploads/radioslogo/tv.jpg",Ajyal Tv
+http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 1 SD
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
