@@ -1,6 +1,3 @@
-
-
-  
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
@@ -85,17 +82,17 @@ http://iptv.goldysat.com:8880/27225368/235418754/66238
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE
 http://iptv.goldysat.com:8880/27225368/235418754/66239
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Action  FullHD
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/753
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/753
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Comedy +2 FullHD
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/756
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/756
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx box office
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/757
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/757
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Drama +2 FullHD
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/758
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/758
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror FullHD
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/759
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/759
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx KIDS FullHD
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH10/761
+http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/761
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror 
 http://ferrarich.referrari.com:8080/live/98998_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX KIDS
@@ -118,4 +115,3 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1522|User-Agent=
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1524|User-Agent=Beryan-TV-Plus-9940660372
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="", SHAHID MOSLSALT
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1550|User-Agent=Beryan-TV-Plus-9940660372
-
