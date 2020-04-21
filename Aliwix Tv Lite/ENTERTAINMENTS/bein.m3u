@@ -3,55 +3,79 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-#EXTINF:-1,beIN Movies HD1 Premiere
-http://rr.thgss.com:25461/1122/123123/6794
-#EXTINF:-1,beIN Movies HD2 Action
-http://rr.thgss.com:25461/1122/123123/6795
-#EXTINF:-1,beIN Movies HD3 Drama
-http://rr.thgss.com:25461/1122/123123/6796
-#EXTINF:-1,beIN Movies HD4 Family
-http://rr.thgss.com:25461/1122/123123/6797
-#EXTINF:-1,beIN Series HD1
-http://rr.thgss.com:25461/1122/123123/6793
-#EXTINF:-1,beIN Series HD2
-http://rr.thgss.com:25461/1122/123123/6781
-#EXTINF:-1,beIN Drama HD1
-http://rr.thgss.com:25461/1122/123123/6798
-#EXTINF:-1,beIN AMC HD
-http://rr.thgss.com:25461/1122/123123/6782
-#EXTINF:-1,beIN DMAX HD
-http://rr.thgss.com:25461/1122/123123/6783
-#EXTINF:-1,beIN DTX HD
-http://rr.thgss.com:25461/1122/123123/6784
-#EXTINF:-1,beIN Gourmet HD
-http://rr.thgss.com:25461/1122/123123/6785
-#EXTINF:-1,beIN Fatafeat HD
-http://rr.thgss.com:25461/1122/123123/6786
-#EXTINF:-1,beIN DreamWorks HD
-http://rr.thgss.com:25461/1122/123123/6787
-#EXTINF:-1,beIN be Junior HD
-http://rr.thgss.com:25461/1122/123123/6788
-#EXTINF:-1,beIN Baraem HD
-http://rr.thgss.com:25461/1122/123123/6789
-#EXTINF:-1,beIN Jeem HD
-http://rr.thgss.com:25461/1122/123123/6790
-#EXTINF:-1,beIN Boomerang HD
-http://rr.thgss.com:25461/1122/123123/6791
-#EXTINF:-1,beIN Baby TV
-http://rr.thgss.com:25461/1122/123123/6792
-#EXTINF:-1,beIN Food Network HD
-http://rr.thgss.com:25461/1122/123123/6799
-#EXTINF:-1,beIN BBC Earth HD
-http://rr.thgss.com:25461/1122/123123/6800
-#EXTINF:-1,beIN OutDoor HD
-http://rr.thgss.com:25461/1122/123123/6801
-#EXTINF:-1,beIN Animal Planet HD
-http://rr.thgss.com:25461/1122/123123/6802
-#EXTINF:-1,beIN Nat Geo HD
-http://rr.thgss.com:25461/1122/123123/6803
-#EXTINF:-1,beIN Star World HD
-http://rr.thgss.com:25461/1122/123123/6804
-#EXTINF:-1,beIN Star Movies HD
-http://rr.thgss.com:25461/1122/123123/6805
-#EXTINF:-1,beIN Discovery Kids HD
-http://rr.thgss.com:25461/1122/123123/6806
+#EXTINF:-1,|AR|*****BEINS MOVIES *****|AR|
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22761
+#EXTINF:-1,|AR| BEIN MOVIES 1 HD PREMIER
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22760
+#EXTINF:-1,|AR| BEIN MOVIES 2 HD ACTION
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22759
+#EXTINF:-1,|AR| BEIN MOVIES 3 HD DRAMA
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22758
+#EXTINF:-1,|AR| BEIN MOVIES 4 HD FAMILY
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22757
+#EXTINF:-1,|AR| BEIN STAR MOVIES HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22756
+#EXTINF:-1,|AR| BEIN AMC
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22755
+#EXTINF:-1,|AR| BEIN FX HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22754
+#EXTINF:-1,|AR| BEIN FOX HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22753
+#EXTINF:-1,|AR| BEIN FOX ACTION
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22752
+#EXTINF:-1,|AR| BEIN FOX FAMILY
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22751
+#EXTINF:-1,|AR| BEIN TCM
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22750
+#EXTINF:-1,|AR|*****BEINS BARAEM*****|AR|
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22749
+#EXTINF:-1,|AR| BEIN JEEM
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22748
+#EXTINF:-1,|AR| BEIN DISCOVERY KIDS
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22747
+#EXTINF:-1,|AR| BEIN BARAEM
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22746
+#EXTINF:-1,|AR| BEIN DREAMWORKS
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22745
+#EXTINF:-1,|AR| BEIN BABY TV
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22744
+#EXTINF:-1,|AR| BEIN BOOMERANG
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22743
+#EXTINF:-1,|AR| BEIN CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22742
+#EXTINF:-1,|AR| BEIN JUNIOR
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22741
+#EXTINF:-1,|AR|*****BEINS CULTURAL*****|AR|
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22740
+#EXTINF:-1,|AR| BEIN SERIES HD 1
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22739
+#EXTINF:-1,|AR| BEIN SERIES HD 2
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22738
+#EXTINF:-1,|AR| BEIN DRAMA HD 1
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22737
+#EXTINF:-1,|AR| BEIN STARWORLD HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22736
+#EXTINF:-1,|AR| BEIN FATAFEAT
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22735
+#EXTINF:-1,|AR| BEIN GOURMET HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22734
+#EXTINF:-1,|AR| BEIN FOOD NETWORK
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22733
+#EXTINF:-1,|AR| BEIN DLIFE
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22732
+#EXTINF:-1,|AR| BEIN FINE LIVING
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22731
+#EXTINF:-1,|AR| BEIN DTX
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22730
+#EXTINF:-1,|AR| BEIN OUTDOOR
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22729
+#EXTINF:-1,|AR| BEIN DISCOVERY SC
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22728
+#EXTINF:-1,|AR| BEIN NAT GEO PEOPLE HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22725
+#EXTINF:-1,|AR| BEIN NAT GEO WILD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22726
+#EXTINF:-1,|AR| BEIN NAT GEOGRAPHIC
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22727
+#EXTINF:-1,|AR| BEIN ANIMAL PLANET
+http://iptvpro.premium-itv.com:8789/amandine/amandine/22724
