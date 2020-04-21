@@ -4,16 +4,39 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE+ CLUB HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE CLASSIC HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE EMOTION HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE FAMIZ HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148594
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE FRISSON HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="", FRN| CINE PREMIER HEVC
-http://source.strictv.com:8000/VFS56PecA4/Z119vkc4Am/148591
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13759
+#EXTINF:-1,|FR| CINE+ PREMIER HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/14021
+#EXTINF:-1,|FR| CINE+ PREMIER SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28332
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13754
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/14023
+#EXTINF:-1,|FR| CINE+ FRISSON SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28331
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13755
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13941
+#EXTINF:-1,|FR| CINE+ FAMIZ SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28329
+#EXTINF:-1,|FR| CINE+ EMOTION FHD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13756
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/14024
+#EXTINF:-1,|FR| CINE+ EMOTION SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28330
+#EXTINF:-1,|FR| CINE+ CLUB FHD 
+http://iptvpro.premium-itv.com:8789/amandine/amandine/47556
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/14025
+#EXTINF:-1,|FR| CINE+ CLUB SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28328
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/13758
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/14026
+#EXTINF:-1,|FR| CINE+ CLASSIC SD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/28327
