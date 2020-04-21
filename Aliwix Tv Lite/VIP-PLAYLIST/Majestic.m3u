@@ -4,6 +4,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MAJESTIC|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Classic
+http://dragon2020.com:8080/starnet_094097/qJGXCL3g/93725
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Movies
+http://dragon2020.com:8080/starnet_094097/qJGXCL3g/62428
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Classic
+http://dragon2020.com:8080/starnet_094097/qJGXCL3g/93725
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", MAJSTIC CINEMA 
+http://dragon2020.com:8080/starnet_094097/qJGXCL3g/99966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action
 http://ferrarich.referrari.com:8080/live/98821_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action 2
