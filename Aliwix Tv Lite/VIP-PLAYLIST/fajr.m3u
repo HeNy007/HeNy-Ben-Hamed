@@ -4,33 +4,31 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|AL FAJER|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,AlFajer TV 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1350|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1878|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 1*
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1355|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1351|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1879|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 2*
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1356|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 3
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1352|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV3
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1880|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 3*
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1357|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 4
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1353|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV4
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1881|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 4*
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1358|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 5
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1354|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV5
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1882|User-Agent=Beryan-TV-Plus-9940660372
-#EXTINF:-1,AlFajer TV 5*
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV9940660372/1359|User-Agent=Beryan-TV-Plus-9940660372
+
+#EXTINF:-1,alfajer 1 SD
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:-1,alfajer 1 SD Ser 2
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:-1,alfajer 1 HD
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1,alfajer 2 HD
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1,alfajer 2 HD Ser 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1,alfajer 3 SD
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1,alfajer 4 SD
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:-1,alfajer 5 SD
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+link:http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTNIF:-1, FAJRER 1 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web
+#EXTINF:-1,FAJER3 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web
+
+EXTINF:-1,FAJER4 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web1
+
+EXTINF:-1,FAJER5 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web1
