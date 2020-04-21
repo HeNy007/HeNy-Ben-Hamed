@@ -5,30 +5,31 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1,alfajer 1 SD
+
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 1 SD
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:-1,alfajer 1 SD Ser 2
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 1 SD Ser 2
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
-#EXTINF:-1,alfajer 1 HD
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 1 HD
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1,alfajer 2 HD
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 2 HD
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,alfajer 2 HD Ser 2
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 2 HD Ser 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1,alfajer 3 SD
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 3 SD (VPN PS)
 http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
-#EXTINF:-1,alfajer 4 SD
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 4 SD
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
-#EXTINF:-1,alfajer 5 SD
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",alfajer 5 SD (VPN PS)
 http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
 link:http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTNIF:-1, FAJRER 1 RTMP
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png", FAJRER 1 RTMP
 rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web
-#EXTINF:-1,FAJER3 RTMP
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",FAJER3 RTMP (VPN PS)
 rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web
 
-EXTINF:-1,FAJER4 RTMP
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",FAJER4 RTMP
 rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web1
 
-EXTINF:-1,FAJER5 RTMP
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png",FAJER5 RTMP (VPN PS)
 rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web1
