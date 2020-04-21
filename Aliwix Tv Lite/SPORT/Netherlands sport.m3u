@@ -2,67 +2,45 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETHERLANDS SPORT|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=158651434
 
-#EXTINF:-1,Fox Sports 1 HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5143
-#EXTINF:-1,Fox Sports 1 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6487
-#EXTINF:-1,Fox Sports 2 NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5142
-#EXTINF:-1,Fox Sports 2 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6486
-#EXTINF:-1,Fox Sports 3 HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5141
-#EXTINF:-1,Fox Sports 3 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6485
-#EXTINF:-1,Fox Sports 4 HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/514522
-#EXTINF:-1,Fox Sports 4 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/64848
-#EXTINF:-1,Fox Sports 5 HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/513532
-#EXTINF:-1,Fox Sports 5 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/64338
-#EXTINF:-1,Fox Sports 6 HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/513821
-#EXTINF:-1,Fox Sports 6 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/131212
-#EXTINF:-1,Ziggo Sport NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11387
-#EXTINF:-1,Ziggo Sport Extra 1 NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5110
-#EXTINF:-1,Ziggo Sport Extra 2 NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/625239
-#EXTINF:-1,Ziggo Sport Golf NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5114
-#EXTINF:-1,Ziggo Sport Racing HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5111
-#EXTINF:-1,Ziggo Sport Racing FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13119
-#EXTINF:-1,Ziggo Sport Select HD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5113
-#EXTINF:-1,Ziggo Sport Select FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/53267
-#EXTINF:-1,Ziggo Sport Voetbal NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5112
-#EXTINF:-1,Sport 1 Voetbal NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6458
-#EXTINF:-1,Sport 1 Golf NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6460
-#EXTINF:-1,Sport 1 Select FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/6459
-#EXTINF:-1,Eurosport 1 NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11445
-#EXTINF:-1,Eurosport 1 FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11444
-#EXTINF:-1,Eurosport 2 NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11443
-#EXTINF:-1,Spike NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/13125
-#EXTINF:-1,Extreme Sports NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11442
-#EXTINF:-1,Edge Sport FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/5150
-#EXTINF:-1,Motors TV FHD NL
-http://gofastiptv.live:8080/ggg1ogiu08/w4bs2g7cw/11417
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 1 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42542
+#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 2 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42543
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42544
+#EXTINF:-1,|NL| ZIGGO SPORT RACING HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42546
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL 
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42545
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42470
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42469
+#EXTINF:-1,|NL| ZIGGO SPORT GOLF
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42468
+#EXTINF:-1,|NL| FOX SPORTS EDL 1 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42436
+#EXTINF:-1,|NL| FOX SPORTS EDL 3 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42437
+#EXTINF:-1,|NL| FOX SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42492
+#EXTINF:-1,|NL| FOX SPORTS 2  HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42493
+#EXTINF:-1,|NL| FOX SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42494
+#EXTINF:-1,|NL| FOX SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42495
+#EXTINF:-1,|NL| FOX SPORTS 5  HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42496
+#EXTINF:-1,|NL| FOX SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42497
+#EXTINF:-1,|NL| EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42428
+#EXTINF:-1,|NL| EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42429
+#EXTINF:-1,|NL| EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42485
+#EXTINF:-1,|NL| MOTORSPORT
+http://iptvpro.premium-itv.com:8789/amandine/amandine/42505
