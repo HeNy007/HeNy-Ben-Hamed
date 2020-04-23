@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NOVA CINEMA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/el/archive/3/30/20130812020351%21Novacinema_logo.png" group-title="", Nova Cinema 1 UHD
+http://stream.d60.co:8080/dreamtvfilms2145/fdsdfsgrrgsg22/52549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/el/archive/3/30/20130812020351%21Novacinema_logo.png" group-title="", Nova Cinema 2 UHD
+http://stream.d60.co:8080/dreamtvfilms2145/fdsdfsgrrgsg22/52550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/el/archive/3/30/20130812020351%21Novacinema_logo.png" group-title="", Nova Cinema 3 UHD
+http://stream.d60.co:8080/dreamtvfilms2145/fdsdfsgrrgsg22/52551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/el/archive/3/30/20130812020351%21Novacinema_logo.png" group-title="", Nova Cinema 4 UHD
+http://stream.d60.co:8080/dreamtvfilms2145/fdsdfsgrrgsg22/52552
