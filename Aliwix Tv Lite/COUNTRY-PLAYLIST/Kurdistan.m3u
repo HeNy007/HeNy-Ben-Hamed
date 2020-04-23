@@ -5,38 +5,30 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
-http://www.lengua.com/anthems/Kurdistan.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAeNl1d.png" group-title="KURDISTAN",Astera TV
-http://cdn.teradek.live:1935/live/astera/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/znCKIZC.png" group-title="KURDISTAN",Ava Entertainment
-http://95.170.207.28:1935/live/Channel01/chunklist.m3u8
+http://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8?nimblesessionid=574377&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE5IDk6MjA6MDggUE0maGFzaF92YWx1ZT03b3l6ZVNqNkhteDB5cXRJODF4VVVnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLWqFnN.png" group-title="KURDISTAN",Cihan
-http://teradek.live:1935/live/cihanhd/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HdXaTr8.png" group-title="KURDISTAN",Ezidxan TV
-http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
+http://liveshell.net:1935/live/cihann/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pimg.mycdn.me/getImage?disableStub=true&type=VIDEO_S_720&skipBlack=true&url=http%3A%2F%2Fi.mycdn.me%2Fimage%3Fid%3D890270902688%26t%3D50%26plc%3DWEB%26tkn%3D*OIkU-vTpvQV9LW-t4C2NS-jDTg4&signatureToken=2S1gsojf3KDaX1XwqIcDDQ" group-title="KURDISTAN",ATV KURD
+http://vsd8.mycdn.me/hls/531114429088.m3u8/sig/_v_2cFlkCSA/expires/1564407617325/srcIp/83.252.227.204/clientType/0/srcAg/CHROME_ANDROID/video.m3u8?p 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Go6eJHR.png" group-title="KURDISTAN",Gem Kurd
 http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMwXd1R.png" group-title="KURDISTAN",GK Sat TV
-http://173.249.45.123:8080/hls/livestream/1_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imn-kurdish-iq.png" group-title="KURDISTAN",Iraqia kurdi
+http://95.170.215.107:80/hls/Iraqia-Kurd-M.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVDWnn9.png" group-title="KURDISTAN",Kurdistan 24
-http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8?nimblesessionid=574377&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE5IDk6MjA6MDggUE0maGFzaF92YWx1ZT03b3l6ZVNqNkhteDB5cXRJODF4VVVnPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxq4dqb.png" group-title="KURDISTAN",Kurdistan TV (Opt-1)
-http://84.244.187.12:1935/live/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxq4dqb.png" group-title="KURDISTAN",Kurdistan TV (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxq4dqb.png" group-title="KURDISTAN",Kurdistan TV 
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/egriCa5.png" group-title="KURDISTAN",Kurdmax
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist_w830347005_b1187840.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DrE9eT.png" group-title="KURDISTAN",KurdMax Music
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
@@ -53,6 +45,9 @@ http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7BDN2ou.png" group-title="KURDISTAN",Kurdsat
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7BDN2ou.png" group-title="KURDISTAN",Kurdsat news
+http://130.193.165.14:80/cache/Kurdsat-News-OPK/m3u8/hls_m3u8_Kurdsat-News-HD.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HuQPVw.png" group-title="KURDISTAN",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 
@@ -62,21 +57,20 @@ http://185.105.4.190:1935/NRTHD/ngrp:livestream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YuNlUqf.png" group-title="KURDISTAN",NRT 2
 http://185.105.4.190:1935/NRT2/ngrp:livestream_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJPhVVh.png" group-title="KURDISTAN",Rudaw (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJPhVVh.png" group-title="KURDISTAN",Rudaw 
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJPhVVh.png" group-title="KURDISTAN",Rudaw (Opt-2)
-http://livestreaming.itworkscdn.net/rudawlive/rudawtv_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHC7NT0.png" group-title="KURDISTAN",Speda
-http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
+http://liveshell.net:1935/live/spedahd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAUcaUm.png" group-title="KURDISTAN",Sterk TV
 http://137.74.205.201/live2/sterk-3mbps.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrY8RKI.png" group-title="KURDISTAN",TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+https://mn-nl.mncdn.com/blutv_live/trtkurdi/trtkurdi.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrY8RKI.png" group-title="KURDISTAN",TRT Kurdi opt2
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qcocvbh.png" group-title="KURDISTAN",Zagros TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w777146511_b1296000_sleng.m3u8
-
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/48.m3u8?nimblesessionid=574377&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDE5IDk6MjA6MDggUE0maGFzaF92YWx1ZT03b3l6ZVNqNkhteDB5cXRJODF4VVVnPT0mdmFsaWRtaW51dGVzPTIw
