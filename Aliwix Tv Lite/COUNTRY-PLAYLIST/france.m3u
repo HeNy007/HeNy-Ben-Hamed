@@ -4,6 +4,8 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| FRANCE SAT |-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/FranceO.fr.png" group-title="Français",France Ô
+http://51.15.3.161:8080/france0/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Français",France 2
 http://51.15.3.161:8080/france2/index.m3u8?token=test
