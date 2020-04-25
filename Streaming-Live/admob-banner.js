@@ -1,4 +1,3 @@
-
 <script>
 
 <!-------Admob Ads Script By HeNy007 ------>
@@ -47,16 +46,3 @@ var _0x28f9=["\x3C\x68\x32\x20\x61\x6C\x69\x67\x6E\x3D\x22\x63\x65\x6E\x74\x65\x
   
 	
 	</tr>
-	
-	
-
-
-    
-		 
-		 
-		 
-		   
-		   
-		   
-      
-  
