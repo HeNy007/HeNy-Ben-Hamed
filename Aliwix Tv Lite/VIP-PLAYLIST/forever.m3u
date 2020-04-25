@@ -1,0 +1,18 @@
+#EXTM3U
+https://shoofmax.azureedge.net/img/general/logo-nav.png tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|FOREVER|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,Forever HD1 Ar
+http://linux-app.tv:6204/12345678/12345678/28225
+#EXTINF:-1,Forever HD2 Ar
+http://linux-app.tv:6204/12345678/12345678/28254
+#EXTINF:-1,Forever HD3 Ar
+http://linux-app.tv:6204/12345678/12345678/28256
+#EXTINF:-1,Forever HD1 En
+http://linux-app.tv:6204/12345678/12345678/28226
+#EXTINF:-1,Forever HD2 En
+http://linux-app.tv:6204/12345678/12345678/28255
+#EXTINF:-1,Forever HD3 En
+http://linux-app.tv:6204/12345678/12345678/28257
