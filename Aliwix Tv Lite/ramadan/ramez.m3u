@@ -4,5 +4,7 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| رامز مجنون رسمي |-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1, Episode 01
+#EXTINF:-1, Episode 01 Ghada Adel
 http://2020.ipsat.me:80/ramdan.2020/Ramez/Ramez.E01.mp4
+#EXTINF:-1, Episode 02 Ali Maaloul
+http://2020.ipsat.me:80/ramdan.2020/Ramez/Ramez.E02.mp4
