@@ -87,7 +87,7 @@ http://web13.iptv-planet.com:8080/hls/at.m3u8|User-Agent=Mozilla/5.0 (Linux; And
 
 
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV (bkp)
-http://rr.thgss.com:25461/1947225/123/6587
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11817
 
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2018/08/hand.jpg" , Hannibal
