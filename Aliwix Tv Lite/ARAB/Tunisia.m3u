@@ -86,13 +86,15 @@ http://rr.thgss.com:25461/1947225/123/6587
 
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2018/08/hand.jpg" , Hannibal
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22720
+http://iptvhit.live/AliwixLite/Aliwix/Lite/196|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Attessia_TV.png/150px-Attessia_TV.png", Attesia Tv
 http://web13.iptv-planet.com:8080/hls/attesiatv.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/D1rINswnrD6F8yOXrn4UWYkPvC38xEecu3848X7jeRb0EoABJYD0aiLF0MFsBdzzOov3-vyWxHtK-8YW9_pz5TKoWjOL"  , Telvza TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22712
+http://iptvhit.live/AliwixLite/Aliwix/Lite/198|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRhNeWh.png" group-title="TUNISIA",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1726167298.m3u8?v=2545016994
@@ -101,13 +103,16 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w17261
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.carthageplus.live/wp-content/uploads/2019/05/logox2.png" , Carthage + TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/63370
+http://iptvhit.live/AliwixLite/Aliwix/Lite/199|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQHHOHXBXA-S104r9P4RrkBxZn9P0H3myV3vSSKAqzD2ShPZIP&usqp=CAU" , Tunisna
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22718
+http://iptvhit.live/AliwixLite/Aliwix/Lite/200|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" , Al Insen TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11810
+http://iptvhit.live/AliwixLite/Aliwix/Lite/203|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/06/janoubia-tv-418x261.png", Al Janoubia Tv
 http://92.222.93.75:1935/live2/samir/playlist.m3u8
@@ -116,5 +121,6 @@ http://92.222.93.75:1935/live2/samir/playlist.m3u8
 http://iptvpro.premium-itv.com:8789/amandine/amandine/63371
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://zitounatv.net/wp-content/uploads/2019/08/zitounafooter-2.png" ,Zitouna TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11813
+http://iptvhit.live/AliwixLite/Aliwix/Lite/202|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
 
