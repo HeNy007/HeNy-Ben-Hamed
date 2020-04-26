@@ -1,44 +1,36 @@
-#EXTINF:-1,|AR| CANAL ALGERIE
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22255
-#EXTINF:-1,|AR| ENTV 1
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22254
-#EXTINF:-1,|AR| ALGERIE 3 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22253
-#EXTINF:-1,|AR| ALGERIE 4
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22252
-#EXTINF:-1,|AR| ALGERIE 5
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22251
-#EXTINF:-1,|AR| ELDJAZAIRIA
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22250
-#EXTINF:-1,|AR| AL MAGHARIBIA
-http://iptvpro.premium-itv.com:8789/amandine/amandine/25219
-#EXTINF:-1,|AR| DZAIR TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22247
-#EXTINF:-1,|AR| DZAIR NEWS
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22246
-#EXTINF:-1,|AR| ENNAHAR TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22242
-#EXTINF:-1,|AR| Al Anis TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22241
-#EXTINF:-1,|AR| BAHIA TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22239
-#EXTINF:-1,|AR| EL HEDDAF TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22236
-#EXTINF:-1,|AR| ECHOUROUK TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22235
-#EXTINF:-1,|AR| ECHOUROUK NEWS
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22234
-#EXTINF:-1,|AR| ECHOUROUK BENNA
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22233
-#EXTINF:-1,|AR| BEUR TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22232
-#EXTINF:-1,|AR| SAMIRA TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22231
-#EXTINF:-1,|AR| NUMEDIA TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22230
-#EXTINF:-1,|AR| EL FADJR 
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22229
-#EXTINF:-1,|AR| BERBERE JEUNESSE
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22227
-#EXTINF:-1,|AR| BERBERE TV
-http://iptvpro.premium-itv.com:8789/amandine/amandine/22225
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALGERIA TV|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1,AR: Algeria tv
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11827
+#EXTINF:-1,AR: Algerie 3
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11828
+#EXTINF:-1,AR: Algerie 4
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11829
+#EXTINF:-1,AR: Algerie 5
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11830
+#EXTINF:-1,AR: Echorouk TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11831
+#EXTINF:-1,AR: Echorouk News
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11832
+#EXTINF:-1,AR: Bahia TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11833
+#EXTINF:-1,AR: Dzair News
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11834
+#EXTINF:-1,AR: El Bilad TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11835
+#EXTINF:-1,AR: Al Heddaf tv
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11836
+#EXTINF:-1,AR: El Djazairia TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11837
+#EXTINF:-1,AR: Ennahar TV DZ
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11838
+#EXTINF:-1,AR: ENTV Algerie
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11839
+#EXTINF:-1,AR: Berbere TV
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11840
+#EXTINF:-1,AR: El Fadjr TV DZ
+http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11841
