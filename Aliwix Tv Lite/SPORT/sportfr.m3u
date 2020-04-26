@@ -1,75 +1,90 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|FR SPORT|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/39203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9326
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", |FR| CANAL SPORT FHD BKP
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="fr" tvg-logo="" tvg-country="fr" tvg-url="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/1200px-Canal%2B_Sport_%282013%29.svg.png" group-title="Sport", 
-#EXTINF:-1,|FR| EUROSPORT 1
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15172
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9281
-#EXTINF:-1,|FR| EUROSPORT 1 FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9549
-#EXTINF:-1,|FR| EUROSPORT 1 FHD BKP
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51105
-#EXTINF:-1,|FR| EUROSPORT 2
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9279
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9280
-#EXTINF:-1,|FR| EUROSPORT 2 FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9548
-#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51106
-#EXTINF:-1,|FR| INFOSPORT
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9265
-#EXTINF:-1,|FR| INFOSPORT HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15156
-#EXTINF:-1,|FR| INFOSPORT FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9534
-#EXTINF:-1,|FR| FOOT+ 24/24
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/32819
-#EXTINF:-1,|FR| FOOT+ 24/24 FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/51104
-#EXTINF:-1,|FR| LEQUIPE 21
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9264
-#EXTINF:-1,|FR| LEQUIPE 21 HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15155
-#EXTINF:-1,|FR| LEQUIPE 21 FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9533
-#EXTINF:-1,|FR| MOTORSPORT TV
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15147
-#EXTINF:-1,|FR| MOTORSPORT TV FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9526
-#EXTINF:-1,|FR| GOLF+
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9270
-#EXTINF:-1,|FR| GOLF+ HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15161
-#EXTINF:-1,|FR| GOLF+ FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9540
-#EXTINF:-1,|FR| GOLF CHANNEL
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9378
-#EXTINF:-1,|FR| GOLF CHANNEL HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15162
-#EXTINF:-1,|FR| GOLF CHANNEL FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9539
-#EXTINF:-1,|FR| EQUIDIA LIVE
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9282
-#EXTINF:-1,|FR| EQUIDIA LIVE HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15173
-#EXTINF:-1,|FR| EQUIDIA LIVE FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9550
-#EXTINF:-1,|FR| EXTREME SPORTS HD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/15227
-#EXTINF:-1,|FR| AB MOTEUR
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/9359
-#EXTINF:-1,|FR| AUTOMOTO LA CHAINE FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/62915
-#EXTINF:-1,|FR| EXTREME SPORTS FHD
-http://tvone.millenium-ott.com:25443/e9P6yrT03r/w4IF41bKw0/62916
+#EXTINF:-1,FR_ RMC Sport NEWS FullHD
+http://rr.thgss.com:25461/1947225/123/6599
+#EXTINF:-1,FR | RMC SPORT NEWS FULLHD*
+http://rr.thgss.com:25461/1947225/123/6600
+#EXTINF:-1,FR_ RMC Sport 1 Full-HD
+http://rr.thgss.com:25461/1947225/123/6601
+#EXTINF:-1,FR | RMC SPORT 1 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6602
+#EXTINF:-1,FR_ RMC Sport 1
+http://rr.thgss.com:25461/1947225/123/6603
+#EXTINF:-1,FR_RMC Sport 1 bk
+http://rr.thgss.com:25461/1947225/123/6604
+#EXTINF:-1,FR_ RMC Sport 2 Full-HD
+http://rr.thgss.com:25461/1947225/123/6605
+#EXTINF:-1,FR | RMC SPORT 2 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6606
+#EXTINF:-1,FR_ RMC Sport 2
+http://rr.thgss.com:25461/1947225/123/6607
+#EXTINF:-1,FR_RMC Sport 2 bk
+http://rr.thgss.com:25461/1947225/123/6608
+#EXTINF:-1,FR_ RMC Sport 3 Full-HD
+http://rr.thgss.com:25461/1947225/123/6609
+#EXTINF:-1,FR_ RMC Sport 3
+http://rr.thgss.com:25461/1947225/123/6610
+#EXTINF:-1,FR | RMC SPORT 3 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6611
+#EXTINF:-1,FR_ RMC Sport 4 Full-HD
+http://rr.thgss.com:25461/1947225/123/6612
+#EXTINF:-1,FR | RMC SPORT 4 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6613
+#EXTINF:-1,FR_ RMC Sport 4
+http://rr.thgss.com:25461/1947225/123/6614
+#EXTINF:-1,FR_CANAL + Sport Full-HD
+http://rr.thgss.com:25461/1947225/123/6615
+#EXTINF:-1,FR_CANAL+ SPORT_HD
+http://rr.thgss.com:25461/1947225/123/6616
+#EXTINF:-1,FR | CANAL + SPORT FULLHD*
+http://rr.thgss.com:25461/1947225/123/6617
+#EXTINF:-1,FR_CANAL + SPORT_SD
+http://rr.thgss.com:25461/1947225/123/6618
+#EXTINF:-1,FR | BEIN SPORT 1 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6619
+#EXTINF:-1,FR_BeIN SPORTS 1 HD
+http://rr.thgss.com:25461/1947225/123/6620
+#EXTINF:-1,FR | BEIN SPORT 2 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6621
+#EXTINF:-1,FR_BeIN SPORTS 2 HD
+http://rr.thgss.com:25461/1947225/123/6622
+#EXTINF:-1,FR | BEIN SPORT 3 FULLHD*
+http://rr.thgss.com:25461/1947225/123/6623
+#EXTINF:-1,FR_BeIN_SPORTS_3_HD
+http://rr.thgss.com:25461/1947225/123/6624
+#EXTINF:-1,FR_FOOT 24/24 Full-HD
+http://rr.thgss.com:25461/1947225/123/6625
+#EXTINF:-1,FR_FOOT 24/24 HD
+http://rr.thgss.com:25461/1947225/123/6626
+#EXTINF:-1,FR_Eurosport 1 HD
+http://rr.thgss.com:25461/1947225/123/6627
+#EXTINF:-1,FR_Eurosport 2 HD
+http://rr.thgss.com:25461/1947225/123/6628
+#EXTINF:-1,FR_INFOSPOR Full-HD
+http://rr.thgss.com:25461/1947225/123/6629
+#EXTINF:-1,FR_INFOSPOR HD
+http://rr.thgss.com:25461/1947225/123/6630
+#EXTINF:-1,FR_RMC ACCESS SPORT 1 HD
+http://rr.thgss.com:25461/1947225/123/6631
+#EXTINF:-1,FR_RMC ACCESS SPORT 2 HD
+http://rr.thgss.com:25461/1947225/123/6632
+#EXTINF:-1,FR_RMC ACCESS SPORT 3 HD
+http://rr.thgss.com:25461/1947225/123/6633
+#EXTINF:-1,FR_RMC ACCESS SPORT 4 HD
+http://rr.thgss.com:25461/1947225/123/6634
+#EXTINF:-1,FR_BeIN.SPORTS.MAX4
+http://rr.thgss.com:25461/1947225/123/6635
+#EXTINF:-1,FR_BeIN.SPORTS.MAX5
+http://rr.thgss.com:25461/1947225/123/6636
+#EXTINF:-1,FR_BeIN.SPORTS.MAX6
+http://rr.thgss.com:25461/1947225/123/6637
+#EXTINF:-1,FR_BeIN.SPORTS.MAX7
+http://rr.thgss.com:25461/1947225/123/6638
+#EXTINF:-1,FR_BeIN.SPORTS.MAX8
+http://rr.thgss.com:25461/1947225/123/6639
+#EXTINF:-1,FR_BeIN.SPORTS.MAX9
+http://rr.thgss.com:25461/1947225/123/6640
