@@ -4,43 +4,59 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETHERLANDS SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=158651434
 
-#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 1 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42542
-#EXTINF:-1,|NL| ZIGGO SPORT EXTRA 2 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42543
-#EXTINF:-1,|NL| ZIGGO SPORT GOLF HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42544
-#EXTINF:-1,|NL| ZIGGO SPORT RACING HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42546
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL 
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42545
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42470
-#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42469
-#EXTINF:-1,|NL| ZIGGO SPORT GOLF
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42468
-#EXTINF:-1,|NL| FOX SPORTS EDL 1 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42436
-#EXTINF:-1,|NL| FOX SPORTS EDL 3 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42437
-#EXTINF:-1,|NL| FOX SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42492
-#EXTINF:-1,|NL| FOX SPORTS 2  HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42493
-#EXTINF:-1,|NL| FOX SPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42494
-#EXTINF:-1,|NL| FOX SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42495
-#EXTINF:-1,|NL| FOX SPORTS 5  HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42496
-#EXTINF:-1,|NL| FOX SPORTS 6 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42497
-#EXTINF:-1,|NL| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42428
-#EXTINF:-1,|NL| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42429
-#EXTINF:-1,|NL| EXTREME SPORTS
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42485
-#EXTINF:-1,|NL| MOTORSPORT
-http://iptvpro.premium-itv.com:8789/amandine/amandine/42505
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://rr.thgss.com:25461/1947225/123/8199
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://rr.thgss.com:25461/1947225/123/8198
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://rr.thgss.com:25461/1947225/123/8197
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://rr.thgss.com:25461/1947225/123/8196
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://rr.thgss.com:25461/1947225/123/8195
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://rr.thgss.com:25461/1947225/123/8194
+#EXTINF:-1,NL: Ziggo Sport Racing HD
+http://rr.thgss.com:25461/1947225/123/8200
+#EXTINF:-1,NL: Eurosport 1
+http://rr.thgss.com:25461/1947225/123/8143
+#EXTINF:-1,NL: Fox Sport 1
+http://rr.thgss.com:25461/1947225/123/8144
+#EXTINF:-1,NL: Fox Sport 3
+http://rr.thgss.com:25461/1947225/123/8146
+#EXTINF:-1,NL: Fox Sport 2
+http://rr.thgss.com:25461/1947225/123/8145
+#EXTINF:-1,NL: Fox Sport 4
+http://rr.thgss.com:25461/1947225/123/8147
+#EXTINF:-1,NL: Fox Sport 5
+http://rr.thgss.com:25461/1947225/123/8148
+#EXTINF:-1,NL: FOX Sport 6
+http://rr.thgss.com:25461/1947225/123/8149
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://rr.thgss.com:25461/1947225/123/8153
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://rr.thgss.com:25461/1947225/123/8150
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://rr.thgss.com:25461/1947225/123/8193
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://rr.thgss.com:25461/1947225/123/8188
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://rr.thgss.com:25461/1947225/123/8187
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://rr.thgss.com:25461/1947225/123/8190
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://rr.thgss.com:25461/1947225/123/8189
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://rr.thgss.com:25461/1947225/123/8152
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://rr.thgss.com:25461/1947225/123/8191
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://rr.thgss.com:25461/1947225/123/8155
+#EXTINF:-1,NL: Extreme Sports
+http://rr.thgss.com:25461/1947225/123/8186
+#EXTINF:-1,NL: Ziggo Sport Select
+http://rr.thgss.com:25461/1947225/123/8154
+#EXTINF:-1,NL: Ziggo Sport Select
+http://rr.thgss.com:25461/1947225/123/8192
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://rr.thgss.com:25461/1947225/123/8201
