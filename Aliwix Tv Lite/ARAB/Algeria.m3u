@@ -4,33 +4,51 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALGERIA TV|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,AR: Algeria tv
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11827
-#EXTINF:-1,AR: Algerie 3
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11828
-#EXTINF:-1,AR: Algerie 4
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11829
-#EXTINF:-1,AR: Algerie 5
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11830
-#EXTINF:-1,AR: Echorouk TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11831
-#EXTINF:-1,AR: Echorouk News
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11832
-#EXTINF:-1,AR: Bahia TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11833
-#EXTINF:-1,AR: Dzair News
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11834
-#EXTINF:-1,AR: El Bilad TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11835
-#EXTINF:-1,AR: Al Heddaf tv
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11836
-#EXTINF:-1,AR: El Djazairia TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11837
-#EXTINF:-1,AR: Ennahar TV DZ
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11838
-#EXTINF:-1,AR: ENTV Algerie
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11839
-#EXTINF:-1,AR: Berbere TV
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11840
-#EXTINF:-1,AR: El Fadjr TV DZ
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11841
+#EXTINF:-1,[ALGERIE]: A1-berbere tv
+http://104.218.60.145:83/Elonge/4049153347@/381435
+#EXTINF:-1,[ALGERIE]: AL ANIS TV
+http://104.218.60.145:83/Elonge/4049153347@/381455
+#EXTINF:-1,[ALGERIE]: Algerie 3
+http://104.218.60.145:83/Elonge/4049153347@/381454
+#EXTINF:-1,[ALGERIE]: Algerie 4
+http://104.218.60.145:83/Elonge/4049153347@/381453
+#EXTINF:-1,[ALGERIE]: Algerie 5
+http://104.218.60.145:83/Elonge/4049153347@/381452
+#EXTINF:-1,[ALGERIE]: ALMAGHARIBIA 2 TV
+http://104.218.60.145:83/Elonge/4049153347@/381451
+#EXTINF:-1,[ALGERIE]: ALMAGHARIBIA TV
+http://104.218.60.145:83/Elonge/4049153347@/381450
+#EXTINF:-1,[ALGERIE]: Bahia TV
+http://104.218.60.145:83/Elonge/4049153347@/381449
+#EXTINF:-1,[ALGERIE]: Beur TV
+http://104.218.60.145:83/Elonge/4049153347@/381478
+#EXTINF:-1,[ALGERIE]: CANAL ALGERIE
+http://104.218.60.145:83/Elonge/4049153347@/381448
+#EXTINF:-1,[ALGERIE]: CHAMS TV
+http://104.218.60.145:83/Elonge/4049153347@/381447
+#EXTINF:-1,[ALGERIE]: CNA
+http://104.218.60.145:83/Elonge/4049153347@/381446
+#EXTINF:-1,[ALGERIE]: Dzair News
+http://104.218.60.145:83/Elonge/4049153347@/381445
+#EXTINF:-1,[ALGERIE]: Dzair TV
+http://104.218.60.145:83/Elonge/4049153347@/381456
+#EXTINF:-1,[ALGERIE]: Echorouk cbc BENNA
+http://104.218.60.145:83/Elonge/4049153347@/381444
+#EXTINF:-1,[ALGERIE]: Echorouk NEWS
+http://104.218.60.145:83/Elonge/4049153347@/381443
+#EXTINF:-1,[ALGERIE]: Echorouk TV
+http://104.218.60.145:83/Elonge/4049153347@/381442
+#EXTINF:-1,[ALGERIE]: EL BILAD
+http://104.218.60.145:83/Elonge/4049153347@/381441
+#EXTINF:-1,[ALGERIE]: EL FADJR TV DZ
+http://104.218.60.145:83/Elonge/4049153347@/381479
+#EXTINF:-1,[ALGERIE]: EL HEDDAF TV
+http://104.218.60.145:83/Elonge/4049153347@/381440
+#EXTINF:-1,[ALGERIE]: ENNAHAR TV
+http://104.218.60.145:83/Elonge/4049153347@/381439
+#EXTINF:-1,[ALGERIE]: NUMIDIA TV
+http://104.218.60.145:83/Elonge/4049153347@/381438
+#EXTINF:-1,[ALGERIE]: PROGRAMME NATIONAL
+http://104.218.60.145:83/Elonge/4049153347@/381437
+#EXTINF:-1,[ALGERIE]: SamiraTV
+http://104.218.60.145:83/Elonge/4049153347@/381436
