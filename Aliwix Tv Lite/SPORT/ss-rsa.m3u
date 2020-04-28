@@ -3,31 +3,30 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SUPER SPORT RSA|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-#EXTINF:-1,AF: UG SuperSport 1
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42671
-#EXTINF:-1,AF: NG SuperSport 2
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42676
-#EXTINF:-1,AF: NG SuperSport 3
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42677
-#EXTINF:-1,AF: NG SuperSport 4
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42678
-#EXTINF:-1,AF: NG SuperSport 5
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42679
-#EXTINF:-1,AF: NG SuperSport 6
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42680
-#EXTINF:-1,AF: NG SuperSport 7
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42681
-#EXTINF:-1,AF: NG SuperSport 8
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42682
-#EXTINF:-1,AF: NG SuperSport 9
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42683
-#EXTINF:-1,AF: NG SuperSport 10
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42672
-#EXTINF:-1,AF: NG SuperSport 11
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42673
-#EXTINF:-1,AF: NG SuperSport 12
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42674
-#EXTINF:-1,AF: NG SuperSport Blitz
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42684
+
+#EXTINF:-1,RSA SuperSport 1
+http://104.218.60.145:83/Elonge/4049153347@/376804|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 2
+http://104.218.60.145:83/Elonge/4049153347@/376805|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 3
+http://104.218.60.145:83/Elonge/4049153347@/376806|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 4
+http://104.218.60.145:83/Elonge/4049153347@/376807|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 5
+http://104.218.60.145:83/Elonge/4049153347@/376808|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 6
+http://104.218.60.145:83/Elonge/4049153347@/376810|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 8
+http://104.218.60.145:83/Elonge/4049153347@/376811|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 9
+http://104.218.60.145:83/Elonge/4049153347@/376812|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 10
+http://104.218.60.145:83/Elonge/4049153347@/376813|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 11
+http://104.218.60.145:83/Elonge/4049153347@/376814|User-Agent=VLC player
+#EXTINF:-1,RSA SuperSport 12
+http://104.218.60.145:83/Elonge/4049153347@/376815|User-Agent=VLC player
+#EXTINF:-1,RSA Supersport Blitz
+http://104.218.60.145:83/Elonge/4049153347@/376816|User-Agent=VLC player
 #EXTINF:-1,RSA SuperSport MáXimo
 http://104.218.60.145:83/Elonge/4049153347@/376817|User-Agent=VLC player
