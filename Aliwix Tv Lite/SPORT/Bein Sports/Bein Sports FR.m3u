@@ -4,23 +4,23 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| FR BEIN SPORTS HD|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,|FR| BEIN SPORT 1 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/20262
-#EXTINF:-1,|FR| BEIN SPORT 2 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/20263
-#EXTINF:-1,|FR| BEIN SPORT 3HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/20261
-#EXTINF:-1,[FR] BEIN SPORTS MAX 4 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21991
-#EXTINF:-1,[FR] BEIN SPORTS MAX 5 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21990
-#EXTINF:-1,[FR] BEIN SPORTS MAX 6 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21989
-#EXTINF:-1,[FR] BEIN SPORTS MAX 7 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21988
-#EXTINF:-1,[FR] BEIN SPORTS MAX 8 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21987
-#EXTINF:-1,[FR] BEIN SPORTS MAX 9 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21986
-#EXTINF:-1,[FR] BEIN SPORTS MAX 10 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/21992
+#EXTINF:-1,FR: beIN SPORTS1 HD
+http://104.218.60.145:83/Elonge/4049153347@/376377|User-Agent=VLC player
+#EXTINF:-1,FR: beINS PORTS 2HD
+http://104.218.60.145:83/Elonge/4049153347@/376376|User-Agent=VLC player
+#EXTINF:-1,FR: BEIN SPORTS 3HD
+http://104.218.60.145:83/Elonge/4049153347@/376378|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport max 4
+http://104.218.60.145:83/Elonge/4049153347@/376265|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 5
+http://104.218.60.145:83/Elonge/4049153347@/376295|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 6
+http://104.218.60.145:83/Elonge/4049153347@/376294|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 7
+http://104.218.60.145:83/Elonge/4049153347@/376293|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 8
+http://104.218.60.145:83/Elonge/4049153347@/376292|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 9
+http://104.218.60.145:83/Elonge/4049153347@/376291|User-Agent=VLC player
+#EXTINF:-1,FR: Bein Sport Max 10
+http://104.218.60.145:83/Elonge/4049153347@/376296|User-Agent=VLC player
