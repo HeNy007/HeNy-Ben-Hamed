@@ -4,31 +4,39 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|PORTUGAL SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,PT: Sport TV
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3475
-#EXTINF:-1,PT: Sport TV 1 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3474
-#EXTINF:-1,PT: Sport TV 2 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3473
-#EXTINF:-1,PT: Sport TV 3 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3472
-#EXTINF:-1,PT: Sport TV 4 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3471
-#EXTINF:-1,PT: Sport TV 5 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3470
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://104.218.60.145:83/Elonge/4049153347@/376443|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376518|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://104.218.60.145:83/Elonge/4049153347@/376442|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376519|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://104.218.60.145:83/Elonge/4049153347@/376416|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://104.218.60.145:83/Elonge/4049153347@/376441|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376520|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 3HD
+http://104.218.60.145:83/Elonge/4049153347@/376529|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 4
+http://104.218.60.145:83/Elonge/4049153347@/376440|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376521|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 4HD
+http://104.218.60.145:83/Elonge/4049153347@/376439|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 5
+http://104.218.60.145:83/Elonge/4049153347@/376438|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376522|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV 5HD
+http://104.218.60.145:83/Elonge/4049153347@/376437|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV+
+http://104.218.60.145:83/Elonge/4049153347@/376516|User-Agent=VLC player
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376517|User-Agent=VLC player
+#EXTINF:-1,PT: SPORTING TV
+http://104.218.60.145:83/Elonge/4049153347@/376436|User-Agent=VLC player
 #EXTINF:-1,PT: Sporting TV HD 1080
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3469
-#EXTINF:-1,PT: Benfica TV 1 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/3535
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41457
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41456
-#EXTINF:-1,PT: Eleven Sports 3 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41455
-#EXTINF:-1,PT: Eleven Sports 4 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41454
-#EXTINF:-1,PT: Eleven Sports 5 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41453
-#EXTINF:-1,PT: Eleven Sports 6 HD
-http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41452
+http://104.218.60.145:83/Elonge/4049153347@/376523|User-Agent=VLC player
