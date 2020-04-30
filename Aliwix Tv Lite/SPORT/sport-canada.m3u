@@ -1,28 +1,36 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CANADA SPORTS|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,CA: TSN 1  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22324
-#EXTINF:-1,CA: TSN 2  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22322
-#EXTINF:-1,CA: TSN 3  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22320
-#EXTINF:-1,CA: TSN 4  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22318
-#EXTINF:-1,CA: TSN 5  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22316
-#EXTINF:-1,CA: SportsNet (EAST)
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22345
-#EXTINF:-1,CA: SPORTSNET 360
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22346
-#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22342
-#EXTINF:-1,CA: SportsNet Ontario HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22341
-#EXTINF:-1,CA: SPORTSNET PACIFIC  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22340
-#EXTINF:-1,CA: SportsNet WEST  HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22339
-#EXTINF:-1,CA: SportsNet WORLD HD
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/22338
+#EXTINF:-1,VIP HD SPORTSNET 360
+http://104.218.60.145:83/Elonge/4049153347@/374361|User-Agent=VLC player
+#EXTINF:-1,VIP HD SPORTSNET EAST
+http://104.218.60.145:83/Elonge/4049153347@/374362|User-Agent=VLC player
+#EXTINF:-1,VIP HD SPORTSNET ONE
+http://104.218.60.145:83/Elonge/4049153347@/374363|User-Agent=VLC player
+#EXTINF:-1,VIP HD SPORTSNET ONTARIO
+http://104.218.60.145:83/Elonge/4049153347@/374364|User-Agent=VLC player
+#EXTINF:-1,VIP HD SPORTSNET PACIFIC
+http://104.218.60.145:83/Elonge/4049153347@/374365|User-Agent=VLC player
+#EXTINF:-1,VIP HD SPORTSNET WORLD
+http://104.218.60.145:83/Elonge/4049153347@/374366|User-Agent=VLC player
+#EXTINF:-1,VIP HD TLC
+http://104.218.60.145:83/Elonge/4049153347@/374367|User-Agent=VLC player
+#EXTINF:-1,VIP HD TSN1
+http://104.218.60.145:83/Elonge/4049153347@/375855|User-Agent=VLC player
+#EXTINF:-1,VIP HD TSN2
+http://104.218.60.145:83/Elonge/4049153347@/375854|User-Agent=VLC player
+#EXTINF:-1,VIP HD TSN3
+http://104.218.60.145:83/Elonge/4049153347@/374370|User-Agent=VLC player
+#EXTINF:-1,VIP HD TSN4
+http://104.218.60.145:83/Elonge/4049153347@/374371|User-Agent=VLC player
+#EXTINF:-1,VIP HD TSN5
+http://104.218.60.145:83/Elonge/4049153347@/374372|User-Agent=VLC player
+#EXTINF:-1,VIP FHD TVA
+http://104.218.60.145:83/Elonge/4049153347@/374373|User-Agent=VLC player
+#EXTINF:-1,VIP HD TVA SPORTS1
+http://104.218.60.145:83/Elonge/4049153347@/374374|User-Agent=VLC player
+#EXTINF:-1,VIP HD TVA SPORTS2
+http://104.218.60.145:83/Elonge/4049153347@/374375|User-Agent=VLC player
