@@ -4,53 +4,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RMC SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,|FR| RMC SPORT NEWS FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/35031
-#EXTINF:-1,|FR| RMC SPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32713
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32718
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/39589
-#EXTINF:-1,|FR| RMC SPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32714
-#EXTINF:-1,|FR| RMC SPORT 2HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32719
-#EXTINF:-1,|FR| RMC SPORT 2 SD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/39588
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32715
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32720
-#EXTINF:-1,|FR| RMC SPORT 3 SD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/39587
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32716
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32721
-#EXTINF:-1,|FR| RMC SPORT 4K
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37942
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/32717
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37941
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37940
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37939
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37938
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37937
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37936
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37935
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37934
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37933
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/37932
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://iptvpro.premium-itv.com:8789/amandine/amandine/35340
+#EXTINF:-1,RMC Sport News HD FR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/624939
+#EXTINF:-1,RMC Sport 1 FHD FR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/625254
+#EXTINF:-1,RMC Sport 2 HD FR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/86352
+#EXTINF:-1,RMC Sport 3 FHD FR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/625250
+#EXTINF:-1,RMC Sport 4 FHD FR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/625253
