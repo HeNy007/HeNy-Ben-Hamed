@@ -4,11 +4,9 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ES BEIN SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,BeIN SPORTS EN ESPANOL | HD
-http://104.243.41.74:25461/Ian90912/byrad2457/2601
-#EXTINF:-1,BeIN SPORTS LALIGA | HD
-http://104.243.41.74:25461/Ian90912/byrad2457/2608
-#EXTINF:-1,beIN Sports En Espanyol | SD
-http://104.243.41.74:25461/Ian90912/byrad2457/2584
-#EXTINF:-1,beIN Sports La Liga | SD
-http://104.243.41.74:25461/Ian90912/byrad2457/2585
+#EXTINF:-1,bein Sports Espana FHD ES
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/7248
+#EXTINF:-1,bein Sports Espana HD ES
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/8745
+#EXTINF:-1,beIN Sports Espana ES
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13540
