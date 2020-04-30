@@ -4,28 +4,27 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALIWIX VIP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1, Aliwix Tv Movies
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1785|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Movies +2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1889|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Action
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1895|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Comedy
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1893|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Drama
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1902|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Crime
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1901|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv  Horror
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1896|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv Animation
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1897|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv AR Action
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1898|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv AR Comedy1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1899|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv AR Comedy2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1900|User-Agent=Beryan-Plus-1838119296
-#EXTINF:-1,Aliwix Tv AR Drama
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-TV1838119296/1903|User-Agent=Beryan-Plus-1838119296
-
+#EXTINF:-1,Aliwix Movies 2020
+http://beryantv.com:25461/98049930844958/80199156154625/1785
+#EXTINF:-1,Aliwix Movies 2019
+http://beryantv.com:25461/98049930844958/80199156154625/1889
+#EXTINF:-1,Aliwix Movies Action
+http://beryantv.com:25461/98049930844958/80199156154625/1895
+#EXTINF:-1,Aliwix Movies Comedy
+http://beryantv.com:25461/98049930844958/80199156154625/1893
+#EXTINF:-1,Aliwix Movies Drama
+http://beryantv.com:25461/98049930844958/80199156154625/1902
+#EXTINF:-1,Aliwix Movies Crime
+http://beryantv.com:25461/98049930844958/80199156154625/1901
+#EXTINF:-1,Aliwix Movies Horror
+http://beryantv.com:25461/98049930844958/80199156154625/1896
+#EXTINF:-1,Aliwix Movies Animation
+http://beryantv.com:25461/98049930844958/80199156154625/1897
+#EXTINF:-1,Aliwix AR Movies Action
+http://beryantv.com:25461/98049930844958/80199156154625/1898
+#EXTINF:-1,Aliwix AR Movies Comedy1
+http://beryantv.com:25461/98049930844958/80199156154625/1899
+#EXTINF:-1,Aliwix AR Movies Comedy2
+http://beryantv.com:25461/98049930844958/80199156154625/1900
+#EXTINF:-1,Aliwix AR Movies Drama
+http://beryantv.com:25461/98049930844958/80199156154625/1903
