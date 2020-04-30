@@ -4,7 +4,8 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MY HD|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (HD)
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
 
@@ -51,6 +52,21 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC (HD)",b4u aflam (HD)
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+
+
+#EXTINF:-1,Fox Rewayat
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/125.ts|User-Agent=( الرائد التقني )
+#EXTINF:-1,Fox Life
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/126.ts|User-Agent=( الرائد التقني )
+#EXTINF:-1,Fox Fire Movies
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/128.ts|User-Agent=( الرائد التقني )
+#EXTINF:-1,Fox Family Movies
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/129.ts|User-Agent=( الرائد التقني )
+#EXTINF:-1,Fox Crime
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/127.ts|User-Agent=( الرائد التقني )
+#EXTINF:-1,Fox Action Movies
+http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/130.ts|User-Agent=( الرائد التقني )
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana DRAMA (HD)" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="ROTANA (HD)",Rotana DRAMA (HD)
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
