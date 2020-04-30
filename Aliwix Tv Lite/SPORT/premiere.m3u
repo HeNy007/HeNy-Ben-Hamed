@@ -4,51 +4,23 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|PREMIERE BRAZIL|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,PREMIERE 1 HD ¹
-http://srvuhd.top:80/William/William/37521
-#EXTINF:-1,PREMIERE  1 ¹
-http://srvuhd.top:80/William/William/37670
-#EXTINF:-1,PREMIERE 2 HD
-http://srvuhd.top:80/William/William/37189
-#EXTINF:-1,PREMIERE 2
-http://srvuhd.top:80/William/William/37090
-#EXTINF:-1,PREMIERE 2 HD ¹
-http://srvuhd.top:80/William/William/37523
-#EXTINF:-1,PREMIERE 3 HD
-http://srvuhd.top:80/William/William/37190
-#EXTINF:-1,PREMIERE 3 HD  ¹
-http://srvuhd.top:80/William/William/37524
-#EXTINF:-1,PREMIERE 3
-http://srvuhd.top:80/William/William/37112
-#EXTINF:-1,PREMIERE 4 HD
-http://srvuhd.top:80/William/William/37191
-#EXTINF:-1,PREMIERE 4 HD ¹
-http://srvuhd.top:80/William/William/37522
-#EXTINF:-1,PREMIERE 4
-http://srvuhd.top:80/William/William/37089
-#EXTINF:-1,PREMIERE 4  ¹
-http://srvuhd.top:80/William/William/37671
-#EXTINF:-1,PREMIERE 5 HD
-http://srvuhd.top:80/William/William/37192
-#EXTINF:-1,PREMIERE 5 HD ¹
-http://srvuhd.top:80/William/William/37525
-#EXTINF:-1,PREMIERE 5
-http://srvuhd.top:80/William/William/37113
-#EXTINF:-1,PREMIERE 6 HD
-http://srvuhd.top:80/William/William/37193
-#EXTINF:-1,PREMIERE 6 SD
-http://srvuhd.top:80/William/William/37125
-#EXTINF:-1,PREMIERE 6 HD ¹
-http://srvuhd.top:80/William/William/37526
-#EXTINF:-1,PREMIERE 7 HD
-http://srvuhd.top:80/William/William/37194
-#EXTINF:-1,PREMIERE 7 SD
-http://srvuhd.top:80/William/William/37124
-#EXTINF:-1,PREMIERE  7 ¹
-http://srvuhd.top:80/William/William/37672
-#EXTINF:-1,PREMIERE 8 SD ¹
-http://srvuhd.top:80/William/William/37673
-#EXTINF:-1,PREMIERE CLUBES HD
-http://srvuhd.top:80/William/William/37195
-#EXTINF:-1,PREMIERE CLUBES
-http://srvuhd.top:80/William/William/37088
+#EXTINF:-1,Premiere Clubes HD BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13610
+#EXTINF:-1,Premiere Clubes BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10219
+#EXTINF:-1,Premiere 2 HD BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10230
+#EXTINF:-1,Premiere 3 HD BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10228
+#EXTINF:-1,Premiere 3 BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10229
+#EXTINF:-1,Premiere 4 HD BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10226
+#EXTINF:-1,Premiere 4 BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10227
+#EXTINF:-1,Premiere 5 HD BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10224
+#EXTINF:-1,Premiere 5 BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10225
+#EXTINF:-1,Premiere 6 BR
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/10223
