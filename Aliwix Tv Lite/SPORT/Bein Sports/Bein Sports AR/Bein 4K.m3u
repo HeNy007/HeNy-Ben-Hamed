@@ -2,23 +2,32 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS 4K|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1,Bein Sports 1 4K
-http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 2 4K
-http://tv.vodu.me:2052/bein1/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 3 4K
-http://tv.vodu.me:2052/bein1/3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 4 4K
-http://tv.vodu.me:2052/bein1/4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 5 4K
-http://tv.vodu.me:2052/bein1/5/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 6 4K
-http://tv.vodu.me:2052/bein2/6/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 7 4K
-http://tv.vodu.me:2052/bein2/7/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
-#EXTINF:-1,Bein Sports 8 4K
-http://tv.vodu.me:2052/bein2/8/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
-#EXTINF:-1,Bein Sports 9 4K
-http://tv.vodu.me:2052/bein2/9/tracks-v1a1/mono.m3u8|User-Agent=3SRAJxBmNq^Y^QMB=A$L#QN
+#EXTINF:-1,beIN Sports News 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13861
+#EXTINF:-1,beIN Sports 1 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13860
+#EXTINF:-1,beIN Sports 2 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13859
+#EXTINF:-1,beIN Sports 3 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/53268
+#EXTINF:-1,beIN Sports 4 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13857
+#EXTINF:-1,beIN Sports 5 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/625256
+#EXTINF:-1,beIN Sports 6 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13855
+#EXTINF:-1,beIN Sports 7 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13854
+#EXTINF:-1,beIN Sports 8 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13853
+#EXTINF:-1,beIN Sports 9 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13852
+#EXTINF:-1,beIN Sports 10 4K ARB
+http://mytv.fun:8080/g3gv5hozr/aiiucw1op8/13851
