@@ -4,33 +4,41 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CANADA SPORTS|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,VIP HD SPORTSNET 360
-http://104.218.60.145:83/Elonge/4049153347@/374361|User-Agent=VLC player
-#EXTINF:-1,VIP HD SPORTSNET EAST
-http://104.218.60.145:83/Elonge/4049153347@/374362|User-Agent=VLC player
-#EXTINF:-1,VIP HD SPORTSNET ONE
-http://104.218.60.145:83/Elonge/4049153347@/374363|User-Agent=VLC player
-#EXTINF:-1,VIP HD SPORTSNET ONTARIO
-http://104.218.60.145:83/Elonge/4049153347@/374364|User-Agent=VLC player
-#EXTINF:-1,VIP HD SPORTSNET PACIFIC
-http://104.218.60.145:83/Elonge/4049153347@/374365|User-Agent=VLC player
-#EXTINF:-1,VIP HD SPORTSNET WORLD
-http://104.218.60.145:83/Elonge/4049153347@/374366|User-Agent=VLC player
-#EXTINF:-1,VIP HD TLC
-http://104.218.60.145:83/Elonge/4049153347@/374367|User-Agent=VLC player
-#EXTINF:-1,VIP HD TSN1
-http://104.218.60.145:83/Elonge/4049153347@/375855|User-Agent=VLC player
-#EXTINF:-1,VIP HD TSN2
-http://104.218.60.145:83/Elonge/4049153347@/375854|User-Agent=VLC player
-#EXTINF:-1,VIP HD TSN3
-http://104.218.60.145:83/Elonge/4049153347@/374370|User-Agent=VLC player
-#EXTINF:-1,VIP HD TSN4
-http://104.218.60.145:83/Elonge/4049153347@/374371|User-Agent=VLC player
-#EXTINF:-1,VIP HD TSN5
-http://104.218.60.145:83/Elonge/4049153347@/374372|User-Agent=VLC player
-#EXTINF:-1,VIP FHD TVA
-http://104.218.60.145:83/Elonge/4049153347@/374373|User-Agent=VLC player
-#EXTINF:-1,VIP HD TVA SPORTS1
-http://104.218.60.145:83/Elonge/4049153347@/374374|User-Agent=VLC player
-#EXTINF:-1,VIP HD TVA SPORTS2
-http://104.218.60.145:83/Elonge/4049153347@/374375|User-Agent=VLC player
+#EXTINF:-1,SportsNet 360 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37030
+#EXTINF:-1,SportsNet East HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12741
+#EXTINF:-1,SportsNet One HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12742
+#EXTINF:-1,SportsNet Ontario HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12743
+#EXTINF:-1,SportsNet World HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12752
+#EXTINF:-1,TLC HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37028
+#EXTINF:-1,TSN 1 CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/17691
+#EXTINF:-1,TSN 1 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37023
+#EXTINF:-1,TSN 2 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37022
+#EXTINF:-1,TSN 3 CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/17689
+#EXTINF:-1,TSN 3 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37021
+#EXTINF:-1,TSN 4 CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/17688
+#EXTINF:-1,TSN 4 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37020
+#EXTINF:-1,TSN 5 HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37019
+#EXTINF:-1,TreeHouse HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37025
+#EXTINF:-1,Treehouse TV CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12759
+#EXTINF:-1,WWE HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37016
+#EXTINF:-1,YTV HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/37013
+#EXTINF:-1,beIN Sports HD CA
+http://mytv.fun:8080/jhfllcqsae/ec5xgvuarg/12747
