@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|FAMILY PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Cinema
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12672
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Cinema_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12677
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_MOVIES
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12670
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Movies_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12684
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",Famliy_Action
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12665
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_ACTION_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12678
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_FANTASIA
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12666
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_FANTASIA_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12680
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_HISTORY
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12669
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_HISTORY_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12681
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_COMEDY
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12671
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_COMEDY_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12679
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Masrhyat
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12668
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Masr7yat_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12683
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_KIDS
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12667
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2019/02/00580-Family-01.png",FAMILY_Kids_+2
+http://novaiptv.vip:80/Aloon3049/Aloon1023/12682
