@@ -4,12 +4,6 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NOVA PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NOVA PACKAGE|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",NOVA_AFLAM_1
 http://novaiptv.vip:80/Aloon3049/Aloon1023/3971
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",NOVA_AFLAM_2
