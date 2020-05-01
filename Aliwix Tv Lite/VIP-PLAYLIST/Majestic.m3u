@@ -3,6 +3,40 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MAJESTIC|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_Cinema1_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/160|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_ZAMAN_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/161|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_Movies_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/162|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_ACTION_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/163|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_HORROR_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/164|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_KIDS_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/165|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action
 http://ferrarich.referrari.com:8080/live/98821_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png" group-title="", Majestic Action 2
