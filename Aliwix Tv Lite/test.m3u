@@ -1,19 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Sky Cinema Premiere
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/718
-#EXTINF:-1,Sky Cinema Family
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/719
-#EXTINF:-1,Sky Cinema Drama
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/720
-#EXTINF:-1,Sky Cinema Disney
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/721
-#EXTINF:-1,Sky Cinema Comedy
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/722
-#EXTINF:-1,Sky Cinema Action
-#EXTVLCOPT:http-user-agent=tvioo/3 (Linux;Android 9) ExoPlayerLib/2.10.6
-http://vtpii.net:8000/tvioo-aVJdAglzC0gKRaU8dCqs/gKRaU8dCqsaVJdAglzC0-tvioo/723
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_Cinema1_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/160|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_ZAMAN_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/161|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_Movies_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/162|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_ACTION_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/163|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/98/Db-app-icon.png",Majestic_HORROR_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/164|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="",Majestic_KIDS_Hd
+
+
+http://iptvhit.live/AliwixLite/Aliwix/Lite1/165|User-Agent=AliwixLite (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
