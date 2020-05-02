@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO LUXEMBOURG|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg Radio ~
+http://www.lengua.com/anthems/Luxembourg.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bwyurxxg9atz.jpg" group-title="LUXEMBOURG",Radio Gutt Laun 106.0 FM
+http://rgl.selfip.net:8000/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41ecwh7aD-L.png" group-title="LUXEMBOURG",RTL Radio
+http://sc-rtllive.newmedia.lu/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="LUXEMBOURG",Eldoradio 105 FM
+http://sc-eldolive.newmedia.lu/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="LUXEMBOURG",Eldoradio - 80s
+http://sc-eldo80s.newmedia.lu/;*.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="LUXEMBOURG",Eldoradio - 90s
+http://sc-eldo90s.newmedia.lu/;*.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="LUXEMBOURG",Eldoradio - Chill
+http://sc-eldochill.newmedia.lu/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="LUXEMBOURG",Eldoradio - Top 25
+http://sc-eldotop25.newmedia.lu/;*.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/14/3f/16668/c175.png" group-title="LUXEMBOURG",Radio Classique Bergem FM 106.0
+http://rcb.zapto.org:8000/mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ad/d7/add714bacd412e583cc70845a7a96fd8.jpg" group-title="LUXEMBOURG",Radio FSN - Balladen
+http://stream.radio-fsn.de:8000/balladen
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ad/d7/add714bacd412e583cc70845a7a96fd8.jpg" group-title="LUXEMBOURG",Radio FSN - Black Metal
+http://stream.radio-fsn.de:8000/blackmetal
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ad/d7/add714bacd412e583cc70845a7a96fd8.jpg" group-title="LUXEMBOURG",Radio FSN - Hardcore
+http://stream.radio-fsn.de:8000/hardcore
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ad/d7/add714bacd412e583cc70845a7a96fd8.jpg" group-title="LUXEMBOURG",Radio FSN - ISDN Mix
+http://stream.radio-fsn.de:8000/isdn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ad/d7/add714bacd412e583cc70845a7a96fd8.jpg" group-title="LUXEMBOURG",Radio FSN - Rock
+http://stream.radio-fsn.de:8000/rock
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAh0AAAAJGViNjU2YzkwLTAzNGItNDdhNC1iYzM2LTJhYjk2MmNhYjgyOQ.png" group-title="LUXEMBOURG",Radio Puls
+http://82.145.43.92:8312/stream
+
