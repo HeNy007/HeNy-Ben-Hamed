@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO CZECH|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",~ Czech Republic Radio ~
+http://www.lengua.com/anthems/CzechRepublic.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Chillout
+http://mp3stream4.abradio.cz/chillout128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - ShadowBox
+http://ice3.abradio.cz/shadowbox128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Oldies Radio
+http://ice.abradio.cz/oldiesradio128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Oldies Rock
+http://mp3stream4.abradio.cz/oldiesrock128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Alternative
+http://ice3.abradio.cz/alternative128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - RFX
+http://ice3.abradio.cz/rfx128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Country
+http://mp3stream4.abradio.cz/country128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Blanik
+http://ice.abradio.cz/blanikcz128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Folk
+http://mp3stream2.abradio.cz:8000/folk.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Relax - Sea
+http://ice6.abradio.cz/relax-sea128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Relax - Thunder + Rain
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Relax - Fire
+http://ice6.abradio.cz/relax-fire128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Pohadka
+http://ice3.abradio.cz/pohadka128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abradio.cz/bundles/abradiofront/img/app-android-icon.png" group-title="CZECH REP",ABradio.cz - Povidka
+http://ice3.abradio.cz/povidka128.mp3
