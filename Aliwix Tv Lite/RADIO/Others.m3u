@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| RADIO |-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/bahamas/flag-3d-round-250.png" group-title="LABEL",~ Bahamas Radio ~
+http://www.lengua.com/anthems/bahamas.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://100jamz.streamon.fm/custom/images/100JAMZ-logo.jpg" group-title="BAHAMAS",100 Jamz 100.3 FM Nassau
+http://100jamz.streamon.fm/hls/100JAMZ-24k.m3u8
+
+ #EXTINF:-1 tvg-logo="https://rlv.zcache.be/drapeau_de_la_jamaique_sticker_carre-r7371985206334375b322718d635470e9_v9wf3_8byvr_324.jpg" group-title="LABEL",~ Jamaica Radio ~
+http://www.lengua.com/anthems/Jamaica.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.islandvibesradio.com/assets/ISLAND_2.jpg" group-title="JAMAICA",Island Vibes Radio
+http://74.50.122.103:8982/;stream
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",~ Ireland Radio ~
+http://www.lengua.com/anthems/Ireland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/b9/f3/b9f36007998830ad09ccfbb2287d551e.jpg" group-title="IRELAND",Midwest Irish Radio
+http://tx.sharp-stream.com/http_live.php?i=mwir.mp3
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/guadeloupe/guadeloupe_640.png" group-title="LABEL",~ Guadeloupe Radio ~
+http://www.lengua.com/anthems/Guadeloupe.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bluemelodyschoolradio.com/upload/design/54c6cfaee9ac06.50082848.png" group-title="GUADELOUPE",Blue Melody School Radio
+http://212.83.172.22/radio/593/stream/62896
+
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/haiti/haiti_640.png" group-title="LABEL",~ Haiti Radio ~
+http://www.lengua.com/anthems/Guadeloupe.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/565561218476552192/hE4APoYb.jpeg" group-title="HAITI",Radio Galaxie - FM 104.5
+http://149.202.45.235:8000/stream.mp3
+
+♥
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Mexico-01.png" group-title="LABEL",~ Mexico Radio ~
+http://www.lengua.com/anthems/Mexico.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioramamexicali.com/images/CONECTA.png" group-title="MEXICO",@FM 104.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhmc.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5rFhAWwGGy.png" group-title="MEXICO",940 Oldies AM Mexicali
+http://192.95.39.65:5410/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/amor104-5fm.png" group-title="MEXICO",Amor 104.5 FM Aguascalientes
+http://zer.zuperdns.net:1045/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/XHAC_Azul106.9_logo.png" group-title="MEXICO",Azul 106.9 FM Aguascalientes
+http://tunein.gvstream.net:8282/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91753d.png" group-title="MEXICO",Estereo Mendel 103.7 FM Aguascalientes
+http://tunein.gvstream.net:8034/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/s88038/images/logoq.jpg" group-title="MEXICO",Exa 97.3 FM Aguascalientes
+http://tunein.gvstream.net:9046/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elchiltepin.mx/fotos/columnistas/b3863010909801f136dbb99f123328e9.jpg" group-title="MEXICO",El Chiltepin Hermosillo
+http://198.27.64.106:4024/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://chelcu.files.wordpress.com/2008/01/chelcu.jpg" group-title="MEXICO",Jarochos Radio Veracruz
+http://65.60.62.181:9900/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio43243_1487287125.jpg" group-title="MEXICO",Ke Buena 850 AM Mexicali
+http://stream2.dyndns.org:8000/xezf.mp3/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.turiguide.com/images/radio-ke-buena.png" group-title="MEXICO",Ke Buena 1400 AM Aguascalientes
+http://tunein.gvstream.net:8282/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audioramabc.com/images/labestiagruperamexicali234.png" group-title="MEXICO",La Bestia Grupera 92.3 FM Mexicali
+http://stream2.dyndns.org:8000/xhmmf.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioramamexicali.com/images/img0008.png" group-title="MEXICO",La Dinamica 105.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhsu.mp3/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lagrand.radioramamexicali.com/wp-content/uploads/2014/10/LOGO-LAGRAND-e1422388217621.png" group-title="MEXICO",La Gran D 1050 AM Mexicali
+http://stream2.dyndns.org:8000/xed.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/lakaliente102-9fm.png" group-title="MEXICO",La Kaliente 102.9 FM Aguascalientes
+http://zer.zuperdns.net:1021/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 91.3 FM Aguascalientes
+http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 860 AM Aguascalientes
+http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiouniversal.mx/imagenes/logoLaMejor.gif" group-title="MEXICO",La Mejor 93.7 FM Aguascalientes
+http://tunein.gvstream.net:9232/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiorama.mx/images/fotos/323_XHYZ.png" group-title="MEXICO",La Poderosa 107.7 FM Aguascalientes
+http://201.159.48.105:2871/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/300/300_1505249390.jpg" group-title="MEXICO",La Poderosa 1130 AM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/laranchera106-1fm.png" group-title="MEXICO",La Ranchera 106.1 FM Aguascalientes
+http://zer.zuperdns.net:1006/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
+http://62.210.203.78:7326/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/7b/70/7b7019e5395302fc2ca3ea5bab694d9a.jpg" group-title="MEXICO",La Rocola 990 AM Mexicali
+http://stream2.dyndns.org:8000/xecl.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/lasanmarquena100-1fm.png" group-title="MEXICO",La Sanmarquena 100.1 FM Aguascalientes
+http://zer.zuperdns.net:2001/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="MEXICO",Los 40 101.7 FM Mexico City [AAC]
+http://19173.live.streamtheworld.com/LOS40_MEXICOAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/XHUNO_magia101fm_logo.png/200px-XHUNO_magia101fm_logo.png" group-title="MEXICO",Magia 101.7 FM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k9fVhqHWFz.jpg" group-title="MEXICO",Mas Que Radio 107.3 FM Calvillo
+http://50.22.218.197:8783/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88436d.png" group-title="MEXICO",Maxima FM 106.7 Guadalajara
+http://192.99.16.17:3410/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://milenio.fm/wp-content/uploads/2017/08/MILENIO-105-1-FM-300x240.png" group-title="MEXICO",Milenio 105.1 FM Guadalajara
+http://radio.promosat.com:8018/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/90/8c/3001/c175.png" group-title="MEXICO",Panda Show Radio
+http://listen.radionomy.com:80/pandashowradio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/09/Radio-BI-88.7-FM-Mexico-Online.jpg" group-title="MEXICO",Radio BI 88.7 FM Aguascalientes
+http://201.159.48.107:2860/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mobzilla.vo.llnwd.net/o2/MobzillaRadio/400x400/31442.jpg" group-title="MEXICO",Radio Disney 99.3 FM Mexico City
+http://disneymxradio-lh.akamaihd.net/i/MXDisneyRADIO_1@147029/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/220_grande.jpg" group-title="MEXICO",Radio eXtremo Guadalajara
+http://89.46.67.143:9190/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/f3/4f/34942/c175.png" group-title="MEXICO",Radio Mariachi Stream
+http://167.114.64.181:9427/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44009d.png" group-title="MEXICO",Radio Mexicana 910 AM Mexicali
+http://s1.radiorama.com.mx:9570/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s2815/images/logod.png" group-title="MEXICO",Radio Mujer 1040 AM Guadalajara
+http://radio.promosat.com:8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/0021c827-9960-44a9-a194-a62ab1d1949d.png" group-title="MEXICO",Rclasicos Hermosillo
+http://149.56.23.143:9100/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://proyectopuente.com.mx/wp-content/themes/pp/images/logo.png" group-title="MEXICO",Proyecto Puente Hermosillo
+http://149.56.23.143:8200/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/798640294799413249/_lfb_AvH.jpg" group-title="MEXICO",SalsaMexico
+http://radiolatina.info:7218/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/XHCAA_stereorey100.9_logo.png/220px-XHCAA_stereorey100.9_logo.png" group-title="MEXICO",Stereorey 100.9 FM Aguascalientes
+http://tunein.gvstream.net:9038/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audioramabc.com/images/superlogomexicali.jpg" group-title="MEXICO",Super 89.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhsol.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/XEHG_Super1370_logo.png/150px-XEHG_Super1370_logo.png" group-title="MEXICO",Super 1370 AM Mexicali
+http://s1.radiorama.com.mx:9564/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Super Stereo Miled 98.9 FM Toluca
+http://192.99.34.205:8068/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s88041/images/logod.png" group-title="MEXICO",Tono 96.9 FM Murguia
+http://stream3.dyndns.org:8000/xhmug.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G8V3VtELKbQ/AAAAAAAAAAI/AAAAAAAAAAA/O_UAG04Qsks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Tu Musica FM Tijuana
+http://192.254.193.215:8007/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-1]
+http://18723.live.streamtheworld.com/W_RADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-2]
+http://14033.live.streamtheworld.com/W_RADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
+http://radio.promosat.com:8006/stream
+
+
+
+♥♥♥
+♥♥
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Serbia-01.png" group-title="LABEL",~ Serbia Radio ~
+http://www.lengua.com/anthems/Serbia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d5d2e4b7-2c50-48b1-8335-0527c8f769c2.png" group-title="SERBIA",Cool Radio
+http://176.9.30.66:80/cool64
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Croatia-01.png" group-title="LABEL",~ Croatia Radio ~
+http://www.lengua.com/anthems/Croatia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/16/95/5225/c175.png" group-title="CROATIA",Radio Banovina
+http://136.243.21.140:9998/banovina
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/ba.png" group-title="LABEL",~ Bosnia Herzegovina Radio ~
+http://www.lengua.com/anthems/BosniaHerzegovina.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267495d.png" group-title="BOSNIA",Balkan HiT Radio - Narodna Folk
+http://5.63.151.52:7031/stream
+
+#EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",~ Russia Radio ~
+http://www.lengua.com/anthems/Russia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pp.userapi.com/c5947/g27141505/a_24f5541d.jpg" group-title="RUSSIA",Piter FM 100.9 FM
+http://cdn.radiopiterfm.ru/piterfm
+
+#EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",~ Ukraine Radio ~
+http://www.lengua.com/anthems/Ukraine.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s226345d.png" group-title="UKRAINE",E!Rock Radio
+http://158.69.180.201:9334/;stream
+
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova Radio ~
+http://www.lengua.com/anthems/Moldova.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-gJJ-z4bWRdk/VUO2Wqm1sPI/AAAAAAAAA64/0M7bI3pKH74/s1600/univers-fm.jpg" group-title="MOLDOVA",Univers FM
+http://92.39.52.207:9000/UniversFm
+
+
+
+
+
+♥♥♥♥
+♥♥♥♥♥♥♥
+
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Slovenia-01.png" group-title="LABEL",~ Slovenia Radio ~
+http://www.lengua.com/anthems/Slovenia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wyG78ZwWEts/AAAAAAAAAAI/AAAAAAAAAAA/zOEr3Treqwc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SLOVENIA",Hitradio Center
+http://212.18.63.135:8000/center
+
+♥♥♥♥
+♥♥♥♥♥♥♥
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iran-01.png" group-title="LABEL",~ Iran Radio ~
+http://www.lengua.com/anthems/Iran.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.apk-cloud.com/detail/image/com.radiofm.iribworld.guilan.qom.radioiran-w250.png" group-title="IRAN",Radio Tabriz 95.0 FM Ahar
+http://cdn1.live.irib.ir:1935/e-radio/r-baran.stream/playlist.m3u8
+♥♥♥
+♥♥♥♥♥♥
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine Radio ~
+http://users.atw.hu/szbszig/palestine.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/86/44/864453a3150c3638a15fe442edbfdf34.jpg" group-title="PALESTINE",Ashams Radio - FM 98.1
+http://ashams.livecdn.biz/ashams_aac
+
+♥♥♥♥♥
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Egypt-01.png" group-title="LABEL",~ Egypt Radio ~
+http://www.lengua.com/anthems/Egypt.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s101892q.png" group-title="EGYPT",Mahatet Masr
+mmsh://205.164.56.70:80/mahatetmasr?MSWMExt=.asf
+
+#EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa Radio ~
+http://www.lengua.com/anthems/SouthAfrica.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewordfortoday.co.za/wp-content/uploads/2017/03/Radio-Pulpit-high-res.jpg" group-title="SOUTH AFRICA",Radio 729AM Cape Pulpit
+http://64.202.98.51:8450/live
+
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/senegal/senegal_640.png" group-title="LABEL",~ Senegal Radio ~
+http://www.lengua.com/anthems/Senegal.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Urum-Bi.jpg" group-title="SENEGAL",Radio Urum-Bi
+http://212.83.172.22/radio/4735/stream/63217
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sunuradiotv.com/wp-content/uploads/2017/06/sud-fm-1.jpg" group-title="SENEGAL",Sud FM 98.5
+http://174.142.76.50:9002/senradio
+
+#EXTINF:-1 tvg-logo="https://icon-icons.com/icons2/97/PNG/256/uganda_flags_flag_17075.png" group-title="LABEL",~ Uganda Radio ~
+http://www.lengua.com/anthems/Uganda.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://volumesup.com/image/logo/71301/ks-radio-mukono.jpg" group-title="UGANDA",KS Radio Mukono
+http://149.56.147.197:8117/listen.
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ghana-01.png" group-title="LABEL",~ Ghana Radio ~
+http://www.lengua.com/anthems/Ghana.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Metro_FM_Logo2.gif" group-title="GHANA",Metro FM 94.1 FM Kumasi
+http://74.50.122.103:9376/;stream
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Thailand-01.png" group-title="LABEL",~ Thailand Radio ~
+http://www.lengua.com/anthems/Thailand.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://top-radio.org/wp-content/uploads/logo/sukson-radio.jpg" group-title="THAILAND",Sukson Radio
+http://103.246.18.191:9000/SuksonRadio
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Japan-01.png" group-title="LABEL",~ Japan Radio ~
+http://www.lengua.com/anthems/Japan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/28/cc/37894/2/c300.png" group-title="JAPAN",J-Pop Powerplay
+http://184.75.223.178:8102/stream
+
+#EXTINF:-1 tvg-logo="https://ai-i2.infcdn.net/icons_siandroid/png/200/3643/3643309.png" group-title="LABEL",~ Philippines Radio ~
+http://www.lengua.com/anthems/Philippines.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-retSaf9Q3y8/VF92roImopI/AAAAAAAAAbY/OgqxYfK9-qc/s200/wrock-cebu-amfmph.png" group-title="PHILIPPINES",96.3 WRocK Cebu
+http://37.187.79.93:8248/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestfriendfm.com/assets/img/logo.png" group-title="PHILIPPINES",Bestfriend FM
+http://178.32.62.172:8217/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://eradioportal.com/wp-content/uploads/2012/11/Monster-Radio-Manila.png" group-title="PHILIPPINES",Monster Radio DWRX 93.1 FM
+http://64.202.98.51:8400/live
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia Radio ~
+http://www.lengua.com/anthems/Indonesia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/37/8d/93/378d939f-a3cd-835a-0d59-b03c9e919cf8/source/256x256bb.jpg" group-title="INDONESIA",Bali Niko Pratama Radio
+http://78.129.224.19:32871
