@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO ROMANIA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Romania-01.png" group-title="LABEL",~ Romania Radio ~
+http://www.lengua.com/anthems/Romania.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frissfm.ro/logo.png" group-title="ROMANIA",Friss FM [Opt-1]
+http://live.frissfm.ro:8000/highband.ogg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frissfm.ro/logo.png" group-title="ROMANIA",Friss FM [Opt-2]
+http://live.frissfm.ro:8000/frissfm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNTRZ5E.png" group-title="ROMANIA",Radio Manele
+http://217.182.51.104:8888/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s80599d.png" group-title="ROMANIA",Radio Vox 104.0 FM Nord-Est
+http://stream.voxfm.ro:8000/stream/1/
