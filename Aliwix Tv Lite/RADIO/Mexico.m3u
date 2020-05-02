@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO MEXIC|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Mexico-01.png" group-title="LABEL",~ Mexico Radio ~
+http://www.lengua.com/anthems/Mexico.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioramamexicali.com/images/CONECTA.png" group-title="MEXICO",@FM 104.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhmc.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5rFhAWwGGy.png" group-title="MEXICO",940 Oldies AM Mexicali
+http://192.95.39.65:5410/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/amor104-5fm.png" group-title="MEXICO",Amor 104.5 FM Aguascalientes
+http://zer.zuperdns.net:1045/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/XHAC_Azul106.9_logo.png" group-title="MEXICO",Azul 106.9 FM Aguascalientes
+http://tunein.gvstream.net:8282/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91753d.png" group-title="MEXICO",Estereo Mendel 103.7 FM Aguascalientes
+http://tunein.gvstream.net:8034/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-profiles.tunein.com/s88038/images/logoq.jpg" group-title="MEXICO",Exa 97.3 FM Aguascalientes
+http://tunein.gvstream.net:9046/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elchiltepin.mx/fotos/columnistas/b3863010909801f136dbb99f123328e9.jpg" group-title="MEXICO",El Chiltepin Hermosillo
+http://198.27.64.106:4024/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://chelcu.files.wordpress.com/2008/01/chelcu.jpg" group-title="MEXICO",Jarochos Radio Veracruz
+http://65.60.62.181:9900/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio43243_1487287125.jpg" group-title="MEXICO",Ke Buena 850 AM Mexicali
+http://stream2.dyndns.org:8000/xezf.mp3/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.turiguide.com/images/radio-ke-buena.png" group-title="MEXICO",Ke Buena 1400 AM Aguascalientes
+http://tunein.gvstream.net:8282/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audioramabc.com/images/labestiagruperamexicali234.png" group-title="MEXICO",La Bestia Grupera 92.3 FM Mexicali
+http://stream2.dyndns.org:8000/xhmmf.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioramamexicali.com/images/img0008.png" group-title="MEXICO",La Dinamica 105.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhsu.mp3/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lagrand.radioramamexicali.com/wp-content/uploads/2014/10/LOGO-LAGRAND-e1422388217621.png" group-title="MEXICO",La Gran D 1050 AM Mexicali
+http://stream2.dyndns.org:8000/xed.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/lakaliente102-9fm.png" group-title="MEXICO",La Kaliente 102.9 FM Aguascalientes
+http://zer.zuperdns.net:1021/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 91.3 FM Aguascalientes
+http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037q.png" group-title="MEXICO",La Mexicana 860 AM Aguascalientes
+http://tunein.gvstream.net:9042/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiouniversal.mx/imagenes/logoLaMejor.gif" group-title="MEXICO",La Mejor 93.7 FM Aguascalientes
+http://tunein.gvstream.net:9232/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiorama.mx/images/fotos/323_XHYZ.png" group-title="MEXICO",La Poderosa 107.7 FM Aguascalientes
+http://201.159.48.105:2871/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/300/300_1505249390.jpg" group-title="MEXICO",La Poderosa 1130 AM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/laranchera106-1fm.png" group-title="MEXICO",La Ranchera 106.1 FM Aguascalientes
+http://zer.zuperdns.net:1006/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k347ys92buh2.jpeg" group-title="MEXICO",La Rancherita del Aire 103.7 FM Piedras Negras
+http://62.210.203.78:7326/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/7b/70/7b7019e5395302fc2ca3ea5bab694d9a.jpg" group-title="MEXICO",La Rocola 990 AM Mexicali
+http://stream2.dyndns.org:8000/xecl.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://grupozer.net/logos/lasanmarquena100-1fm.png" group-title="MEXICO",La Sanmarquena 100.1 FM Aguascalientes
+http://zer.zuperdns.net:2001/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="MEXICO",Los 40 101.7 FM Mexico City [AAC]
+http://19173.live.streamtheworld.com/LOS40_MEXICOAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/XHUNO_magia101fm_logo.png/200px-XHUNO_magia101fm_logo.png" group-title="MEXICO",Magia 101.7 FM Aguascalientes
+http://201.159.48.107:88/broadwave.mp3?src=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k9fVhqHWFz.jpg" group-title="MEXICO",Mas Que Radio 107.3 FM Calvillo
+http://50.22.218.197:8783/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88436d.png" group-title="MEXICO",Maxima FM 106.7 Guadalajara
+http://192.99.16.17:3410/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://milenio.fm/wp-content/uploads/2017/08/MILENIO-105-1-FM-300x240.png" group-title="MEXICO",Milenio 105.1 FM Guadalajara
+http://radio.promosat.com:8018/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/90/8c/3001/c175.png" group-title="MEXICO",Panda Show Radio
+http://listen.radionomy.com:80/pandashowradio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/09/Radio-BI-88.7-FM-Mexico-Online.jpg" group-title="MEXICO",Radio BI 88.7 FM Aguascalientes
+http://201.159.48.107:2860/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mobzilla.vo.llnwd.net/o2/MobzillaRadio/400x400/31442.jpg" group-title="MEXICO",Radio Disney 99.3 FM Mexico City
+http://disneymxradio-lh.akamaihd.net/i/MXDisneyRADIO_1@147029/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/grande/220_grande.jpg" group-title="MEXICO",Radio eXtremo Guadalajara
+http://89.46.67.143:9190/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/f3/4f/34942/c175.png" group-title="MEXICO",Radio Mariachi Stream
+http://167.114.64.181:9427/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44009d.png" group-title="MEXICO",Radio Mexicana 910 AM Mexicali
+http://s1.radiorama.com.mx:9570/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s2815/images/logod.png" group-title="MEXICO",Radio Mujer 1040 AM Guadalajara
+http://radio.promosat.com:8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/0021c827-9960-44a9-a194-a62ab1d1949d.png" group-title="MEXICO",Rclasicos Hermosillo
+http://149.56.23.143:9100/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://proyectopuente.com.mx/wp-content/themes/pp/images/logo.png" group-title="MEXICO",Proyecto Puente Hermosillo
+http://149.56.23.143:8200/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/798640294799413249/_lfb_AvH.jpg" group-title="MEXICO",SalsaMexico
+http://radiolatina.info:7218/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/XHCAA_stereorey100.9_logo.png/220px-XHCAA_stereorey100.9_logo.png" group-title="MEXICO",Stereorey 100.9 FM Aguascalientes
+http://tunein.gvstream.net:9038/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audioramabc.com/images/superlogomexicali.jpg" group-title="MEXICO",Super 89.9 FM Mexicali
+http://stream2.dyndns.org:8000/xhsol.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/XEHG_Super1370_logo.png/150px-XEHG_Super1370_logo.png" group-title="MEXICO",Super 1370 AM Mexicali
+http://s1.radiorama.com.mx:9564/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2012/09/Super-Stereo-Miled-Toluca-en-vivo.jpg" group-title="MEXICO",Super Stereo Miled 98.9 FM Toluca
+http://192.99.34.205:8068/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s88041/images/logod.png" group-title="MEXICO",Tono 96.9 FM Murguia
+http://stream3.dyndns.org:8000/xhmug.mp3?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G8V3VtELKbQ/AAAAAAAAAAI/AAAAAAAAAAA/O_UAG04Qsks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Tu Musica FM Tijuana
+http://192.254.193.215:8007/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-1]
+http://18723.live.streamtheworld.com/W_RADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/926434076956901376/S6r5JHyj.jpg" group-title="MEXICO",W Radio 96.9 FM Mexico City [Opt-2]
+http://14033.live.streamtheworld.com/W_RADIO_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
+http://radio.promosat.com:8006/stream
