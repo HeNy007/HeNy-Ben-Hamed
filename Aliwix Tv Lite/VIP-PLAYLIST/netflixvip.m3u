@@ -6,28 +6,6 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Movies
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12658
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Action
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12662
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Horror
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12657
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Romancy
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12655
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Comedy
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12654
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Drama
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12656
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix_Kids
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12659
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX ACTION 1 FULL HD
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12801
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX ACTION 2 FULL HD
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12802
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX ARABIC 1 FULL HD
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12803
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX ARABIC 2 FULL HD
-http://novaiptv.vip:80/Aloon3049/Aloon1023/12804
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" , Netflix Arabic
 #EXTVLCOPT:http-user-agent=( الرائد التقني )
 http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/182.ts
