@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO PARAGUAY|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://src.vengavisa.com/img/gj/bm/blg.png" group-title="LABEL",~ Paraguay Radio ~
+http://www.lengua.com/anthems/Paraguay.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157567d.png" group-title="PARAGUAY",Cooperativa Universitaria Asuncion
+http://200.108.136.94:8000/envivo
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/903656719271813121/PwDYvXZD.jpg" group-title="PARAGUAY",ABC Cardinal 730 AM Asuncion
+http://sc.abc.com.py:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-Q_gWaEu_mhs/VT15WOfn_NI/AAAAAAAAB3c/kwL8doEuYNE/s1600/dysneypy.jpg" group-title="PARAGUAY",Radio Disney 96.5 FM Asuncion
+http://83.170.105.153:9725/;
