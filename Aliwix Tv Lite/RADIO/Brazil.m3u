@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO BRAZIL|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",~ Brazil Radio ~
+http://www.lengua.com/anthems/Brazil.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tudoradio.com/img/uploads/radios/radio_887fmnovohamburgo.png" group-title="BRAZIL",88.7 FM Novo Hamburgo
+http://186.209.115.82:8050/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batera.com.br/contents/noticias/998a45a6-0049-482e-bc3f-6764f742284f.jpg" group-title="BRAZIL",89 FM A Radio Rock
+http://listen.shoutcast.com/89fmaradiorock
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s144627d.png" group-title="BRAZIL",A Tarde 103.9 FM Salvador
+http://sh.upx.com.br:8120/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/w6/luen597620e8bf17c582727553.jpg" group-title="BRAZIL",Alpha FM 101.7
+http://listen.shoutcast.com/alphafm101-7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dH7Ea6pCs6.png" group-title="BRAZIL",Antena 1 FM 94.7
+http://5.135.83.159:80/stream2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/wFTAkOY-KDZ4t5qVwRt04ATCKroWuNnRQo4gtOuM9QWGE-IjGOU0oaDzDiWzEKQIjVI=w300" group-title="BRAZIL",Aurora Web Radio
+http://stm30.conectastm.com:10450/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/2d/a1/19498/c175.png" group-title="BRAZIL",Band FM 96.1 Floripa
+http://186.209.115.82:8086/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/c5242b7f3a54328ad2c77568ce5ac4b9/lc/w2dq59d737b97ed0c137061257.jpg" group-title="BRAZIL",CBN FM 90.5 FM
+http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.melhoresradios.com.br/logoRadio/171d9161-a251-4459-a645-bf4d8295b9f9.jpg" group-title="BRAZIL",Clube 99.1 FM Recife
+http://sh1.upx.com.br:12988/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio11734_1505394332.jpg" group-title="BRAZIL",Clube 101.5 FM Curitiba
+http://200.192.112.45:8000/clubefm.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/10/00/100084c526929b394c9b5b3c3eb41bfe.jpg" group-title="BRAZIL",JK FM 102.7 Brasilia
+http://sh.upx.com.br:8220/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://br.raadios.com/images/radios/xxxhdpi/rad_4b0346e5caff860c21b5460501356f1d.png" group-title="BRAZIL",Maxima FM 87.9 Ibia
+http://server01.ouvir.radio.br:8024/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/4c/9d/14773/1/c175.png" group-title="BRAZIL",Mix FM 106.3
+http://tuneinmix.crossradio.com.br:8008/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mWQC3Q4QBU.png" group-title="BRAZIL",Paz FM 89.5 Goiania
+http://digital.umhost.com.br:9978/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radiostreamlive.com/images/logos_radiostreamlive.png" group-title="BRAZIL",RSL - Radio America Latina
+http://tier1.radiostreamlive.com:8080/radioamericalatina_devices
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sintonizeradios.com/wp-content/uploads/2015/11/Bons-Tempos-150x150-150x150.jpg" group-title="BRAZIL",Radio Bons Tempos
+http://wz3.dnip.com.br/sc_sauda/sc_sauda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fenaert.org.br/images/2010fmodia_Cor_Trao.jpg" group-title="BRAZIL",Radio O Dia 100.5 FM Rio
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857680324/logo_uesb_400x400.jpg" group-title="BRAZIL",UESB - FM 97.5 - Vitoria da Conquista
+http://bseufm.uesb.br:8000/;stream/1
