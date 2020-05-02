@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO CYPRUS|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Cyprus-01.png" group-title="LABEL",~ Cyprus Radio ~
+http://www.lengua.com/anthems/Cyprus.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM 92.1 Nicosia
+http://sc.brtk.net:8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM - Klasik
+http://sc.brtk.net:8006/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM - Radyo Haber
+http://sc.brtk.net:8008/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak FM - Turk Muzigi
+http://sc.brtk.net:8010/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak - Unknown [?]
+http://sc.brtk.net:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.viaway.com/5509798_640.png" group-title="CYPRUS",Bayrak International 105.0 FM Nicosia
+http://sc.brtk.net:8004/stream
