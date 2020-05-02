@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO SWITZERLAND|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://gevrilgroup.com/images/Baselworld%202012/Switzerland.GIF" group-title="LABEL",~ Switzerland Radio ~
+http://www.lengua.com/anthems/Switzerland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Absolute Top 40
+http://185.33.21.112:80/top40_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Blues
+http://185.33.21.112:80/blues_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Amsterdam Trance
+http://185.33.21.112:80/atr_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="SWITZERLAND",1.FM - Costa Del Mar
+http://185.33.21.112:80/costadelmarchillout_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.ggpht.com/R_2PoiHDvFiITeWBHRd_nbYyym2EqoZRqURlNRrrtLA8a4CoA3AUMyumLCuP3ixt_A=w140" group-title="SWITZERLAND",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioswissclassic.ch/logo-files/classic/rsc_HEX.png" group-title="SWITZERLAND",Radio Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
