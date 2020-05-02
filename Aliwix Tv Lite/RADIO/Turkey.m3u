@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO TURKEY|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",~ Turkey Radio ~
+http://www.lengua.com/anthems/Turkey.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radyodinletv.com/wp-content/uploads/atlantis.png" group-title="TURKEY",Atlantis FM 100.5 Ankara
+http://live4.radyotvonline.com:9400
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://babaradyo.com/Content/img/babaradyo-logo.png" group-title="TURKEY",Baba Radyo 105.6 FM Istanbul
+http://37.247.100.100/best/babaradyo.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyocular.com/wp-content/uploads/2016/11/critürk.jpg" group-title="TURKEY",CRI Turk FM - Easy
+http://95.173.161.134:9100/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyocular.com/wp-content/uploads/2016/11/critürk.jpg" group-title="TURKEY",CRI Turk FM - Klasik
+http://95.173.162.185:9100/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyocular.com/wp-content/uploads/2016/11/critürk.jpg" group-title="TURKEY",CRI Turk FM - Mutfak
+http://95.173.188.166:9100/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyocular.com/wp-content/uploads/2016/11/critürk.jpg" group-title="TURKEY",CRI Turk FM - Music Plus
+http://159.253.39.180:9100/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://odatv.com/images/2017_03/2017_03_19/halk-tvnin-perde-arkasinda-neler-oluyor--1903171200_l2.jpg" group-title="TURKEY",Halk TV Haberleri
+http://live4.radyotvonline.com:6670/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s17557q.png" group-title="TURKEY",ITU Radio Rock
+http://160.75.86.29:8088/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s168676d.png" group-title="TURKEY",ITU Radio Jazz/Blues
+http://160.75.86.29:8088/stream/3/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="TURKEY",ITU Radio Classical
+http://160.75.86.29:8088/stream/5/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/04/Jazzland-FM.jpg" group-title="TURKEY",Jazzland FM
+http://46.20.3.246/stream/56/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyodinle.io/css/images/rd-img/polis-radyosu.jpg" group-title="TURKEY",Polis Radyosu 94.4 FM Ankara
+http://live4.radyotvonline.com:8040/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5aLbQbmcLs.png" group-title="TURKEY",Power Turk FM 98.8 Istanbul
+http://185.28.3.4/power/PowerTurk_mpeg_128_home/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5aLbQbmcLs.png" group-title="TURKEY",Power Turk FM - Album
+http://185.28.3.4/power/PowerTurkAlbum_mpeg_128_home/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5aLbQbmcLs.png" group-title="TURKEY",Power Turk FM - Cover
+http://185.28.3.4/power/PowerTurkCover_mpeg_128_home/icecast.audio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="TURKEY",Radio Shazam
+http://streaming.radio.co/s0ce169aac/listen
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7eHrDaxWcP.png" group-title="TURKEY",Radio Slow Time 91.2 FM Istanbul
+http://37.247.100.118/stream/69/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a891.phobos.apple.com/us/r30/Purple2/v4/2d/ca/c6/2dcac674-6d39-d83a-c817-9705299a3176/mzl.ydtjclfp.png" group-title="TURKEY",Radyo Hayat 94.5 FM Adana
+http://live4.radyotvonline.com:9450
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canliradyo.com/wp-content/uploads/2014/06/logo3.png" group-title="TURKEY",Radyo Muzik 97.6 FM Istanbul
+http://37.247.100.118/stream/68/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radyoefem.com/wp-content/uploads/2017/10/radyospor1.jpg" group-title="TURKEY",Radyo Spor 107.2 FM Istanbul [Opt-1]
+http://37.247.100.118/stream/70/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radyoefem.com/wp-content/uploads/2017/10/radyospor1.jpg" group-title="TURKEY",Radyo Spor 107.2 FM Istanbul [Opt-2]
+http://live4.radyotvonline.com:8160/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik.png" group-title="TURKEY",Radyo Trafik 104.2 FM Istanbul
+http://37.247.100.118/stream/157/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdeniz.com/site/assets/files/3147/radyo_viva_logo.jpg" group-title="TURKEY",Radyo Viva 90.0 FM Istanbul
+http://46.20.3.246/stream/103/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyodinle.io/css/images/rd-img/radyo-yakamoz.jpg" group-title="TURKEY",Radyo Yakamoz 92.9 FM Osmaniye
+http://live4.radyotvonline.com:6570/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radyoland.net//Content/images/logo/greekland-logo-2015-12-16-21-7-46.jpg" group-title="TURKEY",Radyoland - Greekland
+http://46.20.3.246/stream/55/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s266508d.png" group-title="TURKEY",Radyoland - Rockland
+http://46.20.3.246/stream/57/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-17.01.03/e5ddd1a668224c55abcc8dff45d66969.png" group-title="TURKEY",TRT Antalya Radyosu 100.6 FM
+http://sol.trtcdn.com/rd/trtantalya/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/35/Trt_avrupa_fm.png" group-title="TURKEY",TRT Avrupa FM
+http://sol.trtcdn.com/rd/trtavrupafm/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/00/TRT_Çukurova_radyosu.jpg" group-title="TURKEY",TRT Cukurova Radyosu
+http://sol.trtcdn.com/rd/trtcukurova/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s121787d.png" group-title="TURKEY",TRT Erzurum Radyosu 102.6 FM
+http://sol.trtcdn.com/rd/trterzurum/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/TRT_FM.png" group-title="TURKEY",TRT FM
+http://sol.trtcdn.com/rd/trtfm/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fe/Trt_nagme.png" group-title="TURKEY",TRT Nagme
+http://sol.trtcdn.com/rd/trtnagme/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.42.22/0a8c7e0256d44c98a27beaab8e4648fa.png" group-title="TURKEY",TRT Radyo 1
+http://sol.trtcdn.com/rd/trtradyo1/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d9/TRT_Radyo_3.png" group-title="TURKEY",TRT Radyo 3
+http://sol.trtcdn.com/rd/trtradyo3/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/52DFfD6Cg.png" group-title="TURKEY",TRT Radyo 4
+http://sol.trtcdn.com/rd/trtradyo4/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/iL3fJIoxJ.png" group-title="TURKEY",TRT Radyo 6
+http://sol.trtcdn.com/rd/trtradyo6/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-17.05.08/ec49369a8f534011a598ba0f2566a52c.png" group-title="TURKEY",TRT Radyo GAP Diyarbakir Radyosu 107.1 FM
+http://sol.trtcdn.com/rd/trtgapdiyarbakir/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2017-01-16-10.45.32/673268a776734edca90c9cf4ace328f9.png" group-title="TURKEY",TRT Radyo Haber
+http://sol.trtcdn.com/rd/trtradyohaber/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canliradyodinlemek.com/uploads/images/TRT_Trabzon_Radyosu_logo.jpg" group-title="TURKEY",TRT Trabzon Radyosu
+http://sol.trtcdn.com/rd/trttrabzon/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canliradyodinle.fm/wp-content/uploads/trt-tsr-turkiyenin-sesi.png" group-title="TURKEY",TRT Turkiyenin Sesi
+http://sol.trtcdn.com/rd/trttsr/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/b/b3/TRT_Turku.gif" group-title="TURKEY",TRT Turku
+http://sol.trtcdn.com/rd/trtturku/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s55373d.png" group-title="TURKEY",TRT VOT East
+http://sol.trtcdn.com/rd/trtvoteast/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/iMi9bsegA.png" group-title="TURKEY",TRT VOT West
+http://sol.trtcdn.com/rd/trtvotwest/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Trt_vot_world.png" group-title="TURKEY",TRT VOT World
+http://sol.trtcdn.com/rd/trtvotworld/hasbahca.m3u8
