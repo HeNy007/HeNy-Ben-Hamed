@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO SPAIN|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Spain-01.png" group-title="LABEL",~ Spain Radio ~
+http://www.lengua.com/anthems/Spain.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",COPE 99.5 FM Almeria
+http://88.12.59.119:8010/almeriafm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cope_-_2.png" group-title="SPAIN",COPE Valladolid 104.5 FM
+http://195.10.10.222/copesedes/valladolid.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [OGG]
+http://streaming.cuacfm.org:80/cuacfm.ogg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-L9mHNmWyDl8/AAAAAAAAAAI/AAAAAAAAAAA/xmEbjH0Ade4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Cuac FM 103.4 FM Coruna [AAC]
+http://streaming.cuacfm.org:80/cuacfm.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaztea_Spain.svg/1200px-Gaztea_Spain.svg.png" group-title="SPAIN",Gaztea Irratia
+http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/30/c4/30c44f5b2d1593c81beefe7a88aa611c.jpg" group-title="SPAIN",Impossible Radio Zaragoza
+http://82.145.43.92:8398/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s10436d.png" group-title="SPAIN",Los 40 93.9 FM Madrid
+http://20103.live.streamtheworld.com/LOS40_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/674249245386522625/D7JivI5Z_400x400.jpg" group-title="SPAIN",Lugo Si Radio 96.9 FM
+http://82.223.248.142:8080/lugosiradio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radiofmgratis.com/wp-content/uploads/2017/02/maxima-fm-logo-1.jpeg" group-title="SPAIN",Maxima FM 104.2 Barcelona
+http://18003.live.streamtheworld.com/MAXIMAFMAAC.aac?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=259x10000:format=jpg/path/s039f5422e1b1ab2f/image/i2408dc90f01be8de/version/1489836567/image.jpg" group-title="SPAIN",Onda Pacheli 107.6 FM Madrid
+http://95.154.202.117:8257
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/76/a5/76a59c113344fe341011e021bec28c74.jpg" group-title="SPAIN",Unika FM 103.0 Madrid
+http://radio.unika.fm:8010/unk
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Rac105.jpg" group-title="SPAIN",RAC105 FM Barcelona
+http://ios105.radiocat.net/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/ed/16/ed164c1fe6ff3d23e76108860f55843f.jpg" group-title="SPAIN",Radio Oro 94.4 FM Marbella
+http://185.23.192.118:8004
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s114420d.png" group-title="SPAIN",Radio Radio Network 98.8 FM Marbella
+http://193.239.13.17:8070/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg" group-title="SPAIN",Star People
+http://2.139.144.101:8020/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Black Metal
+http://hertz.todoexitos.com:8206/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Hits
+http://hertz.todoexitos.com:8200/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Indie
+http://hertz.todoexitos.com:8222/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Latino
+http://hertz.todoexitos.com:8204/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Oldies
+http://hertz.todoexitos.com:8208/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/2b8dde5c-0088-4577-9183-8dbf8e48dc7f.png" group-title="SPAIN",TodoExitos - Romantica
+http://hertz.todoexitos.com:8210/stream
