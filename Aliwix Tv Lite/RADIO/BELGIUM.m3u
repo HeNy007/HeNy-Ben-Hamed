@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO BELGIUM|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",~ Belgium Radio ~
+http://www.lengua.com/anthems/Belgium.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s48122d.png" group-title="BELGIUM",Crooze.fm
+http://77.92.64.44:8045/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s203889d.png" group-title="BELGIUM",Goldies Radio 107.9 FM Sint-Niklaas
+http://5.63.151.52:7064/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/artworks-000018200639-1v5b4j-t500x500.jpg" group-title="BELGIUM",Omroep Waasland
+http://5.63.151.52:7058/stream
