@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO TUN|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="LABEL",~ Music Choice Radio ~
+https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Adult Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Alt R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Brits + Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Dance / EDM
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Hip-Hop + R&B
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Hit List
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Indie
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Love Songs
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Music Choice Max
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Pop & Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Pop Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",R&B + Soul
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Rap
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Rap 2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Reggae
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Soft Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Teen Beats
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Today's Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Underground Hip-Hop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",'70s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",'80s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",'80s Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",'90s
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classic Alternative
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classic Country
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classic Dance
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classic Metal
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classic Rock
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Country Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Emo X Screamo
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Funk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Hip-Hop Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",New Wave
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Punk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",R&B Classics
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Rock Hits
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Solid Gold Oldies
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Throwback Jamz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Y2K
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Latin Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Mexicana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Musica Urbana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Pop Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Rock Latino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Romances
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Teen Ritmos
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Tropicales
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",All Xmas
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Americana
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Bluegrass
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Blues
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Classical Masterpieces
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Contemporary Christian
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Easy Listening
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Folk
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Gospel
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Light Classical
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Lounge
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Opera
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Party Favorites
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Singers & Swing
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Smooth Jazz
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Sounds of The Seasons
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Soundscapes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Stage & Screen
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Kids Movie Soundtracks
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Kidz Only!
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Toddler Tunes
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Brazilian Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",Filipino
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="- MUSIC CHOICE RADIO",K-Pop
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8
+
