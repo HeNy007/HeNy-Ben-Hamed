@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO FRANCE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France Radio ~
+http://www.lengua.com/anthems/France.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/c9/62c94e05fcdcb27298519bfd327665e0.jpg" group-title="FRANCE",48FM 105.0
+http://212.129.28.44/48FM.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_988a9826c7792b82df51763ac58d060b/logo200.jpg" group-title="FRANCE",Djam Radio
+http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple118/v4/0a/7c/7c/0a7c7cf4-1cd8-80a1-027f-d5d92d2f8c9a/source/175x175bb.jpg" group-title="FRANCE",FNME-CGT
+http://195.154.156.183/radio/8497/stream/18473
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://funkybeatradio.net/settings/logo/fbr250.png" group-title="FRANCE",Funky Beat Radio
+http://195.154.182.216:8146/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Frenchy
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Hot
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Metal
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - New
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - Sunny
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YVzRNdR.png" group-title="FRANCE",Hotmix - VIP
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://studioolinda.com/wp-content/uploads/2016/07/13654302_1767236573490635_4520788958911720813_n.jpg" group-title="FRANCE",Jazz Box Radio Int'l
+http://91.121.59.45:8053/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s237777d.png" group-title="FRANCE",Prysm Deep
+http://listen.shoutcast.com/prysmdeep
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pulsradio.com/DANCE.png" group-title="FRANCE",PulsRadio Dance
+http://213.251.190.165:80/pulsHD.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143544d.png" group-title="FRANCE",Radio Club Stars
+http://91.121.59.45:8009/stream
+
+#EXTINF:-1 tvg-logo="http://www.radiogenre.com/wp-content/uploads/rlogo/300/300_1463592054.jpg" group-title="FRANCE",Radio Orient 94.3 FM Paris
+http://stream3.broadcast-associes.com:8405/Radio-Orient
