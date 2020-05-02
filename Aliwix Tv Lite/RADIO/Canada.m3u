@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO CANADA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada Radio ~
+http://www.lengua.com/anthems/Canada.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg" group-title="CANADA",All Hits 86.6 FM Brantford
+http://149.56.147.197:8326/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25730d.png" group-title="CANADA",British Sixties Radio
+http://5.63.151.52:7070/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54303d.png" group-title="CANADA",Buzzoutroom Radio
+http://149.56.183.178:8034/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/95/36/9536a0521b23d24f14eff8c57e685554.jpg" group-title="CANADA",CROC Radio
+http://82.145.43.92:8122/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/97/3a/1650/c175.png" group-title="CANADA",InBeatRadio.com Montreal
+http://50.7.99.155:7208/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/85500b50-6756-43f5-bef6-66652aa571ea.png" group-title="CANADA",Jammin Vibez Radio
+http://158.69.227.214:8700/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/555195858430345216/OiBKQ64G_400x400.jpeg" group-title="CANADA",Pulse FM - Hit Music Now!
+http://176.31.107.8:8946/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/878204657553821696/DJj4LSCW.jpg" group-title="CANADA",Radio Stonata
+http://149.56.23.7:20144/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Whju6Nf.png" group-title="CANADA",Radio Punjab
+http://174.37.16.73:5270/Live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/e65d7c77-6f45-486c-b8de-2eafa8d6a6b1.png" group-title="CANADA",Retro Hits
+http://149.56.183.178:8300/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="CANADA",rockXradio
+http://158.69.227.214:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/d4/a3/d4a32d46d94658c54e758ca9a5828480.jpg" group-title="CANADA",XL Gurbani Kirtan 24/7
+http://173.192.105.231:8459/Live
+
