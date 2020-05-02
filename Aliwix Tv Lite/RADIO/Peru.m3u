@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO PERU|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Peru-01.png" group-title="LABEL",~ Peru Radio ~
+http://www.lengua.com/anthems/Peru.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-gVCvORqV864/WGPBusyl8nI/AAAAAAAAJcQ/f5tjuNsTTmgNzd0E3z7N3HpTImlK25LzwCLcB/s1600/oxigeno4.jpg" group-title="PERU",Oxigeno 102.1 FM Lima
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radio1550.com/upldba/archvs/1/fot_244.png" group-title="PERU",Radio 1550 88.9 FM Huancayo
+http://212.83.146.67:7212/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DFgWPXhXUAAtbMJ.jpg" group-title="PERU",Radio Disney 91.1 FM Lima
+http://173.192.105.252:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-FJgJRZdsJno/UQxelEgPuTI/AAAAAAAACUg/T02EIx8JED4/s1600/radio-huancayo.jpg" group-title="PERU",Radio Huancayo 104.3 FM Lima
+http://212.83.146.67:7208/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/200/5e552a02-6094-485d-82b7-8a86735e2f49.png" group-title="PERU",Radio La Lupa
+http://167.114.118.119:7822/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uoryMsw.gif" group-title="PERU",Radio RPP Trujillo
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP_TRUJILLO.mp3
