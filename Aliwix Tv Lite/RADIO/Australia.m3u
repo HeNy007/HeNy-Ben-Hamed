@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO AUSTRALIA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia Radio ~
+http://www.lengua.com/anthems/Australia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [Opt-1]
+http://144.140.228.109:8220/mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney [Opt-2]
+http://144.140.228.109:8220/mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [Opt-1]
+http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney [Opt-2]
+http://shout01.stream.hostworks.com.au:/2ue_mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" group-title="AUSTRALIA",4CRB 89.3 FM
+http://stream.4crb.com:8000/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" group-title="AUSTRALIA",Coles Radio
+http://coles.streaming.novaentertainment.com.au/sa_nt
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/28488.png" group-title="AUSTRALIA",Curtin FM 100.1
+http://192.99.17.12:6192/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Mix_102.3_logo.png" group-title="AUSTRALIA",Mix 102.3 Adelaide
+http://icy.arn.com.au/au_003_icy
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" group-title="AUSTRALIA",Nova 106.9 Brisbane
+http://streaming.novaentertainment.com.au/nova1069
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlinetamilradio.in/img/puradsi-fm.jpg" group-title="AUSTRALIA",Puradsi FM Tamil
+http://107.182.231.73:9994/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/TerritoryFM.png" group-title="AUSTRALIA",Territory FM 104.1 Darwin
+http://streaming.territoryfm.com:8000/TerritoryFM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shop.rrr.org.au/assets/red-logo-detail-230-x-250.jpg" group-title="AUSTRALIA",Triple R 102.7 FM
+http://public-radio1.internode.on.net:8002/114
+
