@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO DOMINICAN REP|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic Radio ~
+http://www.lengua.com/anthems/DominicaRepublic.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/62/3d/623d217769c8b307582fe75ca55bcc0e.jpg" group-title="DOMINICAN REP",Concierto 93.1 FM Santiago
+http://199.217.118.215:8234/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13456d.png" group-title="DOMINICAN REP",Escandalo FM 107.3 Santo Domingo
+http://199.217.118.215:8062/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/cea025dd-4a7a-49e6-903a-2c52349325be.jpg" group-title="DOMINICAN REP",Kabina34 Radio
+http://192.95.18.39:5556/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s186498q.png" group-title="DOMINICAN REP",La Bakana 105.9 FM Santiago
+http://199.217.118.215:8238/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/13be849fbf011456bd15dbc9a8d69aaa.jpg" group-title="DOMINICAN REP",Premium FM 101.1 Santiago
+http://69.64.56.8:8210/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/uws7yxqy3yh3.jpg" group-title="DOMINICAN REP",Radio Disney 97.3 FM Santo Domingo
+http://radio.domint.net:8026/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K2SnA9M.jpg" group-title="DOMINICAN REP",Radio Merengue 1210 AM Santo Domingo
+http://199.195.194.12:8132/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio.linkscomdo.netdna-cdn.com/images/sobipro/entries/73/thumb_raices-102-9-onlinr-en-vivo.jpg" group-title="DOMINICAN REP",Raices 102.9 FM Santo Domingo
+http://69.64.56.8:8120/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sonidosuave.fm/img/Logo_trans.png" group-title="DOMINICAN REP",Sonido Suave 99.3 FM Santo Domingo
+http://199.189.86.69:8002/;
