@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO HUNGARY|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Hungary-01.png" group-title="LABEL",~ Hungary Radio ~
+http://www.lengua.com/anthems/Hungary.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dancewave.online/images/dw.png" group-title="HUNGARY",Dance Wave! - Retro Hungary [Opt-1]
+http://retro.dancewave.online/retrodance.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dancewave.online/images/dw.png" group-title="HUNGARY",Dance Wave! - Retro Hungary [Opt-2]
+http://retro.dancewave.online/retrodance.ogg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/07/c3/38655/1/c175.png" group-title="HUNGARY",Karc FM 105.9 Budapest Hungary [Opt-1]
+http://104.236.214.6:80/high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/07/c3/38655/1/c175.png" group-title="HUNGARY",Karc FM 105.9 Budapest Hungary [Opt-2]
+http://104.236.214.6:80/low
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/pVT1lX1Di3KWFjXa_3kFiEyVee2UaYmCvX5GeXPuuvmYCnDDsV9fdHP7jYf3l3QfOA=w300" group-title="HUNGARY",Radio Rakospalota [Opt-1]
+http://95.154.254.81:13083/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/pVT1lX1Di3KWFjXa_3kFiEyVee2UaYmCvX5GeXPuuvmYCnDDsV9fdHP7jYf3l3QfOA=w300" group-title="HUNGARY",Radio Rakospalota [Opt-2]
+http://95.154.254.81:13083/stream_mobil
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/_x6KAIBPUm1g/TTQW0I7UJJI/AAAAAAAAABI/sS9jmjMD9l4/S250/disco%2527s%2Bhit.jpeg" group-title="HUNGARY",Turmix Radio East Side
+http://91.196.49.252:18012/;stream
