@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO INDIA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India Radio ~
+http://www.lengua.com/anthems/India.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radioonlinelive.com/wp-content/uploads/2015/12/Ilayaraja-Radio.jpg" group-title="INDIA",Ilayaraja Radio
+http://212.83.138.48:8324/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s267066d.png" group-title="INDIA",Raagam Radio
+http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s183986d.png" group-title="INDIA",Radio City Hindi
+http://63.143.36.2:8888/Hindi
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lh3.googleusercontent.com/odzoE-14aMPkOScsC0SToFMQr7CPJ0fHAOCEXw40CtH_243saq8sLwXOe9fos4v89g=w300" group-title="INDIA",Radio Divya Jyoti
+http://74.50.122.103:9280/;stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.all-radios.in/sites/default/files/radio/red-fm-935-india.jpg" group-title="INDIA",Red FM 93.5 FM Delhi
+http://radionation.hidtechs.com:8001/delhi-93_5-ist.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/lJzULVZE1jP_93yntMVXdq__tx3eWs9JM5t9rRixlaYGXqX-yNjrGTsgq9_xYNM82aw=w300" group-title="INDIA",Sikhi Lehar Radio
+http://74.50.122.103:9314/;stream
