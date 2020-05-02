@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO ISRAEL|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Israel-01.png" group-title="LABEL",~ Israel Radio ~
+http://www.lengua.com/anthems/Israel.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/pzvduk2zkmjw.jpg" group-title="ISRAEL",Eshel 106 FM Jerusalem
+http://stream.eshelnet.com:80/xstream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/07/10506/1/c300.png" group-title="ISRAEL",GalGalatz 91.8 FM Tel Aviv
+http://glzwizzlv.bynetcdn.com/glz_mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/01/7c/40522/1/c175.png" group-title="ISRAEL",Galei Zahal 102.3 FM Haifa
+http://glzwizzlv.bynetcdn.com/glz_aes
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/1b/20615/c175.png" group-title="ISRAEL",Kol Hayam Haadom 102 FM
+http://eilat.cdnwz.net/102fm
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jOPIbyd.png" group-title="ISRAEL",Radio Afula
+http://radioafula.cdnwiz.com/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="ISRAEL",Radio Darom 101.5 FM
+http://audio-darom.ecast.co.il/darom101
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d839d133-5f56-4d33-9fb1-9a6e56e480f7.jpg" group-title="ISRAEL",Radio Yasoo
+http://radio-yasoo.ath.cx:7500/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rlive.co.il/images/facebookimg.jpg" group-title="ISRAEL",Rlive - 80/90
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC80-90LA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rlive.co.il/images/facebookimg.jpg" group-title="ISRAEL",Rlive - Nostalgia
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCNostalgiaLA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rlive.co.il/images/facebookimg.jpg" group-title="ISRAEL",Rlive - Oriental
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCOrientalLA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rlive.co.il/images/facebookimg.jpg" group-title="ISRAEL",Rlive - Regesh
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCRegeshLA
