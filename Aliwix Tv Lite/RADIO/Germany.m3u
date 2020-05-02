@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RADIO GERMANY|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany Radio ~
+http://www.lengua.com/anthems/Germany.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.byte.fm/static/images/logo_fb.png" group-title="GERMANY",ByteFM
+http://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cafe80s.de/Bilder/logo_klein.jpg" group-title="GERMANY",Cafe 80s FM
+http://176.28.10.224:8000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/13/3b/3216/c300.png" group-title="GERMANY",Casablanca Radio Stuttgart
+http://85.214.234.214:8005
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/35/a1/7020/c175.png" group-title="GERMANY",Country 108 Berlin
+http://tuner.country108.com:80
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_9d736e9ed878eef0211d535cddd66faf/logo200.jpg" group-title="GERMANY",eRadio One Blue
+http://stage-blue-high.eradio-one.de:62005
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/KCRW_89.9FM_logo.svg/1200px-KCRW_89.9FM_logo.svg.png" group-title="GERMANY",KCRW 104.1 FM Berlin
+http://edg-ams-kcrw.streamguys1.com/kcrw_192k_mp3_berlin
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
+http://laut.fm/zone-mix
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.de/images/broadcasts/e6/59/40170/1/c175.png" group-title="GERMANY",NDR Plus
+http://addrad.io/4WRJWn
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/68/04/8485/c175.png" group-title="GERMANY",Radio Altstadtwelle
+http://46.4.77.85:8002
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ffn.de/fileadmin/seiten/ffn/presse/2017/feb/bollerwagen_logo.jpg" group-title="GERMANY",Radio Bollerwagen
+http://138.201.252.53/radiobollerwagen_192
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bremer-archive.de/kkatest/wordpress/wp-content/uploads/2013/09/RB4C_POS.jpg" group-title="GERMANY",Radio Bremen - Spezial
+http://80.252.104.101:8000/spezial
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5e/13/32455/c175.png" group-title="GERMANY",Radio PSR Weihnachts-Superhits
+http://regiocast.hoerradar.de/psr-event01-mp3-mq?sABC=56np67n5#0#6r2s6730spp499143pn15p6q7277r432#enqvbfher
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/78/57/5071/c175.png" group-title="GERMANY",RMNchristmas - Das Weihnachtsradio
+http://87.118.82.236:8092/;
+
