@@ -13,8 +13,6 @@ http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/182.ts
 #EXTVLCOPT:http-user-agent=( الرائد التقني )
 http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/183.ts
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX ARABIC
-http://iptvhit.live/AliwixLite/Aliwix/Lite/130|User-Agent=VSASAVSAVSAVSV (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ACTION 1 FULL HD
 http://novaiptv.vip:80/Aloon3049/Aloon1023/12801
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ACTION 2 FULL HD
