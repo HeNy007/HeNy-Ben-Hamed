@@ -71,19 +71,16 @@ EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-l
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/15845_65499_tunsianat1.jpg" group-title="Tunisia ",Tun Nat 1
-http://web13.iptv-planet.com:8080/hls/t1.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
-
+http://streamxcode.ddns.net:25461/load/desiboyz150/6278.mpegts
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/15845_65499_tunsianat1.jpg" group-title="Tunisia ",Tun Nat 1 (bkp)
 http://54.36.122.126/tunisie1.m3u8
 
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/70940_73508_tunsianat2.jpg" group-title="Tunisia ",Tun Nat 2
-http://web13.iptv-planet.com:8080/hls/t2.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
-
+http://streamxcode.ddns.net:25461/load/desiboyz150/6279.mpegts
 
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV
-http://web13.iptv-planet.com:8080/hls/at.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
-
+http://streamxcode.ddns.net:25461/load/desiboyz150/6273.mpegts
 
 
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV (bkp)
@@ -99,6 +96,10 @@ http://web13.iptv-planet.com:8080/hls/attesiatv.m3u8|User-Agent=Mozilla/5.0 (Lin
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/D1rINswnrD6F8yOXrn4UWYkPvC38xEecu3848X7jeRb0EoABJYD0aiLF0MFsBdzzOov3-vyWxHtK-8YW9_pz5TKoWjOL"  , Telvza TV
 http://iptvhit.live/AliwixLite/Aliwix/Lite/17|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/D1rINswnrD6F8yOXrn4UWYkPvC38xEecu3848X7jeRb0EoABJYD0aiLF0MFsBdzzOov3-vyWxHtK-8YW9_pz5TKoWjOL"  , M Tunisia
+http://streamxcode.ddns.net:25461/load/desiboyz150/7589.mpegts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRhNeWh.png" group-title="TUNISIA",Sahel TV
