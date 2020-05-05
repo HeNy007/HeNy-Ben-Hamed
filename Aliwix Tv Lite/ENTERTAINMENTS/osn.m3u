@@ -4,40 +4,12 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|OSN|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,OSN Alfa Cinema 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1801|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Alfa Cinema 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1802|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Yahala Cinema
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1525|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Ya Hala HD
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1526|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Ya Hala Aloula
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1527|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Musalslat
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1529|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN ALYOUM
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1534|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Movies HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1530|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Action HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1535|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN First Movies HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1531|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Series First
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1528|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Movies Star HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1803|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Movies World HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1804|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Comedy HD
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1533|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN E!
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1805|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,WWE
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1806|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,OSN Nat Geo Wild
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1536|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Play 1
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1884|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Play 2
@@ -48,3 +20,209 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1886|User-Agent=Be
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1887|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,OSN Play 5
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1888|User-Agent=Beryan-Plus-aoo-3859372767
+#EXTINF:-1,[AR] OSN Ya Hala! Al Oula
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7203
+#EXTINF:-1,[AR] OSN CINEMA 1
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7204
+#EXTINF:-1,[AR] OSN CINEMA 2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7205
+#EXTINF:-1,[AR] OSN SyFy
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7206
+#EXTINF:-1,[AR] OSN Enigma HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7207
+#EXTINF:-1,[AR] OSN Star World
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7208
+#EXTINF:-1,[AR] OSN Star Movies FHD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7209
+#EXTINF:-1,[AR] OSN AD Sport 1 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7210
+#EXTINF:-1,[AR] OSN AD Sport 2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7211
+#EXTINF:-1,[AR] OSN Star World HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7212
+#EXTINF:-1,[AR] bein Dreamwork
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7213
+#EXTINF:-1,[AR] OSN Kids zone HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7214
+#EXTINF:-1,[AR] OSN Nickelodeon
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7215
+#EXTINF:-1,[AR] OSN Disney Channel HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7216
+#EXTINF:-1,[AR] OSN Disney XD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7217
+#EXTINF:-1,[AR] OSN Disney Junior
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7218
+#EXTINF:-1,[AR] OSN  Nick JR
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7219
+#EXTINF:-1,[AR] OSN Nat Geo People
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7220
+#EXTINF:-1,[AR] OSN Animal Planet
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7221
+#EXTINF:-1,[AR] OSN Discovery
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7222
+#EXTINF:-1,[AR] OSN Nat Geo Wild HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7223
+#EXTINF:-1,[AR] OSN Music Now SD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7224
+#EXTINF:-1,[AR] OSN Music Now HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7225
+#EXTINF:-1,[AR] OSN Movies First
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7226
+#EXTINF:-1,[AR] OSN Movies First  2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7227
+#EXTINF:-1,[AR] OSN Movies Comedy
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7228
+#EXTINF:-1,[AR] OSN Movies Action
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7229
+#EXTINF:-1,[AR] OSN Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7230
+#EXTINF:-1,[AR] OSN Fine Living
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7231
+#EXTINF:-1,[AR] OSN E!
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7232
+#EXTINF:-1,[AR] OSN DTX
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7233
+#EXTINF:-1,[AR] OSN Ya Hala
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7234
+#EXTINF:-1,[AR] OSN Movies Comedy HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7235
+#EXTINF:-1,[AR] OSN FIRST HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7236
+#EXTINF:-1,[AR] OSN JimJam
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7237
+#EXTINF:-1,[AR] OSN AMC Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7238
+#EXTINF:-1,[AR] OSN National Geographic
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7239
+#EXTINF:-1,[AR] OSN Nat Geo Wild SD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7240
+#EXTINF:-1,[AR] OSN Series First HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7241
+#EXTINF:-1,[AR] OSN Ya Hala Al Oula +2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7242
+#EXTINF:-1,[AR] OSN English Club HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7243
+#EXTINF:-1,[AR] Bein Cn Arabia
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7244
+#EXTINF:-1,[AR] OSN History Channel
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7245
+#EXTINF:-1,[AR] OSN History 2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7246
+#EXTINF:-1,[AR] OSN  Action Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7247
+#EXTINF:-1,[AR] OSN B Cinema
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7248
+#EXTINF:-1,[AR] OSN Box Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7249
+#EXTINF:-1,[AR] OSN Cinema One
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7250
+#EXTINF:-1,[AR] OSN Comedy Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7251
+#EXTINF:-1,[AR] OSN Disney Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7252
+#EXTINF:-1,[AR] OSN Family Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7253
+#EXTINF:-1,[AR] OSN Star Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7254
+#EXTINF:-1,[AR] OSN KidsCo Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7255
+#EXTINF:-1,[AR] OSN MasterPiece Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7256
+#EXTINF:-1,[AR] OSN Premiere Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7257
+#EXTINF:-1,[AR] OSN Romance Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7258
+#EXTINF:-1,[AR] OSN The Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7259
+#EXTINF:-1,[AR] OSN The Movies2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7260
+#EXTINF:-1,[AR] OSN Thriller Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7261
+#EXTINF:-1,[AR] OSN W Movies
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7262
+#EXTINF:-1,[AR] OSN Discovery Science HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7263
+#EXTINF:-1,[AR] OSN Movies+2h
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7264
+#EXTINF:-1,[AR] OSN Movies Action 2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7265
+#EXTINF:-1,[AR] OSN Movies Box Office 1 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7266
+#EXTINF:-1,[AR] OSN Movies Box Office 2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7267
+#EXTINF:-1,[AR] OSN Movies Box Office 3 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7268
+#EXTINF:-1,[AR] OSN Movies Comedy +2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7269
+#EXTINF:-1,[AR] OSN Movies-Comedy HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7270
+#EXTINF:-1,[AR] OSN TLC HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7271
+#EXTINF:-1,[AR] OSN Movies-Disney
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7272
+#EXTINF:-1,[AR] OSN Movies-Drama-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7273
+#EXTINF:-1,[AR] OSN Movies-Family-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7274
+#EXTINF:-1,[AR] OSN Movies-Festival-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7275
+#EXTINF:-1,[AR] OSN Movies-First
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7276
+#EXTINF:-1,[AR] OSN Movies-First+2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7277
+#EXTINF:-1,[AR] OSN Movies-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7278
+#EXTINF:-1,[AR] OSN Movies-Kids-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7279
+#EXTINF:-1,[AR] OSN Movies-Premiere+2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7280
+#EXTINF:-1,[AR] OSN Movies-Premiere-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7281
+#EXTINF:-1,[AR] OSN Movies-Thriller
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7282
+#EXTINF:-1,[AR] OSN Movies-Thriller+2h
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7283
+#EXTINF:-1,[AR] OSN ON-DEMAND-1HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7284
+#EXTINF:-1,[AR] OSN ON-DEMAND-2HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7285
+#EXTINF:-1,[AR] OSN ON-DEMAND-3HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7286
+#EXTINF:-1,[AR] OSN ON-DEMAND-EXTRA-1HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7287
+#EXTINF:-1,[AR] OSN ON-DEMAND-EXTRA-2HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7288
+#EXTINF:-1,[AR] OSN ON-DEMAND-EXTRA-3HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7289
+#EXTINF:-1,[AR] OSN Star-Gold-HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7290
+#EXTINF:-1,[AR] OSN Star-Movies.in
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7291
+#EXTINF:-1,[AR] OSN Baby TV
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7293
+#EXTINF:-1,[AR] OSN BBC FIRST HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7294
+#EXTINF:-1,[AR] OSN Star-World-India
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7292
+#EXTINF:-1,[AR] OSN Al Yawm
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7295
+#EXTINF:-1,[AR] OSN ITV Choice
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7296
+#EXTINF:-1,[AR] OSN seevii prime 1
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7297
+#EXTINF:-1,[AR] OSN seevii prime 2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7298
+#EXTINF:-1,[AR] OSN ART Hekayat 1
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7299
+#EXTINF:-1,[AR] OSN Musalslat
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7300
+#EXTINF:-1,[AR] OSN Al-Safwa HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7301
+#EXTINF:-1,[AR] OSN MTV
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7302
+#EXTINF:-1,[AR] OSN VH1
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7303
+#EXTINF:-1,[AR] OSN NickToon
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7304
+#EXTINF:-1,[AR] OSN France 24
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7305
