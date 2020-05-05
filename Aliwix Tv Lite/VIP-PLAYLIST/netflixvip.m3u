@@ -12,6 +12,18 @@ http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/182.ts
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix Action
 #EXTVLCOPT:http-user-agent=( الرائد التقني )
 http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/183.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Kids
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Horror
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Action
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Comedy
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Sci-Fi
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="",Netflix Box Office
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/72814
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", |.AR.| NETFLIX MOVIES FHD
 http://tvpro.millenium-ott.com:25443/MAGzlWDR3E0vQ/O3pAB7e7ja/84241
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", |.AR.| NETFLIX ACTION +1 FHD
