@@ -13,6 +13,18 @@ http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/182.ts
 #EXTVLCOPT:http-user-agent=( الرائد التقني )
 http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/183.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ARABIC
+http://88.198.65.79:25461/netflix/ruWogZLeLC/143|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOLLYOOD FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/144|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/145|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX CLASSICS FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/146|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/147|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX MOVIES FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/148|User-Agent=trjrnbeawwhb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Action
 http://iptv.allkaicerteam.com:8080/kapkteam/zdyVys0Rzc/2418|User-Agent=fdhfdhfhdghdfhg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Thriller
