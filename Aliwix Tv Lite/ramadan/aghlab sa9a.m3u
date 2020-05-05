@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|أغلب السقا|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1, Episode 01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/1.mp4/playlist.m3u8
+#EXTINF:-1, Episode 02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/2.mp4/playlist.m3u8
+#EXTINF:-1, Episode 03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/3.mp4/playlist.m3u8
+#EXTINF:-1, Episode 04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/4.mp4/playlist.m3u8
+#EXTINF:-1, Episode 05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/5.mp4/playlist.m3u8
+#EXTINF:-1, Episode 06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/6.mp4/playlist.m3u8
+#EXTINF:-1, Episode 07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/7.mp4/playlist.m3u8
+#EXTINF:-1, Episode 08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/8.mp4/playlist.m3u8
+#EXTINF:-1, Episode 09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Ramadan.2020/Egleib.Alsaqqa/9.mp4/playlist.m3u8
