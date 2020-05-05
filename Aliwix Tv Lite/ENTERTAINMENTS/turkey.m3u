@@ -3,96 +3,53 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|TURKEY ENTERTAIN|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1,TR: beIN Office 1 Turkey
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53721|User-Agent=VLC player
-#EXTINF:-1,TR: beIN Office 2 Turkey
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53722|User-Agent=VLC player
-#EXTINF:-1,TR: beIN Office 3 Turkey
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53723|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES ACTION HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53724|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES ACTION 2 HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53725|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES FAMILY HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53726|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES PREMIERE 2 HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53727|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES PREMIERE HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53728|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES STARS HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53729|User-Agent=VLC player
-#EXTINF:-1,TR: beIN MOVIES TURK HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53730|User-Agent=VLC player
-#EXTINF:-1,TR: beIN SERIES COMEDY HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53731|User-Agent=VLC player
-#EXTINF:-1,TR: beIN SERIES DRAMA HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53732|User-Agent=VLC player
-#EXTINF:-1,TR: beIN SERIES Vice HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53733|User-Agent=VLC player
-#EXTINF:-1,TR: beIN SERIES SCI-FI HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53734|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART GOLD HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53735|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART ACTION HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53736|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART FAMILY HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53737|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART PLATIN HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53738|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART PREMIUM HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53739|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART TURK HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53740|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART CLASSIC HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53741|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART FEST HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53742|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART PLATIN 2 HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53743|User-Agent=VLC player
-#EXTINF:-1,TR: MOVIE SMART PREMIUM 2 HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53744|User-Agent=VLC player
-#EXTINF:-1,TR: DIZI SMART PREMIUM HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53745|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD AiLE
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53746|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD AKSiYON
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53747|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD DRAM
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53748|User-Agent=VLC player
-#EXTINF:-1,TR:  FiLMBOXHD KEMAL SUNAL TV
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53750|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD KOMEDi
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53751|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD KORKU
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53752|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD SCi-Fi
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53753|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD TURK
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53754|User-Agent=VLC player
-#EXTINF:-1,TR: FiLMBOXHD YESiLCAM
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53755|User-Agent=VLC player
-#EXTINF:-1,TR: Bein IZ TV HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53756|User-Agent=VLC player
-#EXTINF:-1,TR: beIN GURME HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53757|User-Agent=VLC player
-#EXTINF:-1,TR: 24 KiTCHEN HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53758|User-Agent=VLC player
-#EXTINF:-1,TR: Animal Planet Channel HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53759|User-Agent=VLC player
-#EXTINF:-1,TR: NAT GEOGRAPHIC HD TR
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53760|User-Agent=VLC player
-#EXTINF:-1,TR: NAT GEO WILD HD TR
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53761|User-Agent=VLC player
-#EXTINF:-1,TR: Nat Geo People Turkey
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53762|User-Agent=VLC player
-#EXTINF:-1,TR: History Channel HD TR
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53763|User-Agent=VLC player
-#EXTINF:-1,TR: DISCOVERY SCIENCE HD TR
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53764|User-Agent=VLC player
-#EXTINF:-1,TR: Discovery Channel HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53765|User-Agent=VLC player
-#EXTINF:-1,TR: Discovery IDX Turkey
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53766|User-Agent=VLC player
-#EXTINF:-1,TR: ViASAT HiSTORY HD
-http://live.yimp.cc:7779/AktzdjsTzp/4ONU8gwUKk/53767|User-Agent=VLC player
+#EXTINF:-1,[TR] beIN Series Comedy
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7323
+#EXTINF:-1,[TR] beIN Movies Stars
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7324
+#EXTINF:-1,[TR] beIN Movies Premiere 2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7325
+#EXTINF:-1,[TR] beIN Movies Family
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7326
+#EXTINF:-1,[TR] beIN Movies  Premiere 1
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7327
+#EXTINF:-1,[TR] beIN Movies Turk
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7328
+#EXTINF:-1,[TR] beIN Movies Action 2
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7329
+#EXTINF:-1,[TR] beIN Movies Action
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7330
+#EXTINF:-1,[TR] beIN Movies Premiere 3
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7331
+#EXTINF:-1,[TR] beIN MOVIE Fist HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7332
+#EXTINF:-1,[TR] beIN Movies Iz Tv
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7333
+#EXTINF:-1,[TR] beIN  MOVIE PREMIUM HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7334
+#EXTINF:-1,[TR] beIN MOVIE Platin HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7335
+#EXTINF:-1,[TR] beIN MOVIE Platin 2 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7336
+#EXTINF:-1,[TR] beIN MOVIE Gold HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7337
+#EXTINF:-1,[TR] beIN MOVIE Family HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7338
+#EXTINF:-1,[TR] beIN SMART TURK HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7339
+#EXTINF:-1,[TR] DIZI SMART PREMIUM HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7340
+#EXTINF:-1,[TR] DiZi SMART MAX HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7341
+#EXTINF:-1,[TR] SiNEMA TV YERLi HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7342
+#EXTINF:-1,[TR] SiNEMA TV HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7343
+#EXTINF:-1,[TR] SiNEMA TV AKSiYON HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7344
+#EXTINF:-1,[TR] SiNEMA TV AiLE HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7345
+#EXTINF:-1,[TR] SiNEMA TV KOMEDi HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7346
+#EXTINF:-1,[TR] SiNEMA TV 1001 HD
+http://mo-salah.net:8880/Hassanhassan/Hassanhassan/7347
