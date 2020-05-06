@@ -1,15 +1,90 @@
-
-  #EXTM3U
+#EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|HBO HOME|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 1
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 2
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="FilmLuar",HBO 3
-http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="FilmLuar",Red by HBO
-https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/6271
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO 2 FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/6270
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO + FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11107
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Family FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11108
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Signature FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11106
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Mundi FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11103
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11101
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop FHD (2)
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/7544
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme FHD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/11102
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme FHD (2)
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/7545
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1789
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/165
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/2057
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/84
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO 2 HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1791
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO 2 HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/167
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO 2 Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/2058
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO 2
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/79
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Plus HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1788
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Plus HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/164
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Plus Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/2055
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Plus
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/82
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Family HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1790
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Family HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/166
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Family Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/2053
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Family
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/83
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Signature HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1787
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Signature HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/163
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Signature Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/2054
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Signature
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/80
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Mundi HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1879
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Mundi HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1672
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Mundi Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/3481
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Mundi
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/73
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1877
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1670
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/3480
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Pop
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/70
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme HD Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1878
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme HD
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/1671
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme Principal
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/3482
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="", HBO Xtreme
+http://bigforce.club:8880/Dsy43fUsX8/YcF2FnI9EM/72
