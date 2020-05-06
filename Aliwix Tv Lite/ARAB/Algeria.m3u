@@ -3,52 +3,65 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALGERIA TV|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1,[ALGERIE]: A1-berbere tv
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381435
-#EXTINF:-1,[ALGERIE]: AL ANIS TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381455
-#EXTINF:-1,[ALGERIE]: Algerie 3
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381454
-#EXTINF:-1,[ALGERIE]: Algerie 4
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381453
-#EXTINF:-1,[ALGERIE]: Algerie 5
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381452
-#EXTINF:-1,[ALGERIE]: ALMAGHARIBIA 2 TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381451
-#EXTINF:-1,[ALGERIE]: ALMAGHARIBIA TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381450
-#EXTINF:-1,[ALGERIE]: Bahia TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381449
-#EXTINF:-1,[ALGERIE]: Beur TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381478
-#EXTINF:-1,[ALGERIE]: CANAL ALGERIE
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381448
-#EXTINF:-1,[ALGERIE]: CHAMS TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381447
-#EXTINF:-1,[ALGERIE]: CNA
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381446
-#EXTINF:-1,[ALGERIE]: Dzair News
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381445
-#EXTINF:-1,[ALGERIE]: Dzair TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381456
-#EXTINF:-1,[ALGERIE]: Echorouk cbc BENNA
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381444
-#EXTINF:-1,[ALGERIE]: Echorouk NEWS
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381443
-#EXTINF:-1,[ALGERIE]: Echorouk TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381442
-#EXTINF:-1,[ALGERIE]: EL BILAD
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381441
-#EXTINF:-1,[ALGERIE]: EL FADJR TV DZ
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381479
-#EXTINF:-1,[ALGERIE]: EL HEDDAF TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381440
-#EXTINF:-1,[ALGERIE]: ENNAHAR TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381439
-#EXTINF:-1,[ALGERIE]: NUMIDIA TV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381438
-#EXTINF:-1,[ALGERIE]: PROGRAMME NATIONAL
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381437
-#EXTINF:-1,[ALGERIE]: SamiraTV
-http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/381436
+#EXTINF:-1,DZ:Dzair Jannah
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42482
+#EXTINF:-1,DZ:Dzair24
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42483
+#EXTINF:-1,DZ:El Adjwaa TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42484
+#EXTINF:-1,DZ:France 24 Eng
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42487
+#EXTINF:-1,DZ:AL GAZAL NEWS TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42489
+#EXTINF:-1,DZ:SamiraTV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42490
+#EXTINF:-1,DZ:Dzair 3
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42491
+#EXTINF:-1,DZ:CANAL ALGERIE
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42495
+#EXTINF:-1,DZ:Dzair TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42496
+#EXTINF:-1,DZ:ECHOROUK NEWS
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42497
+#EXTINF:-1,DZ:Algerie 24
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42498
+#EXTINF:-1,DZ:EL BILAD
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42499
+#EXTINF:-1,DZ:EL DJAZAIRIA TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42500
+#EXTINF:-1,DZ:EL FADJR TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42501
+#EXTINF:-1,DZ:EL HAYAT TV ALGERIE
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42502
+#EXTINF:-1,DZ:EL HEDDAF TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42503
+#EXTINF:-1,DZ:Echorouk TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42504
+#EXTINF:-1,DZ:Echorouk TV HD
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42505
+#EXTINF:-1,DZ:El Fhama TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42507
+#EXTINF:-1,DZ:BERBERE TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42508
+#EXTINF:-1,DZ:Ennahar TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42509
+#EXTINF:-1,DZ:ALGazera AlKhadra
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42510
+#EXTINF:-1,DZ:Algeria TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42511
+#EXTINF:-1,DZ:Almagharibia
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42512
+#EXTINF:-1,DZ:Awraas TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42513
+#EXTINF:-1,DZ:Awraas TV channel
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42514
+#EXTINF:-1,DZ:Bahia TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42515
+#EXTINF:-1,DZ:Beur TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42516
+#EXTINF:-1,DZ:CHAMS TV
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42517
+#EXTINF:-1,DZ:Canal Atlas
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42518
+#EXTINF:-1,DZ:Dzair News
+http://mahs.work:80/0rk7azufRR/kva8UgbJiy/42519
