@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|DIGIMON ADVENTURE 2020|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.manga-news.com/public/images/dvd/Digimon-Adventure-2020-visual.jpg " , Episode 01
+https://s1.reslayer.com/digimon_adventure_2020/1/s.mp4
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.manga-news.com/public/images/dvd/Digimon-Adventure-2020-visual.jpg " , Episode 02
+https://s1.reslayer.com/digimon_adventure_2020/2/s.mp4
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.manga-news.com/public/images/dvd/Digimon-Adventure-2020-visual.jpg " , Episode 03
+https://s1.reslayer.com/digimon_adventure_2020/3/s.mp4
