@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/1.png" group-title="العراق",IRIB 1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv2.ir/Resource/images/header-logo.png" group-title="العراق",IRIB 2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/3.ir.png" group-title="العراق",IRIB 3 
-https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/4-min.png" group-title="العراق",IRIB 4
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="العراق",IRIB 5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://ofoghtv.ir/ofogh-theme/images/custom/title-logo.png" group-title="العراق",IRIB Ofogh
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/amozesh-min.png" group-title="العراق",IRIB Amoozesh
-https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://live.irib.ir/uploads/channel/nasim-min.png" group-title="العراق",IRIB Nasim
-https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM 2
