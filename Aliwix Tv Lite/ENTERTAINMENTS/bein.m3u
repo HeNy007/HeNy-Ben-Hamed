@@ -3,28 +3,27 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
 #EXTINF:-1,Bein Movies 1
-http://beryantv.com:25461/98049930844958/80199156154625/1538
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1538|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,Bein Movies 2
-http://beryantv.com:25461/98049930844958/80199156154625/1539
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1539|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,Bein Movies 3
-http://beryantv.com:25461/98049930844958/80199156154625/1540
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1540|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,Bein Movies 4
-http://beryantv.com:25461/98049930844958/80199156154625/1541
-#EXTINF:-1,Bein Drama
-http://beryantv.com:25461/98049930844958/80199156154625/1515
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1541|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,Bein Series 1
-http://beryantv.com:25461/98049930844958/80199156154625/1542
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1542|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,Bein Series 2
-http://beryantv.com:25461/98049930844958/80199156154625/1543
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1543|User-Agent=Beryan-Plus-aoo-3859372767
+#EXTINF:-1,Bein Drama
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1515|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,StarMovies
-http://beryantv.com:25461/98049930844958/80199156154625/1759
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1759|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,StarWorld
-http://beryantv.com:25461/98049930844958/80199156154625/1760
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1760|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,CINEMA 1
-http://beryantv.com:25461/98049930844958/80199156154625/1762
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1762|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,iFilm TV
-http://beryantv.com:25461/98049930844958/80199156154625/1663
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1663|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,BEITY
-http://beryantv.com:25461/98049930844958/80199156154625/1764
+http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1764|User-Agent=Beryan-Plus-aoo-3859372767
