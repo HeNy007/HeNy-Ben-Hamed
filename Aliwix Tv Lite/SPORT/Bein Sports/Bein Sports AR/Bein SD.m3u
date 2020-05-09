@@ -4,7 +4,7 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS SD|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,==***SERVER 1***==
+#EXTINF:-1,[color yellow]♦♦♦SERVER 1♦♦♦[/color]
 #EXTINF:-1,BeIN Sports 1SD
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1281|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,BeIN Sports 2SD
@@ -21,7 +21,7 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1306|User-Agent=Be
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1309|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,BeIN Sports 8SD
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1311|User-Agent=Beryan-Plus-aoo-3859372767
-#EXTINF:-1,==SERVER 2==
+#EXTINF:-1,[color yellow]♦♦♦SERVER 2♦♦♦[/color]
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1823|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1,BeIN Sports 1SD*
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1317|User-Agent=Beryan-Plus-aoo-3859372767
