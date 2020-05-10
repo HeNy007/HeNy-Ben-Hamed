@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTINF:-1, Episode 16#EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----| النوبة |-----★●•[/color]
@@ -35,3 +35,5 @@ http://cdn.king-cinema.com/series/arab/nouba/ep14/hls/index.m3u8
 http://cdn.king-cinema.com/series/arab/nouba/ep15/hls/index.m3u8
 #EXTINF:-1, Episode 16
 http://cdn.king-cinema.com/series/arab/nouba/ep16/hls/index.m3u8
+#EXTINF:-1, Episode 17
+http://cdn.king-cinema.com/series/arab/nouba/ep17/hls/index.m3u8
