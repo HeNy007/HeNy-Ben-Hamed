@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ROMANIA SPORT|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RO/HU SPORT|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="",[color yellow]•●★-----|HUNGARY|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1,HU | Sport 1 HD
@@ -22,3 +25,25 @@ http://95.216.247.32:8080/glust8/lustlow4/80562
 http://95.216.247.32:8080/glust8/lustlow4/80563
 #EXTINF:-1,HU | Eurosport 2 HU
 http://95.216.247.32:8080/glust8/lustlow4/80564
+
+#EXTINF:-1 tvg-logo="",[color yellow]•●★-----|ROMANIA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1 HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 1 HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2 FHD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 2 FHD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2 HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 2 HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3 FHD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 3 FHD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3 HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 3 HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3 Ultra HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 3 Ultra HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4 FHD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 4 FHD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4 HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 4 HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4 Ultra HD" tvg-logo="" group-title="ROMANY",RO: DIGI SPORT 4 Ultra HD
+http://nox101.com:8080/live/gokhan.arslan/ugur11846/20522.m3u8
