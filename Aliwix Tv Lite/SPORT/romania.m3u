@@ -4,6 +4,12 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ROMANIA SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1,HU | Sport 1 HD
+http://95.216.247.32:8080/glust8/lustlow4/80502
+#EXTINF:-1,HU | Sport2 HU
+http://95.216.247.32:8080/glust8/lustlow4/80501
+#EXTINF:-1,HU | Sport2 HU HD
+http://95.216.247.32:8080/glust8/lustlow4/80500
 #EXTINF:-1,RO: Eurosport
 http://rr.thgss.com:25461/1122/8730007/8381
 #EXTINF:-1,RO: Eurosport 1 HD RO
