@@ -13,59 +13,72 @@ http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/182.ts
 #EXTVLCOPT:http-user-agent=( الرائد التقني )
 http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/183.ts
 
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2418|User-Agent=FGuiywasfaljhs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ARABIC
+http://88.198.65.79:25461/netflix/ruWogZLeLC/143|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOLLYOOD FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/144|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/145|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX CLASSICS FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/146|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/147|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX MOVIES FHD
+http://88.198.65.79:25461/netflix/ruWogZLeLC/148|User-Agent=trjrnbeawwhb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Action
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2418|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Thriller
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2419|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2419|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] SCi-Fi
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2420|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2420|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Animation
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2421|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2421|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [NETFLIX] Horror
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2422|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2422|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_ARABIC_1
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2505|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2505|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_ARABIC_2
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2506|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2506|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_HOME_CINEMA_1
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2507|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2507|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", shahid TV
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2464|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2464|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", [Shahid Action]
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2423|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2423|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2463|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2463|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netflix Action
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2116|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2116|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netflix SCF FI
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2041|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2041|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netflix Kids
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2042|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2042|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netflix Horror
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2043|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2043|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netflix Comedy
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2044|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2044|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX  ACTION
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2047|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2047|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Masra7yat
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2346|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2346|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Musalsalat_1
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2347|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2347|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Musalsalat_3
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2349|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2349|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Musalsalat_4
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2350|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2350|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Musalsalat_5
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2351|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2351|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_Musalsalat_6
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2352|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2352|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_BOLLYWOOD
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2353|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2353|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_BOX_OFFICE
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2354|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2354|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_DRAMA
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2357|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2357|User-Agent=alkaicerteam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX_THRILLER
-http://iptv.allkaicerteam.com:8080/UoMNRSpf13/zrAP1dYu19/2358|User-Agent=FGuiywasfaljhs
+http://iptv.allkaicerteam.com:8080/R43l07wwgi/ekXwj0UDoD/2358|User-Agent=alkaicerteam
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", Netfilx Horror 
 http://ferrarich.referrari.com:8080/live/98998_.m3u8?token=7377772091f94a319da781ea1353df9d
