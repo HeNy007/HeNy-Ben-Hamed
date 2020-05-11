@@ -8,34 +8,6 @@ https://github.com/HeNy007/HeNy-Ben-Hamed/raw/anime/hunterxhunter.m3u
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="VIETNAM",24/7 Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
-#EXTINF:-1,Kids: Jeem
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/180.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Kids: Guli Bel Araby
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/181.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Teletabies
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/169.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Mash & The Bear
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/164.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Sponge Bob
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/165.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Shaun The Sheep
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/167.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Road Runner
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/162.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Pink Panther
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/166.ts|User-Agent=( الرائد التقني )
-#EXTINF:-1,Pakdam Pakdai
-#EXTVLCOPT:http-user-agent=( الرائد التقني )
-http://144.76.102.19:8000/live/RaeedTv2o2oRa06Hour/RaeedTv2o2oRa06Hour/163.ts|User-Agent=( الرائد التقني )
-
 
 #EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="USA",duck hd
 http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=duck
