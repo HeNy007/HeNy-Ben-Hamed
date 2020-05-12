@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|PLAY CINEMA|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA1
+http://universeiptv.com:8000/mycast/mycast2019/1759
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA2
+http://universeiptv.com:8000/mycast/mycast2019/1762
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA3
+http://universeiptv.com:8000/mycast/mycast2019/1764
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA4
+http://universeiptv.com:8000/mycast/mycast2019/1765
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA5
+http://universeiptv.com:8000/mycast/mycast2019/1766
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA6
+http://universeiptv.com:8000/mycast/mycast2019/1767
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA7
+http://universeiptv.com:8000/mycast/mycast2019/1768
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA8
+http://universeiptv.com:8000/mycast/mycast2019/1769
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA9
+http://universeiptv.com:8000/mycast/mycast2019/1770
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://getdrawings.com/free-icon/movie-icon-images-74.png",ALIWIX-PLAY-CINEMA10
+http://universeiptv.com:8000/mycast/mycast2019/1771
