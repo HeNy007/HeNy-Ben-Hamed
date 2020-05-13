@@ -39,3 +39,7 @@ http://cdn.king-cinema.com/series/arab/nouba/ep16/hls/index.m3u8
 http://cdn.king-cinema.com/series/arab/nouba/ep17/hls/index.m3u8
 #EXTINF:-1, Episode 18
 http://cdn.king-cinema.com/series/arab/nouba/ep18/hls/index.m3u8
+#EXTINF:-1, Episode 19
+http://cdn.king-cinema.com/series/arab/nouba/ep19/hls/index.m3u8
+#EXTINF:-1, Episode 20
+http://cdn.king-cinema.com/series/arab/nouba/ep20/hls/index.m3u8
