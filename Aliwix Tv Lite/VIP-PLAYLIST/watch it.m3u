@@ -5,12 +5,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT HORROR
+#EXTVLCOPT:http-user-agent=AliwixTv/9.2 (Linux;Android 9) ExoPlayerLib/2.8.4
 http://ferrarich.referrari.com:8080/live/98911_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT AR MOVIES
+#EXTVLCOPT:http-user-agent=AliwixTv/9.2 (Linux;Android 9) ExoPlayerLib/2.8.4
 http://ferrarich.referrari.com:8080/live/98912_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT WWE
+#EXTVLCOPT:http-user-agent=AliwixTv/9.2 (Linux;Android 9) ExoPlayerLib/2.8.4
 http://ferrarich.referrari.com:8080/live/98914_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT SCI-FI
+#EXTVLCOPT:http-user-agent=AliwixTv/9.2 (Linux;Android 9) ExoPlayerLib/2.8.4
 http://ferrarich.referrari.com:8080/live/98909_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/seccs/10647414_ico.png?v=1" group-title="", WATCH IT KIDS
+#EXTVLCOPT:http-user-agent=AliwixTv/9.2 (Linux;Android 9) ExoPlayerLib/2.8.4
 http://ferrarich.referrari.com:8080/live/98913_.m3u8?token=7377772091f94a319da781ea1353df9d
