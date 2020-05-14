@@ -4,25 +4,35 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NOVA PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",Nova Cinema 1 UHD
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/211|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",Nova Cinema 2 UHD
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/212|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",Nova Cinema 3 UHD
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/213|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png",Nova Cinema 4 UHD
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/214|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_QURAAN
+http://novaiptv.vip:80/18amribrahem1/01552000020/6852
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_AFLAM_1
+http://novaiptv.vip:80/18amribrahem1/01552000020/3971
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_AFLAM_2
+http://novaiptv.vip:80/18amribrahem1/01552000020/3992
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_AFLAM_3
+http://novaiptv.vip:80/18amribrahem1/01552000020/3993
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_AFLAM_4
+http://novaiptv.vip:80/18amribrahem1/01552000020/3994
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_AFLAM_ZAMAN
+http://novaiptv.vip:80/18amribrahem1/01552000020/4411
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_ACTION_1
+http://novaiptv.vip:80/18amribrahem1/01552000020/2526
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_MOVIES
+http://novaiptv.vip:80/18amribrahem1/01552000020/2523
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_HORROR_EN
+http://novaiptv.vip:80/18amribrahem1/01552000020/2530
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_Halloween
+http://novaiptv.vip:80/18amribrahem1/01552000020/12939
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_Kung Fu
+http://novaiptv.vip:80/18amribrahem1/01552000020/12938
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_INDIA_HD
+http://novaiptv.vip:80/18amribrahem1/01552000020/4007
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_MOVIES_HISTORY
+http://novaiptv.vip:80/18amribrahem1/01552000020/7041
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_TOM&JERRY
+http://novaiptv.vip:80/18amribrahem1/01552000020/4565
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_Discovery
+http://novaiptv.vip:80/18amribrahem1/01552000020/12937
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png", NOVA_WWE_HD
+http://novaiptv.vip:80/18amribrahem1/01552000020/4150
