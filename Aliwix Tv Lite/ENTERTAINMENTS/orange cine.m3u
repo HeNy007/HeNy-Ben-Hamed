@@ -4,14 +4,19 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ORANGE CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
-#EXTINF:-1,FR: Orange Cine 1
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2106
-#EXTINF:-1,FR: Orange Cine 2
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2105
-#EXTINF:-1,FR: Orange Cine 3
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2109
-#EXTINF:-1,FR: Orange Cine 4
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2110
-#EXTINF:-1,FR: Orange Cine 5
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/2111
+#EXTINF:-1,|FR| ORANGE CINE 1
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15247
+#EXTINF:-1,|FR| ORANGE CINE 2
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15246
+#EXTINF:-1,|FR| ORANGE CINE 3
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15245
+#EXTINF:-1,|FR| ORANGE CINE 4
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15244
+#EXTINF:-1,|FR| ORANGE CINE 5
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15243
+#EXTINF:-1,|FR| ORANGE CINE ACTION HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15239
+#EXTINF:-1,|FR| ORANGE CINE AVENTURE
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15238
+#EXTINF:-1,|FR| ORANGE CINE AVENTURE HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15237
