@@ -5,13 +5,35 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1,FR: CANAL+  FAMILY HD
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/327
-#EXTINF:-1,FR: CANAL+ DECALE HD
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/328
-#EXTINF:-1,FR: CANAL+ HD
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1041
-#EXTINF:-1,FR: CANAL+ CINEMA HD
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1042
-#EXTINF:-1,FR: Canal + Series
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/3224
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL SD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/32155
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9324
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL FHD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9579
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL FHD H265
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/51165
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL CINEMA
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9332
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL CINEMA HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15195
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL CINEMA FHD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9582
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL DECALE
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9331
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL DECALE  HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15194
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL DECALE FHD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9581
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL FAMILY
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9330
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL FAMILY HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15193
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL FAMILY FHD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9580
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL SERIE
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9328
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL SERIE HD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15192
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", |FR| CANAL SERIE FHD
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/957
