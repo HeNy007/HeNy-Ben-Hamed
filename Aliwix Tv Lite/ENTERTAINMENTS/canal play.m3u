@@ -5,21 +5,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1,FR: CANAL PLAY 1
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1560
-#EXTINF:-1,FR: CANAL PLAY 2
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1561
-#EXTINF:-1,FR: CANAL PLAY 3
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1562
-#EXTINF:-1,FR: CANAL PLAY 4
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1563
-#EXTINF:-1,FR: CANAL PLAY 5
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1564
-#EXTINF:-1,FR: CANAL PLAY 6
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1556
-#EXTINF:-1,FR: CANAL PLAY 7
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1557
-#EXTINF:-1,FR: CANAL PLAY 8
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1558
-#EXTINF:-1,FR: CANAL PLAY 9
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1559
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 1
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9322
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 2
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9321
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 3
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9320
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 4
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9319
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 5
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9318
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 6
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9317
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 7
+http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9316
