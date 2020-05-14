@@ -4,27 +4,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,FR: CINE CLASSIC
-http://tv.castawaytv.club:83/51839784/71484553/376314
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://tv.castawaytv.club:83/51839784/71484553/376315
-#EXTINF:-1,FR: CINE EMOTION
-http://tv.castawaytv.club:83/51839784/71484553/376316
-#EXTINF:-1,FR: CINE EMOTION HD
-http://tv.castawaytv.club:83/51839784/71484553/376317
-#EXTINF:-1,FR: CINE FAMIZ
-http://tv.castawaytv.club:83/51839784/71484553/376318
-#EXTINF:-1,FR: Cine Famiz HD
-http://tv.castawaytv.club:83/51839784/71484553/376319
-#EXTINF:-1,FR: CINE FRISSON
-http://tv.castawaytv.club:83/51839784/71484553/376320
-#EXTINF:-1,FR: CINE FRISSON HD
-http://tv.castawaytv.club:83/51839784/71484553/376321
-#EXTINF:-1,FR: CINE FX
-http://tv.castawaytv.club:83/51839784/71484553/376322
-#EXTINF:-1,FR: CINE POLAR
-http://tv.castawaytv.club:83/51839784/71484553/376323
-#EXTINF:-1,FR: CINE PREMIER
-http://tv.castawaytv.club:83/51839784/71484553/376395
-#EXTINF:-1,FR: CINE PREMIER HD
-http://tv.castawaytv.club:83/51839784/71484553/376324
+#EXTINF:-1,FR4K+ | CINE  CLUB HD
+http://95.216.247.32:8080/glust8/lustlow4/77814
+#EXTINF:-1,FR4K+ | TCM CINEMA HD
+http://95.216.247.32:8080/glust8/lustlow4/77815
+#EXTINF:-1,FR4K+ | CINE FRISSON HD
+http://95.216.247.32:8080/glust8/lustlow4/77816
+#EXTINF:-1,FR4K+ | CINE PREMIER HD
+http://95.216.247.32:8080/glust8/lustlow4/77817
+#EXTINF:-1,FR4K+ | CINE EMOTION HD
+http://95.216.247.32:8080/glust8/lustlow4/77818
