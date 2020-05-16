@@ -4,15 +4,43 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|IPFOX PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,IPFOX MOVIES action 
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2351
-#EXTINF:-1,IPFOX MOVIES ARAB
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2352
-#EXTINF:-1,IPFOX COMEDY
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2353
-#EXTINF:-1,IPFOX Horror 
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2354
-#EXTINF:-1,IPFOX Drama
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2355
-#EXTINF:-1,IPFOX KIDS
-http://iptv-ironman.tk:25461/BEST-LIVE/KHAZALEH26/2356
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|IPFOX PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Quraan
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Halim
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Fairouz
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox UM Kalthom
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Friends
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox James Bond
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Action
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Arabic
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Classic
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Bollywood
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Comedy
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Drama
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Horror
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Kids
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Movies Thriller
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Mr.Bean
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ipfox-iptv.com/_assets/images/logo.png" group-title="", |Club| IPFox Tom&Jerry
+http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/18
