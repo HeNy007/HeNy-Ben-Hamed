@@ -4,33 +4,11 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS TR|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,TR: BEINSPORT HD 1
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11249
-#EXTINF:-1,TR: BEINSPORT HD 2
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11250
-#EXTINF:-1,TR: BEINSPORT HD 4
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11251
-#EXTINF:-1,TR: BEINSPORT HD 3
-http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/11252
-#EXTINF:-1,TR: BEIN SPORT 1
-http://rr.thgss.com:25461/1122/123123/7808
-#EXTINF:-1,TR: BEIN SPORT 1 HD
-http://rr.thgss.com:25461/1122/123123/7809
-#EXTINF:-1,TR: BEIN SPORT (1)
-http://rr.thgss.com:25461/1122/123123/7810
-#EXTINF:-1,TR: BEIN SPORT 1Y
-http://rr.thgss.com:25461/1122/123123/7811
-#EXTINF:-1,TR: BEIN SPORT 2
-http://rr.thgss.com:25461/1122/123123/7812
-#EXTINF:-1,TR: BEIN SPORT (2)
-http://rr.thgss.com:25461/1122/123123/7813
-#EXTINF:-1,TR: BEIN SPORT 3
-http://rr.thgss.com:25461/1122/123123/7814
-#EXTINF:-1,TR: BEIN SPORT 4
-http://rr.thgss.com:25461/1122/123123/7815
-#EXTINF:-1,TR: BEINSPORT HABER
-http://rr.thgss.com:25461/1122/123123/7818
-#EXTINF:-1,TR: Bein Sports Max 1 HD
-http://rr.thgss.com:25461/1122/123123/7816
-#EXTINF:-1,TR: Bein Sports Max 2 HD
-http://rr.thgss.com:25461/1122/123123/7817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", beIN Sports 1 FHD TR
+http://iptv.rent:8080/dnkvb4wwfs/o9h3rzxbzh/14096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", beIN Sports 2 FHD TR
+http://iptv.rent:8080/dnkvb4wwfs/o9h3rzxbzh/14095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", beIN Sports 3 FHD TR
+http://iptv.rent:8080/dnkvb4wwfs/o9h3rzxbzh/14094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", beIN Sports 4 FHD TR
+http://iptv.rent:8080/dnkvb4wwfs/o9h3rzxbzh/14093
