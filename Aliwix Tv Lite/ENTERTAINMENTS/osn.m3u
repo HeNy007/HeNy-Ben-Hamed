@@ -20,271 +20,129 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1886|User-Agent=Be
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1887|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Play 5
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Aflam 1
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/141
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Aflam 2
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/140
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Cinema
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/139
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Hekayat HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/40597
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Hekayat 1
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/138
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: ART Hekayat 2
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/137
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Al Yawm  HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23005
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Cinema 1 HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23006
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Cinema 2 HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23007
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Musalsalat HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23009
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Music NOW HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23010
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Animal planet HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22969
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN BBC Fisrt HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22971
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22972
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery Science HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22973
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery Family HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23014
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22974
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney Junior HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22975
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney XD HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23008
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nickelodeon HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/26243
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nick Jr HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/26244
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Kids Zone HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22979
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Baby HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/26245
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Comedy Central HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22994
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Paramount HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22993
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Star Movies HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23002
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Star World HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23003
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Syfy HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23004
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN E! HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22976
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Food Network HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22977
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN History HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22978
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN ITV Choice HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23015
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23013
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala First HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23012
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala Cinema HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23011
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN First Movies HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22987
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN First Movies 2 HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22986
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22992
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Action HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22990
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Enigma HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22989
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Bingi HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22988
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Comedy HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22991
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Disney HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22998
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Kids HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22996
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Series First HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22995
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Living HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22981
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nat Geographic HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22982
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nat Geo People HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22984
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nat Geo Wild HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22985
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Cricket HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/22997
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Ten Cricket HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/26242
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN WWE HD HEVC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/23001
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Al Youm
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/4363
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Cinema 1
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/158
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Cinema 2
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/157
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Al Safwa
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/6848
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Musalsalat HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13823
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Musalsalat+2 HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7022
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fann
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/6847
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Music Now
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7419
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Kids Zone
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13784
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/6846
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney Junior
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7302
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Disney XD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7646
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nickelodeon HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13787
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Jim Jam
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7647
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fix & Foxi
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7874
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Nautical HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8196
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fine Living
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7638
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN E! Entertainement
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5686
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fight Box
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7640
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN VH 1
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7639
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Docu Box
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7641
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13783
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery Science HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13782
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery Family HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13779
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Discovery ID HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12550
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Crime & Investigation Network
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7650
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Animal Planet HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/4300
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN National Geo HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/15881
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN National Geo People HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12547
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN National Geo Wild HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12548
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fuel HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7871
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN FX HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7499
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fox Action HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7020
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fox Family HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/6843
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Sundance TV HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7413
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN BBC First HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/15880
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN ITV Choice HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7501
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN CNN HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8039
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN TLC HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13778
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Comedy Central HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5413
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Syfy HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/6857
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN History HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/15882
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN H2 HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/15883
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN NEWS HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7500
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Fox News
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7793
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN MTV LIVE HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7680
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Trace Urban
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7679
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN GINX ESPORTS TV
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8197
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN OSN Fight Network HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13790
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12541
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala First HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12540
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Yahala Cinema HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12549
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies First HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/3294
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies First+2 HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/15884
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12543
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Action HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12544
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Binge HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/14197
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Enigma HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/12542
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Comedy HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/3687
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Movies Comedy HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/3695
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Kids HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5467
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN First Series HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7795
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Series First HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5468
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Bingi HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/4364
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Living HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/13788
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Star Movies HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7460
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Star World HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/3688
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN ON Demand HD
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7677
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Box Office 1
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5382
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Box Office 2
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5383
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP AR: OSN Box Office 3
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/5384
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN GMA Pinoy
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7024
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN GMA Life
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7023
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN GMA News
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/7505
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN AKSYON TV
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8004
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN ANC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8005
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN CINEMAONE
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8006
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN CINEMO
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/16348
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN DZMM
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8008
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN KAPATID 5
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8009
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN TFC
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/16350
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", VIP PH: OSN CNN Philipine
-http://client-urostream.club:8080/bPmUwr173s/hkpr04DTWp/8034
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies First HD
+http://one75.mine.nu:8000/gader/98769876/50
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies First +2 HD
+http://one75.mine.nu:8000/gader/98769876/51
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies HD
+http://one75.mine.nu:8000/gader/98769876/54
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Action HD
+http://one75.mine.nu:8000/gader/98769876/52
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Enigma HD
+http://one75.mine.nu:8000/gader/98769876/53
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Comedy HD
+http://one75.mine.nu:8000/gader/98769876/58
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Binge HD
+http://one75.mine.nu:8000/gader/98769876/55
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Kids HD
+http://one75.mine.nu:8000/gader/98769876/59
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Movies Disney HD
+http://one75.mine.nu:8000/gader/98769876/60
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series First HD
+http://one75.mine.nu:8000/gader/98769876/61
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN BBC First HD
+http://one75.mine.nu:8000/gader/98769876/62
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Star Movies HD
+http://one75.mine.nu:8000/gader/98769876/64
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Star World HD
+http://one75.mine.nu:8000/gader/98769876/65
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Comedy Central HD
+http://one75.mine.nu:8000/gader/98769876/56
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Paramount HD
+http://one75.mine.nu:8000/gader/98769876/57
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Living HD
+http://one75.mine.nu:8000/gader/98769876/42
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN PopUp 
+http://one75.mine.nu:8000/gader/98769876/63
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN E! Entertainment HD
+http://one75.mine.nu:8000/gader/98769876/46
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Animal Planet HD
+http://one75.mine.nu:8000/gader/98769876/33
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo HD
+http://one75.mine.nu:8000/gader/98769876/35
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo Wild HD
+http://one75.mine.nu:8000/gader/98769876/34
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nat Geo People HD
+http://one75.mine.nu:8000/gader/98769876/36
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery HD
+http://one75.mine.nu:8000/gader/98769876/37
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery Science HD
+http://one75.mine.nu:8000/gader/98769876/38
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Discovery ID HD
+http://one75.mine.nu:8000/gader/98769876/39
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Safwa
+http://one75.mine.nu:8000/gader/98769876/1551
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN History HD
+http://one75.mine.nu:8000/gader/98769876/41
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN H2 HD
+http://one75.mine.nu:8000/gader/98769876/375
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney HD
+http://one75.mine.nu:8000/gader/98769876/27
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney Junior HD
+http://one75.mine.nu:8000/gader/98769876/28
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Disney XD HD
+http://one75.mine.nu:8000/gader/98769876/1202
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nick Jr HD
+http://one75.mine.nu:8000/gader/98769876/29
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Kid Zone TV HD
+http://one75.mine.nu:8000/gader/98769876/30
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Baby TV HD
+http://one75.mine.nu:8000/gader/98769876/31
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Nickelodeon HD
+http://one75.mine.nu:8000/gader/98769876/394
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN MTV Live HD
+http://one75.mine.nu:8000/gader/98769876/1084
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fashion TV HD
+http://one75.mine.nu:8000/gader/98769876/1204
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN VH1
+http://one75.mine.nu:8000/gader/98769876/86
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN NEWS
+http://one75.mine.nu:8000/gader/98769876/87
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Sky News HD
+http://one75.mine.nu:8000/gader/98769876/1374
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fox News Channel
+http://one75.mine.nu:8000/gader/98769876/1488
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala HD
+http://one75.mine.nu:8000/gader/98769876/47
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Ya Hala Al Oula HD
+http://one75.mine.nu:8000/gader/98769876/48
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Yahala Cinema HD
+http://one75.mine.nu:8000/gader/98769876/49
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series Channel
+http://one75.mine.nu:8000/gader/98769876/88
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Series +2
+http://one75.mine.nu:8000/gader/98769876/26
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Cinema 1
+http://one75.mine.nu:8000/gader/98769876/90
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Cinema 2
+http://one75.mine.nu:8000/gader/98769876/91
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Al Yawm
+http://one75.mine.nu:8000/gader/98769876/89
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Fann
+http://one75.mine.nu:8000/gader/98769876/92
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Music Now
+http://one75.mine.nu:8000/gader/98769876/93
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Aflam 1
+http://one75.mine.nu:8000/gader/98769876/95
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Aflam 2
+http://one75.mine.nu:8000/gader/98769876/96
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Cinema
+http://one75.mine.nu:8000/gader/98769876/94
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat 1
+http://one75.mine.nu:8000/gader/98769876/97
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat 2
+http://one75.mine.nu:8000/gader/98769876/98
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN V TV HD
+http://one75.mine.nu:8000/gader/98769876/1370
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN CI HD
+http://one75.mine.nu:8000/gader/98769876/1582
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN TLC HD
+http://one75.mine.nu:8000/gader/98769876/1569
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN On Demand
+http://one75.mine.nu:8000/gader/98769876/1583
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Mezze
+http://one75.mine.nu:8000/gader/98769876/1584
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN Pop Up 2
+http://one75.mine.nu:8000/gader/98769876/1389
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="", OSN ART Hekayat HD
+http://one75.mine.nu:8000/gader/98769876/588
