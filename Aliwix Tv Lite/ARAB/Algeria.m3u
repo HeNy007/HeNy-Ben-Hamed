@@ -4,43 +4,52 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ALGERIA TV|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,Alg: Numidia
-http://sky-siptv.com:8000/ramyyousef/ut555/9885
-#EXTINF:-1,Alg: Ennahar TV
-http://sky-siptv.com:8000/ramyyousef/ut555/17155
-#EXTINF:-1,Alg: A3 Algeria
-http://sky-siptv.com:8000/ramyyousef/ut555/9893
-#EXTINF:-1,Alg: Elheddaf
-http://sky-siptv.com:8000/ramyyousef/ut555/9894
-#EXTINF:-1,Alg: El Hayat Algeria
-http://sky-siptv.com:8000/ramyyousef/ut555/9895
-#EXTINF:-1,Alg: El Djazairia1
-http://sky-siptv.com:8000/ramyyousef/ut555/9896
-#EXTINF:-1,Alg: Echourouk news
-http://sky-siptv.com:8000/ramyyousef/ut555/9898
-#EXTINF:-1,Alg: Echourouk
-http://sky-siptv.com:8000/ramyyousef/ut555/9899
-#EXTINF:-1,Alg: Dzair tv
-http://sky-siptv.com:8000/ramyyousef/ut555/9900
-#EXTINF:-1,Alg: Beur tv
-http://sky-siptv.com:8000/ramyyousef/ut555/9902
-#EXTINF:-1,Alg: Bahia TV
-http://sky-siptv.com:8000/ramyyousef/ut555/9903
-#EXTINF:-1,Alg: Canl Algeria
-http://sky-siptv.com:8000/ramyyousef/ut555/9904
-#EXTINF:-1,Alg: El Bilad
-http://sky-siptv.com:8000/ramyyousef/ut555/9905
-#EXTINF:-1,Alg: Chada TV
-http://sky-siptv.com:8000/ramyyousef/ut555/9906
-#EXTINF:-1,Alg: AL Fadjr
-http://sky-siptv.com:8000/ramyyousef/ut555/9907
-#EXTINF:-1,Alg: Berbere TV
-http://sky-siptv.com:8000/ramyyousef/ut555/9909
-#EXTINF:-1,Alg: TV Tamazight
-http://sky-siptv.com:8000/ramyyousef/ut555/10004
-#EXTINF:-1,Alg: EN TV Algeria
-http://sky-siptv.com:8000/ramyyousef/ut555/27842
-#EXTINF:-1,Alg: Algeria TV Coran
-http://sky-siptv.com:8000/ramyyousef/ut555/27843
-#EXTINF:-1,Alg: Awraas
-http://sky-siptv.com:8000/ramyyousef/ut555/27844
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: PROGRAME NATIONAL
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/2|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Algeria 3
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/4|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Echourouk News
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/5|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: El Biled News
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/6|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Samira TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/7|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: EL FADJR TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/8|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: EL HAYAT TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/9|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: El Haddaf
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/10|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: TV 4
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/11|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Al Anis TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/12|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Berbere TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/14|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Beur TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/16|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: TV 5
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/17|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Bahia TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/18|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", TUN: Nessma TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/19|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", AR: Nat Geo AD
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/20|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Echorouk TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/23|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ALG: Numidia TV
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/24|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", canal
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/26|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", Al Adjwaa
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/29|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", ENNAHAR
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/30|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="",  EL Djazairia
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/34|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", dzair
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/35|User-Agent=BestAlgerieTVYounesInfo
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png" group-title="", El Biled News
+http://80.241.212.158:25461/1z4TuDEDbW/TFTvWog0Pp/36|User-Agent=BestAlgerieTVYounesInfo
