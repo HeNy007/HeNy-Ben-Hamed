@@ -5,17 +5,19 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 1
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9322
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 2
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9321
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 3
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9320
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 4
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9319
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 5
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9318
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 6
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9317
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", |FR| CANAL PLAY 7
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/9316
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 1 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12930
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 2 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12929
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 3 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12928
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 4 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12927
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 5 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12926
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 6 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12925
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 7 FHD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12924
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 8 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12923
