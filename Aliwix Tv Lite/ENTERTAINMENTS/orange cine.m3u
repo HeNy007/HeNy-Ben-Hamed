@@ -3,20 +3,23 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|ORANGE CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1,|FR| ORANGE CINE 1
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15247
-#EXTINF:-1,|FR| ORANGE CINE 2
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15246
-#EXTINF:-1,|FR| ORANGE CINE 3
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15245
-#EXTINF:-1,|FR| ORANGE CINE 4
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15244
-#EXTINF:-1,|FR| ORANGE CINE 5
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15243
-#EXTINF:-1,|FR| ORANGE CINE ACTION HD
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15239
-#EXTINF:-1,|FR| ORANGE CINE AVENTURE
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15238
-#EXTINF:-1,|FR| ORANGE CINE AVENTURE HD
-http://185.233.185.207:25443/xlEkdmFjGY/gAc8V5wZn8/15237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 1 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 2 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 3 FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 4 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 5 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema 6 HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema Action FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/5631
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema Aventure FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/5630
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema CEst Fait HD FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/5629
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" group-title="", Orange Cinema FR
+http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/5632
