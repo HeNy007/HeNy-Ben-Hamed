@@ -1,49 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix Action
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/258|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix SCF FI
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/259|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix Kids
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/260|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix Horror
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/261|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix Comedy
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/262|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX  ACTION
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/263|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Masra7yat
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/264|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Musalsalat_1
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/265|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Musalsalat_3
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/266|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Musalsalat_4
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/267|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Musalsalat_5
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/268|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_Musalsalat_6
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/269|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_BOLLYWOOD
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/270|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_BOX_OFFICE
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/271|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_DRAMA
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/272|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_THRILLER
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/273|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",[NETFLIX] Action
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/274|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",[NETFLIX] Thriller
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/275|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",[NETFLIX] SCi-Fi
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/276|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",[NETFLIX] Animation
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/277|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",[NETFLIX] Horror
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/278|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_ARABIC_1
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/279|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_ARABIC_2
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/280|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",NETFLIX_HOME_CINEMA_1
-http://iptvhit.live/AliwixLite/Aliwix/Netflix1/281|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1,beIN Calssic
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/89534
+#EXTINF:-1,beIN Cinema
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/89536
+#EXTINF:-1,beIN Action
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/91708
+#EXTINF:-1,beIN Movies
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/92695
+#EXTINF:-1,beIN Drama
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/92799
+#EXTINF:-1,beIN AMC
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109741
+#EXTINF:-1,beIN Baby
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109742
+#EXTINF:-1,beIN Gem
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109743
+#EXTINF:-1,beIN Baraeem
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109744
+#EXTINF:-1,beIN Be Junior
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109745
+#EXTINF:-1,BeIN Nickelodeon HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109746
+#EXTINF:-1,BeIN Outdoor HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109747
+#EXTINF:-1,beIN Dmax
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109748
+#EXTINF:-1,beIN Dreamworks
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109749
+#EXTINF:-1,beIN Hg tv
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109750
+#EXTINF:-1,beIN Dtx
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109751
+#EXTINF:-1,beIN Gourmet
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109752
+#EXTINF:-1,beIN Fatafeat
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109753
+#EXTINF:-1,beIN Fox
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109754
+#EXTINF:-1,BeIN Fox Crime HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109755
+#EXTINF:-1,BeIN Fox Life HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109756
+#EXTINF:-1,beIN Fox Movies
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109757
+#EXTINF:-1,beIN Fox Movies Action
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109758
+#EXTINF:-1,beIN Fox Movies Family
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109759
+#EXTINF:-1,BeIN Fox Rewayat HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109760
+#EXTINF:-1,BeIN Travel HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109761
+#EXTINF:-1,BeIN Animal Planet HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109762
+#EXTINF:-1,BeIN Boomerang HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109763
+#EXTINF:-1,BeIN CBS Reality
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109764
+#EXTINF:-1,BeIN Discovery HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109765
+#EXTINF:-1,BeIN Nat Geo People HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109766
+#EXTINF:-1,BeIN Nat Geo Wild HD
+http://dragon2020.com:8080/q9900_808343/L3OSRz4b/109767
+#EXTINF:-1,BeIN Nat Geographic HD
