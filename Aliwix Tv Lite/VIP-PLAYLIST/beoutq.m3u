@@ -4,6 +4,20 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Movies1+
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4499
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Kids
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4500
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Cinema
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4501
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Aflam
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4502
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Action1+
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4503
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Action
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4504
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beoutQ Movies
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4505
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES
 http://novaiptv.vip:80/asdfgh/zxcvbn/8120
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES+2
