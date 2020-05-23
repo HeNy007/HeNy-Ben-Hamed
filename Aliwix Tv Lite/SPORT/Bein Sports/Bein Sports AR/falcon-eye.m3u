@@ -36,3 +36,11 @@ xmtv://aHR0cDovLzExNi4yMDIuMjQuMjMwL3VwbG9hZC9pbWFnZXMvbG9nb0EwNy5tM3U4fFVzZXItQ
 #EXTINF:-1 tvg-logo="https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix%20Tv%20Lite/falcon-eye.png" , Falcon Eye 4
 xmtv://aHR0cDovLzExNi4yMDIuMjQuMjMwL3VwbG9hZC9pbWFnZXMvbG9nb0EwOC5tM3U4fFVzZXItQWdlbnQ9TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBTTkUtTFgxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzQuMC4zNzI5LjE4NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiByZWZlcmVyPWh0dHA6Ly9xYW5hdC50di8/QTA4
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 2
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
