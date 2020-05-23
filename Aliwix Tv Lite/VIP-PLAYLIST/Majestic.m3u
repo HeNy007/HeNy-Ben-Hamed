@@ -18,11 +18,11 @@ http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4405
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC KIDS
 http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/4406
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Classic
-http://dragon2020.com:8080/q9900_808343/L3OSRz4b/93725
+http://dragon2020.com:8080/fatima/fatima/93725
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Movies
-http://dragon2020.com:8080/q9900_808343/L3OSRz4b/62428
+http://dragon2020.com:8080/fatima/fatima/62428
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Cinema
-http://dragon2020.com:8080/q9900_808343/L3OSRz4b/99966
+http://dragon2020.com:8080/fatima/fatima/99966
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Action
 http://ferrarich.referrari.com:8080/live/98821_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Action 2
@@ -33,19 +33,15 @@ http://ferrarich.referrari.com:8080/live/98824_.m3u8?token=7377772091f94a319da78
 http://ferrarich.referrari.com:8080/live/98822_.m3u8?token=7377772091f94a319da781ea1353df9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Kids
 http://ferrarich.referrari.com:8080/live/98823_.m3u8?token=7377772091f94a319da781ea1353df9d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Arabic  
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/101785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Classic 1 
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/100685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Classic 2 
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/101976
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Classic 3 
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/102015
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Family1
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/101974
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Action 
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/100659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Bollywood1  
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/100686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic Arabic Kids
-http://vlc.news:9000/sharpstar_566105/qQAMxNzI/101790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_Cinema1_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_ZAMAN_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_Movies_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_ACTION_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_HORROR_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="",Majestic_KIDS_Hd
+http://novaiptv.vip:80/asdfgh/zxcvbn/12709
