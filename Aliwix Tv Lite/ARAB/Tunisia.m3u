@@ -56,16 +56,11 @@ http://iptvhit.live/AliwixLite/Aliwix/Lite/8|User-Agent=Aliwix-Lite/1.21.5 (Linu
 
 
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Mezoued
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/9|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+http://185.132.132.5:25461/733538665522/5e133c4bd9729/1911
 
 
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Rai
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/10|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
+http://185.132.132.5:25461/733538665522/5e133c4bd9729/1913
 
 EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
