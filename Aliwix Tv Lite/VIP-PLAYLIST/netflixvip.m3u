@@ -349,25 +349,25 @@ http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1520|User-Agent=Be
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ACTION
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-3859372767/1524|User-Agent=Beryan-Plus-aoo-3859372767
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX ARABIC
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/90
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOLLYOOD FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/91
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX BOX OFFICE FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/92
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX CLASSICS FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/93
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/94
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX MOVIES FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX THRILLER FHD
-#EXTVLCOPT:http-user-agent=airmaxtv
+#EXTVLCOPT:http-user-agent=www.vvirus.love,com
 http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/96
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 1
 http://actioniptv.live:8080/rami1980/rami1981/11428
