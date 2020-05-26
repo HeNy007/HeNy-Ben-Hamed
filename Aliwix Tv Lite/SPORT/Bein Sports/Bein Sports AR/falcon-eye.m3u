@@ -5,8 +5,11 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", [color yellow]القنوات تعمل فقط وقت المباريات الهامة[/color]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", [color yellow] اغلب القنوات تعمل فقط وقت المباريات  [/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1231242914111610880/TLtjikmt_400x400.jpg" , الاسطورة tv "وقت المباريات فقط"
+https://cdn3.wowza.com/1/STl1ZUx3Zm1NOWlp/RzU1Sm10/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sixteams.com/wp-content/uploads/2020/04/live-678x381.jpg" , Live 1
 xmtv://aHR0cDovLzc4LjQ3LjE5NC43MS91cGxvYWQvaW1hZ2VzL2xvZ29BMDEubTN1OHxVc2VyLUFnZW50PU1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgU05FLUxYMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc0LjAuMzcyOS4xODYgTW9iaWxlIFNhZmFyaS81MzcuMzYgcmVmZXJlcj1odHRwOi8vcWFuYXQudHYvP0EwMQ
