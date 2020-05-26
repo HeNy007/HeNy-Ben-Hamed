@@ -4,29 +4,29 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|DRAGON PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Cinema
-http://dragon2020.com:8080/fatima/fatima/62423
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Aflam 1
-http://dragon2020.com:8080/fatima/fatima/62424
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRaGoN Aflam 2
-http://dragon2020.com:8080/fatima/fatima/62548
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGon Movies 
-http://dragon2020.com:8080/fatima/fatima/92760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Action
-http://dragon2020.com:8080/fatima/fatima/62425
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Crime
-http://dragon2020.com:8080/fatima/fatima/62429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGoN Fantasy
-http://dragon2020.com:8080/fatima/fatima/92798
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Horror 1
-http://dragon2020.com:8080/fatima/fatima/62426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DRAGON Comdey
-http://dragon2020.com:8080/fatima/fatima/62427
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGoN Comedy 2
-http://dragon2020.com:8080/fatima/fatima/92852
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGon Series 1 
-http://dragon2020.com:8080/fatima/fatima/92761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGoN Series2
-http://dragon2020.com:8080/fatima/fatima/94303
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="", DraGoN Kids 
-http://dragon2020.com:8080/fatima/fatima/92797
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Horror 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/318|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DraGon Movies
+http://iptvhit.live/AliwixLite/Aliwix/Vip/319|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DraGon Series 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/320|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DraGoN Fantasy
+http://iptvhit.live/AliwixLite/Aliwix/Vip/321|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Crime
+http://iptvhit.live/AliwixLite/Aliwix/Vip/322|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DraGoN Comedy 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/323|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Comdey
+http://iptvhit.live/AliwixLite/Aliwix/Vip/324|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Cinema 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/325|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Cinema
+http://iptvhit.live/AliwixLite/Aliwix/Vip/326|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRaGoN Aflam 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/327|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRAGON Aflam 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/328|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",DRaGoN Action 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/329|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1",Dragon Action
+http://iptvhit.live/AliwixLite/Aliwix/Vip/330|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
