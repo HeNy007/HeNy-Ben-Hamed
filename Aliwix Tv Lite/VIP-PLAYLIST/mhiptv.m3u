@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MHIPTV PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ACTION
+http://iptvhit.live/AliwixLite/Aliwix/Vip/307|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ACTION 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/308|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ACTION 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/309|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ARABIC 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/310|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ARABIC 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/311|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV ARABIC 3
+http://iptvhit.live/AliwixLite/Aliwix/Vip/312|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV HISTORY
+http://iptvhit.live/AliwixLite/Aliwix/Vip/313|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV HORROR 1
+http://iptvhit.live/AliwixLite/Aliwix/Vip/314|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV HORROR 2
+http://iptvhit.live/AliwixLite/Aliwix/Vip/315|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV MASR7YAT
+http://iptvhit.live/AliwixLite/Aliwix/Vip/316|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://b.top4top.io/p_1607amqko0.png",MHIPTV MASRAH MASR
+http://iptvhit.live/AliwixLite/Aliwix/Vip/317|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
