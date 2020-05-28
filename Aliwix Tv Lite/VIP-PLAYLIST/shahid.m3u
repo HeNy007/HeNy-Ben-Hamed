@@ -4,23 +4,11 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHAHID PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Action
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Aflam 1
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/21
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Aflam 2
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Cartoon
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Cinema
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Clip
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Comedy
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Horror
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/27
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Romance
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/28
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", |Club| Shahid Zaman
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID ACTION
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID HORROR
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID ZAMAN
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID CARTOON
+http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/207
