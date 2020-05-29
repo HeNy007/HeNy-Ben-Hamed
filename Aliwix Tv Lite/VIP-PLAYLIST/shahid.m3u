@@ -4,11 +4,27 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHAHID PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Action
-http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8628|User-Agent=Free_TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Horror
-http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8629|User-Agent=Free_TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Zaman
-http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8630|User-Agent=Free_TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Cartoon
-http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8631|User-Agent=Free_TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID MOVIES
+http://w.bs-share.com:8000/00/921143374/23871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 3 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 4 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34125
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 5 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 6 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 7 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 8 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 9 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/34332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 10 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/35777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid 11 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/35776
