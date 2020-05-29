@@ -4,11 +4,11 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHAHID PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID ACTION
-http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID HORROR
-http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID ZAMAN
-http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/206
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", SHAHID CARTOON
-http://95.111.234.230:25461/BEST-LIVE/PHOENIX1356/207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Action
+http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8628|User-Agent=Free_TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Horror
+http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8629|User-Agent=Free_TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Zaman
+http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8630|User-Agent=Free_TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="", Shahid Cartoon
+http://144.91.100.102:25461/Free_TV/Entertainment_Packages/8631|User-Agent=Free_TV
