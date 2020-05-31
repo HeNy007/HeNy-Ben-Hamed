@@ -5,27 +5,10 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic CINEMA 1
-http://w.bs-share.com:8000/00/921143374/35429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic AFLAM 1
-http://w.bs-share.com:8000/00/921143374/35430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic AFLAM 2
-http://w.bs-share.com:8000/00/921143374/35431
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic AFLAM 3
-http://w.bs-share.com:8000/00/921143374/35432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic KIDS
-http://w.bs-share.com:8000/00/921143374/35433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic MASRAHIYAT
-http://w.bs-share.com:8000/00/921143374/35434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic ZAMAN
-http://w.bs-share.com:8000/00/921143374/35435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic BOLLYWOOD
-http://w.bs-share.com:8000/00/921143374/35436
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic MOVIES 1
-http://w.bs-share.com:8000/00/921143374/35437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic MOVIES 2
-http://w.bs-share.com:8000/00/921143374/35438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic ACTION 1
-http://w.bs-share.com:8000/00/921143374/35439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="", Majestic ACTION 2
-http://w.bs-share.com:8000/00/921143374/35440
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJSTIC CINEMA
+http://falconiptv.com:80/jasmin25/jasmin25/101870
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Classic
+http://falconiptv.com:80/jasmin25/jasmin25/101877
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Movies
+http://falconiptv.com:80/jasmin25/jasmin25/101878
