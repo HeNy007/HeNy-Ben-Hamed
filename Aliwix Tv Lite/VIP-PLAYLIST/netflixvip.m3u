@@ -4,7 +4,38 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETFLIX PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 1 - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114298
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 2 -VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114299
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX MOVIES - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114300
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX BOLLYWOOD - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114301
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX HORROR - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114302
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ARABIC 1 - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114303
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ARABIC 2 - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114304
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ARABIC THEATRE - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114305
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", ENGLISH NETFLIX SERIES - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114306
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ARABIC SERIES - VIP
+http://falconiptv.com:80/jasmin25/jasmin25/114307
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix - Action ( FHD)
+http://falconiptv.com:80/jasmin25/jasmin25/76761
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix - Comedy (FHD)
+http://falconiptv.com:80/jasmin25/jasmin25/76760
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix - Drama (FHD)
+http://falconiptv.com:80/jasmin25/jasmin25/76759
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix - Horror (FHD)
+http://falconiptv.com:80/jasmin25/jasmin25/76758
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix - KIDS (FHD)
+http://falconiptv.com:80/jasmin25/jasmin25/76757
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix First Show
+http://falconiptv.com:80/jasmin25/jasmin25/103108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX HORROR
 http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1516|User-Agent=Beryan-Plus-6694090187
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="", NETFLIX DRAMA
