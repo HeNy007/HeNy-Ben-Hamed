@@ -13,73 +13,28 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.radiotunisie.net/images/jawhara-fm.png" , jawhara tv 
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam TV
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/1|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Kids
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/3|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Tarab
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/4|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Rap
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/5|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Movies
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/6|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Music
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/7|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Comedy
-
-
-http://iptvhit.live/AliwixLite/Aliwix/Lite/8|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Mezoued
-http://185.132.132.5:25461/733538665522/5e133c4bd9729/1911
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",Sam Rai
-http://185.132.132.5:25461/733538665522/5e133c4bd9729/1913
-
 EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="",Nessma
-http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+http://web13.iptv-planet.com:8080/hls/n.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
+
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/15845_65499_tunsianat1.jpg" group-title="Tunisia ",Tun Nat 1
-http://streamxcode.ddns.net:25461/load/desiboyz150/6278.mpegts
+http://web13.iptv-planet.com:8080/hls/t1.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
+
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/15845_65499_tunsianat1.jpg" group-title="Tunisia ",Tun Nat 1 (bkp)
 http://54.36.122.126/tunisie1.m3u8
 
 
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="http://swiftstreamz.com//SwiftPanel/images/70940_73508_tunsianat2.jpg" group-title="Tunisia ",Tun Nat 2
-http://dragon2020.com:8080/q9900_808343/L3OSRz4b/105599
+http://web13.iptv-planet.com:8080/hls/t2.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
+
 
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV
 http://dragon2020.com:8080/q9900_808343/L3OSRz4b/105604
 
 
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia ",Elhiwar Ettounsi TV (bkp)
-http://185.132.132.5:25461/733538665522/5e133c4bd9729/473
+http://web13.iptv-planet.com:8080/hls/at.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
+
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2018/08/hand.jpg" , Hannibal
 http://iptvhit.live/AliwixLite/Aliwix/Lite/15|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
