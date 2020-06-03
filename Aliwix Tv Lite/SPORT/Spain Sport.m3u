@@ -4,63 +4,51 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SPAIN SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,bein Sports Espana FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7248
-#EXTINF:-1,bein Sports Espana HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/8745
-#EXTINF:-1,beIN Sports Espana ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13540
-#EXTINF:-1,La Liga TV BAR HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/669971
-#EXTINF:-1,Movistar La Liga FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/16274
-#EXTINF:-1,Movistar Liga De Campeones FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/620686
-#EXTINF:-1,Movistar Liga De Campeones ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/620685
-#EXTINF:-1,Movistar Deportes FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/16278
-#EXTINF:-1,Movistar Deportes HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7240
-#EXTINF:-1,Movistar Deportes 2 FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7200
-#EXTINF:-1,Movistar Deportes 2 HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/16277
-#EXTINF:-1,Movistar Deportes 2 ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7239
-#EXTINF:-1,Movistar Futbol FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13551
-#EXTINF:-1,Movistar Futbol HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/8783
-#EXTINF:-1,Movistar Futbol ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7238
-#EXTINF:-1,Movistar MotoGP FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7196
-#EXTINF:-1,Movistar MotoGP HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/16271
-#EXTINF:-1,Movistar MotoGP ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13529
-#EXTINF:-1,Movistar F1 FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7246
-#EXTINF:-1,Movistar F1 HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13549
-#EXTINF:-1,Movistar F1 ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/71971
-#EXTINF:-1,Movistar Golf FHD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7237
-#EXTINF:-1,Movistar Golf HD ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13550
-#EXTINF:-1,Movistar Golf ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/16273
-#EXTINF:-1,Gol TV ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13457
-#EXTINF:-1,Teledeporte ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7178
-#EXTINF:-1,Real Madrid Channel ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7182
-#EXTINF:-1,Barca TV ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/7250
-#EXTINF:-1,Eurosport 1 ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/8746
-#EXTINF:-1,Eurosport 2 ES
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13531
+#EXTINF:-1,ES | BARCA TV
+http://disfruta.net:80/user23/user23/1812
+#EXTINF:-1,ES | BEIN LA LIGA HD
+http://disfruta.net:80/user23/user23/1799
+#EXTINF:-1,ES | BEIN LA LIGA FHD
+http://disfruta.net:80/user23/user23/1800
+#EXTINF:-1,DEP | M La Liga FHD (ES)
+http://disfruta.net:80/user23/user23/1682
+#EXTINF:-1,DEP | M. DEPORTES (ES)
+http://disfruta.net:80/user23/user23/1687
+#EXTINF:-1,DEP | M. Deportes 1 HD (ES)
+http://disfruta.net:80/user23/user23/1684
+#EXTINF:-1,DEP | M. Deportes 2 HD (ES)
+http://disfruta.net:80/user23/user23/1685
+#EXTINF:-1,DEP | M. DEPORTES FHD (ES)
+http://disfruta.net:80/user23/user23/1683
+#EXTINF:-1,DEP | M. Formula 1 FHD (ES)
+http://disfruta.net:80/user23/user23/1694
+#EXTINF:-1,DEP | M. GOLF HD (ES)
+http://disfruta.net:80/user23/user23/1695
+#EXTINF:-1,DEP | M. LaLIga 1 FHD (ES)
+http://disfruta.net:80/user23/user23/1688
+#EXTINF:-1,DEP | M. Liga De Campeones 1 (Solo eventos) FHD (ES)
+http://disfruta.net:80/user23/user23/1689
+#EXTINF:-1,DEP | M. Liga De Campeones 2 (Solo eventos) FHD (ES)
+http://disfruta.net:80/user23/user23/1690
+#EXTINF:-1,DEP | M. Liga De Campeones FHD (ES)
+http://disfruta.net:80/user23/user23/1691
+#EXTINF:-1,DEP | MOTORSPORTS (FR)
+http://disfruta.net:80/user23/user23/1912
+#EXTINF:-1,DEP | Movistar Deportes CMD (PE)
+http://disfruta.net:80/user23/user23/2902
+#EXTINF:-1,DEP | MOVISTAR GOLF (FR)
+http://disfruta.net:80/user23/user23/1906
+#EXTINF:-1,DEP | Movistar LaLiga (ES)
+http://disfruta.net:80/user23/user23/1698
+#EXTINF:-1,DEP | Movistar LaLiga HD (ES)
+http://disfruta.net:80/user23/user23/1699
+#EXTINF:-1,DEP | Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/user23/user23/1701
+#EXTINF:-1,DEP | Real Madrid Tv (ES)
+http://disfruta.net:80/user23/user23/1702
+#EXTINF:-1,DEP | TELEDEPORTE (ES)
+http://disfruta.net:80/user23/user23/1705
+#EXTINF:-1,DEP | TOROS TV FHD (ES)
+http://disfruta.net:80/user23/user23/1707
+#EXTINF:-1,DEP | TUDN 
+http://disfruta.net:80/user23/user23/1219
