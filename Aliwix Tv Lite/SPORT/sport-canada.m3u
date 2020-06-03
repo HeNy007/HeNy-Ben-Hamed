@@ -4,41 +4,81 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CANADA SPORTS|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,SportsNet 360 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37030
-#EXTINF:-1,SportsNet East HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12741
-#EXTINF:-1,SportsNet One HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12742
-#EXTINF:-1,SportsNet Ontario HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12743
-#EXTINF:-1,SportsNet World HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12752
-#EXTINF:-1,TLC HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37028
-#EXTINF:-1,TSN 1 CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/17691
-#EXTINF:-1,TSN 1 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37023
-#EXTINF:-1,TSN 2 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37022
-#EXTINF:-1,TSN 3 CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/17689
-#EXTINF:-1,TSN 3 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37021
-#EXTINF:-1,TSN 4 CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/17688
-#EXTINF:-1,TSN 4 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37020
-#EXTINF:-1,TSN 5 HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37019
-#EXTINF:-1,TreeHouse HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37025
-#EXTINF:-1,Treehouse TV CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12759
-#EXTINF:-1,WWE HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37016
-#EXTINF:-1,YTV HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/37013
-#EXTINF:-1,beIN Sports HD CA
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12747
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/594?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27280&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27281&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/595?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27282&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/593?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/4830?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27283&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/596?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27284&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/597?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27285&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WORLD
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/598?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet 360
+http://disfruta.net:80/live/user23/user23/3135.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet One
+http://disfruta.net:80/live/user23/user23/3137.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet Ontario
+http://disfruta.net:80/live/user23/user23/3138.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet West
+http://disfruta.net:80/live/user23/user23/3140.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet World
+http://disfruta.net:80/live/user23/user23/3141.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SportsNet World HD
+http://disfruta.net:80/live/user23/user23/3142.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/2447.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27238&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/600?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
+http://disfruta.net:80/live/user23/user23/3153.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1 HD
+http://disfruta.net:80/live/user23/user23/3154.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27239&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
+http://disfruta.net:80/live/user23/user23/3155.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 2
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/601?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27240&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
+http://disfruta.net:80/live/user23/user23/3157.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/602?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3 HD
+http://disfruta.net:80/live/user23/user23/3158.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27241&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
+http://disfruta.net:80/live/user23/user23/3159.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/603?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 HD
+http://disfruta.net:80/live/user23/user23/3160.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
+http://disfruta.net:80/live/user23/user23/3161.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27242&checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/604?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 5 HD
+http://disfruta.net:80/live/user23/user23/3162.m3u8?checkedby:www.aliwix-lite.tk
