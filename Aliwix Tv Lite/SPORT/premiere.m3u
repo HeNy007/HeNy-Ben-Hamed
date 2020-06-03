@@ -4,23 +4,33 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|PREMIERE BRAZIL|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,Premiere Clubes HD BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/13610
-#EXTINF:-1,Premiere Clubes BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10219
-#EXTINF:-1,Premiere 2 HD BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10230
-#EXTINF:-1,Premiere 3 HD BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10228
-#EXTINF:-1,Premiere 3 BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10229
-#EXTINF:-1,Premiere 4 HD BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10226
-#EXTINF:-1,Premiere 4 BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10227
-#EXTINF:-1,Premiere 5 HD BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10224
-#EXTINF:-1,Premiere 5 BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10225
-#EXTINF:-1,Premiere 6 BR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/10223
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 1 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75478?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75479?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75480?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75481?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75482?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 6 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75483?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 7 HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/75484?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/80057?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7338.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD
+http://disfruta.net:80/live/user23/user23/3246.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7336.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD
+http://disfruta.net:80/live/user23/user23/3249.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 FHD BR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/81133?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
+http://disfruta.net:80/live/user23/user23/3251.m3u8?checkedby:www.aliwix-lite.tk
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/7333.m3u8?checkedby:www.aliwix-lite.tk
