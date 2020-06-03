@@ -4,13 +4,21 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|RMC SPORT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,RMC Sport News HD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/624939
-#EXTINF:-1,RMC Sport 1 FHD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/625254
-#EXTINF:-1,RMC Sport 2 HD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/86352
-#EXTINF:-1,RMC Sport 3 FHD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/625250
-#EXTINF:-1,RMC Sport 4 FHD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/625253
+#EXTINF:-1,FR: RMC Sport News HD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/9581
+#EXTINF:-1,FR: RMC Sport 1 FHD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3110
+#EXTINF:-1,FR: RMC Sport 2 HD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3063
+#EXTINF:-1,FR: RMC Sport 3 HD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/7502
+#EXTINF:-1,FR: RMC Sport 4 HD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/11371
+#EXTINF:-1,FR: RMC Sport Live 5 FHD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/111607
+#EXTINF:-1,FR: RMC Sport Live 6 FHD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/111606
+#EXTINF:-1,FR: RMC Sport Live 7 FHD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/111605
+#EXTINF:-1,FR: RMC Sport Live 8 FHD
+http://clientbox.tv:80/Gg4F3cVsYf/1826035512/111604
