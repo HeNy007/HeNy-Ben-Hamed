@@ -5,19 +5,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 1 HD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12930
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 2 FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12929
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 3 FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12928
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 4 HD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12927
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 5 FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12926
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 6 FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12925
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 7 FHD FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12924
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", CANAL PLAY 8 FR
-http://mytv.fun:8080/o74xxisom8/n1rbmajwlb/12923
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 1 HD FR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4126
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 2 HD FR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4125
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 3 HD FR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4124
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 4 HD FR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4123
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 5 HD FR
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4122
