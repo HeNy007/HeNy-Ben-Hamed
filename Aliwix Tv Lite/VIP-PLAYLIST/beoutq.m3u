@@ -4,17 +4,55 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8120
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES+2
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8122
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES_ACTION
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8121
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES_ACTION+2
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8125
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beout_Movies1HD_H265
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8123
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beout_Movies2HD_H265
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8124
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_Kids
-http://novaiptv.vip:80/hsrwiudshd/6412547890/8126
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Action
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/349|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Action  2
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/350|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Movies
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/351|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Movies  2
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/352|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Kids
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/353|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q Movies 3 HD
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/354|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q Movies 4 HD
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/355|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q AFLAM HD
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/356|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q CINEMA HD
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/357|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
