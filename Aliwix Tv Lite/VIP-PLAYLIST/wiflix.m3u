@@ -4,15 +4,32 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|WIFLIX|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX ACTION
-http://falconiptv.com:80/jasmin25/jasmin25/123907
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX CINEMA
-http://falconiptv.com:80/jasmin25/jasmin25/117834
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX AFLAM
-http://falconiptv.com:80/jasmin25/jasmin25/117835
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX DRAMA 1
-http://falconiptv.com:80/jasmin25/jasmin25/123904
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX DRAMA 2
-http://falconiptv.com:80/jasmin25/jasmin25/123905
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg", WIFLIX KIDS
-http://falconiptv.com:80/jasmin25/jasmin25/124471
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg",WIFLIX ACTION
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/399|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg",WIFLIX AFLAM
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/400|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg",WIFLIX CINEMA
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/401|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg",WIFLIX DRAMA 1
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/402|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://lh3.googleusercontent.com/MrpiDlNdhtRF9xoL_3LP6LDAoroUx8_HHYWPI2uqnqzQ9tNVw8TVbCVrGDgm2k74bKg",WIFLIX DRAMA 2
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/403|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
