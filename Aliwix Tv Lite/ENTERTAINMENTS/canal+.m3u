@@ -5,19 +5,42 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal+ FHD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/12860
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal Decale HD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/5699
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal Cinema FHD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/12996
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal+ Family FHD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/12970
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal Series HD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/12995
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal Sport FHD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/8569
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal+ Sport FHD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/16926
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Canal+ Sport HD FR
-http://mytv.fun:8080/5lt1xiffrf/kpohugwx0g/5696
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", FR- Canal    Décalé HD
+http://linux-app.tv:6204/15020208413552/24021189856304/36669?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", FR- Canal    Décalé HD
+http://linux-app.tv:6204/60400655844704/32991126026152/36669?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", FR- Canal    Décalé HD
+http://152.89.61.152:6204/95025267076109/65839594001441/36669?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal    Sport HD
+http://linux-app.tv:6204/15020208413552/24021189856304/33652?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal    Sport HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33652?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal    Sport HD
+http://152.89.61.152:6204/95025267076109/65839594001441/33652?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal  serie HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8068?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal  serie HD
+http://linux-app.tv:6204/60400655844704/32991126026152/8068?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal  serie HD
+http://152.89.61.152:6204/95025267076109/65839594001441/8068?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal Cinema HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8071?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal Cinema HD
+http://linux-app.tv:6204/60400655844704/32991126026152/8071?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal Family HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8069?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal Family HD
+http://linux-app.tv:6204/60400655844704/32991126026152/8069?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal Family HD
+http://152.89.61.152:6204/95025267076109/65839594001441/8069?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal HD
+http://linux-app.tv:6204/15020208413552/24021189856304/8070?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal HD
+http://linux-app.tv:6204/60400655844704/32991126026152/8070?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal HD
+http://152.89.61.152:6204/95025267076109/65839594001441/8070?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal J
+http://linux-app.tv:6204/15020208413552/24021189856304/8067?checkedby:www.aliwix-lite.tk
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", Fr- Canal J
+http://linux-app.tv:6204/60400655844704/32991126026152/8067?checkedby:www.aliwix-lite.tk
