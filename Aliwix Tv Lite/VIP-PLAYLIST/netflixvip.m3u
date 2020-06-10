@@ -6,7 +6,28 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 1
+http://actioniptv.live:8080/samer/samer/11428
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 2
+http://actioniptv.live:8080/samer/samer/11514
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX  AFLAM 1
+http://actioniptv.live:8080/samer/samer/11671
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX AFLAM 2
+http://actioniptv.live:8080/samer/samer/11709
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 1
+http://actioniptv.live:8080/samer/samer/11441
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 2
+http://actioniptv.live:8080/samer/samer/11449
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 3
+http://actioniptv.live:8080/samer/samer/11495
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX COMEDY
+http://actioniptv.live:8080/samer/samer/11497
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX MOVIES 1
+http://actioniptv.live:8080/samer/samer/11526
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX HORROR 1
+http://actioniptv.live:8080/samer/samer/11574
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX KIDS
+http://actioniptv.live:8080/samer/samer/11600
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", AR:NETFLIX 01 HD
 http://zalhdplus.com:2095/mansour/mansour/18010
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", AR:NETFLIX 02 HD
