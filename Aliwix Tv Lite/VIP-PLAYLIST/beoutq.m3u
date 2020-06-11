@@ -4,55 +4,21 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Action
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/349|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Action  2
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/350|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Movies
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/351|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Movies  2
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/352|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",BEOUT Q Kids
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/353|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q Movies 3 HD
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/354|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q Movies 4 HD
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/355|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q AFLAM HD
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/356|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png",Beout Q CINEMA HD
-
-
-http://iptvhit.live/AliwixLite/AliwixTv/VIP/357|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action 1HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7795
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action  2HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7794
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 1HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7792
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies  2HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7791
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 3HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45768
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 4HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45769
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Kids HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7793
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ AFLAM HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45766
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ CINEMA HD
+http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45767
