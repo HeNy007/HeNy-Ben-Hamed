@@ -1,110 +1,86 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Movies 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1538|User-Agent=Beryantv0074
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1538|User-Agent=JanBeryan9064965946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Movies 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1539|User-Agent=Beryantv0074
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1539|User-Agent=JanBeryan9064965946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Movies 3
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1540|User-Agent=Beryantv0074
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1540|User-Agent=JanBeryan9064965946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Movies 4
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1541|User-Agent=Beryantv0074
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1541|User-Agent=JanBeryan9064965946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Series 1
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1542|User-Agent=Beryantv0074
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1542|User-Agent=JanBeryan9064965946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",Bein Series 2
-http://beryantv.com:25461/BeryanIPTV-TV/BeryanIPTV-6694090187/1543|User-Agent=Beryantv0074
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Animal Planet FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Discovery Science FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My DocuBox HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150641
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Documentary Bil Arabie
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150640
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My English Club TV
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150638
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fast & FunBOX HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My FightBox HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150636
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My FilmBox HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150635
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Crime FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Crime HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150634
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Life FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Life HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150633
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Rewayat FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Rewayat HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My FX HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150631
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Game Toon HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150630
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Action HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Laab Wa Jad HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150627
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My National Geo Wild FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My National Geographic FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Planet Earth HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My TDC HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Gulli Bil Arabie HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150629
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Gulli FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fix Foxi HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150622
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Trace Sport HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150626
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Stereo Siempre Musica HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150624
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Cinema HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/56569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Stereo Music Always HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/56572
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fox Family Movies HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62284
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: My Fix & Foxi HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Fatafeat HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4316
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Dmax HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein DTX HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Fox Movies HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Gourmet HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8227
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Series HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/56570
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Series 2 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150706
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Drama HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62279
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Fox HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62280
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein AMC HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Outdoor HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/62282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Movies 1 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3501
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Movies 2 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3502
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Movies 3 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3503
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="", AR: Bein Movies 4 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/5354
+http://beryantv.com:25461/BeryanTV-App/JanBeryan-9064965946/1543|User-Agent=JanBeryan9064965946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN MOVIES-PREMIERE 1 HD
+http://zalhdplus.com:2095/mansour/mansour/184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN MOVIES-ACTION 2 HD
+http://zalhdplus.com:2095/mansour/mansour/185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN MOVIES-DRAMA 3 HD
+http://zalhdplus.com:2095/mansour/mansour/186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN MOVIES-FAMILY 4 HD
+http://zalhdplus.com:2095/mansour/mansour/187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-SERIES 1 HD
+http://zalhdplus.com:2095/mansour/mansour/207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-SERIES 2 HD
+http://zalhdplus.com:2095/mansour/mansour/5863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-DRAMA ARABIC HD
+http://zalhdplus.com:2095/mansour/mansour/193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN GROUMMET HD
+http://zalhdplus.com:2095/mansour/mansour/201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN FOX HD
+http://zalhdplus.com:2095/mansour/mansour/197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN FOX Movie HD
+http://zalhdplus.com:2095/mansour/mansour/200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN FOX Action Movie HD
+http://zalhdplus.com:2095/mansour/mansour/198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN FOX Family Movie HD
+http://zalhdplus.com:2095/mansour/mansour/199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN CBS HD
+http://zalhdplus.com:2095/mansour/mansour/203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN TRAVEL HD
+http://zalhdplus.com:2095/mansour/mansour/22441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN SUNDANCE HD
+http://zalhdplus.com:2095/mansour/mansour/21861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:Bein BBC EARTH FHD
+http://zalhdplus.com:2095/mansour/mansour/23330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-BOX Office 1 HD
+http://zalhdplus.com:2095/mansour/mansour/6174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-BOX Office 2 HD
+http://zalhdplus.com:2095/mansour/mansour/262
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-BOX Office 3 HD
+http://zalhdplus.com:2095/mansour/mansour/4538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-BABY HD
+http://zalhdplus.com:2095/mansour/mansour/5859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN JEEM EUROPE HD
+http://zalhdplus.com:2095/mansour/mansour/204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN BARAEM HD
+http://zalhdplus.com:2095/mansour/mansour/190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN Discovery Kids HD
+http://zalhdplus.com:2095/mansour/mansour/191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-BOOMERANG
+http://zalhdplus.com:2095/mansour/mansour/5858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN JUNIOR BE HD
+http://zalhdplus.com:2095/mansour/mansour/205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN DREAM WORKS
+http://zalhdplus.com:2095/mansour/mansour/194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-CARTOON NETWORK
+http://zalhdplus.com:2095/mansour/mansour/5866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN Fatafeat HD
+http://zalhdplus.com:2095/mansour/mansour/196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-Food Network HD
+http://zalhdplus.com:2095/mansour/mansour/18122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN-Fine Living HD
+http://zalhdplus.com:2095/mansour/mansour/18121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:Bein DTX
+http://zalhdplus.com:2095/mansour/mansour/195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN AMC HD
+http://zalhdplus.com:2095/mansour/mansour/188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN HGTV HD
+http://zalhdplus.com:2095/mansour/mansour/202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="",AR:BeIN Animal Planet HD
+http://zalhdplus.com:2095/mansour/mansour/189
