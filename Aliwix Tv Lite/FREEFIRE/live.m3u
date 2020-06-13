@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Gaming Live|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★ البث يعمل فقط عندما يكون صاحب القناة عامل لايف ★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://firebasestorage.googleapis.com/v0/b/mambet-storage/o/Channel%2FAvatar%2F9157385%2F211DA027-6AAA-4D10-B2FD-90454AF09844.jpg?alt=media&token=0eb2d0d5-cc51-4885-a852-a714024fe659" group-title="", شكاكـي / SHAKAKI
+https://akamai2-me.cdn.booyah.live/hls/113132/master_9157385.m3u8
+
 
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/10557a04-ca19-4343-872e-42d479b0124c-profile_image-50x50.png" group-title="", PoderosoTV_
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1wb2Rlcm9zb3R2Xw==
