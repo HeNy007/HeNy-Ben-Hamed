@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|FREE FIRE|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|Gaming Live|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/10557a04-ca19-4343-872e-42d479b0124c-profile_image-50x50.png" group-title="", PoderosoTV_
+xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1wb2Rlcm9zb3R2Xw==
+
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/150e42e1-25f5-4069-afc8-c96c78806bbe-profile_image-50x50.png" group-title="", CLAN_OFFLINE
+xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1jbGFuX29mZmxpbmU=
 
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://firebasestorage.googleapis.com/v0/b/mambet-storage/o/Channel%2FAvatar%2F10371949%2F10371949-f9824294-bf13-4ca6-bbf5-754e4365de05?alt=media&token=f3b566e0-d15c-4148-aae8-1ef84b1a8fd8" group-title="", Maya🧚‍♂️
 https://bit.ly/30uDMNF
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dad8f67d-6340-4336-b9e8-21923d67c085-profile_image-50x50.png" group-title="", mr_sultan
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1tcl9zdWx0YW5fMzMz
 
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/77c5ad15-a498-464c-a785-ac94a298b9aa-profile_image-50x50.png" group-title="", NORNEVES
+xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1ub3JuZXZlcw==
 
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/05d5dff8-b47b-43e9-a53e-95c0a41ee619-profile_image-50x50.png" group-title="", DaRealWarriorX
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1kYXJlYWx3YXJyaW9yeA==
@@ -25,17 +33,12 @@ xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1zaGluaXRu
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0e49cb05-84f7-4e6f-a95c-c0645fa93413-profile_image-50x50.png" group-title="", OriTTV
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1vcml0dHY=
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/77c5ad15-a498-464c-a785-ac94a298b9aa-profile_image-50x50.png" group-title="", NORNEVES
-xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1ub3JuZXZlcw==
+
 
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/003f987d-15b3-40dd-90d9-2c6713f5fdf0-profile_image-50x50.png" group-title="", br4voxxxx
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1icjR2b3h4eHg=
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/10557a04-ca19-4343-872e-42d479b0124c-profile_image-50x50.png" group-title="", PoderosoTV_
-xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1wb2Rlcm9zb3R2Xw==
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/150e42e1-25f5-4069-afc8-c96c78806bbe-profile_image-50x50.png" group-title="", CLAN_OFFLINE
-xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1jbGFuX29mZmxpbmU=
 
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e308b108-8898-4c25-927d-af818f856d90-profile_image-50x50.png" group-title="", ultranzatv
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD11bHRyYW56YXR2
