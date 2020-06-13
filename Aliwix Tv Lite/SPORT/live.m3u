@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MILAN VS JUVENTUS|-----★●•[/color]
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NAPOLI VS INTER|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png" tvg-country="IR" tvg-url="" group-title="Sport",Falcon Eye 1 (تعليق عربي)
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png" group-title="Sport",Falcon Eye 1 (تعليق عربي)
 xmtv://aHR0cDovLzExNi4yMDIuMjQuMjMwL3VwbG9hZC9pbWFnZXMvbG9nb0EwNS5tM3U4fFVzZXItQWdlbnQ9TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBTTkUtTFgxKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzQuMC4zNzI5LjE4NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiByZWZlcmVyPWh0dHA6Ly9xYW5hdC50di8/QTA1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png" tvg-country="IR" tvg-url="" group-title="Sport",BT Sport 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png" group-title="Sport",BT Sport 1
 http://cdn.miip.tv:8080/canada/123456/3742?checkedby:www.aliwix-lite.tk
 #EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/1200px-Coppa_Italia_-_Logo_2019.svg.png" group-title="Sport",TRT Sport HD
 http://m-iptv.net:6204/95025267076109/65839594001441/33525?checkedby:www.aliwix-lite.tk
