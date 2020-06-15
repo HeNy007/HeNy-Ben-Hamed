@@ -35,7 +35,7 @@ http://web13.iptv-planet.com:8080/hls/at.m3u8|User-Agent=Mozilla/5.0 (Linux; And
 
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://d7ieeqxtzpkza.cloudfront.net/wp-content/uploads/2018/08/hand.jpg" , Hannibal
-http://s.i-g8.com:8000/xnouredinxrashad/sh4736/477
+http://178.132.3.162:88/hannibal/video.m3u8?token=test
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Attessia_TV.png/150px-Attessia_TV.png", Attesia Tv
 http://web13.iptv-planet.com:8080/hls/attesiatv.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.186 Mobile Safari/537.36 referer=http://embed.iptv-pla.net/media2.php
