@@ -67,40 +67,26 @@ http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4275
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Iraq HD
 http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150870
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="UAE",MBC 1 (HD)
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="UAE",MBC 2 (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
-
-#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="UAE",MBC 3 (HD)
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE",MBC 4 (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="UAE",MBC 5 (HD)
-http://iptvhit.live/AliwixLite/Aliwix/Lite/20|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vSiqxD4glpo/WxKCYWE51lI/AAAAAAAATkU/vul0n6JcjtIcdO1MDPQRCg6laU5fFEGPACLcBGAs/s1600/mbc_ae_action.png" group-title="UAE",MBC Action (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sbmrwcC.png" group-title="UAE",MBC Bollywood (HD)
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="UAE",MBC Drama (HD)
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="UAE",MBC Max (HD)
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="السعودية",MBC 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="السعودية",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="السعودية",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="السعودية",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="السعودية",MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama Plus
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="السعودية",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://gulf365.co/content/uploads/2019/09/05/4399419d28.jpg" group-title="UAE",MBC IRAQ (HD)
 http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
@@ -181,20 +167,16 @@ http://one75.mine.nu:8000/gader/98769876/1395
 #EXTINF:-1,my Trace Sport HD
 http://one75.mine.nu:8000/gader/98769876/1026
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana DRAMA (HD)" tvg-logo="https://pbs.twimg.com/profile_images/915178887566495744/Cgu2WvBb_400x400.jpg" group-title="ROTANA (HD)",Rotana DRAMA (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema (HD)" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/xT/7/Thumbnail.png?v=636557990691600186" group-title="ROTANA (HD)",Rotana Cinema (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Music (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrEQwPp60gKgUgN-Geit1I7UQd1cmwZlDfFIPluUTtt6Pa7dgVQ" group-title="ROTANA (HD)",Rotana Music (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic (HD)" tvg-logo="http://www.akhbarak.net/blog/wp-content/uploads/2018/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-1.jpg" group-title="ROTANA (HD)",Rotana Classic (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijia (HD)" tvg-logo="https://arriyadiyah.com/media/thumb/e3/33/800_c4bf5b2d09.jpg" group-title="ROTANA (HD)",Rotana Khalijia (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Aflam (HD)" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="ROTANA (HD)",Rotana Aflam (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rotana (HD)" tvg-logo="https://image.mysatgo.com/resize-width/400//content/y/fD/8/Thumbnail.png?v=636557991211420138" group-title="ROTANA (HD)",Rotana (HD)
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RoTANA TARAB (HD)" tvg-logo="" group-title="ROTANA (HD)",ROTANA TARAB (HD)
-https://player-api.new.livestream.com/accounts/3320102/events/7043072/live.secure.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="السعودية",Rotana Cinema
+https://rotana.hibridmedia.com/rotana/cinema_dabr/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="السعودية",Rotana Classic
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="السعودية",Rotana Comedy
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="السعودية",Rotana Drama
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="السعودية",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="السعودية",Rotana Khaleejiya
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/rotana/khaleejiya_1080p/chunks.m3u8
