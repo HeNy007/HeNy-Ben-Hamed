@@ -4,66 +4,26 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MBC GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR: MBC 1 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150656
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR: MBC 1 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 1
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 2 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 2 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8035
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 2
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 3 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 3 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 3
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 4 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 4 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 4
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 5
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="UAE",MBC 5
-http://iptvhit.live/AliwixLite/Aliwix/Lite/20|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Drama FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150652
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Drama
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Drama Plus FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC+ Drama HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/6149
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="السعودية",MBC 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="السعودية",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="السعودية",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="السعودية",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="السعودية",MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama Plus
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="السعودية",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Plus Variety FHD
 http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Variety HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Max FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Max HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Max
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Action FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Action HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Action
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Bollywood FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Bollywood
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Masr
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Masr 2
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4275
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Iraq HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150870
-
