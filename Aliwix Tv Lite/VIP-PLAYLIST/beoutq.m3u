@@ -4,6 +4,18 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES
+http://showmetv.live:80/malek/malek/26983
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES+2
+http://showmetv.live:80/malek/malek/26984
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES_ACTION
+http://showmetv.live:80/malek/malek/26985
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BEOUT_MOVIES_ACTION+2
+http://showmetv.live:80/malek/malek/26986
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beout_Movies1HD_H265
+http://showmetv.live:80/malek/malek/26987
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", beout_Movies2HD_H265
+http://showmetv.live:80/malek/malek/26988
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action 1HD
 http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7795
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action  2HD
