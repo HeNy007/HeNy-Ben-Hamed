@@ -4,6 +4,20 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|OXN Ya Hala|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Cinema_1
+http://showmetv.live:80/malek/malek/26991
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Movies_som3a
+http://showmetv.live:80/malek/malek/26992
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Movies_HD
+http://showmetv.live:80/malek/malek/26993
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_GO_Movies
+http://showmetv.live:80/malek/malek/26994
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Movies_First_HD
+http://showmetv.live:80/malek/malek/26995
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Puer_Movies_HD
+http://showmetv.live:80/malek/malek/26996
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_16098v3ln0.png", oXn_Movies_Kids
+http://showmetv.live:80/malek/malek/26997
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA MIX
 #EXTVLCOPT:http-user-agent=airmax.tv.
 http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/208
