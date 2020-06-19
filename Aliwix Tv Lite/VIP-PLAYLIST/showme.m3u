@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHOWME PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Cinema FHD
+http://showmetv.live:80/malek/malek/35847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Aflam 1 FHD
+http://showmetv.live:80/malek/malek/35849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Aflam 2 FHD
+http://showmetv.live:80/malek/malek/35865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Comedy FHD
+http://showmetv.live:80/malek/malek/35850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Classic HD
+http://showmetv.live:80/malek/malek/35848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Ismael Yassen HD
+http://showmetv.live:80/malek/malek/35864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Anime Bil Arabi FHD
+http://showmetv.live:80/malek/malek/35882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://h.top4top.io/p_1631hd00t0.png" group-title="",ShowMe Tom & Jerry HD
+http://showmetv.live:80/malek/malek/35884
