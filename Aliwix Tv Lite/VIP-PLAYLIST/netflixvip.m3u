@@ -5,7 +5,42 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 1
+http://actionwd.com:8080/Ashraf/Ashraf/11428
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX ACTION 2
+http://actionwd.com:8080/Ashraf/Ashraf/11514
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX  AFLAM 1
+http://actionwd.com:8080/Ashraf/Ashraf/11671
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX AFLAM 2
+http://actionwd.com:8080/Ashraf/Ashraf/11709
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 1
+http://actionwd.com:8080/Ashraf/Ashraf/11441
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 2
+http://actionwd.com:8080/Ashraf/Ashraf/11449
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX CINEMA 3
+http://actionwd.com:8080/Ashraf/Ashraf/11495
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX COMEDY
+http://actionwd.com:8080/Ashraf/Ashraf/11497
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX MOVIES 1
+http://actionwd.com:8080/Ashraf/Ashraf/11526
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX HORROR 1
+http://actionwd.com:8080/Ashraf/Ashraf/11574
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", NETFLIX KIDS
+http://actionwd.com:8080/Ashraf/Ashraf/11600
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Movies
+http://showmetv.live:80/malek/malek/26976
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Action
+http://showmetv.live:80/malek/malek/26977
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Horror
+http://showmetv.live:80/malek/malek/26978
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Romancy
+http://showmetv.live:80/malek/malek/26979
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Comedy
+http://showmetv.live:80/malek/malek/26980
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Drama
+http://showmetv.live:80/malek/malek/26981
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png", Netflix_Kids
+http://showmetv.live:80/malek/malek/26982
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix - Action ( FHD)
 http://dreambox84.com:8000/479545774/dZHgcm9PRQ/51299
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",Netflix - Action 2 ( FHD)
