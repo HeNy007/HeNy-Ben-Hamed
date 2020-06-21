@@ -14,6 +14,12 @@ https://videocdn.mixer.com/hls/163333445-e5daf16a20d0b764da34926ac68a7567_source
 
 
 
+#EXTINF:-1 tvg-logo="http://felesport.com/wp-content/uploads/2020/01/%D9%85%D8%AC%D8%AF%D9%8A.png" ,  ★وقت المباريات فقط★ felesport
+https://streamer1.furrera.ps/felesportWeb/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/27d94513-9952-40d6-b5bb-62cc3a84fab0-profile_image-50x50.png" ,  ★وقت المباريات فقط★ EMZ SPORT
 xmtv://aHR0cHM6Ly93d3cuZWxhaG1hZC5jb20vdHYvbTN1OC90d2l0Y2gubTN1OD9pZD1lbXo5NjM=
 
@@ -53,6 +59,22 @@ xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA3Lm0zdTh8VXNlci1BZ
 
 #EXTINF:-1 tvg-logo="https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix%20Tv%20Lite/falcon-eye.png" , Falcon Eye 4
 xmtv://aHR0cDovLzk1LjIxNi4xNzIuMTgvdXBsb2FkL2ltYWdlcy9sb2dvQTA4Lm0zdTh8VXNlci1BZ2VudD1Nb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNORS1MWDEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83NC4wLjM3MjkuMTg2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IHJlZmVyZXI9aHR0cDovL3lhcmlnYS50di8/MDg=
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T4qZTrOBWr0/W7UrB-KId9I/AAAAAAAAApY/hjI0KbWlmzsSmCaSL_aFJBnP8ChzahDOQCLcBGAs/s400/ee.jpg",بيت لحم
+http://htvint.mada.ps:8889//btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y",Raya Tv
+http://vstreamgz.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.arn.ps/uploads/radioslogo/tv.jpg",Ajyal Tv
+http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png", FAJRER 1
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000274512233-57pl98-t500x500.jpg",Horrya Tv
+http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV
 http://51.158.66.44/hls/stream.m3u8
