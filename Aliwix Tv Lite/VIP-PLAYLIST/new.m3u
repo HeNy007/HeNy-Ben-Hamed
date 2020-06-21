@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NEW PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Movies +1 h265
+http://actionwd.com:8080/Ashraf/Ashraf/20025
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Movies+2 h265
+http://actionwd.com:8080/Ashraf/Ashraf/20869
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Cinema h265
+http://actionwd.com:8080/Ashraf/Ashraf/20023
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Aflam +1 h265
+http://actionwd.com:8080/Ashraf/Ashraf/20058
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Aflam+2 h265
+http://actionwd.com:8080/Ashraf/Ashraf/21117
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Comedy h265
+http://actionwd.com:8080/Ashraf/Ashraf/20829
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Kids h265
+http://actionwd.com:8080/Ashraf/Ashraf/20867
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Action+1 h265
+http://actionwd.com:8080/Ashraf/Ashraf/21073
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.freepnglogos.com/uploads/new-balance-png-logo/red-new-icon-png-logo-33.png", New Zaman h265
+http://actionwd.com:8080/Ashraf/Ashraf/21101
