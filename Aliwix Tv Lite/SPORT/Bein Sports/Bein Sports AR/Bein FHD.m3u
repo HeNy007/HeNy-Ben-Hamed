@@ -26,3 +26,45 @@ http://beryantv.com:25461/BeryanTV-App/Beryan-TV/1845|User-Agent=Beryanttttttv-a
 http://beryantv.com:25461/BeryanTV-App/Beryan-TV/1846|User-Agent=Beryanttttttv-apppppppppppppppppppppppppppppppppppp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", Bein Sports 10FHD
 http://beryantv.com:25461/BeryanTV-App/Beryan-TV/1847|User-Agent=Beryanttttttv-apppppppppppppppppppppppppppppppppppp
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="", [color yellow]♦♦♦SERVER 2♦♦♦[/color]
+http://beryantv.com:25461/BeryanTV-App/Beryan-TV/1837|User-Agent=Beryanttttttv-apppppppppppppppppppppppppppppppppppp
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN News 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108861
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN Free 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108862
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN NBA 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108860
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.1 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4420
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.2 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4421
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.3 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4422
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.4 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4423
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.5 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4424
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.6 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4425
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.7 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4426
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.8 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4427
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.9 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4428
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.10 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/4429
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.11 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/2297
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.12 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/2298
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.13 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108856
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.14 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108857
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.15 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108858
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180", BEIN.16 1080p
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/108859
