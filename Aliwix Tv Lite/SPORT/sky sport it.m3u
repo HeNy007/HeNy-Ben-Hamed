@@ -3,35 +3,19 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SKY SPORT IT|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-#EXTINF:-1,|IT| SKY SPORT 24 FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28702
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28701
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28673
-#EXTINF:-1,|IT| SKY SPORT UNO FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28674
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28682
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28681
-#EXTINF:-1,|IT| SKY SPORT COLLECTION FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28686
-#EXTINF:-1,|IT| SKY SPORT COLLECTION HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28685
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28688
-#EXTINF:-1,|IT| SKY SPORT ARENA HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28687
-#EXTINF:-1,|IT| SKY SPORT NBA FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28678
-#EXTINF:-1,|IT| SKY SPORT NBA HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28677
-#EXTINF:-1,|IT| SKY SPORT F1 FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28684
-#EXTINF:-1,|IT| SKY SPORT F1 HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28683
-#EXTINF:-1,|IT| SKY SPORT MOTOGP FHD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28680
-#EXTINF:-1,|IT| SKY SPORT MOTOGP HD
-http://iptv-luxe.com:8789/joffreyleboucher/ASknoXrbUG/28679
+#EXTINF:-1,IT:SKY SPORTS FOOTBALL HD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106706
+#EXTINF:-1,IT:SKY SPORTS FOOTBALL FHD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106707
+#EXTINF:-1,IT:SKY SPORTS UNO HD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106708
+#EXTINF:-1,IT:SKY SPORTS ARENA FHD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106709
+#EXTINF:-1,IT:SKY SPORTS ARENA HD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106710
+#EXTINF:-1,IT:SKY SPORTS COLLECTION FHD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106711
+#EXTINF:-1,IT:SKY SPORTS COLLECTION HD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106712
+#EXTINF:-1,IT:SKY SPORTS NBA FHD
+http://vlc.news:9000/sharpstar_955951/MG4z24H0/106713
