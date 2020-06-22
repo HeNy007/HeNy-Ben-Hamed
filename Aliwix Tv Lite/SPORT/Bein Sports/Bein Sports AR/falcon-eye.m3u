@@ -11,6 +11,10 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 https://videocdn.mixer.com/hls/163333445-e5daf16a20d0b764da34926ac68a7567_source/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://amwajsport.ps/style/assets/images/amj-chanel-h-1.png" ,  (تبث مباريات فقط) امواج
+http://vstreamgz.hadara.ps:8081/Amwaj/Amwaj/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://felesport.com/wp-content/uploads/2020/01/%D9%85%D8%AC%D8%AF%D9%8A.png" ,  ★وقت المباريات فقط★ felesport
 https://streamer1.furrera.ps/felesportWeb/index.m3u8
