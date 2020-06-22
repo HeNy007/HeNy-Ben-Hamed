@@ -18,6 +18,9 @@ https://videocdn.mixer.com/hls/163333445-e5daf16a20d0b764da34926ac68a7567_source
 https://streamer1.furrera.ps/felesportWeb/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" ,  بيت لحم 2 (تبث مباريات فقط)
+http://live.btv2020.com:1935/live/btv2/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/27d94513-9952-40d6-b5bb-62cc3a84fab0-profile_image-50x50.png" ,  ★وقت المباريات فقط★ EMZ SPORT
