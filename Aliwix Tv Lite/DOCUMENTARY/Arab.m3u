@@ -7,28 +7,26 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",•●★-----|Documentary AR|-----★●•
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_%D8%A7%D8%A8%D9%88_%D8%B8%D8%A8%D9%8A.png" group-title="قنوات الوثائقية",Nat Geo Abu Dhabi FHD
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="قنوات الوثائقية",NAT GEO WILD HD
 
-#EXTINF:0 tvg-id="avi" group-title=,Nat geo
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD SD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people HD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people SD ENGLISH
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
-http://95.170.215.107/hls/Al-Jazera-Doc-HD-M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="قنوات الوثائقية",Nat geo people HD ENGLISH
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Oman الوثائقية
-http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat_Geo_Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف ؟؟
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.fekera.com/wp-content/uploads/2020/03/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A3%D9%A1%D9%A5_%D9%A1%D9%A6%D9%A4%D9%A5%D9%A3%D9%A4.jpg" group-title="قنوات الوثائقية",Oman الوثائقية
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://www.nilesat7.com/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D9%8A%D9%81.jpg" group-title="قنوات الوثائقية",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Fishing-And-Hunt
-http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Animal-Planet
-http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="قنوات الوثائقية",animal_planet
+http://185.22.183.147:8085/media/hls_183_147/animal_planet_hq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="قنوات الوثائقية",National Geographic HD RU
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="قنوات الوثائقية",H2
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="قنوات الوثائقية",DocuBOX HD
+#EXTINF:0 tvg-id="ext" group-title="قنوات
