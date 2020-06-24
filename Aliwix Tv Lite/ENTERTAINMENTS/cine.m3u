@@ -4,27 +4,37 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|CINE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,FR: Cine Premier FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/152319
-#EXTINF:-1,FR: Cine Premier HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2553
-#EXTINF:-1,FR: Cine Frisson FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/152318
-#EXTINF:-1,FR: Cine Frisson HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2574
-#EXTINF:-1,FR: Cine Famiz FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/152321
-#EXTINF:-1,FR: Cine Famiz HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4
-#EXTINF:-1,FR: Cine Emotion FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/152320
-#EXTINF:-1,FR: Cine Emotion HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2573
-#EXTINF:-1,FR: Cine Polar FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3612
-#EXTINF:-1,FR: Cine Classic FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/152322
-#EXTINF:-1,FR: Cine Classic HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2584
-#EXTINF:-1,FR: Cine Club FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/9402
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  CLASSIC FHD" tvg-logo="" group-title="France FHD",[FR] CINE  CLASSIC FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/738
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  CLASSIC HD" tvg-logo="" group-title="France HD",[FR] CINE  CLASSIC HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2367
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  CLUB FHD" tvg-logo="" group-title="France FHD",[FR] CINE  CLUB FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/739
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  EMOTION FHD" tvg-logo="" group-title="France FHD",[FR] CINE  EMOTION FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/740
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  EMOTION HD" tvg-logo="" group-title="France HD",[FR] CINE  EMOTION HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2363
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FAMIZ FHD" tvg-logo="" group-title="France FHD",[FR] CINE  FAMIZ FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/741
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FAMIZ HD" tvg-logo="" group-title="France HD",[FR] CINE  FAMIZ HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2364
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FRISSON FHD" tvg-logo="" group-title="France FHD",[FR] CINE  FRISSON FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/742
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  FRISSON HD" tvg-logo="" group-title="France HD",[FR] CINE  FRISSON HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2365
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  POLAR FHD" tvg-logo="" group-title="France FHD",[FR] CINE  POLAR FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/743
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  PREMIER HD" tvg-logo="" group-title="France HD",[FR] CINE  PREMIER HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2366
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE  PREMIERE FHD" tvg-logo="" group-title="France FHD",[FR] CINE  PREMIERE FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/744
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE CLUB HD" tvg-logo="" group-title="France HD",[FR] CINE CLUB HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/2368
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Club SD" tvg-logo="" group-title="France SD",[FR] Cine Club SD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/622
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Emotion SD" tvg-logo="" group-title="France SD",[FR] Cine Emotion SD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/621
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Cine Frisson SD" tvg-logo="" group-title="France SD",[FR] Cine Frisson SD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/619
+#EXTINF:-1 tvg-id="" tvg-name="[FR] CINE FX FHD" tvg-logo="" group-title="France FHD",[FR] CINE FX FHD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/745
