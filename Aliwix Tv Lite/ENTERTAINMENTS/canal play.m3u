@@ -5,13 +5,23 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 1 HD FR
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4126
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 2 HD FR
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4125
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 3 HD FR
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4124
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 4 HD FR
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4123
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png", Canal Play 5 HD FR
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/4122
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 1
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15851
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 2
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15852
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 3" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 3
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15853
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 4
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15854
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 5
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15855
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 6
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15856
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 7
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15857
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 8
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15858
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 9" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 9
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15859
+#EXTINF:-1 tvg-id="" tvg-name="[FR]Canalplay 10" tvg-logo="https://television.telerama.fr/sites/tr_master/files/canalplay_4.png" group-title="France HD",[FR]Canalplay 10
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/15860
