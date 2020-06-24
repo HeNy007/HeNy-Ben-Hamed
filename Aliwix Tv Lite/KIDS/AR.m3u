@@ -21,10 +21,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
 http://185.132.179.49:8000/live/fhd2231nb4/f1aCdtLb9L/625.ts
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/74511_mickeytv.jpg",mickey
 http://78.193.122.129:9981/play/a05a
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/16251_cartoonnetworkpakistani.jpg",CN Arabica SD
-http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/16251_cartoonnetworkpakistani.jpg",CN Arabica HD
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+http://37.235.38.131:4000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/86603_disneyinternational.jpg",Disney channel
 http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/47631_boomrang.jpg",BOOMERANG
@@ -44,7 +42,7 @@ http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4X5Jej.png" group-title="PALESTINE",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/99535_jeemtv.jpg",JEEM TV
-http://95.170.215.120:80/hls/m3u8/jeem.m3u8
+http://178.132.3.162:88/Baraem/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="UAE",spacetoon HD
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="UAE",spacetoon SD
