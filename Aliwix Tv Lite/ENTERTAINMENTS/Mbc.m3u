@@ -4,27 +4,39 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MBC GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="",MBC
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="",MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="",MBC Drama+
-https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+******mbc local****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Plus Variety FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150655
+#EXTINF:-1 tvg-id="" tvg-name="MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="قنوات أم بي سيMBC",MY-MBC PERSIA FHD
+https://soltaan.com/iptv/mbcpersiahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",MY-MBC 1 FHD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",MY-MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 3 HD" tvg-logo="https://i.ytimg.com/vi/ccu1q3ioJyo/hqdefault.jpg" group-title="قنوات أم بي سيMBC",MY-MBC 3 FHD
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",MY-MBC 4 FHD
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",MY-MBC 5 FHD
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",MY-MBC Wanasah FHD
+https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",MY-MBC IRAQ FHD
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",MY-MBC Max FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",MY-MBC ACTION FHD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://1.bp.blogspot.com/-XEwSGY63VfY/Xd0CqlJfBaI/AAAAAAAAJ28/HdV1GQdWhukF6LB4yAaDx_0XD_wfnonDACLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D9%2581%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AA%25D9%258A%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.webp" group-title="قنوات أم بي سيMBC",MY-MBC VARIETY HD
+http://178.63.48.23:25461/mbcwww.vviruslove.com/XVkOm43hyg/257
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",MY-MBC Bolleywod FHD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",MY-MBC Drama FHD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/880453699411349506/sQst7FnI_400x400.jpg" group-title="قنوات أم بي سيMBC",MY-MBC Drama  Plus FHD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Masr" tvg-logo="https://vid.alarabiya.net/images/2017/02/15/7e953741-1865-4462-b837-ddc84f811d74/7e953741-1865-4462-b837-ddc84f811d74_16x9_1200x676.jpg?format=jpeg&width=960" group-title="قنوات أم بي سيMBC",MY-MBC Masr FHD
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.lmalshaml.com/upload/photos/2018/01/ORdN8CSRx2vFjKaduze2_05_ccc3a83e127219d946f33f5e78230b86_image.png" group-title="قنوات أم بي سيMBC",MY-MBC MASR FHD
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",MY-MBC FM FHD
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
