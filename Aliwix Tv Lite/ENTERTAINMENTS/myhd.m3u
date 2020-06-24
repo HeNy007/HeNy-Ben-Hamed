@@ -3,169 +3,71 @@
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MY HD|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 1 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150656
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 1 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 1
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/2820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 2 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 2 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8035
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 2
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 3 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 3 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 3
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 4 FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC 4 HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 4
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC 5
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/MBC5.png/revision/latest/scale-to-width-down/340?cb=20191207113549" group-title="UAE",MBC 5
-http://iptvhit.live/AliwixLite/Aliwix/Lite/20|User-Agent=Aliwix-Lite/1.21.5 (Linux; Android 10; fr-FR; SNE-LX1 Build/SNE-LX1 10.0.0.170(C432E10R1P1))
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Drama FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150652
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Drama
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Drama Plus FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC+ Drama HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/6149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Plus Variety FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Variety HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Max FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Max HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Max
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Action FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Action HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/8041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Action
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Bollywood FHD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Bollywood
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Masr
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",[AR]  MBC Masr 2
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4275
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",AR:  MBC Iraq HD
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/150870
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="السعودية",MBC 2
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="السعودية",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="السعودية",MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="السعودية",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="السعودية",MBC Action
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama Plus
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC PERSIA FHD
+https://soltaan.com/iptv/mbcpersiahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 FHD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 3 HD" tvg-logo="https://i.ytimg.com/vi/ccu1q3ioJyo/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC 3 FHD
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJrw9XekCoHTYHffMPkCo2MXu2SY57G6T6_-3q2LMB42R_qloIQ" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 FHD
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="MBC5.ma" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://s2.gulfupload.com/i/00097/qlmne0e4k7oe.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
+https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://www.wataan.com/uploads/2972016-100857PM.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.ytimg.com/vi/yWgEK2Hn4B8/hqdefault.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://1.bp.blogspot.com/-XEwSGY63VfY/Xd0CqlJfBaI/AAAAAAAAJ28/HdV1GQdWhukF6LB4yAaDx_0XD_wfnonDACLcBGAsYHQ/w1200-h630-p-k-no-nu/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D9%2581%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AA%25D9%258A%2B%25D8%25A8%25D8%25AB%2B%25D9%2585%25D8%25A8%25D8%25A7%25D8%25B4%25D8%25B1.webp" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD
+http://178.63.48.23:25461/mbcwww.vviruslove.com/XVkOm43hyg/257
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://banner2.kisspng.com/20180713/hhy/kisspng-mbc-bollywood-television-channel-logo-bolliwood-5b484102dd65d8.1440058915314618909069.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://www.almojaaz.com/wp-content/uploads/cache/%D9%8A%D8%B3%D9%8A-20-1ttkcchww3ty23igace8d0gqnawxtrjvabblu5dtvpac.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="https://pbs.twimg.com/profile_images/880453699411349506/sQst7FnI_400x400.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="السعودية",MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC Masr" tvg-logo="https://vid.alarabiya.net/images/2017/02/15/7e953741-1865-4462-b837-ddc84f811d74/7e953741-1865-4462-b837-ddc84f811d74_16x9_1200x676.jpg?format=jpeg&width=960" group-title="قنوات أم بي سيMBC",AR:MY-MBC Masr FHD
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:-1 tvg-id="MbcMasr2.eg" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.lmalshaml.com/upload/photos/2018/01/ORdN8CSRx2vFjKaduze2_05_ccc3a83e127219d946f33f5e78230b86_image.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR FHD
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FM FHD
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
 
-#EXTINF:-1 tvg-logo="https://gulf365.co/content/uploads/2019/09/05/4399419d28.jpg" group-title="UAE",MBC IRAQ (HD)
-http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/23/d0/46/23d0463fcd6eac248b698cbeea40d9da.png" group-title="UAE",MBC MASR (HD)
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="MBC (HD)",MBC Masr2 (HD)
-http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC (HD)",ZEE AFLAM (HD)
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC (HD)",ZEE ALWAN (HD)
-http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MBC (HD)",b4u aflam (HD)
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-
-#EXTINF:-1,my Fire Movies HD
-http://one75.mine.nu:8000/gader/98769876/69
-#EXTINF:-1,my Fire Movies HD
-http://one75.mine.nu:8000/gader/98769876/70
-#EXTINF:-1,my Family Movies HD
-http://one75.mine.nu:8000/gader/98769876/71
-#EXTINF:-1,my Fox Rewayat HD
-http://one75.mine.nu:8000/gader/98769876/67
-#EXTINF:-1,my Fox Life HD
-http://one75.mine.nu:8000/gader/98769876/66
-#EXTINF:-1,my Fox Crime HD
-http://one75.mine.nu:8000/gader/98769876/68
-#EXTINF:-1,my FOX HD
-http://one75.mine.nu:8000/gader/98769876/72
-#EXTINF:-1,my FX HD
-http://one75.mine.nu:8000/gader/98769876/73
-#EXTINF:-1,my Reel PX Cinema HD
-http://one75.mine.nu:8000/gader/98769876/74
-#EXTINF:-1,my FilmBox HD
-http://one75.mine.nu:8000/gader/98769876/75
-#EXTINF:-1,my Fast & FunBOX HD
-http://one75.mine.nu:8000/gader/98769876/76
-#EXTINF:-1,my FightBOX HD
-http://one75.mine.nu:8000/gader/98769876/77
-#EXTINF:-1,my DocuBox HD
-http://one75.mine.nu:8000/gader/98769876/326
-#EXTINF:-1,my Planet Earth HD
-http://one75.mine.nu:8000/gader/98769876/45
-#EXTINF:-1,my Documentary Bil Arabie
-http://one75.mine.nu:8000/gader/98769876/170
-#EXTINF:-1,my Gulli Bil Arabie HD
-http://one75.mine.nu:8000/gader/98769876/260
-#EXTINF:-1,my Laab Wa Jad HD
-http://one75.mine.nu:8000/gader/98769876/388
-#EXTINF:-1,my ZooMoo
-http://one75.mine.nu:8000/gader/98769876/391
-#EXTINF:-1,my Fix&Foxi HD
-http://one75.mine.nu:8000/gader/98769876/32
-#EXTINF:-1,my Duck TV HD
-http://one75.mine.nu:8000/gader/98769876/387
-#EXTINF:-1,my Reel PX Action HD
-http://one75.mine.nu:8000/gader/98769876/390
-#EXTINF:-1,my GAME TOON HD
-http://one75.mine.nu:8000/gader/98769876/1203
-#EXTINF:-1,my Trace mziki HD
-http://one75.mine.nu:8000/gader/98769876/393
-#EXTINF:-1,my English Club TV
-http://one75.mine.nu:8000/gader/98769876/392
-#EXTINF:-1,my NUL TiJi HD
-http://one75.mine.nu:8000/gader/98769876/384
-#EXTINF:-1,my Stereo Always Music HD
-http://one75.mine.nu:8000/gader/98769876/385
-#EXTINF:-1,my TDC HD
-http://one75.mine.nu:8000/gader/98769876/386
-#EXTINF:-1,my Trace Urban HD
-http://one75.mine.nu:8000/gader/98769876/389
-#EXTINF:-1,my Stereo Siempre + Musica HD
-http://one75.mine.nu:8000/gader/98769876/383
-#EXTINF:-1,my Insight HD
-http://one75.mine.nu:8000/gader/98769876/1390
-#EXTINF:-1,my ZEN TV
-http://one75.mine.nu:8000/gader/98769876/1395
-#EXTINF:-1,my Trace Sport HD
-http://one75.mine.nu:8000/gader/98769876/1026
+#EXTINF:-1,MyHD DocuBox FHD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/10932
+#EXTINF:-1,MyHD Fashion FHD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/10927
+#EXTINF:-1,MyHD FashionBox FHD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/10931
+#EXTINF:-1,MyHD Fast & FunBox FHD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/10930
+#EXTINF:-1,MyHD FightBox FHD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/10929
+#EXTINF:-1,MyHD MBC 1 HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8801
+#EXTINF:-1,MyHD MBC 2 HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8800
+#EXTINF:-1,MyHD MBC 3 HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8799
+#EXTINF:-1,MyHD MBC 4 HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8798
+#EXTINF:-1,MyHD MBC Action HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8797
+#EXTINF:-1,MyHD MBC  Drama HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8794
+#EXTINF:-1,MyHD MBC Max HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8795
+#EXTINF:-1,MyHD MBC+ Drama HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8796
+#EXTINF:-1,MyHD MBC+ Variety HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8793
+#EXTINF:-1,MyHD Music HD VIP ARB
+http://tv.online-iptv.live:8080/tomtom/5mJwCjandq/8802
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="السعودية",Rotana Cinema
@@ -180,3 +82,7 @@ https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="السعودية",Rotana Khaleejiya
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/rotana/khaleejiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
+http://188.247.86.67:8008/3
+#EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
+http://188.247.86.67:8002/3
