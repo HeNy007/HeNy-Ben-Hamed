@@ -4,17 +4,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|A LA CARTE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,FR: A La Carte 1
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3113
-#EXTINF:-1,FR: A La Carte 2
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3112
-#EXTINF:-1,FR: A La Carte 3
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3111
-#EXTINF:-1,FR: A La Carte 4
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3614
-#EXTINF:-1,FR: A La Carte 5
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/3120
-#EXTINF:-1,FR: A La Carte 6
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/1465
-#EXTINF:-1,FR: A La Carte 7
-http://clientbox.tv:80/Gg4F3cVsYf/1826035512/4509
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 1 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 1 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/808
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 2 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 2 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/809
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 3 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 3 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/810
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 4 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 4 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/811
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 5 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 5 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/812
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 6 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 6 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/813
+#EXTINF:-1 tvg-id="" tvg-name="[FR] A LA CARTE 7 HD" tvg-logo="" group-title="France HD",[FR] A LA CARTE 7 HD
+http://51.159.58.217:8000/kosovalindore/xWKYQiuHS4/814
