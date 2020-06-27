@@ -6,19 +6,13 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Arabic  
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/101785
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Classic 1 
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/100685
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Classic 2 
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/101976
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Classic 3 
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/102015
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Family1
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/101974
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Action 
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/100659
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Bollywood1  
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/100686
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", Majestic Arabic Kids
-http://vlc.news:9000/sharpstar_955951/MG4z24H0/101790
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC ACTION
+http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/179|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC HORROR
+http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/180|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC ZAMAN 
+http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/181|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC MOVIES
+http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/182|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC KIDS
+http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/183|User-Agent=PHOENIX
