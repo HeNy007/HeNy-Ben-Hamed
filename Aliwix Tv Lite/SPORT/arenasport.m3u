@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sport 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="Sports",Arena Sport 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="Sports",Arena Sport 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="Sports",Arena Sport 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport1.rs.png,Arena 1 HD
+http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport2.rs.png,Arena 2 HD
+http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport3.rs.png,Arena 3 HD
+http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport4.rs.png,Arena 4 HD
+http://hrv.00387.info/Arena4HDHR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport5.rs.png,Arena 5 HD
+http://hrv.00387.info/Arena5HDHR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport6.rs.png,Arena 6 HD
+http://hrv.00387.info/Arena6HDHR/index.m3u8?token=test
