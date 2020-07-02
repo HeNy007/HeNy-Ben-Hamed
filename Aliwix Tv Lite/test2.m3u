@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
-#EXTINF:-1, HOME CINEMA AR 1
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-
+#EXTINF:-1,LIVE-1_HD
+#EXTVLCOPT:http-referrer=http-user-agent=https://www.aloussports.tk
+https://tizgzawin.tk/live/APaloussports/524gb5Y2hd5c2GdFd85/12.ts
