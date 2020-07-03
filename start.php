@@ -1,0 +1,1 @@
+{"employees":[{ "urlx":"http://msftv.atwebpages.com/tv.m3u", "urlc":"http://msftv.atwebpages.com/vod.m3u", "urlb":"http://msftv.atwebpages.com/ser.m3u", "TextBar":" لا تنسي دعمنا بالضغط ع الاعلانات التي تظهر عند الدخول الي قائمة القنوات والخروج منها لربح ملف iptv نرسله يومياً ع جروب الواتس اب" ,"appversion":"4.2", "ch":"true"}]}
