@@ -1,27 +1,22 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|OXN Ya Hala|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA MIX
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/208
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA CINEMA 1
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/209
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA CINEMA 2
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/210
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA ZAMAN
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/211
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA MOVIES 1
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/212
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA MOVIES 2
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/213
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="", OXN YA HALA INDIA
-#EXTVLCOPT:http-user-agent=a,i,r,m,a,x,t,v
-http://178.63.48.23:25461/oxnwwwvviruslove.co,/FzPt5f1duE/214
+#EXTVLCOPT:http-user-agent=airmaxtv
+http://178.63.48.23:25461/airmaxtvoxn/kI0mflSzzG/14
