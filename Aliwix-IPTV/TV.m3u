@@ -1074,7 +1074,7 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 **KIDS**
 
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="KIDS",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="KIDS",[color red]☠☠ www.aliwix-tv.com ☠☠[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",•●★-----|KIDS SAT|-----★●•
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
@@ -1102,9 +1102,9 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/45409_gillifr.jpg"group-title="KIDS",Gillu AR
 http://95.170.215.118/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6DAI6ui.png",group-title="KIDS"Karameesh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DAI6ui.png"group-title="KIDS",Karameesh
 http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg",group-title="KIDS"Majid HD
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg"group-title="KIDS",Majid HD
 http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg"group-title="KIDS",Majid SD
 http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
