@@ -1074,6 +1074,56 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 **KIDS**
 
 #EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="KIDS",[color red]☠☠ WELCOME TO ALIWIX TV ☠☠[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png",•●★-----|KIDS SAT|-----★●•
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 tvg-logo="https://ekladata.com/dGWw0OiLC4456wtbFGaKwdPOzxE.png" group-title="KIDS",HUNTER X HUNTER
+https://github.com/HeNy007/HeNy-Ben-Hamed/raw/anime/hunterxhunter.m3u
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="KIDS",24/7 Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+
+#EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="KIDS",duck hd
+http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=duck
+#EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="KIDS",duck 
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS",mbc 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS",mbc 3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/20536_babytv.jpg" group-title="KIDS",BABY CHANNEL
+http://185.132.179.49:8000/live/fhd2231nb4/f1aCdtLb9L/625.ts
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/74511_mickeytv.jpg" group-title="KIDS",mickey
+http://78.193.122.129:9981/play/a05a
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/16251_cartoonnetworkpakistani.jpg"group-title="KIDS",CN Arabica HD
+http://37.235.38.131:4000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/86603_disneyinternational.jpg"group-title="KIDS",Disney channel
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/47631_boomrang.jpg"group-title="KIDS",BOOMERANG
+http://95.170.215.118/hls/m3u8/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/45409_gillifr.jpg"group-title="KIDS",Gillu AR
+http://95.170.215.118/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DAI6ui.png",group-title="KIDS"Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg",group-title="KIDS"Majid HD
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/91877_majidkids.jpg"group-title="KIDS",Majid SD
+http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm5PJgl.png" group-title="KIDS",Toyor Al Janah
+http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sa64XXJ.png" group-title="KIDS",Toyor Baby
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4X5Jej.png" group-title="KIDS",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com//SwiftPanel/images/99535_jeemtv.jpg"group-title="KIDS",JEEM TV
+http://178.132.3.162:88/Baraem/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="KIDS",spacetoon HD
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BiFMsMs.png" group-title="KIDS",spacetoon SD
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" group-title="KIDS",Kuwait Kids https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" tvg-url="" group-title="Kids",Akaram Kidz
