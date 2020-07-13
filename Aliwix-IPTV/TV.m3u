@@ -843,57 +843,311 @@ http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
-**OSN**
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019185027312.jpg",OSN YAHALA
+**OSN+MYHD**
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc persia
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/2
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/3
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc 2
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/4
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc 3
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/5
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc 4
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/6
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc 5
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/7
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc wenasah
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/8
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc iraq
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/9
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc max
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/10
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc Action
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/11
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC VARIETY
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/12
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc Bollywood
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/13
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc drama
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/14
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc drama+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/15
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc masr
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/16
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc masr2
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/17
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc fm
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/18
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana COMEDY 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/19
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana Khalijia 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/20
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana kids 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/21
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana DRAMA 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/22
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana Cinema 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/23
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana Music 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/24
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana Classic 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/25
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",Rotana Clip 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/26
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",RODIO TARAB 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/27
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg",RADIO ROTANA
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/28
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YAHALA
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahala
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019182113599.jpg",OSN MOVIES
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/29
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN MOVIES
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnmovies
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/201918223493.jpg",OSN ACTION
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/30
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN ACTION
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnaction
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019181819277.jpg",OSN MOVIES FIRST
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/31
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnmoviesfirst
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019185155233.jpg",OSN YH CINEMA
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN MOVIES FIRST
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahalacinema
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/201919455606.jpg",STAR WORLD
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=StarWorld
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20188145453799.jpg",OSN CINEMA 1
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osncinema1
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019184935350.jpg",OSN YH ALOULA
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/32
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YH CINEMA
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahala1
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171240507.png",beIN MOVIES 1
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/33
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",STAR WORLD
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies1
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171318828.png",beIN MOVIES 2
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/34
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN CINEMA 1
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies2
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171651343.png",beIN MOVIES 3
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/35
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YH ALOULA
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies3
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171354354.png",beIN MOVIES 4
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/36
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",beIN MOVIES 1
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies4
-#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2018318046344.png",beIN DRAMA
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/37
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",beIN MOVIES 2
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=Beindrama
-#EXTINF:0 group-title="OSN" tvg-logo="https://cne-eg.com/uploads/logos/20181618755182.png",Art hikayat 1 
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/38
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",beIN MOVIES 3
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=arthikayat1
-#EXTINF:0 group-title="OSN" tvg-logo="https://cne-eg.com/uploads/logos/20181618829890.png",Art hikayat 2 
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/39
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",beIN MOVIES 4
+
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=arthikayat2
-#EXTINF:0 group-title="OSN" tvg-logo="https://cne-eg.com/uploads/logos/201816175348543.png",Art aflam 1 
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/40
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",beIN DRAMA
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=artaflam1
-#EXTINF:0 group-title="OSN" tvg-logo="https://cne-eg.com/uploads/logos/2018161861423.png",Art aflam 2 
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/41
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",Art hikayat 1 
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=artaflam2
-5.live/playlist.m3u8
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/42
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",Art hikayat 2 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/43
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",Art aflam 1 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/44
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",Art aflam 2 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/45
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YA
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/46
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN MO
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/47
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN ACT
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/48
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN MO
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/49
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YH
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/50
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",STAR WO
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/51
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN C
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/52
+
+
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png",OSN YH
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+
+http://iptvhit.live/AliwixLite/AliwixTv/VIP/53
 
 **NEWS**
 #EXTM3U
