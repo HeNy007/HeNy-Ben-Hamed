@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN SPORTS News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", test
 
-#EXTVLCOPT:http-referrer=http://yariga.tv/?05
-http://95.216.172.18/upload/images/logoA05.m3u8
+#EXTVLCOPT:http-referrer=http://yariga.tv/?01
+http://95.216.172.18/upload/images/logoA01.m3u8
