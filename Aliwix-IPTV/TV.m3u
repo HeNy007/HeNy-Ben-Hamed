@@ -568,16 +568,15 @@ http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 **bein SD***
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-
-#EXTVLCOPT:http-user-agent=BeryanTVVVVVVVVVVVVVVVtVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1822
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 1SD
-#EXTVLCOPT:http-user-agent=BeryanTVVVVVVVVVVVVVVVtVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1281
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1291
@@ -603,7 +602,8 @@ http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1317
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD*
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD*
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1327
@@ -630,25 +630,35 @@ http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 **bein Lw**
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 1 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/150|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 2 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 3 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/148|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 4 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/147|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/147
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 5 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/146|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 6 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/145|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 7 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/144|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/144
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 8 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/143|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/143
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 9 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/142|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/142
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 10 LQ
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/141|User-Agent=SportsTV_Web_Player
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/141
 
 
 **ISLAM**
