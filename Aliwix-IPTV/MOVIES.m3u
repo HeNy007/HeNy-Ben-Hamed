@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,LIVE-1_HD
+#EXTINF:-1 group-title="Bein HD",LIVE-1_HD
 #EXTVLCOPT:http-referrer=http-user-agent=http://yariga.tv/?01
 http://95.216.172.18/upload/images/logoA01.m3u8|referer=http://yariga.tv/?01
 
