@@ -3,3 +3,16 @@
 
 #EXTVLCOPT:http-referrer=http://yariga.tv/?01
 http://95.216.172.18/upload/images/logoA01.m3u8
+
+
+
+#EXTINF:-1 group-title="Bein HD", test
+
+#EXTVLCOPT:http-referrer=http://yariga.tv/?01
+http://95.216.172.18/upload/images/logoA01.m3u8
+
+
+#EXTINF:-1 group-title="Bein HD", test
+
+#EXTVLCOPT:http-referrer=http://yariga.tv/?03
+http://95.216.172.18/upload/images/logoA03.m3u8
