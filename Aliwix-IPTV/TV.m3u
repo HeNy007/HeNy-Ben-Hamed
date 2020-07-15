@@ -314,6 +314,46 @@ http://163.172.138.186/hls/stream.m3u8
 http://51.15.120.81/hls/stream.m3u8
 
 
+**Bein 4K**
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 1 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/86_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 2 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/87_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 3 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/88_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 4 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/89_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 5 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/90_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 6 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/91_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 7 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/92_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 8 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/93_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 9 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/94_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 10 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/95_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 11 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/96_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", Bein Sports 12 (4K)
+#EXTVLCOPT:http-user-agent=n.TV
+http://23.237.78.18:2095/streams/97_.m3u8
+
+
 
 **Bein FHD**
 #EXTM3U
