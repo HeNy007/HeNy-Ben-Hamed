@@ -1443,6 +1443,37 @@ http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
+**SUPER SPORTS**
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 1 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36994
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 2 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36995
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 3 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36996
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 5 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36997
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 4 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36998
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 6 HD
+http://aromaiptv.net:80/mohameddreda/7267262/36999
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 7 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37000
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 8 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37001
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 10 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37002
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 11 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37003
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 9 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37004
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport 12 HD
+http://aromaiptv.net:80/mohameddreda/7267262/37005
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport Blitz
+http://aromaiptv.net:80/mohameddreda/7267262/37006
+#EXTINF:-1 tvg-logo="" group-title="DSTV",Super Sport MaXimo
+http://aromaiptv.net:80/mohameddreda/7267262/37007
+
 **OSN+MYHD**
 
 
