@@ -169,19 +169,20 @@ http://dreambox84.com:8000/479545774/dZHgcm9PRQ/53303
 
 **MAJESTIC**
 #EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_Cinema1_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2776
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_ZAMAN_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2777
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_Movies_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2778
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_ACTION_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2779
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_HORROR_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2780
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_KIDS_Hd
-http://team-aao-iptv.com:8080/9094425318061943/3639779243694572/2781
-
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Action
+http://aromaiptv.net:80/mohameddreda/7267262/54987
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Cinema 
+http://aromaiptv.net:80/mohameddreda/7267262/47128
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Aflam 
+http://aromaiptv.net:80/mohameddreda/7267262/47130
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat
+http://aromaiptv.net:80/mohameddreda/7267262/47131
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat PLUS
+http://aromaiptv.net:80/mohameddreda/7267262/51688
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Zaman 
+http://aromaiptv.net:80/mohameddreda/7267262/47132
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Kids 
+http://aromaiptv.net:80/mohameddreda/7267262/47133
 **AKOAM**
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 1
