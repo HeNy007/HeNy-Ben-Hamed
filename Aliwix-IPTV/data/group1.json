@@ -1,5 +1,3 @@
-
-
 {
 "hits": [
 {
@@ -42,21 +40,23 @@
 "user": "AD Sports",
 "pageURL": "http://msftv.atwebpages.com/data/tv/kids.json",
 "group": "AD Sports",
-"adcount": 0
+"adcount": 1
 },
 {
 "previewURL": "https://live-tv-channels.org/pt-data/uploads/logo/sa-ksa-sports-3905.jpg ",
 "user": "KSA Sports",
 "pageURL": "http://msftv.atwebpages.com/data/tv/mbc.json",
 "group": "KSA Sports",
-"adcount": 0
+"adcount": 1
 },
 {
 "previewURL": "http://kurdtvs.net/favicon.png",
 "user": "Other Channels",
 "pageURL": "http://msftv.atwebpages.com/data/tv/algeria.json",
 "group": "Other Channels",
-"adcount": 0
+"adcount": 1
 },
 
-	]}
+	
+
+]}
