@@ -4,33 +4,59 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|TURKEY ENTERTAIN|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:beIN Series Sci-Fi HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:beIN Series Vice HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17238
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:beIN Series Comedy HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17239
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:beIN Series Drama HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17240
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Turk HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Premier HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Premier 2 HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17243
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Action HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Action 2 HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17245
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Family HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17246
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:bein Movies Stars HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:BEIN SERIES YESILCAM CLASSIC
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17248
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:BEIN BOX OFFICE 1HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:BEIN BOX OFFICE 2 HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17250
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="", TR:BEIN BOX OFFICE 3HD
-http://thanos.tel:80/Billdriving/HJjmC2B1aP/17251
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Series Comedy
+http://aromaiptv.net:80/mohameddreda/7267262/6171
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Stars
+http://aromaiptv.net:80/mohameddreda/7267262/6172
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Premiere 2
+http://aromaiptv.net:80/mohameddreda/7267262/6173
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Family
+http://aromaiptv.net:80/mohameddreda/7267262/6174
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies  Premiere 1
+http://aromaiptv.net:80/mohameddreda/7267262/6175
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Turk
+http://aromaiptv.net:80/mohameddreda/7267262/6176
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Action 2
+http://aromaiptv.net:80/mohameddreda/7267262/6177
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Action
+http://aromaiptv.net:80/mohameddreda/7267262/6178
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] BEiN BOX OFFİCE 1 HD
+http://aromaiptv.net:80/mohameddreda/7267262/6179
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies Premiere 3
+http://aromaiptv.net:80/mohameddreda/7267262/6180
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE Fist HD
+http://aromaiptv.net:80/mohameddreda/7267262/6181
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] BEiN BOX OFFİCE 2 HD
+http://aromaiptv.net:80/mohameddreda/7267262/6182
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN Movies SCI-FI HD
+http://aromaiptv.net:80/mohameddreda/7267262/6183
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN  MOVIE PREMIUM HD
+http://aromaiptv.net:80/mohameddreda/7267262/6184
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE Platin HD
+http://aromaiptv.net:80/mohameddreda/7267262/6185
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE Platin 2 HD
+http://aromaiptv.net:80/mohameddreda/7267262/6186
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE Gold HD
+http://aromaiptv.net:80/mohameddreda/7267262/6187
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE Family HD
+http://aromaiptv.net:80/mohameddreda/7267262/6188
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN SMART TURK HD
+http://aromaiptv.net:80/mohameddreda/7267262/6189
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] DIZI SMART PREMIUM HD
+http://aromaiptv.net:80/mohameddreda/7267262/6190
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] DiZi SMART MAX HD
+http://aromaiptv.net:80/mohameddreda/7267262/6191
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV YERLi HD
+http://aromaiptv.net:80/mohameddreda/7267262/6192
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV HD
+http://aromaiptv.net:80/mohameddreda/7267262/6193
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV AKSiYON HD
+http://aromaiptv.net:80/mohameddreda/7267262/6194
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV AiLE HD
+http://aromaiptv.net:80/mohameddreda/7267262/6195
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV KOMEDi HD
+http://aromaiptv.net:80/mohameddreda/7267262/6196
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] SiNEMA TV 1001 HD
+http://aromaiptv.net:80/mohameddreda/7267262/6197
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://cdn.countryflags.com/thumbs/turkey/flag-button-round-250.png" group-title="France FHD", [TR] beIN MOVIE PREMIUM 2 HD
+http://aromaiptv.net:80/mohameddreda/7267262/6201
