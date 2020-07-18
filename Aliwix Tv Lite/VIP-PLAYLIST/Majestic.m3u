@@ -4,15 +4,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MAJESTIC|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC ACTION
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/179|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC HORROR
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/180|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC ZAMAN 
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/181|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC MOVIES
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/182|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png", MAJESTIC KIDS
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/183|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Action
+http://aromaiptv.net:80/mohameddreda/7267262/54987
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Cinema 
+http://aromaiptv.net:80/mohameddreda/7267262/47128
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Aflam 
+http://aromaiptv.net:80/mohameddreda/7267262/47130
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat
+http://aromaiptv.net:80/mohameddreda/7267262/47131
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat PLUS
+http://aromaiptv.net:80/mohameddreda/7267262/51688
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Zaman 
+http://aromaiptv.net:80/mohameddreda/7267262/47132
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Kids 
+http://aromaiptv.net:80/mohameddreda/7267262/47133
