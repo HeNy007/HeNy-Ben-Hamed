@@ -5,23 +5,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 1HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40271
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 2HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40273
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 3HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40274
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 4HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40275
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 5HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40276
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 6HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40277
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 7HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40278
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 8HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40279
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 9HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40280
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG",VIP AR: BOX OFFICE 10HD
-http://basic-iptvesun.com:8080/CG0sPGJeSs/5HBYC3h4PA/40272
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , Box Office 1
+http://aromaiptv.net:80/mohameddreda/7267262/38653
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , Box Office 2
+http://aromaiptv.net:80/mohameddreda/7267262/38654
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , Box Office 3
+http://aromaiptv.net:80/mohameddreda/7267262/38655
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , Box Office  [ ISMA3EL YASEEN]
+http://aromaiptv.net:80/mohameddreda/7267262/38704
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 5 
+http://aromaiptv.net:80/mohameddreda/7267262/40118
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 6 
+http://aromaiptv.net:80/mohameddreda/7267262/43666
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 7 
+http://aromaiptv.net:80/mohameddreda/7267262/43667
