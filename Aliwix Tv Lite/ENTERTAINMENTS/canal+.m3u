@@ -6,17 +6,15 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  CINEMA HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995093
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  CINEMA HD2
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/724
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  DECALE HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995095
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  FAMILY HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995096
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  SERIES HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995094
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL  SPORT HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995092
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png", LOC CANAL J HD
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995175
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", CANAL+ HD
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/2718
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", CANAL+ Family
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/2715
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", CANAL+ DECALE HD
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/2716
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", CANAL+ CINEMA HD
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/2717
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", CANAL+ SERIES HD
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/2714
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title="France FHD", Canal+  Sport HD
+http://dreambox84.com:8000/Omani9455/Q52gFg1Gxo/4308
