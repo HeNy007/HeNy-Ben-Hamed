@@ -4,21 +4,13 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHAHID PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Aflam 1
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/122|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Aflam 2
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/123|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Cinema
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/124|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Action
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/125|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Horror
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/126|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Romance
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/127|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Zaman
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/128|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Cartoon
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/129|User-Agent=PHOENIX
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png", Shahid Clip
-http://95.111.234.230:25461/BEST-LIVE/BEST-LIVE/130|User-Agent=PHOENIX
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" , Shahed TV
+http://aromaiptv.net:80/mohameddreda/7267262/33636
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID", Shahed Aflam
+http://aromaiptv.net:80/mohameddreda/7267262/33635
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID", Shahed Action
+http://aromaiptv.net:80/mohameddreda/7267262/33652
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID", Shahed Hindi
+http://aromaiptv.net:80/mohameddreda/7267262/34864
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID", Shahed Horror
+http://aromaiptv.net:80/mohameddreda/7267262/37229
