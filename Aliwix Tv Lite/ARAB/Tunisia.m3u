@@ -34,7 +34,7 @@ http://web13.iptv-planet.com:8080/hls/at.m3u8|Referer=http://web13.iptv-planet.c
 #EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/elhiwar_ettounsi_tv_tn.png" group-title="TUNISIA ",Attesia TV
 http://web13.iptv-planet.com:8080/hls/attesiatv.m3u8|Referer=http://web13.iptv-planet.com:8080
 #EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="http://www.teledunet.com/sites/teledunet/logo_tv/al_janoubiya_tv_tn.png" group-title="TUNISIA ",Al Janoubiya
-http://92.222.93.75:1935/live/samir/index.m3u8
+http://92.222.93.75:1935/live2/samir/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTHAGE " tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",CARTHAGE 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.17
 http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6772
