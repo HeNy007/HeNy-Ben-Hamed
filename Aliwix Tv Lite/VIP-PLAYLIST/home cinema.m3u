@@ -4,24 +4,23 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|HOME CINEMA|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 1
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 2
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 3
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 4
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 5
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 6
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="", HOME CINEMA AR 7
-#EXTVLCOPT:http-user-agent=www.vvirus.love,com
-http://178.63.48.23:25461/beinnetfwww.vviruslove.com/XL1r38TEUm/105
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 1
+http://aromaiptv.net:80/mohameddreda/7267262/20594
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 2
+http://aromaiptv.net:80/mohameddreda/7267262/20595
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 3
+http://aromaiptv.net:80/mohameddreda/7267262/20596
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 4
+http://aromaiptv.net:80/mohameddreda/7267262/20597
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 5
+http://aromaiptv.net:80/mohameddreda/7267262/20598
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 6
+http://aromaiptv.net:80/mohameddreda/7267262/20599
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 8
+http://aromaiptv.net:80/mohameddreda/7267262/20601
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 7
+http://aromaiptv.net:80/mohameddreda/7267262/20600
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 10
+http://aromaiptv.net:80/mohameddreda/7267262/20603
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://www.mytimemedia.co.uk/wp-content/uploads/home_cinema_choice.png" group-title="HOME CINEMA" , HOME CINEMA 9
+http://aromaiptv.net:80/mohameddreda/7267262/20602
