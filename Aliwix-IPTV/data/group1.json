@@ -1,60 +1,89 @@
 
 
-{
-"hits": [
-{
-"user": "beIN Sports HD",
-"pageURL": "http://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix-IPTV/data/group1/beinsports.json",
-"group": "beIN Sports HD",
-"adcount": 0
-},
-{
-"user": "beIN Sports SD",
-"pageURL": "http://msftv.atwebpages.com/data/tv/beinsports.json",
-"group": "beIN Sports SD",
-"adcount": 0
-},
-{
-"previewURL": "#",
-"user": "beIN Sports LW",
-"pageURL": "http://msftv.atwebpages.com/data/tv/sport.json",
-"group": "beIN Sports LW",
-"adcount": 0
-},
-{
-"previewURL": "#",
-"user": "AL Kass",
-"pageURL": "http://msftv.atwebpages.com/data/tv/news.json",
-"group": "AL Kass",
-"adcount": 0
-},
-{
-"previewURL": "#",
-"user": "Dubai Sports",
-"pageURL": "http://msftv.atwebpages.com/data/tv/music.json",
-"group": "Dubai Sports",
-"adcount": 0
-},
-{
-"previewURL": "#",
-"user": "AD Sports",
-"pageURL": "http://msftv.atwebpages.com/data/tv/kids.json",
-"group": "AD Sports",
-"adcount": 0
-},
-{
-"previewURL": "# ",
-"user": "KSA Sports",
-"pageURL": "http://msftv.atwebpages.com/data/tv/mbc.json",
-"group": "KSA Sports",
-"adcount": 0
-},
-{
-"previewURL": "#",
-"user": "Other Channels",
-"pageURL": "http://msftv.atwebpages.com/data/tv/algeria.json",
-"group": "Other Channels",
-"adcount": 0
-}
+{"hits":[{"previewURL":"https://kongtv.koora-gool.com/img/logo.png","user":"All Channels","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/all2.json","group":"All Channels","adcount":0},
 
-	]}
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/sport.png","user":"sport","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/sport.json","group":"sport","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/news.png","user":"News","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/news.json","group":"News","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/music.png","user":"Music","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/music.json","group":"Music","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/kids.png","user":"KIDS","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/kids.json","group":"KIDS","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/mbc.png ","user":"MBC","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/mbc.json","group":"MBC-GROUP","adcount":0},
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/algeria.png","user":"ALGERIA","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/algeria.json","group":"ALGERIA","adcount":0},
+
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/tunisia.png","user":"Tunisia","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/tunisia.json","group":"Tunisia-one","adcount":0},
+
+
+
+
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/morocco.png","user":"Morocco","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/morocco.json","group":"Morroco","adcount":0},
+
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/egypt.png","user":"EGYPT","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/egypt.json","group":"EGYPT","adcount":0},
+
+
+
+
+
+
+
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/iraq.png","user":"IRAQ","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/iraq.json","group":"IRAQ","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/lebanon.png","user":"Lebanon","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/lebanon.json","group":"Lebanon","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/uae.png","user":"UAE","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/uae.json","group":"UAE","adcount":0},
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/ksa.png","user":"KSA","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/ksa.json","group":"KSA","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/syria.png","user":"Syria","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/syria.json","group":"Syria","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/jordan.png","user":"Jordan","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/jordan.json","group":"Jordan","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/yeman.png","user":"Yemen","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/yeman.json","group":"Yemen","adcount":0},
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/kuwait.png","user":"Kwait","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/kuwait.json","group":"Kwait","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/lybie.png","user":"Libya","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/lybie.json","group":"Libya","adcount":0},
+
+
+
+{"previewURL":"https://kongtv.koora-gool.com/img/sudan.png","user":"Sudan","pageURL":"https://kongtv.koora-gool.com/data/v1/g2/sudan.json","group":"Sudan","adcount":0}]}
