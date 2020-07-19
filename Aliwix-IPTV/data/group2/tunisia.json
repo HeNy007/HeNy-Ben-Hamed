@@ -4,32 +4,32 @@
     {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "tun nat 1",
-"pageURL": "http://web13.iptv-planet.com:8080/hls/t1.m3u8<=>0<=>Mozilla/5.0",
+"pageURL": "http://web13.iptv-planet.com:8080/hls/t1.m3u8<=>0<=>Mozilla/5.0 <=> Referer<=>http://web13.iptv-planet.com:8080",
 "group": "tunisia",
 "adcount": 2
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "tun nat 2",
-"pageURL": "http://web13.iptv-planet.com:8080/hls/t2.m3u8<=>0<=>Mozilla/5.0",
+"pageURL": "http://web13.iptv-planet.com:8080/hls/t2.m3u8<=>0<=>Mozilla/5.0<=> Referer<=>http://web13.iptv-planet.com:8080",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "nessma",
-"pageURL": "http://web13.iptv-planet.com:8080/hls/n.m3u8<=>0<=>Mozilla/5.0",
+"pageURL": "http://web13.iptv-planet.com:8080/hls/n.m3u8<=>0<=>Mozilla/5.0<=> Referer<=>http://web13.iptv-planet.com:8080",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "attesia",
-"pageURL": "http://web13.iptv-planet.com:8080/hls/ettasiatv.m3u8<=>0<=>Mozilla/5.0",
+"pageURL": "http://web13.iptv-planet.com:8080/hls/ettasiatv.m3u8<=>0<=>Mozilla/5.0<=> Referer<=>http://web13.iptv-planet.com:8080",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "elhiwar ettounsi",
-"pageURL": "http://web13.iptv-planet.com:8080/hls/at.m3u8<=>0<=>Mozilla/5.0",
+"pageURL": "http://web13.iptv-planet.com:8080/hls/at.m3u8<=>0<=>Mozilla/5.0<=> Referer<=>http://web13.iptv-planet.com:8080",
 "group": "tunisia"
 },
 {
@@ -77,31 +77,31 @@
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "m tunisia",
-"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6770<=>0<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
+"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6770<=>1<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "telvza",
-"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6769<=>0<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
+"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6769<=>1<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "zaitouna",
-"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6767<=>0<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
+"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6767<=>1<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
 "group": "tunisia"
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "al insen",
-"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6765<=>0<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
+"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6765<=>1<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
 "group": "tunisia"
  },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
 "user": "almostakella",
-"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6789<=>0<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
+"pageURL": "http://dreamsat-iptv.top:2086/arab0/Lr7VEdgvwd/6789<=>1<=>REDLINECLIENT ANDROID MOBILE 1.0.17",
 "group": "tunisia"
 },
 {
@@ -112,7 +112,7 @@
 },
 {
 "previewURL": "https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png",
-"user": "tunidie immobilier",
+"user": "tunisie immobilier",
 "pageURL": "http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8<=>0<=>Mozilla/5.0",
 "group": "tunisia"
 }
