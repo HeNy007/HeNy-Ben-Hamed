@@ -4,7 +4,7 @@
 "hits": [
 {
 "user": "beIN Sports HD",
-"pageURL": "https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix-IPTV/data/group1/beinsports.json",
+"pageURL": "http://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix-IPTV/data/group1/beinsports.json",
 "group": "beIN Sports HD",
 "adcount": 0
 },
