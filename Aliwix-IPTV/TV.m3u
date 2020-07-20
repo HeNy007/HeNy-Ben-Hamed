@@ -750,19 +750,20 @@ http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 10 HD
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2873
 
-**SHOWME**
+**ShowMe **
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="SHOWME", MagiciBox Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="SHOWME", Magicibox movies 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe movies 1
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="SHOWME", Magicibox movies 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe  movies 2
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2533
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="SHOWME", Magicibox Movies 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies 3
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2534
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="SHOWME", Magicibox Movies 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies 4
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2535
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2873
+
 
 **SHAHID**
 #EXTM3U
