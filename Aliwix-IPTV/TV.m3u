@@ -764,6 +764,17 @@ http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2534
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2535
 http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2873
 
+**NOVA**
+#EXTM3U
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 1 UHD
+http://95.111.234.230:25461/BEST-LIVE/test/126
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 2 UHD
+http://95.111.234.230:25461/BEST-LIVE/test/127
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 3 UHD
+http://95.111.234.230:25461/BEST-LIVE/test/128
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 4 UHD
+http://95.111.234.230:25461/BEST-LIVE/test/129
+
 
 **SHAHID**
 #EXTM3U
@@ -777,6 +788,7 @@ http://aromaiptv.net:80/mohameddreda/7267262/33652
 http://aromaiptv.net:80/mohameddreda/7267262/34864
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID", Shahed Horror
 http://aromaiptv.net:80/mohameddreda/7267262/37229
+
 
 **AROMA**
 EXTM3U
