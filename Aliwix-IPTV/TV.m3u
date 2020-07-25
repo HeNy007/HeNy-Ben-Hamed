@@ -137,22 +137,6 @@ http://dreambox84.com:8000/479545774/dZHgcm9PRQ/53302
 #EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="DRAGON", DraGon Kids (FHD)
 http://dreambox84.com:8000/479545774/dZHgcm9PRQ/53303
 
-**MAJESTIC**
-#EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Action
-http://aromaiptv.net:80/mohameddreda/7267262/54987
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Cinema 
-http://aromaiptv.net:80/mohameddreda/7267262/47128
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Aflam 
-http://aromaiptv.net:80/mohameddreda/7267262/47130
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat
-http://aromaiptv.net:80/mohameddreda/7267262/47131
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Masra7yat PLUS
-http://aromaiptv.net:80/mohameddreda/7267262/51688
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Zaman 
-http://aromaiptv.net:80/mohameddreda/7267262/47132
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Kids 
-http://aromaiptv.net:80/mohameddreda/7267262/47133
 **AKOAM**
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 1
@@ -688,73 +672,77 @@ http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/141
 **BEIN HEVC**
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports 1 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/459
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/459
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports 2 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/450
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/450
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  3 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/451
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/451
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  4 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/452
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/452
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  5 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/453
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/453
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  6 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/454
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/454
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  7 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/455
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/455
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  8 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/456
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  9 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/457
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/457
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HEVC", AR: beIN Sports  10 HEVC
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/458
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/458
 
 **BEOUTQ SPORTS**
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 1 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2864
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2864
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 2 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2865
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 3 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2866
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2866
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 4 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2867
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2867
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 5 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2868
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2868
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 6 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2869
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2869
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 7 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2870
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2870
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 8 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2871
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2871
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 9HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2872
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image/YXIuYmVpbi5zcG9ydC5iZW91dC5ib3RvbGEucnVzc2lhMjAxOF9pY29uXzE1Mjk4Njg5MThfMDM3/icon.png?w=170&fakeurl=1" group-title="BEOUT SPORTS", BEOUT 10 HD
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2873
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2873
+
+**MAJESTIC**
+#EXTM3U
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_Cinema1_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2776
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_ZAMAN_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2777
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_Movies_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2778
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_ACTION_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2779
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_HORROR_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2780
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_KIDS_Hd
+http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2781
+
 
 **ShowMe **
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2531
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2531
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe movies 1
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2532
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2532
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe  movies 2
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2533
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2533
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies 3
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2534
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2534
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="ShowMe ", ShowMe Movies 4
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2535
-http://team-aao-iptv.com:8080/2397094898640087/2865307523495459/2873
-
-**NOVA**
-#EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 1 UHD
-http://95.111.234.230:25461/BEST-LIVE/test/126
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 2 UHD
-http://95.111.234.230:25461/BEST-LIVE/test/127
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 3 UHD
-http://95.111.234.230:25461/BEST-LIVE/test/128
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nova_pbs_program.svg/1200px-Nova_pbs_program.svg.png" group-title="NOVA CINEMA" , Nova Cinema 4 UHD
-http://95.111.234.230:25461/BEST-LIVE/test/129
+http://team-aao-iptv.com:8080/4316122022079376/9101207475922320/2535
 
 
 
