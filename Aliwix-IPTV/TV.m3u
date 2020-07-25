@@ -599,7 +599,7 @@ http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1281
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD
-#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+
 #EXTVLCOPT:http-user-agent=SportsTV_Web_Player
 http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD
@@ -828,58 +828,58 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 **sport**
 
 #EXTM3U
-#EXTINF:-1, MOLA SPORT FREE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", MOLA SPORT FREE
 https://dl.dropbox.com/s/f9zod2yxubhiiw4/sport.m3u8?dl=1
  
-#EXTINF:-1, RED BULL TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
  
-#EXTINF:-1, REAL MADRID TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
  
-#EXTINF:-1, NBA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", NBA
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
  
  
-#EXTINF:-1, BEIN Asia 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", BEIN Asia 1
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
  
-#EXTINF:-1, BEIN Asia 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", BEIN Asia 2
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
  
-#EXTINF:-1, FOXSPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", FOXSPORTS 1
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
  
-#EXTINF:-1, FOXSPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", FOXSPORTS 2
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
  
-#EXTINF:-1, FOXSPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", FOXSPORT 3
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1, Skynet Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport HD
 https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
  
-#EXTINF:-1, Skynet Sport +
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport +
 http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
  
-#EXTINF:-1, Skynet Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
  
-#EXTINF:-1, Skynet Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 2
 https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
  
-#EXTINF:-1, Skynet Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 3
 https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
  
-#EXTINF:-1, Skynet Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 4
 https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
  
-#EXTINF:-1, Skynet Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 5
 https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
  
-#EXTINF:-1, Skynet Sport 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="Sport", Skynet Sport 6
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
- 
+
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="" group-title="Sport",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="Sport",Abu Dhabi Sports 1
