@@ -947,7 +947,81 @@ http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
 **OSN+MYHD**
 
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN MOVIES Premiere
+http://www.teledunet.com:25461/live/Tdn/tdn/102249.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN MOVIES Actions
+http://www.teledunet.com:25461/live/Tdn/tdn/10084.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN MOVIES Drama
+http://www.teledunet.com:25461/live/Tdn/tdn/10085.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN MOVIES Family
+http://www.teledunet.com:25461/live/Tdn/tdn/10086.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN DRAMA
+http://www.teledunet.com:25461/live/Tdn/tdn/10146282.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",BEIN SERIES
+http://www.teledunet.com:25461/live/Tdn/tdn/1014614.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",NETFLIX MOVIES
+http://www.teledunet.com:25461/live/Tdn/tdn/10146287.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",NETFLIX COMEDY
+http://www.teledunet.com:25461/live/Tdn/tdn/10146286.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",NETFLIX KIDS
+http://www.teledunet.com:25461/live/Tdn/tdn/10146285.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",NETFLIX BOX OFFICE
+http://www.teledunet.com:25461/live/Tdn/tdn/10146284.m3u8
 
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Music
+http://www.teledunet.com:25461/live/Tdn/tdn/50299.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN AL Safwa
+http://www.teledunet.com:25461/live/Tdn/tdn/1014589.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Alyawm
+http://www.teledunet.com:25461/live/Tdn/tdn/101450.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Yahala
+http://www.teledunet.com:25461/live/Tdn/tdn/101458.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Yahala Oula
+http://www.teledunet.com:25461/live/Tdn/tdn/101448.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Yahala Cinema
+http://www.teledunet.com:25461/live/Tdn/tdn/1014480.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Comedy
+http://www.teledunet.com:25461/live/Tdn/tdn/102257.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Actions
+http://www.teledunet.com:25461/live/Tdn/tdn/102256.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Musalsalat
+http://www.teledunet.com:25461/live/Tdn/tdn/102264.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Fann
+http://www.teledunet.com:25461/live/Tdn/tdn/102276.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Cinema 1
+http://www.teledunet.com:25461/live/Tdn/tdn/10295.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Cinema 2
+http://www.teledunet.com:25461/live/Tdn/tdn/10146597.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN ART CINEMA
+http://www.teledunet.com:25461/live/Tdn/tdn/10146281.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN ART Aflam 1
+http://www.teledunet.com:25461/live/Tdn/tdn/101514.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN ART Aflam 2
+http://www.teledunet.com:25461/live/Tdn/tdn/101515.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN ART Hikayat 1
+http://www.teledunet.com:25461/live/Tdn/tdn/101520.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN ART Hikayat 2
+http://www.teledunet.com:25461/live/Tdn/tdn/102270.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Star Movies
+http://www.teledunet.com:25461/live/Tdn/tdn/20330.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Star world
+http://www.teledunet.com:25461/live/Tdn/tdn/20299.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN MOVIES FIRST
+http://www.teledunet.com:25461/live/Tdn/tdn/102267.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Series First
+http://www.teledunet.com:25461/live/Tdn/tdn/1014610.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Kids
+http://www.teledunet.com:25461/live/Tdn/tdn/1014609.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Docu Box
+http://www.teledunet.com:25461/live/Tdn/tdn/101504.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN NAT GEo People
+http://www.teledunet.com:25461/live/Tdn/tdn/101525.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN History
+http://www.teledunet.com:25461/live/Tdn/tdn/10309.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Nat Geo Wild
+http://www.teledunet.com:25461/live/Tdn/tdn/10311.m3u8
+#EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="",OSN Discovery HD
+http://www.teledunet.com:25461/live/Tdn/tdn/10146289.m3u8
 #EXTINF:-1 group-title="OSN+MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc persia
 
 http://iptvhit.live/AliwixLite/AliwixTv/VIP/2
