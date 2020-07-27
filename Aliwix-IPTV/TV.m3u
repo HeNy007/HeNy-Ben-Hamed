@@ -1406,6 +1406,22 @@ http://mhiptv.com:8888/actionsat56/gytdsahku/19851
 #EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AXA" , AXA masr7yat H265
 http://mhiptv.com:8888/actionsat56/gytdsahku/19650
 
+
+**box**
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_Aflam 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/15661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_Aflam 2
+http://mhiptv.com:8888/actionsat56/gytdsahku/15724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_ACTION 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/15778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_ACTION 2
+http://mhiptv.com:8888/actionsat56/gytdsahku/15971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_HORROR
+http://mhiptv.com:8888/actionsat56/gytdsahku/16026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.clipart.email/4577e333b6963f152ed54a1cc17b591f_box-logo-transparent-png-clipart-free-download-ywd_1280-674.png" group-title="BOX",Box_CLASSIC
+http://mhiptv.com:8888/actionsat56/gytdsahku/16140
+
 **ISLAM**
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="ISLAM", sunnah
