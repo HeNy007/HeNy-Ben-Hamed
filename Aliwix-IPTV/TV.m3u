@@ -320,28 +320,6 @@ http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 #EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1514
 
-**OXN**
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN YA HALA CINEMA 1
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/47
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN CINEMA 2
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/48
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN ZAMAN
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/49
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN MIX
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/50
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN MOVIES 1
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN MOVIES 2
-#EXTVLCOPT:http-user-agent=airIPmaxtvTV
-http://178.63.48.23:25461/airmaxtvoxn/J9NuiUTDpP/52
-
-
 **bein VIP**
 
 
