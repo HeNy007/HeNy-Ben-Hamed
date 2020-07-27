@@ -1043,78 +1043,27 @@ http://istars.pro:80/istar0563621111/0563621111istar/78966
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 10 HD
 http://istars.pro:80/istar0563621111/0563621111istar/78967
 
-**Theater**
+**ULTRA**
 #EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 1 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79987
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 2 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79988
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 3 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79989
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 4 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79990
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 5 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79991
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 6 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79992
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 7 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79993
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 8 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79994
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 9 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79995
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 10 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79996
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 11 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79997
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 12 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79998
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 13 HD
-http://istars.pro:80/istar0563621111/0563621111istar/79999
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 14 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80000
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 15 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80001
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 16 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80002
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 17 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80003
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 18 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80004
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 19 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80005
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 20 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80006
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 21 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80007
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 22 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80008
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 23 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80009
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 24 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80010
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 25 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80011
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 26 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80012
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 27 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80013
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 28 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80014
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 29 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80015
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 30 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80016
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 31 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80017
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 32 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80018
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 33 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80019
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 34 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80020
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="THEATER" , PLTH: THEATER 35 HD
-http://istars.pro:80/istar0563621111/0563621111istar/80021
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA SPRING
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/34713
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA MOVIES
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/26807
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA NIGHT
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/27082
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA RELAX
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/28164
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA SUMMER
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/27122
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ألترا مسرحيات
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/32077
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ألترا أفلام
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/32078
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ULTRA PASSION
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/36749
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://utdreport.co.uk/wp-content/uploads/2020/02/cropped-UR-logo-master.png" group-title="ULTRA" ,ألترا كوميدي
+http://xxultraxx.com:80/hzc6YqZGuu/fwjGbhxx5M/37126
+
 
 **HYPER**
 #EXTM3U
