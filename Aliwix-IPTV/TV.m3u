@@ -7514,7 +7514,7 @@ https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" group-title="Türkiye",Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" group-title="",Dream TV
+#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" group-title="Türkiye",Dream TV
 https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Türkiye",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
