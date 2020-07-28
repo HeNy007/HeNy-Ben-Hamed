@@ -5985,6 +5985,8 @@ http://178.132.3.162:88/Gulli/index.m3u8?token=test
 http://82.64.13.207:2002/bysid/2562
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="France",M6
 http://178.132.3.162:88/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="France",M6 Bkp
+http://iptv-line.com:7899/qaozen1-restream/4pdGCfd9/242
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="France",NRJ_12
 http://178.132.3.162:88/NRJ_12/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/PIWI.fr.png" group-title="France",Piwi
