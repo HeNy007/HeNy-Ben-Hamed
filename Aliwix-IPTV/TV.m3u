@@ -705,6 +705,37 @@ http://istars.pro:80/istar0563621111/0563621111istar/110508
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP DOCUMENTARY 2 4K
 http://istars.pro:80/istar0563621111/0563621111istar/110509
 
+**MAJESTIC**
+#EXTM3U
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_arabic_1hd
+http://iptvking2000.com:8080/0599444598/18112019/129
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_arabic_2hd
+http://iptvking2000.com:8080/0599444598/18112019/130
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_action1_hd
+http://iptvking2000.com:8080/0599444598/18112019/127
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_action2_hd
+http://iptvking2000.com:8080/0599444598/18112019/128
+
+**HYPER**
+#EXTM3U
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Arabic_1HD
+http://iptvking2000.com:8080/0599444598/18112019/133
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Arabic_2HD
+http://iptvking2000.com:8080/0599444598/18112019/134
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Action_1HD
+http://iptvking2000.com:8080/0599444598/18112019/131
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Action_2HD
+http://iptvking2000.com:8080/0599444598/18112019/132
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Movies_1HD
+http://iptvking2000.com:8080/0599444598/18112019/140
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Movies_2HD
+http://iptvking2000.com:8080/0599444598/18112019/141
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_horror_1HD
+http://iptvking2000.com:8080/0599444598/18112019/138
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_ClassIc
+http://iptvking2000.com:8080/0599444598/18112019/137
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Masrahat
+http://iptvking2000.com:8080/0599444598/18112019/139
 
 **SHAHID**
 #EXTM3U
