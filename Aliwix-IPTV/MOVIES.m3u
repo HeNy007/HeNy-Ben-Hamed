@@ -1,4 +1,4 @@
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="فلام انمي",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام انمي",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
@@ -593,7 +593,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/First.Kiss.2017.mp4/p
 #EXTINF:0 tvg-id="avi" group-title="افلام تركية مترجمه",فيلم أخي أنا ج2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/mybrother2.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام آسياوية",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام آسيوية",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام آسيوية",Long Live the King
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Long.Live.the.King.2019..mp4/playlist.m3u8
