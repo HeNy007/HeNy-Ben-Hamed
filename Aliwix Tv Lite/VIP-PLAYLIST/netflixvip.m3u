@@ -4,26 +4,152 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETFLIX PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", [NF] Netflix Action
-http://aromaiptv.net:80/mohameddreda/7267262/35766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", [NF] NETFLIX DRAMA 
-http://aromaiptv.net:80/mohameddreda/7267262/37268
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", [NF] Netflix Kids
-http://aromaiptv.net:80/mohameddreda/7267262/35782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", [NF] Netflix Comedy
-http://aromaiptv.net:80/mohameddreda/7267262/38637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX  ACTION
-http://aromaiptv.net:80/mohameddreda/7267262/24722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX  ACTION
-http://aromaiptv.net:80/mohameddreda/7267262/5041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix Horror
-http://aromaiptv.net:80/mohameddreda/7267262/5042
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix Comedy
-http://aromaiptv.net:80/mohameddreda/7267262/5043
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix SCF-FI
-http://aromaiptv.net:80/mohameddreda/7267262/6791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix Kids
-http://aromaiptv.net:80/mohameddreda/7267262/5044
+@HeNy007
+HeNy007 Update TV.m3u
+ 1 contributor
+5837 lines (5395 sloc)  559 KB
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Movies_New  
+http://mhiptv.com:8888/actionsat56/gytdsahku/12438
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Horror_New  
+http://mhiptv.com:8888/actionsat56/gytdsahku/12437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Comedy_New
+http://mhiptv.com:8888/actionsat56/gytdsahku/12434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Drama_New  
+http://mhiptv.com:8888/actionsat56/gytdsahku/12436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Romancy_New  
+http://mhiptv.com:8888/actionsat56/gytdsahku/12435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX_Kids_New  
+http://mhiptv.com:8888/actionsat56/gytdsahku/12439
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC 1 SD
+http://mhiptv.com:8888/actionsat56/gytdsahku/15739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC 2 SD
+http://mhiptv.com:8888/actionsat56/gytdsahku/15740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ACTION 1 SD
+http://mhiptv.com:8888/actionsat56/gytdsahku/15741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ACTION 2 SD 
+http://mhiptv.com:8888/actionsat56/gytdsahku/15742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX MOVIES SD
+http://mhiptv.com:8888/actionsat56/gytdsahku/15743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX HORROR SD
+http://mhiptv.com:8888/actionsat56/gytdsahku/15744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/12271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC 2
+http://mhiptv.com:8888/actionsat56/gytdsahku/12272
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX MOVIES
+http://mhiptv.com:8888/actionsat56/gytdsahku/12275
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ACTION 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/12261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ACTION 2
+http://mhiptv.com:8888/actionsat56/gytdsahku/12262
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX HORROR 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/12265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX BOX OFFICE
+http://mhiptv.com:8888/actionsat56/gytdsahku/12274
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX THRILLER
+http://mhiptv.com:8888/actionsat56/gytdsahku/12270
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX BOLLYWOOD
+http://mhiptv.com:8888/actionsat56/gytdsahku/12269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX KIDS 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/12267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC SERIES 1
+http://mhiptv.com:8888/actionsat56/gytdsahku/12263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ARABIC SERIES 2
+http://mhiptv.com:8888/actionsat56/gytdsahku/12264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 4 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 5 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 6 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 7 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ADVENTURE 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ADVENTURE 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ADVENTURE 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX COMEDY 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX COMEDY 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX COMEDY 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DRAMA 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DRAMA 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DRAMA 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX CRIME 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX CRIME 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX CRIME 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX HORROR 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX HORROR 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX HORROR 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX HORROR 4 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX HORROR 5 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX BOLLYWOOD 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX BOLLYWOOD 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX BOLLYWOOD 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 4 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 5 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ARABIC 6 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX KIDS 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX KIDS 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX KIDS 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DOCUMENTARY 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DOCUMENTARY 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DOCUMENTARY 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX DOCUMENTARY 4 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX SCI-FI 1 HD
+http://istars.pro:80/istar0563621111/0563621111istar/77402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX SCI-FI 2 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX SCI-FI 3 HD
+http://istars.pro:80/istar0563621111/0563621111istar/79785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/77383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/77384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX 3 4K
+http://istars.pro:80/istar0563621111/0563621111istar/77385
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix - Action ( FHD)
 http://dreambox84.com:8000/479545774/dZHgcm9PRQ/51299
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix - Action 2 ( FHD)
