@@ -13,7 +13,54 @@ https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.radiotunisie.net/images/jawhara-fm.png" , jawhara tv 
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-
+#EXTINF:-1,HANNIBAL TV
+http://196.179.252.212:8001/play/a02q
+#EXTINF:-1,M TUNISIA
+http://196.179.252.212:8001/play/a02k
+#EXTINF:-1,M TUNISIA
+http://196.179.252.212:8001/play/a006
+#EXTINF:-1,Nessma
+http://196.179.252.212:8001/play/a03d
+#EXTINF:-1,ONT TUNISIA
+http://196.179.252.212:8001/play/a00a
+#EXTINF:-1,R Tunisie Culture
+http://196.179.252.212:8001/play/a00f
+#EXTINF:-1,R Tunisie Internationale
+http://196.179.252.212:8001/play/a00e
+#EXTINF:-1,R Tunisie Nationale
+http://196.179.252.212:8001/play/a00d
+#EXTINF:-1,TUNISNA
+http://196.179.252.212:8001/play/a02i
+#EXTINF:-1,TUNISNA
+http://196.179.252.212:8001/play/a004
+#EXTINF:-1,Telvza TV
+http://196.179.252.212:8001/play/a02m
+#EXTINF:-1,Telvza TV
+http://196.179.252.212:8001/play/a008
+#EXTINF:-1,Tunisia NAT 1
+http://196.179.252.212:8001/play/a002
+#EXTINF:-1,Tunisia NAT 2
+http://196.179.252.212:8001/play/a007
+#EXTINF:-1,Tunisie Televsion 1
+http://196.179.252.212:8001/play/a02v
+#EXTINF:-1,ZAYTOONA
+http://196.179.252.212:8001/play/a00h
+#EXTINF:-1,Attessia TV
+http://196.179.252.212:8001/play/a005
+#EXTINF:-1,Carthage+
+http://196.179.252.212:8001/play/a02o
+#EXTINF:-1,Coming Soon
+http://196.179.252.212:8001/play/a01t
+#EXTINF:-1,Elhiwar Ettounsi
+http://196.179.252.212:8001/play/a003
+#EXTINF:-1,AL JANOUBIA TV
+http://196.179.252.212:8001/play/a02n
+#EXTINF:-1,AL JANOUBIA TV
+http://196.179.252.212:8001/play/a009
+#EXTINF:-1,Al Insen TV
+http://196.179.252.212:8001/play/a02p
+#EXTINF:-1,Al Insen TV
+http://196.179.252.212:8001/play/a00b
 
 #EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA", [AR] Tunisie 1 FHD
 http://i-watch.club:80/KWWv7MM94g/sMB3SQnKKV/163656
