@@ -1,0 +1,198 @@
+[{
+		"active": 1,
+		"logo": "1",
+		"info": "Si vous etes le proprietaire des droits d'auteur ou si vous representez la societe de droits d'auteur et que vous souhaitez supprimer votre chaine, envoyez-nous un e-mail et nous supprimerons votre chaine des que possible. Cliquez sur le bouton de lecture pour envoyer l e-mail. Puisque nous recevons des e-mails de nombreux faux proprietaires, nous vous demandons d utiliser votre e mail principal",
+		"stream_url": [
+			"https://play.google.com/store/apps/details?id="
+		],
+		"external_link": ["mailto:hakilerapileonid@gmail.com"],
+		"title": "Demande de suppression de chaine"
+	},
+  {
+		"title": "2M maroc",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8"
+		]
+	},
+
+	{
+		"title": "AL Oula",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Arriadia",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+		]
+	},
+
+	{
+		"title": "Arrabiaa 4",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+		"http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Al maghribiya",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Medi1 TV",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w323955861.m3u8"
+		]
+	},
+	{
+		"title": "Assadissa",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Tamazight 8",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
+		]
+	}
+	,
+{
+		"title": "Tele Maroc",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
+		]
+	}
+	,
+{
+		"title": "Peace TV - Islam",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
+		]
+	}
+	,
+	{
+		"title": "Chada TV",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8"
+		]
+	}
+	,
+{
+		"title": "Quran TV",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Kami cuba yang terbaik untuk memastikan aplikasi ini dikemas kini. Malangnya, kami tidak dapat keluar beberapa saluran kerana kami menerima aduan hak cipta. Bantu kami mengembangkan dan menyemak permohonan kami. Tekan butang main untuk memainkan saluran. BEBERAPA SALURAN KERJA SAHAJA DI WILAYAH MALAYSIA. THANKS.",
+		"stream_url": ["http://m.live.net.sa:1935/live/quran/chunklist_w979893020.m3u8"]
+	},
+
+ {
+		"title": "2M maroc HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8"
+		]
+	},
+	{
+		"title": "AL Oula HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Arriadia HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+		]
+	},
+	
+	{
+		"title": "Arrabiaa 4 HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+		"http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Al maghribiya HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
+		]
+	},
+
+	{
+		"title": "Assadissa HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+"http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
+		]
+	},
+	{
+		"title": "Tamazight 8 HD",
+		"active": 1,
+		"logo": "no_img.png",
+		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
+		"stream_url": [
+			"http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
+		]
+	},
+	 {"active": 1,
+		"logo": "1",
+		"info": "Partajeu fi WhatsApp Lah i Rham biha lwalidin",
+		"stream_url": [
+			"https://play.google.com/store/apps/details?id="
+		],
+"external_link":["whatsapp://send?text=https://play.google.com/store/apps/details?id=com.tvmaroctvapp.maroccctvma"],
+		"title": "Partager sur WhatsApp!"
+	}
+]
