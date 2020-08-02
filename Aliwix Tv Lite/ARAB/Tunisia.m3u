@@ -9,6 +9,8 @@ https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/Aliwix%20Tv%20Lite/RADIO/t
 
 
 
+
+
 #EXTINF:-1, tvg-logo="https://www.radiotunisie.net/images/mosaique-fm.png" group-title="TUNISIA"  , mosaique tv
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
@@ -17,8 +19,8 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Nessma (mx player) 
-http://web13.iptv-planet.com:8080/hls/n.m3u8|Referer=http://web13.iptv-planet.com:8080
+#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Nessma 
+http://196.179.252.212:8001/play/a03d
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Tunisie Immobilier TV
@@ -32,7 +34,8 @@ http://54.36.122.126/tunisie1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya 2 
 http://196.179.252.212:8001/play/a007
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Elhiwar Ettounsi 
-http://web13.iptv-planet.com:8080/hls/at.m3u8|Referer=http://web13.iptv-planet.com:8080
+#EXTVLCOPT:http-user-agent=ua
+http://tv.teledunet.com:25461/live/Tdn/tdn/102274.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Attesia TV 
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/101485.m3u8
@@ -43,20 +46,20 @@ http://92.222.93.75:1935/live2/samir/playlist.m3u8
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/10056.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Tunisna TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Tunisna TV
 #EXTVLCOPT:http-user-agent=ua
-http://www.teledunet.com:25461/live/Tdn/tdn/10053.m3u8
+http://tv.teledunet.com:25461/live/Tdn/tdn/10053.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="M Tunisia" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",M Tunisia
 #EXTVLCOPT:http-user-agent=ua
-http://www.teledunet.com:25461/live/Tdn/tdn/10054.m3u8
+http://tv.teledunet.com:25461/live/Tdn/tdn/10054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELVZATV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",TELVZATV
 #EXTVLCOPT:http-user-agent=ua
-http://www.teledunet.com:25461/live/Tdn/tdn/101479.m3u8
+http://tv.teledunet.com:25461/live/Tdn/tdn/101479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAYTOUNA" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",ZAYTOUNA
 http://196.179.252.212:8001/play/a00h
 #EXTINF:-1 tvg-id="" tvg-name="ALINSEN" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",ALINSEN
 #EXTVLCOPT:http-user-agent=ua
-http://www.teledunet.com:25461/live/Tdn/tdn/20055.m3u8
+http://tv.teledunet.com:25461/live/Tdn/tdn/20055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALMOSTKELLA" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",ALMOSTKELLA
 #EXTVLCOPT:http-user-agent=ua
-http://www.teledunet.com:25461/live/Tdn/tdn/10051.m3u8
+http://tv.teledunet.com:25461/live/Tdn/tdn/10051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEVISION1" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",TELEVISION1
 http://37.235.38.131:4000/play/a00o/index.m3u8?checkedby:HeNy007
