@@ -1,189 +1,77 @@
-[
-  {
-		"title": "2M maroc",
-		"active": 1,
-		"logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8"
-		]
-	},
-
-	{
-		"title": "AL Oula",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Arriadia",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
-		]
-	},
-
-	{
-		"title": "Arrabiaa 4",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-		"http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Al maghribiya",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Medi1 TV",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w323955861.m3u8"
-		]
-	},
-	{
-		"title": "Assadissa",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Tamazight 8",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
-		]
-	}
-	,
+{"hits":[
+         
+         
+    {
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports News",
+"pageURL": "http://46.60.1.82:8081/live/hdmib2/playlist.m3u8<=>0<=>Mozilla/5.0",
+"group": "beinsports",
+"adcount": 2
+},
 {
-		"title": "Tele Maroc",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
-		]
-	}
-	,
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports free",
+"pageURL": "http://46.60.1.82:8081/live/hdmib3/playlist.m3u8<=>0<=>Mozilla/5.0",
+"group": "beinsports"
+},
 {
-		"title": "Peace TV - Islam",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
-		]
-	}
-	,
-	{
-		"title": "Chada TV",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8"
-		]
-	}
-	,
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports1 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA01.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A01",
+"group": "beinsports"
+},
 {
-		"title": "Quran TV",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Kami cuba yang terbaik untuk memastikan aplikasi ini dikemas kini. Malangnya, kami tidak dapat keluar beberapa saluran kerana kami menerima aduan hak cipta. Bantu kami mengembangkan dan menyemak permohonan kami. Tekan butang main untuk memainkan saluran. BEBERAPA SALURAN KERJA SAHAJA DI WILAYAH MALAYSIA. THANKS.",
-		"stream_url": ["http://m.live.net.sa:1935/live/quran/chunklist_w979893020.m3u8"]
-	},
-
- {
-		"title": "2M maroc HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8"
-		]
-	},
-	{
-		"title": "AL Oula HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Arriadia HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
-		]
-	},
-	
-	{
-		"title": "Arrabiaa 4 HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-		"http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Al maghribiya HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
-		]
-	},
-
-	{
-		"title": "Assadissa HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-"http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
-		]
-	},
-	{
-		"title": "Tamazight 8 HD",
-		"active": 1,
-		"logo": "no_img.png",
-		"info": "Salamualeykom, 3tewna 5 nujum fi store lah i jazikom bikhir.Inchallah ghan haulo nkhelliu ga3 l ida3at kahaddamin.",
-		"stream_url": [
-			"http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
-		]
-	},
-	 {"active": 1,
-		"logo": "1",
-		"info": "Partajeu fi WhatsApp Lah i Rham biha lwalidin",
-		"stream_url": [
-			"https://play.google.com/store/apps/details?id="
-		],
-"external_link":["whatsapp://send?text=https://play.google.com/store/apps/details?id=com.tvmaroctvapp.maroccctvma"],
-		"title": "Partager sur WhatsApp!"
-	}
-]
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports2 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA02.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A02",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports3 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA03.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A03",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports4 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA04.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A04",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports5 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA05.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A05",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports6 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA06.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A06",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports7 HD",
+"pageURL": "http://116.202.24.230/upload/images/logoA07.m3u8<=>0<=>Mozilla/5.0<=>Referer<=>http://yariga.tv/?A07",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "bein sports 8 hd",
+"pageURL": "https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8<=>2<=>Mozilla/5.0",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports9 hd",
+"pageURL": "http://www.html-editor.tk/arabickoora?id=arembed_beinsports1a<=>0<=>WSS_User_Agent_FREE1",
+"group": "beinsports"
+},
+{
+"previewURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png",
+"user": "Bein Sports10 hd",
+"pageURL": "http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=beinsport2-4<=>0<=>WSS_User_Agent_FREE1",
+"group": "beinsports"
+}
+]}
