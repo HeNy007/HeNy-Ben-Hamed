@@ -188,11 +188,11 @@
 	},
 	 {"active": 1,
 		"logo": "1",
-		"info": "Partajeu fi WhatsApp Lah i Rham biha lwalidin",
+		"info": "عصبة",
 		"stream_url": [
 			"https://play.google.com/store/apps/details?id="
 		],
-"external_link":["whatsapp://send?text=https://play.google.com/store/apps/details?id=com.tvmaroctvapp.maroccctvma"],
-		"title": "Partager sur WhatsApp!"
+"external_link":["intent://aHR0cDovL21zZnR2LmF0d2VicGFnZXMuY29tL3R2Lm0zdQ== #Intent;scheme=xmtv;package=co.wuffy.player;end"],
+		"title": "عصبة"
 	}
 ]
