@@ -1,4 +1,4 @@
-<?xml version="2.0" encoding="UTF-8"> 
+<?xml version="1.0" encoding="UTF-8"> 
 <chaine1>
  HeNy007
 </chaine1> 
@@ -1321,13 +1321,13 @@
 </url3> 
 <chaine3>
  Aljazeera English
-</chaine3> 
+</chaine4> 
 <url3>
  rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_med
 </url3> 
 <chaine3>
  i TELE
-</chaine3> 
+</chaine5> 
 <url3>
  rtmp://live-fms.canalplus.fr:1935/live/itele_800@42248
 </url3>
