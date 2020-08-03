@@ -229,23 +229,6 @@ http://dreambox84.com:8000/479545774/dZHgcm9PRQ/53302
 #EXTINF:-1 tvg-name="NULL" tvg-logo="http://imgs1.e-droid.net:80/srv/imgs/cards/o579083_649683.png?v=1" group-title="DRAGON", DraGon Kids (FHD)
 http://dreambox84.com:8000/479545774/dZHgcm9PRQ/53303
 
-**AKOAM**
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 1
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 2
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 3
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 4
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1513
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.gadgetsfarms.com/wp-content/uploads/2019/08/unnamed.png" group-title="AKOAM", Cinema Arabic 5
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1514
 
 **bein VIP**
 
@@ -295,338 +278,133 @@ http://istars.pro:80/istar0563621111/0563621111istar/191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein 4K ", BEIN SPORTS 12 4K +
 http://istars.pro:80/istar0563621111/0563621111istar/189
 
-
-**Bein FHD**
+**bein hd**
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1837
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 1FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1838
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 2FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1319
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 3FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1840
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 4FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1841
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 5FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1842
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 6FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1843
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 7FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1844
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 8FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1845
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 9FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1846
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 10FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 1 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2845
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 2 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 3 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 4 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 5 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 6 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 7 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN HEVC 8 G
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", •●★★--- beIN SPORTS HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN Soprt HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/960
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN sports News
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/47
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD3
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/48
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD4
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/49
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD5
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD6
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD7
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD8
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/53
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD9
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/54
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD10
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/55
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD11
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", AR: beIN SPORTS HD12
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", •●★★---Local beIN SPORTS HD MS ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS  beIN Sport 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 7 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 8 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 9 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", MS beIN Sport 10 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", •●★★---Local beIN SPORTS HD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 6
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2064
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", local bein sport hd 8
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2066
 
 
-**bein HD**
+
+**bein sd**
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", beIN SPORTS News
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1277
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1280
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1295
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1305
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 7HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1308
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 8HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1310
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 9HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1312
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 10HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1313
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 2♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1837
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports1HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1838
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports2HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports3HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1840
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports4HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1841
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports5HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1842
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports6HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1843
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports7HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1844
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports8HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1845
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports9HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1846
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports10HD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1847
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 3♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1817
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1316
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1326
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1331
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1336
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1341
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 7HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 8HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1346
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 9HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 10HD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 4♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1848
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports1HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1849
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports2HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports3HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1851
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports4HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1852
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports5HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1853
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports6HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1854
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 5♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1818
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1279
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1294
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1299
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD+
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 6♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1819
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1315
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1325
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1330
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1335
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD+*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1340
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 7♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1855
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports1HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1856
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports2HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports3HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports4HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports5HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1860
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports6HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1861
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 8♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1288
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1293
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1298
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD++
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1303
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 9♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1821
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 1HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1314
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 2HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1285
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 3HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1324
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 4HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1329
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 5HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1334
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", Bein Sports 6HD++*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1339
-
-
-
-
-**bein SD***
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 1SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1281
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD
-
-#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1291
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 4SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 5SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1301
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 6SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1306
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 7SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1309
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 8SD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1311
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 2♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1823
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 1SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1317
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD*
-#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
-http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1327
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 4SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1332
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 5SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1337
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 7SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 6SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1342
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 8SD*
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1347
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 3♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/BeryanIPTV-TV/TV-APP/1822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", •●★★--- beIN SPORTS SD ---★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/56
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD3
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD4
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/59
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD5
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/60
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD6
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/93
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD7
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/92
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD8
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD9
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/61
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", AR: beIN SPORTS SD10
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/1459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", •●★★--- MS beIN SD-★★●•
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", beIN 1 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", beIN 2 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", beIN 3 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", beIN 4 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", beIN 5 SD MS
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3008
 
 **bein Lw**
 #EXTM3U
