@@ -1,27 +1,27 @@
 <?xml version="2.0" encoding="UTF-8"> 
 <chaine1>
- [color red] HeNy007 [/color] 
+ HeNy007
 </chaine1> 
 <url1>
- xxxhttp://www.facebook.com/hani.banihamad.7
+ xxxhttps://www.facebook.com/hani.banihamad.7
 </url1> 
 <chaine1>
- Streetview Marocain
+ HeNy007
 </chaine1> 
 <url1>
- xxxhttp://goo.gl/Aon9fx
+ xxxhttps://www.facebook.com/hani.banihamad.7
 </url1> 
 <chaine2>
- Streetview Marocain
+ HeNy007
 </chaine2> 
 <url2>
- xxxhttp://goo.gl/Aon9fx
+ xxxhttps://www.facebook.com/hani.banihamad.7
 </url2> 
 <chaine3>
- Streetview Morocco
+ HeNy007
 </chaine3> 
 <url3>
- xxxhttp://goo.gl/Aon9fx
+ xxxhttps://www.facebook.com/hani.banihamad.7
 </url3> 
 <chaine1>
  Medi1 TV
