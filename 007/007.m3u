@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:0,NETFLIX 1 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=471
+#EXTINF:0,NETFLIX 2 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=472
+#EXTINF:0,NETFLIX 3 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=473
+#EXTINF:0,NETFLIX 4 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=474
+#EXTINF:0,NETFLIX 5 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=475
+#EXTINF:0,NETFLIX 6 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=476
+#EXTINF:0,NETFLIX 7 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=477
+#EXTINF:0,NETFLIX 8 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=478
+#EXTINF:0,NETFLIX 9 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=479
+#EXTINF:0,NETFLIX 10 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=480
+
+
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171240507.png",beIN MOVIES 1
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=122
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171318828.png",beIN MOVIES 2
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=123
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171651343.png",beIN MOVIES 3
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=124
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171354354.png",beIN MOVIES 4
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=125
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/2018318046344.png",beIN DRAMA
+http://www.volt-iptv.tk/raeed.m3u8/?s=126
+#EXTVLCOPT:http-user-agent=RaeedTv
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/2018318046344.png",beIN DRAMA2
+http://www.volt-iptv.tk/raeed.m3u8/?s=127
+#EXTVLCOPT:http-user-agent=RaeedTv
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/2018318046344.png",beIN Gourmet 
+http://www.volt-iptv.tk/raeed.m3u8/?s=130
+#EXTVLCOPT:http-user-agent=RaeedTv
+
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183184434963.png",beIN SPORTS 1FHD
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN SPORTS 2FHD
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN SPORTS 3FHD
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN SPORTS 4FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN SPORTS 5FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN SPORTS 6FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN SPORTS 7FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN SPORTS 8FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN SPORTS 9FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-6
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN SPORTS 10FHD**
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-6
+#EXTINF:0,Bein SPORTS 1 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=139
+#EXTINF:0,Bein SPORTS 2 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=140
+#EXTINF:0,Bein SPORTS 3 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=141
+#EXTINF:0,Bein SPORTS 4 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=142
+#EXTINF:0,Bein SPORTS 5 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=143
+#EXTINF:0,Bein SPORTS 6 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=144
+#EXTINF:0,Bein SPORTS 7 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=145
+#EXTINF:0,Bein SPORTS 8 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=146
+#EXTINF:0,Bein SPORTS 9 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=147
+#EXTINF:0,Bein SPORTS 10 HD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=148
+#EXTINF:0,Bein SPORTS 1 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=149
+#EXTINF:0,Bein SPORTS 2 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=150
+#EXTINF:0,Bein SPORTS 3 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=151
+#EXTINF:0,Bein SPORTS 4 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=152
+#EXTINF:0,Bein SPORTS 5 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=153
+#EXTINF:0,Bein SPORTS 6 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=154
+#EXTINF:0,Bein SPORTS 7 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=155
+#EXTINF:0,Bein SPORTS 8 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=156
+#EXTINF:0,Bein SPORTS 9 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=157
+#EXTINF:0,Bein SPORTS 10 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=158
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN SPORTS 1_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN SPORTS 2_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN SPORTS 3_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN SPORTS 4_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN SPORTS 5_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN SPORTS 6_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN SPORTS 7_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN SPORTS 8_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN SPORTS 9_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-4
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN SPORTS 10_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-4
+
+#EXTINF:0,|OSN|yh alyoum
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=83
+#EXTINF:0,|OSN|cinema 1
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=84
+#EXTINF:0,|OSN|cinema 2
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=85
+#EXTINF:0,|OSN|fann
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=86
+#EXTINF:0,|OSN|mosalsalat
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=87
+#EXTINF:0,|OSN|safwa
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=88
+#EXTINF:0,|OSN|ya hala
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=89
+#EXTINF:0,|OSN|ya hala 1
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=90
+#EXTINF:0,|OSN|yahala cinema
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=91
+#EXTINF:0,|OSN|action
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=92
+#EXTINF:0,|OSN|comedy 
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=93
+#EXTINF:0,|OSN|ennigma
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=94
+#EXTINF:0,|OSN|movies
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=95
+#EXTINF:0,|OSN|star movies
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=96
+#EXTINF:0,|OSN|star world
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=97
+#EXTINF:0,|OSN|series first
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=98
+#EXTINF:0,|OSN|movies first
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=99
+#EXTINF:0,|OSN|movies first 2
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=100
+#EXTINF:0,|OSN|bing
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=101
+#EXTINF:0,|OSN|yahala cinema
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=102
+#EXTINF:0,|OSN|yahala cinema
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=103
+
+
+
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019185027312.jpg",OSN YAHALA
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahala
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019182113599.jpg",OSN MOVIES
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnmovies
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/201918223493.jpg",OSN ACTION
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnaction
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019181819277.jpg",OSN MOVIES FIRST
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnmoviesfirst
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019185155233.jpg",OSN YH CINEMA
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahalacinema
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/201919455606.jpg",STAR WORLD
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=StarWorld
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/20188145453799.jpg",OSN CINEMA 1
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osncinema1
+#EXTINF:0 group-title="OSN" tvg-logo="https://www.cne-eg.com/uploads/logos/2019184935350.jpg",OSN YH ALOULA
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=osnyahala1
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171240507.png",beIN MOVIES 1
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies1
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171318828.png",beIN MOVIES 2
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies2
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171651343.png",beIN MOVIES 3
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies3
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/20183171354354.png",beIN MOVIES 4
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=BeinMovies4
+#EXTINF:0 group-title="beIN Entertainment" tvg-logo="https://www.cne-eg.com/uploads/logos/2018318046344.png",beIN DRAMA
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=Beindrama
+#EXTINF:0 group-title="ARABIC" tvg-logo="https://cne-eg.com/uploads/logos/20181618755182.png",Art hikayat 1 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=arthikayat1
+#EXTINF:0 group-title="ARABIC" tvg-logo="https://cne-eg.com/uploads/logos/20181618829890.png",Art hikayat 2 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=arthikayat2
+#EXTINF:0 group-title="ARABIC" tvg-logo="https://cne-eg.com/uploads/logos/201816175348543.png",Art aflam 1 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=artaflam1
+#EXTINF:0 group-title="ARABIC" tvg-logo="https://cne-eg.com/uploads/logos/2018161861423.png",Art aflam 2 
+#EXTVLCOPT:http-user-agent=www.yacineapp.tv
+http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=artaflam2
