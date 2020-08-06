@@ -21,24 +21,38 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Nessma 
 http://196.179.252.212:8001/play/a03d
+#EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="TUNISIA",Nessma bkp
+http://web13.iptv-planet.com:8080/hls/n.m3u8|Referer=http://web13.iptv-planet.com:8080
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Tunisie Immobilier TV
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Hannibal TV
 http://178.132.3.162:88/hannibal/video.m3u8?token=test
+
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya1 
 http://196.179.252.212:8001/play/a002
-#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya1-bkp
+#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya1-bkp 1
+http://web13.iptv-planet.com:8080/hls/t1.m3u8|Referer=http://web13.iptv-planet.com:8080
+#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 1" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya1-bkp 2
 http://54.36.122.126/tunisie1.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya 2 
 http://196.179.252.212:8001/play/a007
+#EXTINF:-1, tvg-id="" tvg-name="TV Tunisia 2" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Wataniya 2 bkp
+http://web13.iptv-planet.com:8080/hls/t2.m3u8|Referer=http://web13.iptv-planet.com:8080
+
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Elhiwar Ettounsi 
-#EXTVLCOPT:http-user-agent=ua
-http://tv.teledunet.com:25461/live/Tdn/tdn/102274.m3u8
+http://web13.iptv-planet.com:8080/hls/at.m3u8|Referer=http://web13.iptv-planet.com:8080
+
 #EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Attesia TV 
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/101485.m3u8
+#EXTINF:-1, tvg-id="Attessia" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" group-title="TUNISIA",Attessia pkb
+http://web13.iptv-planet.com:8080/hls/attesiatv.m3u8|Referer=http://web13.iptv-planet.com:8080
+
 #EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Al Janoubiya
 http://92.222.93.75:1935/live2/samir/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTHAGE " tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",CARTHAGE 
