@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 1 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 2 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 3 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 4 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 5 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 6 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 7 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 8 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 9 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX 10 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=480
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 1 HD
 http://istars.pro:80/istar0563621111/0563621111istar/77386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NF: NETFLIX ACTION 2 HD
@@ -313,34 +343,34 @@ http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/21516
 
 **bein HD**
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 1 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 1 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 2 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 2 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 3 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 3 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 4 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 4 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 5 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 5 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 6 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 6 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 7 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 7 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 8 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 8 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 9 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 9 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=147
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD ", Bein SPORTS 10 HD**
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 10 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://www.volt-iptv.tk/raeed.m3u8/?s=148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",beIN SPORTS GLOBAL HD QA
@@ -374,6 +404,36 @@ http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/15001
 
 **bein SD**
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 1 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 2 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 3 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 4 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 5 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 6 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 7 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 8 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 9 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",Bein SPORTS 10 SD**
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://www.volt-iptv.tk/raeed.m3u8/?s=158
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 1 SD QA
 http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14981
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 2 SD QA
@@ -399,6 +459,36 @@ http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14999
 
 **bein Lw**
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 1_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 2_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 3_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 4_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 5_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 6_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 7_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 8_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 9_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", beIN SPORTS 10_LQ**
+#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
+http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN LOW", Bein Sports 1 LQ
 #EXTVLCOPT:http-user-agent=SportsTV_Web_Player
 http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/150
