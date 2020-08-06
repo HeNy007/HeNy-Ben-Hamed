@@ -4,23 +4,27 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|4K SAT PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1,4K SAT KIDS
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2531|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT ZAMAN
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2532|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT HORROR
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2533|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT ACTION 1
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2534|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT AFLAM 1
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2535|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT AFLAM 2
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2536|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT AFLAM 3
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2537|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT AFLAM 4
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2538|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT CINEMA 1
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2539|User-Agent=hsfiuofsaouaisyf
-#EXTINF:-1,4K SAT CINEMA 2
-http://iptv.allkaicerteam.com:8080/apkcesar/dlBB9lPioN/2540|User-Agent=hsfiuofsaouaisyf
+#EXTINF:-1,4K-KIDS
+http://4k-sat.com:8000/ragab_62119470/8903065544/29817
+#EXTINF:-1,4K-ACTION1
+http://4k-sat.com:8000/ragab_62119470/8903065544/29777
+#EXTINF:-1,4K-HORROR
+http://4k-sat.com:8000/ragab_62119470/8903065544/30287
+#EXTINF:-1,4K-CINEMA 1
+http://4k-sat.com:8000/ragab_62119470/8903065544/29812
+#EXTINF:-1,4K-CINEMA 2
+http://4k-sat.com:8000/ragab_62119470/8903065544/29813
+#EXTINF:-1,4K-ZAMAN
+http://4k-sat.com:8000/ragab_62119470/8903065544/30286
+#EXTINF:-1,4K-AFLAM1
+http://4k-sat.com:8000/ragab_62119470/8903065544/29778
+#EXTINF:-1,4K-AFLAM2
+http://4k-sat.com:8000/ragab_62119470/8903065544/29779
+#EXTINF:-1,4K-AFLAM 3
+http://4k-sat.com:8000/ragab_62119470/8903065544/29780
+#EXTINF:-1,4K-AFLAM 4
+http://4k-sat.com:8000/ragab_62119470/8903065544/29811
+#EXTINF:-1,4k-WWE
+http://4k-sat.com:8000/ragab_62119470/8903065544/32185
+#EXTINF:-1,4K-INDIA
+http://4k-sat.com:8000/ragab_62119470/8903065544/32186
