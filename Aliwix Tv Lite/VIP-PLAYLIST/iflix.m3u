@@ -6,23 +6,43 @@ https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV Cinema
-http://w.bs-share.com:8000/00/921143374/35441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV AFLAM
-http://w.bs-share.com:8000/00/921143374/35442
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV MASRAHIYAT
-http://w.bs-share.com:8000/00/921143374/35443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV KIDS
-http://w.bs-share.com:8000/00/921143374/35444
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV Discovery
-http://w.bs-share.com:8000/00/921143374/35445
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV ACTION
-http://w.bs-share.com:8000/00/921143374/35446
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV MOVIES
-http://w.bs-share.com:8000/00/921143374/35447
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV BOXSET
-http://w.bs-share.com:8000/00/921143374/35448
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV COMEDY
-http://w.bs-share.com:8000/00/921143374/35449
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="", IFLIX TV HORROR
-http://w.bs-share.com:8000/00/921143374/35450
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ACTION 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110490
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ACTION 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110491
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP HORROR 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110492
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP HORROR 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110493
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ROMANCE 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110494
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ROMANCE 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110495
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP DRAMA 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110496
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP DRAMA 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110497
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP INDIAN 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110498
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP INDIAN 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110499
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ASIAN 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110500
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ASIAN 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110501
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP TURKISH 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110502
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP TURKISH 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110503
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ARABIC 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110504
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ARABIC 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110505
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ANIMATION 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110506
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP ANIMATION 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110507
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP DOCUMENTARY 1 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110508
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" , IFLIX VIP DOCUMENTARY 2 4K
+http://istars.pro:80/istar0563621111/0563621111istar/110509
