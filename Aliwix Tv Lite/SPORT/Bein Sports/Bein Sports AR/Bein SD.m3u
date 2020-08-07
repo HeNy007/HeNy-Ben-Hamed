@@ -4,23 +4,60 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS SD|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 1 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 2 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14983
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 3 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14985
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 4 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14987
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 5 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14989
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 6 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14991
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 7 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14993
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 8 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14995
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 9 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14997
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN SD",beIN SPORTS 10 SD QA
-http://cloudcdn.tk:80/mqnc2r14174/nNzHI43420/14999
+**bein SD***
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 1SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1281
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD
+
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1291
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 4SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 5SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 6SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 7SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 8SD
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", [color yellow]♦♦♦SERVER 2♦♦♦[/color]
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 1SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 2SD*
+#EXTVLCOPT:http-user-agent=SportsTV_Web_Player
+http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 3SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1327
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 4SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 5SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 7SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 6SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein SD", BeIN Sports 8SD*
+#EXTVLCOPT:http-user-agent=BeryanTV
+http://beryantv.com:25461/41623840005884/29960093505067/1347
