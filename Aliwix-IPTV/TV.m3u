@@ -756,6 +756,24 @@ http://62.171.160.19:25461/sarhantv/123456/77
 http://62.171.160.19:25461/sarhantv/123456/78
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic Movies
 http://62.171.160.19:25461/sarhantv/123456/79
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Cinema 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3009
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Cinema 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3010
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Movies HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3011
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Movies plus HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3012
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Horror HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3013
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Kids HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3014
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majestic Premium HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3015
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majistic Geographic HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3016
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" ,Majistic Tom &Jerry HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/3017
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_arabic_1hd
 http://iptvking2000.com:8080/0599444598/18112019/129
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC" , Majestic_arabic_2hd
@@ -792,26 +810,36 @@ http://4k-sat.com:8000/ragab_62119470/8903065544/28942
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN YA HALA KHALIJIA
 http://4k-sat.com:8000/ragab_62119470/8903065544/28943
 
-**HYPER**
+
+**AROMA**
 #EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Arabic_1HD
-http://iptvking2000.com:8080/0599444598/18112019/133
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Arabic_2HD
-http://iptvking2000.com:8080/0599444598/18112019/134
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Action_1HD
-http://iptvking2000.com:8080/0599444598/18112019/131
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Action_2HD
-http://iptvking2000.com:8080/0599444598/18112019/132
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Movies_1HD
-http://iptvking2000.com:8080/0599444598/18112019/140
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Movies_2HD
-http://iptvking2000.com:8080/0599444598/18112019/141
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_horror_1HD
-http://iptvking2000.com:8080/0599444598/18112019/138
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_ClassIc
-http://iptvking2000.com:8080/0599444598/18112019/137
-#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="HYPER" , hyper_Masrahat
-http://iptvking2000.com:8080/0599444598/18112019/139
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2953
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Arabic Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2954
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2955
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Discovery
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2956
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Drama Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2957
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Masra7yat
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2958
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2959
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma Zaman
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2960
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma WWE
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2961
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma  Box Office 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2962
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma  Box Office 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2963
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma  Box Office 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2964
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="AROMA" ,Aroma  Box Office 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIP3tkvu7/xvg5ja/2965
+
 
 **SHAHID**
 #EXTM3U
