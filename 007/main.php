@@ -1,0 +1,1 @@
+{"Mobilim":[ {"ads_tip":"Admob", "main_link":"https://raw.githack.com/HeNy007/HeNy-Ben-Hamed/master/007/tv.php", "app_id":"ca-app-pub-1661931443595460~9337563342", "banner_unit_id":"ca-app-pub-1661931443595460/6711400004", "inter_unit_id":"ca-app-pub-1661931443595460/9237490993", "iron_id":""}, ]}
