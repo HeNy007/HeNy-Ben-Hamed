@@ -8,7 +8,7 @@
 		"Aciklama": "MOROCCO",
 		"KanalLogo": "http://213.128.89.165/Main/Logo/fas/2m_maroc.png",
 		"ServerUrl": "http://streaming.i-sat.tv:1935/live/2m/chunklist_w1605377654.m3u8",
-		"PlayerType": "defaultplayer",
+		"PlayerType": "embed",
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": "",
