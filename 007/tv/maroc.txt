@@ -2,7 +2,7 @@
 	"Kanallar": [
 		{
 		"KanalNo": "32001",
-		"KanalAdi": "2M MONDE",
+		"KanalAdi": "2M 🗺 ",
 		"KategoriNo": "32",
 		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/morocco.png",
 		"Aciklama": "MOROCCO",
@@ -10,7 +10,7 @@
 		"ServerUrl": "http://streaming.i-sat.tv:1935/live/2m/chunklist_w1605377654.m3u8",
 		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
-		"OpenType": "graphm3u8",
+		"OpenType": "direct",
 		"PatternText": "",
 		"StaticText": "",
 		"LinkIndex": "",
