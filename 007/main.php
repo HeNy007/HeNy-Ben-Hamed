@@ -1,1 +1,1 @@
-{"007":[ {"ads_tip":"Admob", "main_link":"https://raw.githubusercontent.com/HeNy007/HeNy-Ben-Hamed/master/007/tv.json", "", "banner_unit_id":"ca-app-pub-1661931443595460/67114004", "inter_unit_id":"ca-app-pub-1661931443595460/", "iron_id":""}, ]}
+{"Mobilim":[ {"ads_tip":"Admob", "main_link":"https://raw.githubusercontent.com/HeNy007/HeNy-Ben-Hamed/master/007/tv.json", "", "banner_unit_id":"ca-app-pub-1661931443595460/67114004", "inter_unit_id":"ca-app-pub-1661931443595460/", "iron_id":""}, ]}
