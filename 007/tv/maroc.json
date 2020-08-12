@@ -1,29 +1,9 @@
 {
-	"Kanallar": [
-		{
-		"KanalNo": "19007",
-		"KanalAdi": "France 02",
-		"KategoriNo": "19",
-		"Aciklama": "Maroc",
-		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/france.png",
-		"KanalLogo": "http://213.128.89.165/Main/Logo/fr/France2.png",
-		"ServerUrl": "http://123tvnow.com/watch/hbo?protocol=hls,https://www.stream4free.live/france-2-direct",
-		"PlayerType": "defaultplayer",
-		"PlayerControl": "false",
-		"OpenType": "graphm3u8",
-		"PatternText": "\"url\":\"(.*?)\",source src=\"(.*?)\",,,,son",
-		"StaticText": ",,,,,son",
-		"LinkIndex": "",
-		"Headers": "",
-		"UserAgent": "Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)",
-		"SonGuncellemeTarihi": "18.10.2016 22:23:17",
-		"Favori": 0,
-		"Secim": ""
-		}, 	{
+	 	{
 		"KanalNo": "32003",
 		"KanalAdi": "bein 1 sd",
 		"KategoriNo": "32",
-		"Bayrak": "http://beryantv.com:25461/41623840005884/29960093505067/1281",
+		"Bayrak": "http://beryantv.com:25461/41623840005884/2996.png",
 		"Aciklama": "MOROCCO",
 		"KanalLogo": "http://213.128.89.165/Main/Logo/fas/Medi_1_TV.png",
 		"ServerUrl": "http://beryantv.com:25461/41623840005884/29960093505067/1281,rtmp://medi1stream.genious.net/live/myStream",
