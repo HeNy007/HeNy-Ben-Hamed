@@ -631,142 +631,182 @@ http://185.180.223.89:25461/heny007bh@mail.ru/aliwixTV/141
 
 **OSN**
 #EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN YAHALA HD
-http://istars.pro:80/istar0563621111/0563621111istar/114976
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN YAHALA Oula HD
-http://istars.pro:80/istar0563621111/0563621111istar/114977
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN YAHALA CINEMA HD
-http://istars.pro:80/istar0563621111/0563621111istar/114978
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MUSALSALAT 1 HD
-http://istars.pro:80/istar0563621111/0563621111istar/114979
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MUSALSALAT 2 HD
-http://istars.pro:80/istar0563621111/0563621111istar/114980
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN CINEMA 1 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114981
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN CINEMA 2 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114982
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Al Safwa HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114983
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ART AFLAM 1 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114984
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ART AFLAM 2 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114985
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ART CINEMA HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114986
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ART HEKAYAT 1 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114987
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ART HEKAYAT 2 HD+
-http://istars.pro:80/istar0563621111/0563621111istar/114988
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN ALYAWM HD
-http://istars.pro:80/istar0563621111/0563621111istar/114989
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES HD
-http://istars.pro:80/istar0563621111/0563621111istar/114990
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES BINGI HD
-http://istars.pro:80/istar0563621111/0563621111istar/114991
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES ACTION HD
-http://istars.pro:80/istar0563621111/0563621111istar/114992
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES ENGIMA HD
-http://istars.pro:80/istar0563621111/0563621111istar/114993
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN FIRST MOVIES HD
-http://istars.pro:80/istar0563621111/0563621111istar/114994
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN FIRST MOVIES +2 HD
-http://istars.pro:80/istar0563621111/0563621111istar/114995
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN SERIES 1 HD
-http://istars.pro:80/istar0563621111/0563621111istar/114996
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN COMEDY HD
-http://istars.pro:80/istar0563621111/0563621111istar/114997
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Mezze HD
-http://istars.pro:80/istar0563621111/0563621111istar/115029
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN PopUp HD
-http://istars.pro:80/istar0563621111/0563621111istar/114998
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN STAR MOVIES HD
-http://istars.pro:80/istar0563621111/0563621111istar/114999
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN STAR WORLD HD
-http://istars.pro:80/istar0563621111/0563621111istar/115000
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN COMEDY CENTRAL HD
-http://istars.pro:80/istar0563621111/0563621111istar/115001
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN TLC HD
-http://istars.pro:80/istar0563621111/0563621111istar/115002
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN LIVING HD
-http://istars.pro:80/istar0563621111/0563621111istar/115003
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN PARAMOUNT HD
-http://istars.pro:80/istar0563621111/0563621111istar/115004
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES KIDS HD
-http://istars.pro:80/istar0563621111/0563621111istar/115005
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN KIDS ZONE HD
-http://istars.pro:80/istar0563621111/0563621111istar/115006
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MOVIES Disney HD
-http://istars.pro:80/istar0563621111/0563621111istar/115007
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN DISNEY JUNIOR HD
-http://istars.pro:80/istar0563621111/0563621111istar/115008
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Disney XD HD
-http://istars.pro:80/istar0563621111/0563621111istar/115081
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN DISNEY HD
-http://istars.pro:80/istar0563621111/0563621111istar/115009
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Boomerang HD+
-http://istars.pro:80/istar0563621111/0563621111istar/115010
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NICK JR HD
-http://istars.pro:80/istar0563621111/0563621111istar/115011
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NICKELODEON HD
-http://istars.pro:80/istar0563621111/0563621111istar/115012
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Baby HD
-http://istars.pro:80/istar0563621111/0563621111istar/115013
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN FANN HD+
-http://istars.pro:80/istar0563621111/0563621111istar/115014
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MUSIC NOW HD+
-http://istars.pro:80/istar0563621111/0563621111istar/115015
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN MTV Live HD
-http://istars.pro:80/istar0563621111/0563621111istar/115016
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN E! HD
-http://istars.pro:80/istar0563621111/0563621111istar/115017
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NAT GEO PEOPLE HD
-http://istars.pro:80/istar0563621111/0563621111istar/115018
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NAT GEO WILD HD
-http://istars.pro:80/istar0563621111/0563621111istar/115019
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NAT GEO HD
-http://istars.pro:80/istar0563621111/0563621111istar/115020
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Crime+ investigation HD+
-http://istars.pro:80/istar0563621111/0563621111istar/115021
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN DISCOVERY HD
-http://istars.pro:80/istar0563621111/0563621111istar/115022
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Discovery IDX HD
-http://istars.pro:80/istar0563621111/0563621111istar/115023
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN DISCOVERY SCIENCE HD
-http://istars.pro:80/istar0563621111/0563621111istar/115024
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN HISTORY HD
-http://istars.pro:80/istar0563621111/0563621111istar/115025
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN HISTORY 2 HD
-http://istars.pro:80/istar0563621111/0563621111istar/115026
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN NEWS HD
-http://istars.pro:80/istar0563621111/0563621111istar/116283
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN CNBC Europe HD+
-http://istars.pro:80/istar0563621111/0563621111istar/115027
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" ,OSN Sky News HD
-http://istars.pro:80/istar0563621111/0563621111istar/115028
-
-**box office**
-#EXTM3U
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 01 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78958
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 02 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78959
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 03 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78960
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 04 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78961
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 05 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78962
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 06 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78963
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 07 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78964
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 08 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78965
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 09 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78966
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/SkyBoxOfficeNZ.PNG" group-title="BOX OFFICE" , BOX OFFICE 10 HD
-http://istars.pro:80/istar0563621111/0563621111istar/78967
-
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Ya Hala 1 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/383
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Ya Hala ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/385
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Ya Hala Cinema HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/384
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Al Safwa ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/410
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Al Yawm ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/409
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Animal Planet ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/24
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN BBC First ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/29
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Baby ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/12
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Box Office 1 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/408
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Box Office 2 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/407
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Box Office 3 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/406
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN CNN ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/38
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Comedy Central ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/40
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Crime & Investigation ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/26
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Demand Extra ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/9
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Discovery HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/23
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Discovery History ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/22
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Discovery Science ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/21
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Discovery Xtra ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/405
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Disney Channel ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/17
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Disney Junior ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/15
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Disney XD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/16
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN E! ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/32
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fashion ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/403
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN FataFeat ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/402
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fight Network ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/7
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fine Living ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/33
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN First HBO ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/41
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Food Network ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/28
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fox Action Movie FHD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/401
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fox Family Movies HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/400
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fox Movie HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/399
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Fox News HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/398
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN H2 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/397
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN History 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/25
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN IDX FHD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/30
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN ITV Choice ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/35
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN JimJam ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/11
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN MBC Variety HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/411
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN MBC+  Drama HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/412
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie 1 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/57
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movies 2 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/56
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movies Action 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/55
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Comedy ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/46
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Drama 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/51
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Drama 2 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/50
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Family ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/47
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Festival ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/48
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movies Kids ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/49
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movies Premiere 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/53
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Movie Premier 2 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/52
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN MusalSat ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/381
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Music Now ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/396
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Nat Geo HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/20
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Nat Geo People HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/18
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Nat Geo Wild HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/19
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN News ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/395
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Nick Junior ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/14
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Nickelodeon ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/13
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN ON Demande 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/394
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN ON Demande 2 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/393
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Orbit Cinema 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/391
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Orbit Cinema 2 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/390
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Outdoor ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/10
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN SeeVii Al Aoula HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/380
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , SeeVii Prime 1 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/379
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN SeeVii Drama HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/378
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN SeeVii Shamiya HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/377
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Series +2 HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/387
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Series Comedy 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/43
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Series Comedy 2 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/42
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Series First 1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/45
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Series First ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/388
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sport 1 Action ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/6
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sport 2 Action ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/5
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sport 3 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/4
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sport 4 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/3
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sport Cricket HD ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/2
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Star Movie ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/36
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Star World ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/37
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Sundance ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/386
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN SyFy ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/39
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN TLC ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/34
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Ten Cricket ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/1
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN Travel ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/27
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN VH1 ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/31
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN WWE ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/7794
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="OSN" , OSN WWE Network ARB
+http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/8
 
 **ISLAM**
 #EXTM3U
