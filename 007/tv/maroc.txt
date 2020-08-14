@@ -14,7 +14,7 @@
 		"PatternText": ",,,,son",
 		"StaticText": ",,,,son",
 		"LinkIndex": "",
-		"Headers": "http://web13.iptv-planet.com:8080",
+		"Referer": "http://web13.iptv-planet.com:8080",
 		"UserAgent": "",
 		"SonGuncellemeTarihi": "16.10.2016 13:39:18",
 		"Favori": 0,
