@@ -2,7 +2,7 @@
 	 	"Kanallar": [
 		{
 		"KanalNo": "32003",
-		"KanalAdi": "bein 1",
+		"KanalAdi": "bein ",
 		"KategoriNo": "32",
 		"Bayrak": "http://beryantv.com:25461/41623840005884/2996.png",
 		"Aciklama": "MOROCCO",
@@ -10,7 +10,7 @@
 		"ServerUrl": "http://web13.iptv-planet.com:8080/hls/n.m3u8",
 		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
-		"OpenType": "graphm3u8",
+		"OpenType": "direct",
 		"PatternText": ",,,,son",
 		"StaticText": ",,,,son",
 		"LinkIndex": "",
