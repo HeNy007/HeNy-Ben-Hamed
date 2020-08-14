@@ -1,4 +1,26 @@
 {
+		"KanalNo": "19035",
+		"KanalAdi": "W9",
+		"KategoriNo": "19",
+		"Aciklama": "FRANCE",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/france.png",
+		"KanalLogo": "http://213.128.89.165/Main/Logo/fr/W_9.png",
+		"ServerUrl": "http://www.elahmad.com/tv/live/arab_live.php?id=bein_1",
+		"PlayerType": "vitamio",
+        "PlayerControl": "false",
+        "OpenType": "pattern",
+        "PatternText": ",source: \"(.*?)\",,,,son",
+		"StaticText": ",,,,,,son",
+		"LinkIndex": "",
+		"Headers": ",http://www.elahmad.com/tv/live/arab_live.php?id=bein_1",
+		"UserAgent": "Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36",
+		"SonGuncellemeTarihi": "19.10.2016 13:44:17",
+		"Favori": 0,
+		"Secim": ""
+		},   		  	    
+		
+
+{
 	 	"Kanallar": [
 		{
 		"KanalNo": "32003",
