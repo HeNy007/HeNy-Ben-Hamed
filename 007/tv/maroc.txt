@@ -21,9 +21,6 @@
 		"Secim": ""
 		},   		  	    
 		
-
-{
-	 	"Kanallar": [
 		{
 		"KanalNo": "32003",
 		"KanalAdi": "bein ",
