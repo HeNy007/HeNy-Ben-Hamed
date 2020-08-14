@@ -1,4 +1,6 @@
 {
+"Kanallar": [
+{
 		"KanalNo": "19035",
 		"KanalAdi": "W9",
 		"KategoriNo": "19",
