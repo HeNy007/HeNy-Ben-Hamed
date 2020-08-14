@@ -35,7 +35,7 @@
 		"PatternText": "\"url\":\"(.*?)\"",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
-		"Headers": "https://booyah.live/api/v3/channels/12086023/streams",
+		"Headers": "",
 		"UserAgent": "Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)",
 		"SonGuncellemeTarihi": "18.10.2016 22:23:17",
 		"Favori": 0,
