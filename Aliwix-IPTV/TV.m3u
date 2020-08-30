@@ -87,12 +87,8 @@ http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 group-title="BEIN VIP" tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" ,Varzesh TV 4
 http://163.172.138.186/hls/stream.m3u8
 
-غ 
-**bein HD**
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="Bein HD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+**bein HD**
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein SPORTS 1 HD**
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://volt-premium.ddns.net/raeed.m3u8/?s=139
@@ -2444,21 +2440,21 @@ http://196.179.252.212:8001/play/a007
 #EXTINF:-1, tvg-id="" tvg-name="Elhiwar Ettounsi TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Elhiwar Ettounsi 
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/Tdn/tdn/102274.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Attesia TV 
+#EXTINF:-1, tvg-id="" tvg-name="Attesia TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Attesia TV 
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/101485.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Al Janoubiya
+#EXTINF:-1, tvg-id="" tvg-name="Al Janoubiya" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Al Janoubiya
 http://92.222.93.75:1935/live2/samir/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTHAGE " tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",CARTHAGE 
+#EXTINF:-1 tvg-id="" tvg-name="CARTHAGE " tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",CARTHAGE 
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/10056.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Tunisna TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",Tunisna TV
+#EXTINF:-1, tvg-id="" tvg-name="Tunisna TV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Tunisna TV
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/Tdn/tdn/10053.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="M Tunisia" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",M Tunisia
+#EXTINF:-1, tvg-id="" tvg-name="M Tunisia" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",M Tunisia
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/Tdn/tdn/10054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELVZATV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA ",TELVZATV
+#EXTINF:-1 tvg-id="" tvg-name="TELVZATV" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",TELVZATV
 #EXTVLCOPT:http-user-agent=ua
 http://tv.teledunet.com:25461/live/Tdn/tdn/101479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAYTOUNA" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",ZAYTOUNA
