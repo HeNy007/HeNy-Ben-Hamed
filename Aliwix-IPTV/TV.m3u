@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX MOVIES
+https://bit.ly/34NXAOe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX ACTION FHD VIP ARB
 http://portal.geniptv.com:8080/7gsjAdboJA/6FKVpb7NtE/80244
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NETFLIX BOLLYOOD FHD VIP ARB
