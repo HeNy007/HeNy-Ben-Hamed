@@ -741,6 +741,27 @@ http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
+**ART**
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Aflam 1
+https://p-mysat-live.ercdn.net/artaflam1/artaflam1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Aflam 2
+https://p-mysat-live.ercdn.net/artaflam2/artaflam2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART America
+https://p-mysat-live.ercdn.net/artamerica/artamerica.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Cinema
+https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Hekayat 1
+https://p-mysat-live.ercdn.net/arthekayat/arthekayat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Hekayat 2
+https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Movies
+https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Tarab
+https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/4/41/20170615235609%21Art_logo.gif" group-title="ART",ART Variety
+https://p-mysat-live.ercdn.net/artvariety/artvariety.m3u8
+
 
 **MYHD**
 #EXTINF:-1 group-title="MYHD" tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",Mbc persia
