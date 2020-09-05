@@ -2447,7 +2447,8 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Nessma 
-http://196.179.252.212:8001/play/a03d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; SM-G955F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
+http://web13.iptv-planet.com:8080/hls/n.m3u8 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.countryflags.com/thumbs/tunisia/flag-3d-round-250.png" group-title="TUNISIA",Tunisie Immobilier TV
