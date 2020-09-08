@@ -4,21 +4,21 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEOUT Q|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action 1HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7795
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Action  2HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7794
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 1HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7792
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies  2HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7791
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 3HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45768
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Movies 4HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45769
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ Kids HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/7793
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ AFLAM HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45766
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png", BeoutQ CINEMA HD
-http://dreambox84.com:8000/479545774/dZHgcm9PRQ/45767
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Action 1HD
+http://cobraa.in:8000/x5000997/5f144057bd722/7795
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Action  2HD
+http://cobraa.in:8000/x5000997/5f144057bd722/7794
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Movies 1HD
+http://cobraa.in:8000/x5000997/5f144057bd722/7792
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Movies  2HD
+http://cobraa.in:8000/x5000997/5f144057bd722/7791
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Movies 3HD
+http://cobraa.in:8000/x5000997/5f144057bd722/45768
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Movies 4HD
+http://cobraa.in:8000/x5000997/5f144057bd722/45769
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ Kids HD
+http://cobraa.in:8000/x5000997/5f144057bd722/7793
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ AFALAM HD
+http://cobraa.in:8000/x5000997/5f144057bd722/45766
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.pinimg.com/originals/87/f9/f5/87f9f57ebc71add113bda3ec201a0c9b.png" group-title="BEOUT Q", BeoutQ CINEMA HD
+http://cobraa.in:8000/x5000997/5f144057bd722/45767
