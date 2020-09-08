@@ -1,6 +1,9 @@
 #EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام انمي",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
 https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية 2020",ليه لأ الحلقة S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; SM-G955F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36
+https://cdn.alarab.com/h264/156816_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Hidden World
