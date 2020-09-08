@@ -4,7 +4,39 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|NETFLIX PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Action
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Horror
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Thriller
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: NETFLIX SCI
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: NETFLIX Animation
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Comedy
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Bollywood
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Drama
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Classic
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Netflix Arabic
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", NFL: Shahed Aflam
+#EXTVLCOPT:http-user-agent=( I-DIGITAL )
+http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/481
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix Documentary HD
 http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/43683
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" group-title="NETFLIX", Netflix Arabi HD
