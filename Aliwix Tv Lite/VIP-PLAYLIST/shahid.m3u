@@ -4,23 +4,22 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|SHAHID PACKAGE|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 1 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111037
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 2 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111038
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 3 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111039
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 4 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111040
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 5 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111041
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 6 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111042
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 7 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111043
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 8 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111044
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 9 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111045
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID 10 FHD
-http://istars.pro:80/istar0563621111/0563621111istar/111046
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID ARABI
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93686
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID AFLAM
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93687
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID CINEMA
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93688
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID COMDEY
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93689
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID HORROR
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93690
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID ACTION
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/93691
