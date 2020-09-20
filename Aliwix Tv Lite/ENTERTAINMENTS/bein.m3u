@@ -4,21 +4,57 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN GROUP|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Movies 1
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/122
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Movies 2
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/123
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Movies 3
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/124
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Movies 4
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/125
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Series 1
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/126
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Series 2
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/127
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Drama 1
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/128
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Fatafeat
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/129
-#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",Bein Gourmet
-http://144.76.102.19:8082/NawrasTvRest1020/NawrasTvRest1020/130
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/2450
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/2449
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN MOVIES 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/2448
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN MOVIES 4 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/2447
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN SERIES 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/18950
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN SERIES 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/27316
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN Drama
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/23524
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN GOURMET
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/18948
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN Fatafeat HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/18804
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN Junior
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/18949
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN FoodNetwork HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/91368
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN HGTV
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/91369
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN BBC Earth
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/56892
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN BOOMERANG
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/30308
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN DLife
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/53331
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN Baby HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/24674
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/24677
+#EXTINF:-1 tvg-id="" tvg-name="[FR] BEIN SPORT 1 FHD" tvg-logo="https://k.top4top.io/p_1599xquve0.png" group-title="BEIN ENTERTAIN",beIN JEEM HD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/24673
