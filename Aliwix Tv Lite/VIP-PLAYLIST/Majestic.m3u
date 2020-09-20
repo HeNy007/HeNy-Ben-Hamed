@@ -4,6 +4,44 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|MAJESTIC|-----★●•[/color]
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic AFLAM 1
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94099
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic AFLAM 2
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94100
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic AFLAM 3
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94101
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Cinema 1
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94102
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94103
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic MOVIES 1
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94104
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic MOVIES 2
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94105
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic ACTION 1
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94106
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic ACTION 2
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94107
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic kids
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94108
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic MASRAHIYAT
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94109
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic ZAMAN
+#EXTVLCOPT:http-user-agent=Lavf/58.7.100
+http://723.info:80/amagoshi/05410422/94110
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",MAJESTIC MOVIES
 http://best-live.myq-see.com:25461/demo/BEST-LIVE/101
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",MAJESTIC HORROR
