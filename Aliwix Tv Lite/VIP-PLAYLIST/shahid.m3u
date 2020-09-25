@@ -5,21 +5,87 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID ARABI
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93686
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID AFLAM
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93687
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID CINEMA
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93688
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID COMDEY
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93689
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID HORROR
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93690
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID Horror
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/78
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID ACTION
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/93691
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/81
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID Thriller
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/82
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID COMEDY
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/86
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,SHAHID ARABIC
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/87
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Action 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/187
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Action 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/188
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Drama 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/189
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Drama 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/190
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Comedy 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/191
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Comedy 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/192
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Adventure 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/193
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Adventure 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/194
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Bollywood 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/195
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Arabia 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/196
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Crime 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/197
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Crime 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/198
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Arabia 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/199
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Documentary 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/200
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Sci-Fi 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/201
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Horror 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net 
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/202
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Horror 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/203
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Thriller 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/204
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Thriller 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/205
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Kids 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/206
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Bollywood 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/207
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Family 1
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/208
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597wtf2g0.png" group-title="SHAHID" ,Shahid Documentary 2
+#EXTVLCOPT:http-user-agent=black.fire.tv.com.net
+http://blackfiretv.net:25461/NETFLIXSHAIDOXN/e8gvtE4Xqb/209
