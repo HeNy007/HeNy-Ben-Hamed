@@ -5,73 +5,31 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 1
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63962
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 2
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63963
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 3
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63964
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix Movies Kids FHD
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63965
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV Cinema
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63966
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV AFLAM
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63967
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MOVIES
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38300
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV Action
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63968
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix MOVIES HD
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63969
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix BOXSET
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63970
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV COMEDY 
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63971
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV HORROR
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63972
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38301
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV AFLAM
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38302
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV Cinema
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38303
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV KIDS
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38295
 #EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MASRAHIYAT
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63973
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV Discovery
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63974
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix HORROR HD
-#EXTVLCOPT:http-user-agent=Lavf/58.7.100
-http://723.info:80/amagoshi/05410422/63977
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV MUSLASULAT 1
-http://r54.org:80/sniperf16000345/fe556bd637/63962
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV MUSLASULAT 2
-http://r54.org:80/sniperf16000345/fe556bd637/63963
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV MUSLASULAT 3
-http://r54.org:80/sniperf16000345/fe556bd637/63964
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix Movies Kids FHD
-http://r54.org:80/sniperf16000345/fe556bd637/63965
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV Cinema
-http://r54.org:80/sniperf16000345/fe556bd637/63966
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV AFLAM
-http://r54.org:80/sniperf16000345/fe556bd637/63967
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV Action
-http://r54.org:80/sniperf16000345/fe556bd637/63968
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix MOVIES HD 
-http://r54.org:80/sniperf16000345/fe556bd637/63969
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix BOXSET
-http://r54.org:80/sniperf16000345/fe556bd637/63970
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV COMEDY
-http://r54.org:80/sniperf16000345/fe556bd637/63971
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV HORROR
-http://r54.org:80/sniperf16000345/fe556bd637/63972
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV MASRAHIYAT
-http://r54.org:80/sniperf16000345/fe556bd637/63973
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix TV Discovery
-http://r54.org:80/sniperf16000345/fe556bd637/63974
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFlix HORROR HD
-http://r54.org:80/sniperf16000345/fe556bd637/63977
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38296
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV HORROR
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38297
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV COMEDY
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38298
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV  BOXSET
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38299
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 1
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38289
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 2
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38290
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 3
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38291
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 4
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38292
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Iflix_logo.png" group-title="IFLIX" ,IFLUX TV MUSLASULAT 5
+http://dreamtv.to:2082/berkane-150_361717/iVnHeMbn68/38293
