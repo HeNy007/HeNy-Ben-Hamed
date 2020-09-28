@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|X PREMIUM PACKAGE|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="X PREMIUM",X Premuim Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2914
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="X PREMIUM",X Premuim Cinema 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2915
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="X PREMIUM",X Premuim EL ZAE3EM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2916
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="X PREMIUM",X Premuim Tom & Jerry
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2920
+#EXTINF:-1 tvg-name="NULL" tvg-logo="" group-title="X PREMIUM",X Premuim Cinema 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2921
