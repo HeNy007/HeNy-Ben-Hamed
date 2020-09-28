@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
+https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|EGYPT STARS|-----★●•[/color]
+https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="DNH",DNH FILM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="DNH",DNH KIDS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="DNH",DNH TIATRO
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="DNH",DNH ARABIC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2931
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" group-title="DNH",Nimo Kids HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/2932
