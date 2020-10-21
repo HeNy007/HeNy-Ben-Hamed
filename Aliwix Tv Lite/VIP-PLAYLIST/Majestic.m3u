@@ -5,30 +5,17 @@ https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
 
 
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Cinema 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3009
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Cinema 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3010
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Movies HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3011
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Movies plus HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3012
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Horror HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3013
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Kids HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3014
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Premium HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3015
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Geographic HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3016
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC",Majestic Tom &Jerry HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPobkuj7/i4syha/3017
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic ACTION
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64243
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic CINEMA
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64244
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic AFLAM
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64245
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic MASRA7YAT
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64246
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic MASRA7YAT+
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64247
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic ZAMAN
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64248
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="MAJESTIC", Majestic KIDS
+http://s1.falcon-iptv.com:25461/0507841353/ndr0507841353/64249
