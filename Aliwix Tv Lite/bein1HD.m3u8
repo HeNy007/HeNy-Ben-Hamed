@@ -1,0 +1,6 @@
+<?php
+
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: http://viralshoc.com:80/script1/ayoub.m3u8?hash=http://62.210.251.193:8081/yacinetv/BeinHD1/playlist.m3u8');
+
+?>
