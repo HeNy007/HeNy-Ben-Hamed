@@ -1,42 +1,20 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|BEIN SPORTS 4K|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-**Bein 4k**
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", [color yellow]♦♦♦SERVER 1♦♦♦[/color]
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1837
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 1FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1838
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 2FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1319
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 3FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1840
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 4FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1841
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 5FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1842
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 6FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1843
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 7FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1844
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 8FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1845
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 9FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1846
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN FHD", Bein Sports 10FHD
-#EXTVLCOPT:http-user-agent=BeryanTV
-http://beryantv.com:25461/77585179958986/8867231915209/1847
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-1-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwW8PQkAcAOAP1G7cH5oXXmSJ43clLONNw52mNVrosvnwPU%2feAB0uWDsg4jB%2bEQ5WaoxT4u9mozids%2bIXZrw6cD8IdHEFr2m%2fR4h0OUW9UclHvq3PLvXofC%2brQXv8RjamiGSUSGTZVCEmHQvV7b5DJpF1V5tKYYy3zyJMiNRbiMTpGWSrvfSjdt0%2frGpISI8AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-2-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwUsOgjAUAMATNdJSpC5YEAgpokSJxsKO8Mo%2f%2fC1COLwzvPyIzMOFu24Q8XoUQRi2vRpNh4X1wHfWPQhesLrR5enXSXaFjp3iqWxapQP5Fgcnhh8wEbnFfbNVVR1UEqA6AWScdYkoXAyUZmaONAJpnmpSYoyPYQ1%2b%2b9zE5tuJJ1sTs3olvW1Zf9ejUx2PAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-3-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0KgjAYANAHkpGbm%2bKFF1GZm5goDN3lxzaHYrOo7AcfvnO0B92XFL%2b9qzrFg0W6S6OUIra41iIYH6Q90Lhep72YzzKtxzyEpxf2Vu3aH1%2b7jUHO7876YzU42Zppo5YYGhGDWBxZRE3KEOhkQCExMEBoLcZ48%2fykI13My5jIT18u7PUF0WTZH9ICMZePAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-4-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAvYopwxR58SGWlkVsyl%2bsNBbHU1sxWOj%2b%2bc3LJ3cyJ9YF1SSfTWpKkh6xg%2byO853sJ8VONQ%2fmYKflOzumnae%2fQZlQXWwnuD3bdipuFtR%2bmrGI8uNbLRo2nKfE0Ap8YRPUOkGpYi1xPq1a5xmCMtyg4Jy%2bRRgIL%2bWnzRUTAOxuGf8DI3QiPAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-5-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdEOgiAUANAPakyBK8qDL5mxlk6n2bQ3BlhTy5YjzfnxneNFxDwcLIqp%2fMS8X0jPXhnmzpK%2bhZrZvT6OaeTDrTt3dZzw0T5FISGg%2beoEO1qJjZe%2ffQBXW%2bslHyo7bWCIBko08hg1CDT3kFR%2bi1yiZStdYzDGmzbfZG0iVp6wgiE70Cy59HMY%2fgEKt8Q4jwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-6-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgyAAANAvEjIr66EXxWoMd8EaW2%2fiZdlotodAxI%2ffOdE%2ft9qp%2fRHmyfRZZJB1byk9UuOE16kRdvCnsPCREkVvvkLe74QGavk3Lo5fkhRkdkctzozjo19xKkyuC5RrUFbIgEI3JZAKW5DlWlqZGQMhTK%2ftx%2bKqnRCYVFdBuuFjx3vb%2fgFgmzRejwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-7-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAPakxRNHvwQQcxqjUT3aQ3ErxMh1orrPnxnRPCJ5mT%2bcSFacaeXqzsHmyI6PS1mhiWIodbOQwmyvqbs7T51eqW7RR0cPb6Cca3bk3oiHnqZgV4Myw2pD2FfE%2bBIPQ1QOoQAFnvG%2bB6SjbS1RpCuE3l%2biHVWJM7ocVCjDjm5zKJ4z9H33jgjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-8-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAvYlxEnQ8%2blLZQVwPd0h5RYEqutNmQzY%2fvHMPLrH2SBHqKpyERUWHrc9tYj2B%2fyz%2bZXh8Qc9h0Lt5fpM2Zn3%2fRm6v%2bi0VhK3K45c623slFMHMZfHlQTRQNiAJhFGhAVRICOcQGIKKkkUhrjPGB8mqs2b5NhvKrWEbezWY9pekfWiCCh48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-9-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwdsKgyAAANAPGlJe0vXQg40tJbptlfYoqbEHocFiEX38zqlbnadfNSrajRfVTCxBbekXVR8e7qGnlbSyoppD2UUPfJOTPRZBVAjR9S3ET59Pv46reE0D27cd1%2fokDlmCkQUJxQ4QmybAzMyDGFnjTewchPAMzf0z94QPRQ9N2HixlMzwLPsDjzg2k48AAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2019/06/connect-logo-300x300.png",Bein-10-HD
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/jwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHMjuz67PYCxcK%2fU%2bTEdk7%2bXZDmkqiGg%2ffOcvrk9L7TkUf9xhH2LhCQjDTUVt2zvuXZbewPyU9xI803NAU%2fJYftI%2fBdsglsHjOJyXB3TORXMSiHnIsJ0uZaIGJhNugiIWCk6J0NKEmFrqgSjHGJns1gmQ9GEbVvL5VvUazO4%2be9wfqFuW%2bjwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
