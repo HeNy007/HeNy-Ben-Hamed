@@ -1,15 +1,879 @@
-#EXTM3U
-#EXTINF:-1,OXN YA HALA MIX
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/140|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA CINEMA 1
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/141|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA CINEMA 2
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/142|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA ZAMAN
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/143|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA MOVIES 1
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/144|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA MOVIES 2
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/145|User-Agent=fuck you
-#EXTINF:-1,OXN YA HALA INDIA
-http://178.63.48.23:25461/osxbeinwww.vviruslove.com/myvqofrRY9/146|User-Agent=fuck you
+#EXTINF:-1,EIPLUS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/28
+#EXTINF:-1,A&E *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/29
+#EXTINF:-1,AMC *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/30
+#EXTINF:-1,AMC HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/31
+#EXTINF:-1,ANIMAL PLANET *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/33
+#EXTINF:-1,ARTE1 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/35
+#EXTINF:-1,AXN *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/37
+#EXTINF:-1,BABY TV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/38
+#EXTINF:-1,BAND NEWS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/39
+#EXTINF:-1,BAND²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/40
+#EXTINF:-1,BAND HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/43
+#EXTINF:-1,BAND SPORTS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/44
+#EXTINF:-1,BIS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/45
+#EXTINF:-1,BIS HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/46
+#EXTINF:-1,BOOMERANG *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/48
+#EXTINF:-1,CANAL BRASIL **
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/51
+#EXTINF:-1,REDE CNT
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/52
+#EXTINF:-1,CANAL DO BOI
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/54
+#EXTINF:-1,SONY *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/56
+#EXTINF:-1,CINEMAX *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/57
+#EXTINF:-1,CNN ESPANHOL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/59
+#EXTINF:-1,CNN INTERNACIONAL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/60
+#EXTINF:-1,COMBATE HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/61
+#EXTINF:-1,COMBATE *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/62
+#EXTINF:-1,COMEDY CENTRAL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/63
+#EXTINF:-1,CURTA! *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/64
+#EXTINF:-1,DAZN²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/66
+#EXTINF:-1,DISCOVERY CHANNEL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/68
+#EXTINF:-1,DISCOVERY H&H *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/69
+#EXTINF:-1,DISCOVERY KIDS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/70
+#EXTINF:-1,DISCOVERY CIVILIZATION
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/72
+#EXTINF:-1,DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/73
+#EXTINF:-1,DISCOVERY THEATER
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/75
+#EXTINF:-1,DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/76
+#EXTINF:-1,DISNEY CHANNEL HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/78
+#EXTINF:-1,DISNEY CHANNEL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/79
+#EXTINF:-1,DISNEY JUNIOR HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/81
+#EXTINF:-1,DISNEY JUNIOR *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/82
+#EXTINF:-1,DISNEY XD HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/84
+#EXTINF:-1,DISNEY XD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/85
+#EXTINF:-1,E! *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/86
+#EXTINF:-1,EIPLUS 2 HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/91
+#EXTINF:-1,EIPLUS 2
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/92
+#EXTINF:-1,ESPN  *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/101
+#EXTINF:-1,ESPN 2 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/103
+#EXTINF:-1,ESPN BRASIL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/105
+#EXTINF:-1,ESPN BRASIL HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/106
+#EXTINF:-1,ESPN EXTRA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/108
+#EXTINF:-1,ESPN EXTRA HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/109
+#EXTINF:-1,FILM & ARTS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/111
+#EXTINF:-1,FISH TV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/113
+#EXTINF:-1,FOOD NETWORK *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/114
+#EXTINF:-1,FOX *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/116
+#EXTINF:-1,FOX LIFE *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/118
+#EXTINF:-1,FOX PREMIUM 1
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/120
+#EXTINF:-1,FOX PREMIUM 1 HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/121
+#EXTINF:-1,FOX PREMIUM 2
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/123
+#EXTINF:-1,FOX PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/124
+#EXTINF:-1,FX *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/126
+#EXTINF:-1,FOX SPORTS 2 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/130
+#EXTINF:-1,FOX SPORTS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/131
+#EXTINF:-1,CANAL FUTURA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/134
+#EXTINF:-1,GLOBO SP²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/135
+#EXTINF:-1,GLOBO SP
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/136
+#EXTINF:-1,GLOBO SP HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/137
+#EXTINF:-1,GLOBO MINAS²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/139
+#EXTINF:-1,GLOBO MINAS HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/140
+#EXTINF:-1,GLOBO BRASILIA²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/141
+#EXTINF:-1,GLOBO BRASILIA HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/142
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD*
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/143
+#EXTINF:-1,GLOBO EPTV SAO CARLOS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/144
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/145
+#EXTINF:-1,GLOBO INTER TV CABUGI *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/146
+#EXTINF:-1,GLOBO TV TEM SOROCABA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/147
+#EXTINF:-1,GLOBO NEWS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/148
+#EXTINF:-1,GLOBO NEWS HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/149
+#EXTINF:-1,GLOBO NORDESTE SD*
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/151
+#EXTINF:-1,GLOBO NORDESTE HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/152
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/153
+#EXTINF:-1,GLOBO REDE AMAZONICA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/154
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/155
+#EXTINF:-1,GLOBO RIO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/156
+#EXTINF:-1,GLOBO RIO HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/157
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/158
+#EXTINF:-1,GLOBO SJRP *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/159
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/160
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/161
+#EXTINF:-1,GLOBO TV BAHIA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/162
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/163
+#EXTINF:-1,GLOBO TV TEM BAURU *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/164
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/165
+#EXTINF:-1,GLOOB HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/166
+#EXTINF:-1,GLOOB *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/167
+#EXTINF:-1,GLOOBINHO HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/168
+#EXTINF:-1,GLOOBINHO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/169
+#EXTINF:-1,GNT HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/170
+#EXTINF:-1,GNT *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/171
+#EXTINF:-1,HBO HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/173
+#EXTINF:-1,HBO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/174
+#EXTINF:-1,HBO 2 HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/176
+#EXTINF:-1,HBO 2 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/177
+#EXTINF:-1,HBO FAMILY HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/179
+#EXTINF:-1,HBO FAMILY *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/180
+#EXTINF:-1,HBO + HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/182
+#EXTINF:-1,HBO + *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/183
+#EXTINF:-1,HBO SIGNATURE HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/185
+#EXTINF:-1,HBO SIGNATURE *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/186
+#EXTINF:-1,HISTORY 2 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/187
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/189
+#EXTINF:-1,LIFETIME *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/190
+#EXTINF:-1,MAIS GLOBOSAT HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/191
+#EXTINF:-1,MAIS GLOBOSAT *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/192
+#EXTINF:-1,MAX *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/194
+#EXTINF:-1,MAX PRIME *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/196
+#EXTINF:-1,MAX UP *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/198
+#EXTINF:-1,MEGAPIX *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/200
+#EXTINF:-1,MTV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/201
+#EXTINF:-1,MULTISHOW HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/202
+#EXTINF:-1,MULTISHOW *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/204
+#EXTINF:-1,MUSIC BOX BRAZIL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/205
+#EXTINF:-1,NATGEO KIDS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/206
+#EXTINF:-1,NATGEO WILD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/208
+#EXTINF:-1,NATGEO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/210
+#EXTINF:-1,NICK JR *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/211
+#EXTINF:-1,NICKELODEON *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/212
+#EXTINF:-1,OFF *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/213
+#EXTINF:-1,OFF HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/214
+#EXTINF:-1,PARAMOUNT CHANNEL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/215
+#EXTINF:-1,PLAY TV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/216
+#EXTINF:-1,PLAYBOY SD*
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/217
+#EXTINF:-1,PLAYKIDS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/218
+#EXTINF:-1,PREMIERE 2 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/219
+#EXTINF:-1,PREMIERE 3 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/220
+#EXTINF:-1,PREMIERE 3 HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/221
+#EXTINF:-1,PREMIERE 4 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/222
+#EXTINF:-1,PREMIERE 4 HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/223
+#EXTINF:-1,PREMIERE 5 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/224
+#EXTINF:-1,PREMIERE 6 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/225
+#EXTINF:-1,PREMIERE 7 *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/226
+#EXTINF:-1,PREMIERE CLUBES HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/229
+#EXTINF:-1,PREMIERE CLUBES *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/230
+#EXTINF:-1,RECORD BELEM
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/237
+#EXTINF:-1,RECORD BRASILIA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/239
+#EXTINF:-1,RECORD BAHIA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/241
+#EXTINF:-1,RECORD MINAS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/243
+#EXTINF:-1,RECORD GOIAS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/244
+#EXTINF:-1,RECORD NEWS HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/245
+#EXTINF:-1,RECORD NEWS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/246
+#EXTINF:-1,RECORD RIO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/248
+#EXTINF:-1,RECORD RS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/250
+#EXTINF:-1,RECORD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/251
+#EXTINF:-1,RECORD HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/252
+#EXTINF:-1,REDE PAI ETERNO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/254
+#EXTINF:-1,REDE VIDA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/255
+#EXTINF:-1,SBT HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/257
+#EXTINF:-1,SBT
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/258
+#EXTINF:-1,SBT GOIANIA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/259
+#EXTINF:-1,SBT PERNAMBUCO HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/260
+#EXTINF:-1,SBT²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/263
+#EXTINF:-1,SEXTREME SD*
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/264
+#EXTINF:-1,SEXYHOT²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/265
+#EXTINF:-1,SPACE *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/267
+#EXTINF:-1,SPORTV HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/269
+#EXTINF:-1,SPORTV²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/270
+#EXTINF:-1,SPORTV 2 HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/271
+#EXTINF:-1,SPORTV 2²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/272
+#EXTINF:-1,SPORTV 3 HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/273
+#EXTINF:-1,SPORTV 3²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/274
+#EXTINF:-1,STUDIO UNIVERSAL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/276
+#EXTINF:-1,SYFY *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/278
+#EXTINF:-1,TBS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/279
+#EXTINF:-1,TCM *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/280
+#EXTINF:-1,TELECINE ACTION HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/281
+#EXTINF:-1,TELECINE ACTION *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/282
+#EXTINF:-1,TELECINE CULT HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/284
+#EXTINF:-1,TELECINE CULT *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/285
+#EXTINF:-1,TELECINE FUN HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/287
+#EXTINF:-1,TELECINE FUN *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/288
+#EXTINF:-1,TELECINE PIPOCA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/290
+#EXTINF:-1,TELECINE PIPOCA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/291
+#EXTINF:-1,TELECINE PREMIUM HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/293
+#EXTINF:-1,TELECINE PREMIUM *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/294
+#EXTINF:-1,TELECINE TOUCH HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/296
+#EXTINF:-1,TELECINE TOUCH *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/297
+#EXTINF:-1,HISTORY CHANNEL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/299
+#EXTINF:-1,TLC *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/300
+#EXTINF:-1,TNT *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/301
+#EXTINF:-1,TNT SÉRIES *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/303
+#EXTINF:-1,TOONCAST *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/304
+#EXTINF:-1,TV RA TIM BUM *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/305
+#EXTINF:-1,TV GAZETA HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/306
+#EXTINF:-1,TV GUARULHOS HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/307
+#EXTINF:-1,TV EVANGELIZAR
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/308
+#EXTINF:-1,TRUTV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/309
+#EXTINF:-1,GLOBO TV LIBERAL BELEM *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/310
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/311
+#EXTINF:-1,UNIVERSAL TV *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/313
+#EXTINF:-1,VH1 MEGAHITS *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/314
+#EXTINF:-1,VIVA HD *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/315
+#EXTINF:-1,VIVA *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/316
+#EXTINF:-1,WARNER CHANNEL *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/318
+#EXTINF:-1,WOOHOO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/319
+#EXTINF:-1,ZOOMOO *
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/320
+#EXTINF:-1,APARECIDA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/332
+#EXTINF:-1,24H - A PANTERA COR DE ROSA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/335
+#EXTINF:-1,24H - APENAS UM SHOW
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/336
+#EXTINF:-1,24H - ARMAÇÃO ILIMITADA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/337
+#EXTINF:-1,24H - CAPITÃO PLANETA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/338
+#EXTINF:-1,24H - CHANGEMAN
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/339
+#EXTINF:-1,24H - CHAVES
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/340
+#EXTINF:-1,24H - DRAGON BALL SUPER
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/341
+#EXTINF:-1,24H - HE-MAN
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/342
+#EXTINF:-1,24H - JASPION
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/343
+#EXTINF:-1,24H - LIGA DA JUSTIÇA JOVEM
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/344
+#EXTINF:-1,24H - MACGYVER
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/345
+#EXTINF:-1,24H - NINJA JIRAYA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/346
+#EXTINF:-1,24H - O FANTÁSTICO MUNDO DE BOBBY
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/347
+#EXTINF:-1,24H - OS FLINTSTONES
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/348
+#EXTINF:-1,24H - OS NORMAIS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/349
+#EXTINF:-1,24H - OS SIMPSONS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/350
+#EXTINF:-1,24H - OS TRAPALHÕES
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/351
+#EXTINF:-1,24H - PATATI - PATATÁ
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/352
+#EXTINF:-1,24H - PEPPA PIG
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/353
+#EXTINF:-1,24H - POPEYE
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/354
+#EXTINF:-1,24H - POWER RANGERS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/355
+#EXTINF:-1,24H - SCOOBY DOO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/356
+#EXTINF:-1,24H - SNOOPY
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/357
+#EXTINF:-1,24H - SPEED RACER
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/358
+#EXTINF:-1,24H - SUPER AMIGOS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/359
+#EXTINF:-1,24H - SUPER VICKY
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/360
+#EXTINF:-1,24H - THUNDERCATS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/361
+#EXTINF:-1,24H - TV PIRATA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/362
+#EXTINF:-1,24H - UM MALUCO NO PEDAÇO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/363
+#EXTINF:-1,GLOBO CEARA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/384
+#EXTINF:-1,GLOBO CEARÁ²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/385
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/392
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/393
+#EXTINF:-1,GLOBO BAHIA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/394
+#EXTINF:-1,GLOBO CURITIBA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/395
+#EXTINF:-1,GLOBO MACAPA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/396
+#EXTINF:-1,GLOBO MACAPA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/397
+#EXTINF:-1,GLOBO NATAL HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/398
+#EXTINF:-1,GLOBO NATAL
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/399
+#EXTINF:-1,GLOBO RIO CLARO HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/400
+#EXTINF:-1,GLOBO RIO CLARO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/401
+#EXTINF:-1,GLOBO BOA VISTA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/402
+#EXTINF:-1,GLOBO BOA VISTA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/403
+#EXTINF:-1,GLOBO RECIFE HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/404
+#EXTINF:-1,GLOBO RECIFE
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/405
+#EXTINF:-1,GLOBO GOIANIA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/406
+#EXTINF:-1,GLOBO GOIANIA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/407
+#EXTINF:-1,GLOBO PORTO VELHO HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/408
+#EXTINF:-1,GLOBO PORTO VELHO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/409
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/410
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/411
+#EXTINF:-1,GLOBO VITORIA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/412
+#EXTINF:-1,GLOBO VITORIA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/413
+#EXTINF:-1,GLOBO BELEM HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/414
+#EXTINF:-1,GLOBO BELEM
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/415
+#EXTINF:-1,GLOBO TV RIO SUL
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/420
+#EXTINF:-1,SEXYHOT HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/424
+#EXTINF:-1,24 - OS JETSONS
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/425
+#EXTINF:-1,24H - CAVALO DE FOGO
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/433
+#EXTINF:-1,CNN BRASIL²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/435
+#EXTINF:-1,TV NOVO TEMPO HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/436
+#EXTINF:-1,BOA VONTADE HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/437
+#EXTINF:-1,REDE MASSA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/438
+#EXTINF:-1,RICTV MaringÆ
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/439
+#EXTINF:-1,RPC HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/440
+#EXTINF:-1,TV PAI ETERNO HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/442
+#EXTINF:-1,TV TAROBA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/443
+#EXTINF:-1,TV FONTE HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/445
+#EXTINF:-1,REDE GENESIS HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/447
+#EXTINF:-1,RBC HD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/448
+#EXTINF:-1,CINE SKY 01
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/454
+#EXTINF:-1,CINE SKY 02
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/455
+#EXTINF:-1,CINE SKY 03
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/456
+#EXTINF:-1,CINE SKY 04
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/457
+#EXTINF:-1,CINE SKY 05
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/458
+#EXTINF:-1,CINE SKY 06
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/459
+#EXTINF:-1,CINE SKY 07
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/460
+#EXTINF:-1,CINE SKY 08
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/461
+#EXTINF:-1,CINE SKY 09
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/462
+#EXTINF:-1,CINE SKY 10
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/463
+#EXTINF:-1,FOX SPORTS 2²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/464
+#EXTINF:-1,FOX SPORTS FHD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/465
+#EXTINF:-1,DAZN FHD²
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/466
+#EXTINF:-1,A FAZENDA
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/467
+#EXTINF:-1,A FAZENDA HD
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/468
+#EXTINF:-1,CONMEBOL 1
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/469
+#EXTINF:-1,CONMEBOL 2
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/470
+#EXTINF:-1,CONMEBOL 3
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/471
+#EXTINF:-1,CONMEBOL 4
+#EXTVLCOPT:http-user-agent=GoPlayer
+http://192.95.30.205:8080/NrYqwGQPJLI4O7/Y7yrQy9Oubcr/472
