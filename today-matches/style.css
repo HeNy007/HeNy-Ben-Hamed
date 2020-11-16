@@ -3,17 +3,10 @@ html{
 }
 
 
-.player{
-	border-radius:0px;
-	margin-top:20px;
-	max-width:100%;
-	border:solid 0px #191919;
-}
-.aroundplayer{
-	border-radius:0px;
-	margin:20px;
-	border:solid 0px #191919;
-}
+.fram {max-width:9100px;}
+       .embed-video{position: relative; width:100%; padding-bottom: 45%; height: 0; }
+       iframe{position:absolute; top: 0; left: 0; width: 100%; height:100%; opacity: .9; }
+       
 .scrollbar
 {
 	height: 62vh;
@@ -108,5 +101,5 @@ html{
 @media screen and (max-width: 9100px) {
 .page-wrap{  display: block;}
 .main-content {width: 100%;display:inline-block;clear:right;}
-.main-sidebar{width:100%;height:300px;display:inline-block}
+.main-sidebar{width:100%;height:800px;display:inline-block}
 }
