@@ -1,21 +1,21 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Comedy
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/13
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/13|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Hindi
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/14
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/14|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Arabic
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/12
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/12|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Movie
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/1
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/1|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Arabia
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/2
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/2|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Kids
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/3
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/3|User-Agent=Qtvconnect
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic WWE
 EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/4
+http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/4|User-Agent=Qtvconnect
