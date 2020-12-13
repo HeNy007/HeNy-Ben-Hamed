@@ -1,6 +1,28 @@
 {
 	"Kanallar": [
 		
+{
+		"KanalNo": "10001",
+		"KanalAdi": "bein1 test",
+		"KategoriNo": "10",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/usa.png",
+		"Aciklama": "AMERIKA",
+		"KanalLogo": "http://213.128.89.165/Main/Logo/us/cnn.png",
+		"ServerUrl": "http://www.liveonlinetv.org/embed/beinsports1.php",
+		"PlayerType": "defaultplayer",
+		"PlayerControl": "false",
+		"OpenType": "graphm3u8",
+		"PatternText": "file=(.*?)\",file=(.*?)\",,son",
+		"StaticText": ",,,,son",
+		"LinkIndex": "2",
+		"Headers": "http://www.liveonlinetv.org/beinsports1.php",
+		"UserAgent": "Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36",
+		"SonGuncellemeTarihi": "19.10.2016 12:53:01",
+		"Favori": 0,
+		"Secim": ""
+		},
+
+
 		{
 		"KanalNo": "19001",
 		"KanalAdi": "HD1",
