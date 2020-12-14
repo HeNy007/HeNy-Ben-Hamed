@@ -2,6 +2,27 @@
 	"Kanallar": [
 
 {
+		"KanalNo": "19004",
+		"KanalAdi": "Canal 9",
+		"KategoriNo": "19",
+		"Aciklama": "FRANCE",
+		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/france.png",
+		"KanalLogo": "http://213.128.89.165/Main/Logo/fr/CANAL9.png",
+		"ServerUrl": "http://www.elahmad.com/tv/live/arab_live.php?id=bein_2",
+		"PlayerType": "embed",
+		"PlayerControl": "false",
+		"OpenType": "graphm3u8",
+		"PatternText": "",
+		"StaticText": ",,,,,son",
+		"LinkIndex": "",
+		"Headers": "http://www.elahmad.com/tv/live/arab_live.php?id=bein_2",
+		"UserAgent": "",
+		"SonGuncellemeTarihi": "18.10.2016 22:23:17",
+		"Favori": 0,
+		"Secim": ""
+		},          
+
+{
 		"KanalNo": "10033",
 		"KanalAdi": "FOX NEWS",
 		"KategoriNo": "10",
