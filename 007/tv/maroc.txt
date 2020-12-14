@@ -9,7 +9,7 @@
 		"Aciklama": "AMERIKA",
 		"KanalLogo": "http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg",
 		"ServerUrl": "http://www.janjuaplayer.com/hembedplayer/beinsportsfree1/4/600/400",
-		"PlayerType": "vitamio",
+		"PlayerType": "defaultplayer",
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": "file: \"(.*?)\",file: '(.*?)',pk=(.*?)\",,,,son",
