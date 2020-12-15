@@ -5,7 +5,7 @@
 
 {
 		"KanalNo": "36028",
-		"KanalAdi": "STV 1",
+		"KanalAdi": "STV 3as1",
 		"KategoriNo": "36",
 		"Bayrak": "http://213.128.89.165/Main/Flag/owl_bayrak/slovakia.png",
 		"Aciklama": "SLOVAKIA",
