@@ -56,7 +56,7 @@
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": "file: \"(.*?)\",file: '(.*?)',pk=(.*?)\",,,,son",
-		"StaticText": ",,https://2202ng.janjua.pw/live/beinsportsfree1/playlist.m3u8?pk=,,,,,son",
+		"StaticText": ",,https://2202ng.janjua.pw:8089/live/beinsportsfree1/playlist.m3u8?pk=,,,,,son",
 		"LinkIndex": "",
 		"Headers": "http://www.janjuaplayer.com/hembedplayer/beinsportsfree1/4/600/400",
 		"UserAgent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-N920T Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/44.0.2403.133 Mobile Safari/537.36",
