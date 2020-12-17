@@ -1,21 +1,60 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Comedy
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/13|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Hindi
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/14|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_16098v3ln0.png" group-title="OXN", OXN Arabic
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/12|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Movie
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/1|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Arabia
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/2|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic Kids
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/3|User-Agent=Qtvconnect
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://f.top4top.io/p_1597gd66t1.png" group-title="OXN",Majestic WWE
-EXTVLCOPT:http-user-agent=Qtvconnect
-http://62.171.130.188:25461/qtvconnect/d4PJPCfYvR/4|User-Agent=Qtvconnect
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV1
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV3
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV4
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=cfcd208495d565ef66e7dff9f98764dac75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/hbo.png", HBO FHD
+https://kamiselaluada.com/hbo/hbofhd.m3u8
+#EXTINF:-1 tvg-id=" " group-title="HBO GO",HBO 2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="HBO GO",HBO 3
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="HBO GO",HBO FAMILY SV1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="HBO GO",HBO FAMILY SV2
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="HBO GO",HBO Family SV3 
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3c75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id=" " group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/hbofamily.png", HBO Family FHD SV4
+https://kamiselaluada.com/hbo/hbofamilyfhd.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="HBO GO",HBO HITS SV1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="HBO GO",HBO HITS SV2
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="HBO GO",HBO Hits SV3
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=c81e728d9d4c2f636f067f89cc14862cc75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id=" " group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/hbohits.png", HBO Hits FHD SV4
+https://kamiselaluada.com/hbo/hbohitsfhd.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="HBO GO",HBO SIGNATURE SV1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="HBO GO",HBO SIGNATURE SV2
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="HBO GO",HBO Signature SV3
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=c4ca4238a0b923820dcc509a6f75849bc75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id=" " group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/hbosig.png", HBO Signature FHD
+https://kamiselaluada.com/hbo/hbosignaturefhd.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="HBO GO",CINEMAX SV1
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="HBO GO",CINEMAX SV2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="HBO GO",Cinemax SV3
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=a87ff679a2f3e71d9181a67b7542122cc75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/cinemax.png", CINEMAX FHD SV4
+https://kamiselaluada.com/hbo/cinemaxfhd.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-id=" " group-title="HBO GO",Cinemax 1 HD
+http://136.243.177.164/CINEMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-id=" " group-title="HBO GO",Cinemax 2 HD
+http://136.243.177.164/CINEMAX2/playlist.m3u8
+#EXTINF:-1  tvg-id="redbyhbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO", RED HBO SV1
+https://niklive.com/live/ktu/red_hbo/playlist.m3u8
+#EXTINF:-1  tvg-id="redbyhbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",RED BY HBO SV2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1  tvg-id="redbyhbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",RED BY HBO SV3
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
+#EXTINF:-1  tvg-id="redbyhbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",Red By HBO SV4
+http://www.riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=e4da3b7fbbce2345d7772b0674a318d5c75b93d6a0eea707a716c7190bcc1a67
+#EXTINF:-1 tvg-id="redbyhbohd" group-title="HBO GO" tvg-logo="https://kamiselaluada.com/img/redhbo.png", RED by HBO FHD SV5
+https://kamiselaluada.com/hbo/redfhd.m3u8
