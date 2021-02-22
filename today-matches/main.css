@@ -47,22 +47,55 @@ h2.boxstitle{background:#931800}
 .nav-tabs li a{background:#931800}
 .nav-tabs .yema a{background:#104783}
 .nav-tabs .tomat a{background:#caa107}
-.match-container{overflow:hidden;text-align:center;background:#eceef2;margin:12px;position:relative;border-radius:8px}
-.match-container h4{margin:30px 0}
-.right-team,.left-team,.match-center{width:33.33333333%;float:right}
+.panel-default{box-shadow:0 0 4px rgba(0,0,0,.3);background:#fff;position:relative;margin-bottom:15px;overflow:hidden;border-radius:8px}
+h2.boxstitle{background:#931800}
+.nav-tabs{float:left}
+.nav-tabs li{float:right;margin-right:12px}
+.nav-tabs li a{background:#931800}
+.nav-tabs .yema a{background:#104783}
+.nav-tabs .tomat a{background:#caa107}
+.match-event{border:1px solid #ddd;overflow:hidden;text-align:center;background:#eceef2;margin-bottom:12px;position:relative;border-radius:8px;order:3}
+.match-name,.match-event.ch-end #match-live,.match-event.ch-end #match-hour,.match-event.ch-live #match-hour,.match-event.ch-soon #result-now,.match-event.notstart #result-now,.match-event.notstart #match-live{display:none!important}
+.match-event:last-child{margin-bottom:12px}
+.matchflex{display:flex;flex-direction:column;margin:12px 12px 0}
+.match-event.ch-live{order:1}
+.match-event.ch-soon{order:2}
+.match-event.ch-end{order:5}
+.match-event.l{order:0;}
+.match-event a{color:#222;}
+.match-event h4{margin:30px 0}
+.first-team,.left-team,.match-time{width:33.33333333%;float:right}
 .team-logo{float:right;width:50%}
 .left-team .team-logo{float:left}
 .team-logo img{margin:10px auto;display:flex}
 .team-name{margin:28px auto;display:table}
 .match-timing{margin:12px auto}
- #result{font-size:21px;letter-spacing:5px;margin-right:-5px}
-.match-timing .date,.match-timing .live:before{color:#fff;background:#263545;border-radius:8px;font-size:14px;padding:0 10px;line-height:1.9;display:table;margin:auto;margin-top:6px;position:relative}
+#result-now{font-size:21px;letter-spacing:5px;margin-right:-5px}
+#result-noww{font-size:21px;margin-right:-5px;direction:ltr}
+.match-timing .match-date,.match-timing .live:before{color:#fff;background:#263545;border-radius:8px;font-size:14px;width:90px;line-height:1.9;display:table;margin:auto;margin-top:6px;position:relative}
 .match-timing .live:before{content:"جارية الآن";position:absolute;animation:blinker 500ms ease-in-out infinite;margin:0}
 .match-timing .live{background:#931800}
-.match-timing .end{background:#838384}
+.match-timing .end{background:#474747}
 .match-timing .soon{background:#0f6f37}
 .match-info{border-top:1px solid #ddd;display:table;overflow:hidden;width:100%}
 .match-info li{width:33.33333333%;float:right;font-size:14px;font-weight:100}
+#overlay-match{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;cursor:pointer;background:rgb(0 0 0 / 60%);z-index:9}
+.match-event:hover #overlay-match{opacity:1}
+#watch-match{position:absolute;bottom:0;right:0;height:45px;margin:auto;left:0;top:0;width:45px;background:no-repeat center url("data:image/svg+xml;charset=utf8,%3Csvg aria-hidden='true' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' %3E%3Cpath fill='%23fff' d='M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80  c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-0.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176 c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,0.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57 S349.156,266.641,344.48,269.57z' class=''%3E%3C/path%3E%3C/svg%3E")}
+#box-posts{box-shadow:0 0 4px rgba(0,0,0,.3);background:#fff;border-radius:8px;margin-bottom:15px;}
+#feeds-posts{padding:12px 12px 0;padding-bottom:0;overflow:hidden}
+#feeds-posts{height:675px;}
+#box-posts ul{margin:0 -6px}
+#box-posts ul li{float:right;width:25%}
+#box-posts ul li a{background:#eceef2;margin:0 6px 12px 6px;overflow:hidden;position:relative;border-radius:8px;display:block;}
+#box-posts ul li .rnav-img img{height:150px;width:100%;display:grid}
+.post-info{padding:10px;}
+#box-posts ul li h3{margin:0;line-height:1.5;font-size:15px;height:43px;overflow:hidden;font-weight:500;}
+@media screen and (max-width:500px){
+.team-logo img{margin:7px auto;margin-bottom:0}
+.team-name{margin:7px auto;margin-top:0}
+.team-logo{width:100%}
+.match-info{display:none}
 .overlay-match{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;cursor:pointer;background:rgb(0 0 0 / 60%);z-index:9}
 .match-container:hover .overlay-match{opacity:1}
 .text-match{position:absolute;bottom:0;right:0;height:45px;margin:auto;left:0;top:0;width:45px;background:no-repeat center url("data:image/svg+xml;charset=utf8,%3Csvg aria-hidden='true' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' %3E%3Cpath fill='%23fff' d='M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80  c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-0.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176 c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,0.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57 S349.156,266.641,344.48,269.57z' class=''%3E%3C/path%3E%3C/svg%3E")}
@@ -125,21 +158,26 @@ h2.boxstitle{background:#931800}
 body.Night{background:#1c2733;color:#fff}
 50%{opacity:0}
 @keyframes blinker{50%{opacity:0}}
+body.Night{background:#1c2733;color:#fff}
+50%{opacity:0}
+@keyframes blinker{50%{opacity:0}}
 .Night a{color:#fff!important}
 .Night a:hover{color:#f80!important}
+.Night .match-event a{color:#fff!important}
+.Night .navmenu .nav .navsiteta a:hover{border-bottom:2px solid #f80}
 .Night .menu-section:before{background:rgb(41 41 41 / 78%)}
-.Night .navbar-brand,.Night .navmenu .nav a,.Night .dnmo .new,.Night .menublabel.clo,.Night .menublabel.op .liwte{background-color:#1c2733;}
+.Night .navbar-brand,.Night .navmenu .nav .navsites a,.Night .dnmo,.Night .navmenu #menubtn:checked ~ .linkm .navsiteta a,.Night .menulabc,.Night .menublabel.op{background-color:#1c2733;}
 .Night .menublabel .liwte .line{background:#fff}
-.Night .menu-section,.Night .panel-default,.index.Night .blogpost,.Night .tabsbox,.Night footer,.Night .blog-post.hentry.item-post,.Night .tourItem .links a,.Night .box-title h1,.Night .box-title h2,.Night .box-title h3,.Night .nav-tabs li a,.Night .navmenu .linkm,.Night .backMatch,.Night .match-timing .end{background:#263545;}
+.Night .menu-section,.Night .panel-default,.index.Night .blogpost,.Night .tabsbox,.Night footer,.Night .blog-post.hentry.item-post,.Night .post-tags li,.Night .tourItem .links a,.Night .links,.Night .box-title h1,.Night .box-title h2,.Night .box-title h3,.Night .nav-tabs li a,.Night .navmenu .linkm,.Night .coMatch,.Night .match-timing .end,.Night #box-posts{background:#263545;}
 .Night .matchTime .end{background:#023e5d;}
 .Night .col-md-4.info{border-top:1px solid #263545;}
 .Night .box-title h1:after,.Night .box-title h2:after,.Night .box-title h3:after,.Night .blogpost .nav-tabs li a:after{border-color:transparent #3e3e3e transparent transparent}
-.Night .blog-post.hentry.index-post,.Night #latenone,.Night .Share-tags,.Night .box-title,.Night table tbody .odd,.Night #blog-pager a,.Night .tourItem .item,.Night #postsacs .tourItem.em,.Night .postTimestamp,.Night #postsacs h2,.Night table,.Night .post-share,.Night .post-tags,.Night .jubnna,.Night #latejubna,.Night .match-container{background:#121a23;border:0;}
+.Night .blog-post.hentry.index-post,.Night #latenone,.Night .Share-tags,.Night table tbody .odd,.Night #blog-pager a,.Night .tourItem .item,.Night #postsacs .tourItem.em,.Night .blog-post.hentry.item-post h2,.Night .blog-post.hentry.item-post h3,.Night .title-related,.Night table,.Night .post-share,.Night .post-tags,.Night .jubnna,.Night #latejubna,.Night .match-event,.Night #related-posts li,.Night #box-posts ul li a{background:#1c2733;border:0;}
+.Night .box-title,.Night .postTimestamp{background:#121a23;border:0;}
 .Night .table-bordered tr{border-bottom:1px solid #1c2733}
 .Night .table-bordered tr{border-bottom:1px solid #1c2733}
 .Night .table-bordered td{border-right:1px solid #1c2733}
 .Night .jb-anchor{color:#b0b3b8!important}
-.Night .post-tags li{background:#1c2733;border:0}
 .Night .footermb a{background:#1c2733;}
 .Night .main-post-meta{border-top:1px solid #1c2733;border-bottom:1px solid #1c2733;background:#1c2733;}
 .Night .row.goals .col-md-2 .panel.panel-default,.Night .post-pagination .form-group,.Night .form-group input{color:#e4e6eb;background:#121a23!important}
