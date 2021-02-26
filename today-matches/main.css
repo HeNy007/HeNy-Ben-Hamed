@@ -1,4 +1,4 @@
-body{font-family:Neo Sans Arabic,Segoe UI;font-weight:600;line-height:33px;width:100%;margin:0;background:#eceef2;color:#000;font-size:16px;}
+ body{font-family:Neo Sans Arabic,Segoe UI;font-weight:600;line-height:33px;width:100%;margin:0;background:#eceef2;color:#000;font-size:16px;}
  a{color:#222;text-decoration:none}
  img{font-size:0;}
  strong{font-weight:600}
@@ -32,12 +32,6 @@ body{font-family:Neo Sans Arabic,Segoe UI;font-weight:600;line-height:33px;width
  .box-title h1,.box-title h2,.box-title h3,.nav-tabs li a{font-size:15px;background:#474747;color:#fff;float:right;padding:0 10px;border-radius:8px}
  .blogpost .box-title a{color:#fff}
  .nav-tabs li .shomo{background:#eceef2;color:#000;border: 1px solid #ddd;}
- footer{position:relative;background:#fff;padding:0;overflow:hidden;box-shadow:0 0 4px rgba(0,0,0,.3);margin-top:15px}
- .footermb{overflow:hidden;padding:12px 0}
- .footermb .weba{float:right}
- .footermb .weba a{margin:0;}
- .footermb li{float:left}
- .footermb a{background:#eceef2;margin-right:10px;font-size:13px;padding:0 7px;display:block;border-radius:8px}
  .tabsbox{margin-top:15px;box-shadow:0 0 4px rgba(0,0,0,.3);background:#fff;position:relative;border-radius:8px}
  .wdthbox{padding:12px;text-align:justify;overflow:hidden;max-height:225px;position:relative;font-weight:400;font-size:13px;}
  .panel-default{box-shadow:0 0 4px rgba(0,0,0,.3);background:#fff;position:relative;margin-bottom:15px;overflow:hidden;border-radius:8px}
@@ -193,3 +187,9 @@ body{font-family:Neo Sans Arabic,Segoe UI;font-weight:600;line-height:33px;width
  #mo-ads{display:block;position:fixed;top:0;left:0;right:0;bottom:0;z-index:1000}
  #mob-ads{display:block;max-width:300px;max-height:390px;margin-top:80px;margin-right:auto;margin-left:auto}
  #mo-ads-close{background-color:#931800;color:#fff;border-radius:100%;float:right;margin-right:-15px;height:30px;width:30px;text-align:center;line-height:30px;margin-top:-15px;cursor:pointer}
+footer{
+  color:#000; text-align:center;  font-size:12px; position:fixed; bottom:0;
+  padding:8px;
+  background-color:#fff; width:100%;
+  left:-10;
+}
