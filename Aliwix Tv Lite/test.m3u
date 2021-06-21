@@ -1,3 +1,6 @@
+#EXTINF:-1,beIN SPORTS MAX 1 4K
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dreamsat-iptv.top:8080/DM_BMAX/mSeHhaRf/287661
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV1
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO SV2
